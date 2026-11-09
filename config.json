@@ -1,0 +1,103 @@
+{
+  "titulo": "Feed Científico Cabeça de Dona",
+  "subtitulo": "Ciência nova, todo dia, sobre o que move a sua saúde",
+  "temas": [
+    {
+      "slug": "obesidade",
+      "nome": "Tratamento de Obesidade",
+      "cor": "#6B1E28",
+      "pubmed": "(\"Obesity/therapy\"[MeSH] OR \"Anti-Obesity Agents\"[MeSH] OR \"obesity treatment\"[tiab] OR \"weight loss intervention\"[tiab] OR \"obesity pharmacotherapy\"[tiab])",
+      "palavras": [
+        "obesity treatment",
+        "obesity",
+        "weight loss",
+        "anti-obesity",
+        "semaglutide",
+        "glp-1",
+        "bariatric"
+      ]
+    },
+    {
+      "slug": "sarcopenia",
+      "nome": "Sarcopenia",
+      "cor": "#8C6A38",
+      "pubmed": "(\"Sarcopenia\"[MeSH] OR sarcopenia[tiab] OR \"muscle mass loss\"[tiab] OR (\"lean mass\"[tiab] AND (\"weight loss\"[tiab] OR aging[tiab])))",
+      "palavras": [
+        "sarcopenia",
+        "muscle mass",
+        "muscle loss",
+        "lean mass",
+        "muscle strength"
+      ]
+    },
+    {
+      "slug": "tirzepatida",
+      "nome": "Tirzepatida",
+      "cor": "#B0864C",
+      "pubmed": "(tirzepatide[tiab] OR Mounjaro[tiab] OR Zepbound[tiab])",
+      "palavras": [
+        "tirzepatide",
+        "mounjaro",
+        "zepbound"
+      ]
+    },
+    {
+      "slug": "estresse",
+      "nome": "Estresse",
+      "cor": "#571620",
+      "pubmed": "(\"Stress, Psychological\"[MeSH] OR \"chronic stress\"[tiab] OR burnout[tiab] OR (cortisol[tiab] AND stress[tiab]))",
+      "palavras": [
+        "stress",
+        "burnout",
+        "cortisol",
+        "anxiety"
+      ]
+    },
+    {
+      "slug": "cognicao",
+      "nome": "Cognição",
+      "cor": "#6F6D72",
+      "pubmed": "(\"Cognition\"[MeSH] OR \"cognitive function\"[tiab] OR \"cognitive decline\"[tiab] OR memory[ti] OR \"brain health\"[tiab])",
+      "palavras": [
+        "cognition",
+        "cognitive",
+        "memory",
+        "brain health",
+        "dementia",
+        "brain"
+      ]
+    }
+  ],
+  "feeds_noticias": [
+    {
+      "nome": "ScienceDaily · Obesidade",
+      "url": "https://www.sciencedaily.com/rss/health_medicine/obesity.xml"
+    },
+    {
+      "nome": "ScienceDaily · Diabetes",
+      "url": "https://www.sciencedaily.com/rss/health_medicine/diabetes.xml"
+    },
+    {
+      "nome": "ScienceDaily · Estresse",
+      "url": "https://www.sciencedaily.com/rss/mind_brain/stress.xml"
+    },
+    {
+      "nome": "ScienceDaily · Envelhecimento",
+      "url": "https://www.sciencedaily.com/rss/health_medicine/healthy_aging.xml"
+    },
+    {
+      "nome": "ScienceDaily · Memória",
+      "url": "https://www.sciencedaily.com/rss/mind_brain/memory.xml"
+    },
+    {
+      "nome": "ScienceDaily · Atividade física",
+      "url": "https://www.sciencedaily.com/rss/health_medicine/fitness.xml"
+    }
+  ],
+  "ajustes": {
+    "dias_busca": 14,
+    "maximo_por_tema_por_busca": 40,
+    "manter_por_dias": 120,
+    "maximo_por_tema_no_feed": 250
+  }
+}
