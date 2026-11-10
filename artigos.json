@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-09T13:49:58.995883+00:00",
+ "atualizado_em": "2026-11-10T10:48:42.790864+00:00",
  "titulo": "Feed Científico Cabeça de Dona",
  "subtitulo": "Ciência nova, todo dia, sobre o que move a sua saúde",
  "temas": [
@@ -31,6 +31,24 @@
  ],
  "artigos": [
   {
+   "id": "rss-https-www-sciencedaily-com-releases-2026-11-261108233103-htm",
+   "fonte": "ScienceDaily",
+   "tipo_fonte": "noticia",
+   "titulo": "Alzheimer’s may have early warning signs outside the brain",
+   "revista": "",
+   "autores": "",
+   "tipo_estudo": "",
+   "destaque": "A surprising discovery suggests that some early signs of Alzheimer’s disease may begin outside the brain. Using miniature laboratory systems made from human cells, scientists found that genetic mutations associated with inherited Alzheimer’s can disrupt nerve-to-muscle connections without any involvement from the brain or spinal cord. This could help explain why some patients experience changes in balance, walking, and coordination long before memory problems develop.",
+   "resumo": [],
+   "link": "https://www.sciencedaily.com/releases/2026/11/261108233103.htm",
+   "doi": "",
+   "data": "2026-11-09T20:47:34-05:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261108233037-htm",
    "fonte": "ScienceDaily",
    "tipo_fonte": "noticia",
@@ -47,6 +65,900 @@
     "cognicao"
    ],
    "visto_em": "2026-11-09T13:49:58.995883+00:00"
+  },
+  {
+   "id": "pmid-43003426",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "\"I Was Blamed for My Condition-Now I Am Blamed for Its Treatment\": The Migration of Obesity Stigma",
+   "revista": "Obes Rev",
+   "autores": "Koufakis T, Patoulias D, Conte C et al.",
+   "tipo_estudo": "",
+   "destaque": "Addressing treatment stigma does not require indiscriminate medicalization but rather individualized, evidence-based treatment free from moral judgment. Obesity destigmatization must therefore extend beyond recognition of the disease to acceptance of its treatment.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Obesity stigma remains a pervasive yet insufficiently recognized social and clinical problem that can compromise healthcare engagement and health outcomes. Over the past decade, substantial efforts have promoted person-first language, respectful representation, and recognition of obesity as a chronic, biologically regulated disease. However, the advent of highly effective obesity pharmacotherapy has made treatment an increasingly prominent target of obesity stigma: People are now blamed not only for having obesity but also for treating it. Although the immediate focus of judgment has evolved, the underlying willpower-based model persists: Weight loss is often considered legitimate only when achieved through unaided personal effort. Emerging evidence indicates that users of obesity medications may be evaluated less favorably than individuals losing weight through lifestyle intervention, while metabolic-bariatric surgery has long been associated with the \"easy way out\" narrative. Treatment-related stigma may also be present among people living with obesity. It could discourage treatment-seeking and disclosure, influence clinical decision-making, undermine long-term treatment persistence, and reinforce therapeutic inertia and inequalities in care. Addressing treatment stigma does not require indiscriminate medicalization but rather individualized, evidence-based treatment free from moral judgment. Obesity destigmatization must therefore extend beyond recognition of the disease to acceptance of its treatment."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43003426/",
+   "doi": "https://doi.org/10.1111/obr.70263",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43003414",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Screening for Nutritional Risk in Adults Receiving Obesity Treatment: A Systematic Literature Review of Available Tools and Identification of Conceptual Gaps",
+   "revista": "Diabetes Obes Metab",
+   "autores": "de van der Schueren MAE, Prado CM, Stanford FC et al.",
+   "tipo_estudo": "",
+   "destaque": "Identified tools did not capture key concepts for assessing nutritional risk in adults receiving obesity treatment. Thus, development of new nutrition screening tools is needed to capture these concepts in ways that are actionable for clinicians in general outpatient settings.",
+   "resumo": [
+    {
+     "rotulo": "Aims",
+     "texto": "Identify nutrition screening tools used in obesity research and qualitatively assess their appropriateness for evaluating nutritional risk in adults receiving obesity treatment, including with obesity management medications (OMMs) in outpatient clinical settings."
+    },
+    {
+     "rotulo": "Materials And Methods",
+     "texto": "A systematic review of MEDLINE and Embase (29-January-2026) along with relevant conference websites (22-March-2026) targeted published studies in English of non-hospitalized adults with obesity or overweight that used a screening tool for nutritional risk (inadequate dietary intake and/or undernutrition). Studies were manually reviewed and summarized to identify tools. Identified tools were obtained and considered for practical use in outpatient settings (e.g., length, complexity). Practical tools were qualitatively assessed for capture of clinically-informed nutritional risk concepts in obesity treatment (e.g., weight loss, energy intake and gastrointestinal symptoms)."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Sixteen studies met inclusion criteria and were summarized. Semi-quantitative food frequency questionnaires (n = 11) and an unavailable nutrition performance questionnaire (n = 1) did not meet practical considerations. Three tools were qualitatively assessed: International Federation of Gynaecology and Obstetrics (FIGO) Nutrition Checklist, Simplified Nutritional Appetite Questionnaire (SNAQ) and Rapid Eating Assessment for Participants-Short Form (REAP-S). Concepts relevant to nutritional risk with obesity treatment were not adequately captured by these identified tools. Notable missing concepts included weight loss, fluid intake, gastrointestinal symptoms, history of bariatric surgery and comorbid conditions."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Identified tools did not capture key concepts for assessing nutritional risk in adults receiving obesity treatment. Thus, development of new nutrition screening tools is needed to capture these concepts in ways that are actionable for clinicians in general outpatient settings."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43003414/",
+   "doi": "https://doi.org/10.1111/dom.71526",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43002765",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Developing Robust Antiobesity Medication Implementation Approaches to Maximize Population Health: Protocol for the DOMINO Study",
+   "revista": "JMIR Res Protoc",
+   "autores": "Marks BA, Sales AE, Hsu C et al.",
+   "tipo_estudo": "",
+   "destaque": "This study will generate an empirically derived, partner-driven road map for implementing AOM use. By addressing operational barriers, workflow integration, and patient affordability, DOMINO will produce scalable tools and processes for health systems to optimize obesity care and advance equity in obesity management.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Despite robust evidence supporting the efficacy of antiobesity medications (AOMs), their use remains limited and inequitable across populations. Patient, provider, and system-level barriers constrain equitable AOM use in eligible persons, limiting the cumulative health benefits realized by eligible patients."
+    },
+    {
+     "rotulo": "Objective",
+     "texto": "Guided by the tailored implementation for chronic diseases (TICD) framework and implementation mapping (IM), the DOMINO (Developing Robust Antiobesity Medication Implementation Approaches to Maximize Population Health) study aims to identify determinants of AOM use, obtain stakeholder input, and develop an implementation road map to guide payers, health systems, and prescribers in supporting equitable and appropriate clinical use of AOMs."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "The DOMINO study begins with a data-driven needs assessment, followed by qualitative interviews to assess contextual factors, and then stakeholder-guided selection of strategies to address barriers and contextual factors, resulting in an IM approach. Aim 1 evaluates AOM prescribing patterns and determinants of use using electronic health record data from 3 southeastern US health systems. Demographic, clinical, and provider characteristics of AOM users and nonusers will be compared. Cox regression will estimate time from first eligible BMI to AOM initiation, incorporating time-varying covariates and calendar-year fixed effects; secondary analyses will assess repeated use, duration, and medication switching. Aim 2 uses the TICD framework to guide approximately 90 semistructured interviews with patients, providers, health system leaders, and payers to identify multilevel barriers and facilitators to AOM adoption. Our analytic approaches will allow for both deductive and inductive insights to identify salient determinants. Aim 3 will use findings from aims 1 and 2 to develop an AOM implementation road map. Determinants will be prioritized by importance and feasibility, mapped to implementation strategies, and refined through advisory panels using acceptability, feasibility, effectiveness, cost-effectiveness, side effects or unintended consequences, safety, and equity criteria to enable future hybrid trial testing."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The DOMINO study was funded in April 2024. Preliminary data obtained prior to submitting the grant application indicated significant variability in the number of AOM users, the number with a glucagon-like peptide-1 (GLP-1) prescription, and race/ethnicity demographics. Electronic health record (EHR) data extraction from the 3 health systems was completed in April 2026; data cleaning and preparation of analytic datasets are underway. As of August 2026, aim 2 included 40 patient interviews, 5 payer interviews, and 14 provider interviews. Aim 3, including advisory board panels, is anticipated to begin in late 2026. Publication of results is expected by June 2028."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "This study will generate an empirically derived, partner-driven road map for implementing AOM use. By addressing operational barriers, workflow integration, and patient affordability, DOMINO will produce scalable tools and processes for health systems to optimize obesity care and advance equity in obesity management."
+    },
+    {
+     "rotulo": "International Registered Report Identifier (Irrid)",
+     "texto": "DERR1-10.2196/108690."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43002765/",
+   "doi": "https://doi.org/10.2196/108690",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43001587",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "A weight loss fibrotic response in visceral fat is driven by defective lysosome-dependent collagenolysis",
+   "revista": "JCI Insight",
+   "autores": "Rebière C, Oliveira A, Dussaud S et al.",
+   "tipo_estudo": "",
+   "destaque": "This suggests that defective ECM degradation, rather than continued ECM production, underlies fibrosis persistence and aggravation during WL. Together, these findings identify impaired collagenolysis as a critical barrier to adipose tissue recovery after WL and suggest that enhancing ECM clearance, rather than inhibiting ECM synthesis, may represent a more effective therapeutic strategy to restore adipose tissue function.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Obesity induces pathological remodeling of white adipose tissue (WAT), including chronic inflammation and fibrosis, which drive metabolic dysfunction. Although weight loss (WL) is the cornerstone of obesity treatment and improves systemic metabolic health, its effect on WAT remodeling remains incompletely understood. Using a mouse model of diet-induced obesity followed by nutritional WL, we show that visceral WAT (vWAT) failed to fully recover despite normalization of body weight and marked metabolic improvement. Notably, vWAT fibrosis persisted and continued to progress after WL. This occurred while extracellular matrix (ECM) production by adipose progenitor cells was markedly reduced following WL, explaining why pharmacological inhibition of ECM synthesis fails to prevent fibrosis during WL. Instead, we observed impaired collagen degradation by both progenitor cells and macrophages, along with lysosomal dysfunction, during WL. This suggests that defective ECM degradation, rather than continued ECM production, underlies fibrosis persistence and aggravation during WL. Together, these findings identify impaired collagenolysis as a critical barrier to adipose tissue recovery after WL and suggest that enhancing ECM clearance, rather than inhibiting ECM synthesis, may represent a more effective therapeutic strategy to restore adipose tissue function."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43001587/",
+   "doi": "https://doi.org/10.1172/jci.insight.198123",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43001579",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Early nutrition impacts later setmelanotide treatment of obesity in mice",
+   "revista": "JCI Insight",
+   "autores": "Baidoe-Ansah D, Mayer A, Mattern J et al.",
+   "tipo_estudo": "",
+   "destaque": "Unhealthy nutrition in early life can reduce response to a weight loss drug in adult obesity.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Unhealthy nutrition in early life can reduce response to a weight loss drug in adult obesity."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43001579/",
+   "doi": "https://doi.org/10.1172/jci.insight.197382",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43001755",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Retatrutide Once Weekly in Adults with Knee Osteoarthritis Pain and Obesity",
+   "revista": "N Engl J Med",
+   "autores": "Schnitzer TJ, Hunter DJ, Conaghan PG et al.",
+   "tipo_estudo": "",
+   "destaque": "In participants with painful knee osteoarthritis and obesity, treatment with retatrutide resulted in significantly greater reductions in both the WOMAC pain score and body weight than placebo. (Funded by Eli Lilly; TRIUMPH-4 and -1 ClinicalTrials.gov numbers, NCT05931367 and NCT05929066.).",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Retatrutide, an investigational triple agonist of GIP, GLP-1, and glucagon receptors, may be useful for the treatment of painful knee osteoarthritis in persons with obesity."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "In two phase 3 trials, adults without diabetes who had painful knee osteoarthritis and a body-mass index of at least 27 were randomly assigned to receive once-weekly subcutaneous retatrutide (9 or 12 mg in TRIUMPH-4 and 4, 9, or 12 mg in TRIUMPH-1-OA) or placebo. In TRIUMPH-4, the primary end points were the change in the WOMAC pain score (range, 0 to 10, with higher scores indicating worse pain) and the percent change in body weight at week 68. In TRIUMPH-1-OA, the primary end point was the change in the WOMAC pain score at week 80. For non-pain-related end points, intercurrent events were handled with a treatment-policy strategy. For pain-related end points, a hybrid-treatment estimand was applied, with a hypothetical strategy for intercurrent events that suggested treatment failure and a treatment-policy strategy elsewhere. We also report results for an intention-to-treat (ITT) estimand."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "A total of 445 participants underwent randomization in TRIUMPH-4 and 574 in TRIUMPH-1-OA. At 68 weeks, the mean changes in the WOMAC pain score (hybrid-treatment estimand) with retatrutide in TRIUMPH-4 were -3.96 (9 mg) and -3.74 (12 mg), versus -2.12 with placebo (difference vs. placebo, -1.83 [95% confidence interval {CI}, -2.37 to -1.30] and -1.61 [95% CI, -2.16 to -1.07], respectively). For the ITT estimand, the corresponding differences from placebo were -1.70 (95% CI, -2.19 to -1.22) and -1.38 (95% CI, -1.91 to -0.85) (P<0.001 for all comparisons). The mean percent changes in body weight with retatrutide were -20.0% (9 mg) and -23.7% (12 mg), versus -4.6% with placebo (difference vs. placebo, -15.4 percentage points [95% CI, -18.7 to -12.1] and -19.2 percentage points [95% CI, -22.4 to -15.9]; P<0.001 for both comparisons). At 80 weeks, the mean changes in the WOMAC pain score (hybrid-treatment estimand) with retatrutide in TRIUMPH-1-OA were -3.22 (4 mg), -3.48 (9 mg), and -3.64 (12 mg), versus -1.87 with placebo (difference vs. placebo, -1.35 [95% CI, -1.92 to -0.78], -1.61 [95% CI, -2.20 to -1.02], and -1.77 [95% CI, -2.34 to -1.20], respectively). For the ITT estimand, the corresponding differences from placebo were -0.96 (95% CI, -1.61 to -0.30), -1.41 (95% CI, -2.07 to -0.75), and -1.64 (95% CI, -2.26 to -1.02) (P≤0.005 for all comparisons). In both trials, serious adverse events were more common with retatrutide than with placebo, and the most common adverse events were gastrointestinal."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "In participants with painful knee osteoarthritis and obesity, treatment with retatrutide resulted in significantly greater reductions in both the WOMAC pain score and body weight than placebo. (Funded by Eli Lilly; TRIUMPH-4 and -1 ClinicalTrials.gov numbers, NCT05931367 and NCT05929066.)."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43001755/",
+   "doi": "https://doi.org/10.1056/NEJMoa2610676",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43000472",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Hemodynamic effects of semaglutide in individuals with heart failure with preserved ejection fraction and obesity: a placebo-controlled randomized clinical trial",
+   "revista": "Nat Med",
+   "autores": "Borlaug BA, Jensen MD, Packer M et al.",
+   "tipo_estudo": "",
+   "destaque": "The results from this trial indicate that, in patients with HFpEF and obesity, treatment with semaglutide reduced left heart filling pressures during exercise and at rest and was associated with hemodynamic HFpEF remission in over half of treated patients. ClinicalTrials.gov identifier: NCT05371496 .",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "The glucagon-like peptide-1 receptor agonist semaglutide improves symptoms in heart failure with preserved ejection fraction (HFpEF) through unclear mechanisms. Here, in this double-blind, placebo-controlled trial, we randomly assigned 81 patients (47 women) with HFpEF and obesity to semaglutide (2.4 mg weekly) or placebo for 52 weeks. The primary outcome was the change in invasively measured pulmonary artery wedge pressure (PAWP), a direct measure of cardiac congestion, during low-intensity exercise. Additional mechanistic outcomes included other hemodynamic measures and hemodynamic HFpEF remission (defined as normal PAWP under conditions of both rest and exercise at 52 weeks). At baseline, PAWP was 17.5 ± 4.3 mmHg at rest and 31.7 ± 5.2 mmHg during exercise. After 52 weeks, the mean change in PAWP during exercise was -9.8 (95% confidence interval (CI): -11.3 to -8.2) mmHg with semaglutide and +0.9 (95% CI: -1.3 to 3.0) mmHg with placebo (estimated difference, -10.6 mmHg; 95% CI: -13.3 to -8.0; P < 0.0001). As compared to placebo, semaglutide also decreased resting PAWP (estimated difference, -7.1 mmHg; 95% CI: -9.8 to -4.4; P < 0.0001), and semaglutide-treated patients were more likely to experience hemodynamic remission (53.7% versus 7.4%, odds ratio = 14.1, 95% CI: 3.0-134.6, P < 0.001). The results from this trial indicate that, in patients with HFpEF and obesity, treatment with semaglutide reduced left heart filling pressures during exercise and at rest and was associated with hemodynamic HFpEF remission in over half of treated patients. ClinicalTrials.gov identifier: NCT05371496 ."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43000472/",
+   "doi": "https://doi.org/10.1038/s41591-026-04762-3",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43001810",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Effectiveness and Safety of Once-Weekly Semaglutide 2.4 mg in Korean Adults With Obesity or Overweight: A Multicenter Retrospective Real-World Study (RE-SEMA-K Study)",
+   "revista": "Diabetes Metab Res Rev",
+   "autores": "Kwon YJ, Kim YS, Ko HJ et al.",
+   "tipo_estudo": "",
+   "destaque": "Semaglutide 2.4 mg achieved substantial weight loss in South Korean adults with overweight or obesity. Weight reduction was comparable to the STEP 6 trial despite shorter follow-up (4.9 months), substantial prior obesity medication exposure, and accelerated dose escalation, supporting robust real-world effectiveness.",
+   "resumo": [
+    {
+     "rotulo": "Aims",
+     "texto": "To evaluate the effectiveness and treatment patterns of once-weekly semaglutide 2.4 mg in South Korean adults with overweight or obesity in real-world practice."
+    },
+    {
+     "rotulo": "Materials And Methods",
+     "texto": "This multicenter retrospective study analysed electronic medical records from 17 centres in South Korea. Included were adults (≥ 19 years) with BMI ≥ 25 kg/m2, or ≥ 23 kg/m2 with obesity-related comorbidities. Primary endpoints were changes in body weight at 3, 6, 9, and 12 months. Secondary outcomes included body composition, categorical weight loss, cardiometabolic changes, treatment persistence, safety, and changes in liver function."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Among 1160 patients (40.9% with prior obesity medications), semaglutide treatment induced progressive weight reduction (-5.85%, -9.55%, -11.43%, and -13.16% at 3, 6, 9, and 12 months). Greater reduction occurred in women, younger patients, and those without T2D or prior obesity medication. By 6 months, cardiometabolic, liver function, and body composition parameters improved, with preferential loss of fat over lean mass (all p < 0.001). Starting doses varied across patients (0.25 mg, 55.9%; 0.5 mg, 30.4%; 1.0 mg, 11.9%), with rapid dose escalation reaching the maintenance dose (2.4 mg) in a mean of 3.52 months, reflecting individualised real-world dosing. Mean treatment duration was 4.9 months. Adverse events, predominantly transient gastrointestinal symptoms, occurred in approximately 22% of patients."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Semaglutide 2.4 mg achieved substantial weight loss in South Korean adults with overweight or obesity. Weight reduction was comparable to the STEP 6 trial despite shorter follow-up (4.9 months), substantial prior obesity medication exposure, and accelerated dose escalation, supporting robust real-world effectiveness."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43001810/",
+   "doi": "https://doi.org/10.1002/dmrr.70242",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43002621",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "GLP-1-Based Therapies Across the Menopausal Transition: Dermatologic Considerations and Practical Management",
+   "revista": "Dermatol Surg",
+   "autores": "Sanchez-Melendez S, Linkner R",
+   "tipo_estudo": "",
+   "destaque": "Dermatologic care should anticipate the overlapping effects of menopause and substantial weight loss. A longitudinal, tissue-preservation approach may shift care from reactive correction toward proactive management.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Glucagon-like peptide-1-based therapies have transformed obesity management. Their growing use among perimenopausal and menopausal women introduces new dermatologic considerations, particularly when weight loss occurs alongside menopause-associated changes in skin, adipose tissue, muscle, bone, and hair."
+    },
+    {
+     "rotulo": "Objective",
+     "texto": "To provide a practical framework for dermatologic management of perimenopausal and menopausal women receiving glucagon-like peptide-1-based therapies."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "PubMed was searched from inception through September 2026 for literature on Glucagon-like peptide-1-based therapies, menopause, skin aging, lean mass, alopecia, and aesthetic procedures. Reference lists of relevant reviews and consensus statements were also hand-searched. The senior author, a dermatologist and obesity medicine specialist, provides a practice-based perspective."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Key considerations include weight-loss trajectory, lean mass and bone preservation, nutrition, hair changes, procedural timing, and multidisciplinary comanagement. A staged aesthetic approach prioritizes skin quality during active weight loss, with structural correction as weight stabilizes."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Dermatologic care should anticipate the overlapping effects of menopause and substantial weight loss. A longitudinal, tissue-preservation approach may shift care from reactive correction toward proactive management."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43002621/",
+   "doi": "https://doi.org/10.1097/DSS.0000000000005459",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43002336",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Physical Performance After Acute Myocardial Infarction: Gait, Frailty, and Cardiovascular Prognosis",
+   "revista": "Curr Atheroscler Rep",
+   "autores": "da Luz Goulart C, Franzoni L, Correale L et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Incorporating gait speed, SPPB, and frailty assessment into conventional risk stratification may improve patient phenotyping and identify individuals requiring more intensive rehabilitation and follow-up. Further prospective studies are needed to standardize assessment strategies and determine whether improving physical performance translates into better cardiovascular outcomes.",
+   "resumo": [
+    {
+     "rotulo": "Purpose Of Review",
+     "texto": "Physical performance and frailty have emerged as potential markers of physiological reserve and cardiovascular vulnerability after acute myocardial infarction (AMI). This review examines the prognostic significance of gait speed, lower-extremity physical performance, frailty, and sarcopenia after AMI and acute coronary syndrome (ACS) and discusses their underlying pathophysiological mechanisms and clinical implications."
+    },
+    {
+     "rotulo": "Recent Findings",
+     "texto": "Slow gait speed, impaired Short Physical Performance Battery (SPPB) scores, and frailty are associated with mortality, rehospitalization, heart failure, and adverse cardiovascular events after AMI or ACS. Gait speed and SPPB may provide incremental prognostic information beyond conventional cardiovascular risk assessment and established risk scores. These associations may reflect an interconnected cardiac-vascular-muscle axis involving reduced cardiac reserve, vascular dysfunction, impaired skeletal muscle perfusion, sarcopenia, and physical deconditioning. Importantly, emerging evidence suggests that targeted cardiac rehabilitation may improve gait speed, muscle strength, and overall physical performance in vulnerable patients. Physical performance represents a clinically relevant and potentially modifiable dimension of post-AMI cardiovascular vulnerability. Incorporating gait speed, SPPB, and frailty assessment into conventional risk stratification may improve patient phenotyping and identify individuals requiring more intensive rehabilitation and follow-up. Further prospective studies are needed to standardize assessment strategies and determine whether improving physical performance translates into better cardiovascular outcomes."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43002336/",
+   "doi": "https://doi.org/10.1007/s11883-026-01480-6",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43001346",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Cytokines and hematological indices as potential markers of low cardiorespiratory fitness and sarcopenia in hemodialysis patients",
+   "revista": "Clin Nephrol",
+   "autores": "Kuo CH, Fang JT, Hsiao CC et al.",
+   "tipo_estudo": "",
+   "destaque": "Elevated IL-10 was independently associated with low HGS - a novel finding - while IL-6 was associated with sarcopenia. RDW emerged as a potential CRF marker. These findings suggest that cytokine and hematological profiling may hold future value for early screening of physical fitness decline in HD patients, pending external validation.",
+   "resumo": [
+    {
+     "rotulo": "Aims",
+     "texto": "Patients receiving maintenance hemodialysis (HD) are prone to low cardiorespiratory fitness (CRF), reduced muscle strength, and sarcopenia - conditions that predict poor outcomes but are challenging to assess routinely. This study aimed to identify plasma inflammatory cytokines and hematological parameters associated with physical fitness impairments."
+    },
+    {
+     "rotulo": "Materials And Methods",
+     "texto": "In this cross-sectional study, 61 HD patients and 20 healthy controls underwent cardiopulmonary exercise testing, handgrip strength (HGS) measurement, dual-energy X-ray absorptiometry, cytokine quantification, and blood counts. Low peak oxygen uptake (V̇O2) was defined as < 14 mL/kg/min; low HGS, low appendicular skeletal muscle mass index (ASMI), and sarcopenia were defined per Asian Working Group criteria. Associations were analyzed using multivariate binary logistic regression and decision trees."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Compared with controls, HD patients demonstrated impaired physical fitness (56% low peak V̇O2, 36% low HGS, 44% low ASMI, and 21% sarcopenia), anemia, and elevated IL-6, IL-8, and IL-10. Multivariate analysis identified that older age was associated with low peak V̇O2; elevated IL-10 (OR 7.39, p = 0.019) and lower hemoglobin with low HGS; lower BMI with low ASMI; and elevated IL-6 (OR 1.17, p = 0.005) with sarcopenia. Elevated red cell distribution width (RDW) correlated with low peak V̇O2. Decision trees combining cytokines with hematological and demographic parameters showed strong discrimination for low peak V̇O2 (AUC = 0.803) and sarcopenia (AUC = 0.918)."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Elevated IL-10 was independently associated with low HGS - a novel finding - while IL-6 was associated with sarcopenia. RDW emerged as a potential CRF marker. These findings suggest that cytokine and hematological profiling may hold future value for early screening of physical fitness decline in HD patients, pending external validation."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43001346/",
+   "doi": "https://doi.org/10.5414/CN112058",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43003739",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Knowledge, Perspectives, and Experiences of Women in Kuwait Regarding GLP-1/GIP-Based Medications for Weight Management: A Cross-Sectional Study",
+   "revista": "Clin Ther",
+   "autores": "Alharbi M, Alshammari M, Alkazemi A",
+   "tipo_estudo": "",
+   "destaque": "Despite high awareness of GLP-1/GIP-based medications among women in Kuwait, understanding, information sources, and perceptions varied according to medication-use status. Differences in information sources and safety perceptions highlight an opportunity for healthcare professionals to provide accessible, evidence-based medication information and support informed treatment decisions.",
+   "resumo": [
+    {
+     "rotulo": "Purpose",
+     "texto": "GLP-1 receptor agonists and dual GIP/GLP-1 receptor agonists are increasingly used for obesity and type 2 diabetes, alongside growing public and social-media attention. Understanding how women perceive these medications and obtain medication-related information may help healthcare professionals support informed and appropriate use."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A cross-sectional online survey was conducted among women aged ≥18 years living in Kuwait from March to June 2026. The questionnaire assessed medication awareness and knowledge, information sources, attitudes, medication-use experiences, and factors influencing treatment decisions. Previous/current users were compared with participants who had never used the medications or were considering future use using appropriate bivariate statistical tests. Multivariable logistic regression was used for selected information-source and perception outcomes, adjusting for age, BMI, and weight-management intention. Statistical significance was set at P < 0.05."
+    },
+    {
+     "rotulo": "Findings",
+     "texto": "Among 445 participants, 132 (29.7%) reported previous/current GLP-1/GIP-based medication use. Awareness was highest for tirzepatide (88.6%) and semaglutide (73.4%), although understanding of medication mechanisms and adverse effects varied. Social media was the most frequently reported information source overall (56.0%); however, previous/current users were substantially more likely than never/considering users to report healthcare professionals as an information source (57.6% vs 10.2%, P < 0.001) and less likely to report social media (38.6% vs 63.3%, P < 0.001). Previous/current users were also less likely to perceive that medication risks outweighed benefits (24.2% vs 59.4%, P < 0.001). These differences persisted after adjustment for age, BMI, and weight-management intention."
+    },
+    {
+     "rotulo": "Implications",
+     "texto": "Despite high awareness of GLP-1/GIP-based medications among women in Kuwait, understanding, information sources, and perceptions varied according to medication-use status. Differences in information sources and safety perceptions highlight an opportunity for healthcare professionals to provide accessible, evidence-based medication information and support informed treatment decisions."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43003739/",
+   "doi": "https://doi.org/10.1016/j.clinthera.2026.10.005",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43002037",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Ensemble-Based Segmental Helical Organization in an Aib-Rich Lipidated Peptide: Biomacromolecular Insights from High-Field NMR",
+   "revista": "Biomacromolecules",
+   "autores": "Nordin N, Choi J, Lee J et al.",
+   "tipo_estudo": "",
+   "destaque": "Structure calculations based on the 1.2 GHz NMR and CD experiments revealed that tirzepatide does not adopt a single rigid conformation in solution but instead exists as a conformational ensemble composed of locally ordered and flexible regions. These findings provide a residue-specific view of tirzepatide dynamics in solution and offer structural insights into the conformational landscape of this therapeutically important peptide.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Tirzepatide (TZP) is a dual glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptor agonist that has demonstrated remarkable therapeutic efficacy for the treatment of type 2 diabetes and obesity. Despite its clinical importance, residue-specific information on its solution conformation remains limited due to its structural complexity, including noncanonical amino acids and a lipidated side chain. In this study, we performed a solution NMR investigation of tirzepatide to establish residue-specific resonance assignments and characterize its conformational properties in an aqueous solution. Backbone and side-chain resonances were assigned using multidimensional NMR spectroscopy, including 1H-15N HMQC, TOCSY, and NOESY experiments. Reliable sequential NOE connectivities were identified for several peptide segments, while ambiguous and unresolved resonances were conservatively excluded from the structural interpretation. The N-terminal Aib2 residue served as an important assignment anchor but did not define a stable terminal structure. In contrast, the Aib13 region exhibited a locally organized backbone environment with a short helical-like conformational tendency, suggesting Aib13-centered local ordering within the peptide chain. Structure calculations based on the 1.2 GHz NMR and CD experiments revealed that tirzepatide does not adopt a single rigid conformation in solution but instead exists as a conformational ensemble composed of locally ordered and flexible regions. These findings provide a residue-specific view of tirzepatide dynamics in solution and offer structural insights into the conformational landscape of this therapeutically important peptide."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43002037/",
+   "doi": "https://doi.org/10.1021/acs.biomac.6c01139",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43003544",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Administrative Harm and Workforce Strain Indicators",
+   "revista": "Crit Care Clin",
+   "autores": "Leventhal KG, Caudill D, Moss M et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "The way work is structured within health care, from work environments to workloads, shapes both the workforce experience as well as job performance. Administrative harm describes the downstream effects of upstream decisions on the design of work itself, impacting workforce well-being and performance, patient care and outcomes, and organizational outcomes. The article reviews current and emerging opportunities to harness digital signals readily available within the electronic health record (EHR), including EHR use metadata and related data sources, to measure, monitor, and predict how work design (job demands and resources) affects workforce, patient, and organizational outcomes.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "The way work is structured within health care, from work environments to workloads, shapes both the workforce experience as well as job performance. Administrative harm describes the downstream effects of upstream decisions on the design of work itself, impacting workforce well-being and performance, patient care and outcomes, and organizational outcomes. The article reviews current and emerging opportunities to harness digital signals readily available within the electronic health record (EHR), including EHR use metadata and related data sources, to measure, monitor, and predict how work design (job demands and resources) affects workforce, patient, and organizational outcomes."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43003544/",
+   "doi": "https://doi.org/10.1016/j.ccc.2026.07.009",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43003538",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Moral Distress, Burnout, and the Intensive Care Unit Environment",
+   "revista": "Crit Care Clin",
+   "autores": "Epstein EG, Bourne D, Taylor JF",
+   "tipo_estudo": "Revisão",
+   "destaque": "Over time, unresolved moral distress contributes to chronic workplace stress and burnout. The authors emphasize that system-level interventions, particularly ethics consultation and organizational change, are essential to address root causes and improve clinician well-being and patient care.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "This article examines the relationship between moral distress and burnout among intensive care unit (ICU) clinicians and argues that moral distress acts as a precursor to burnout. Moral distress arises when clinicians cannot act according to ethical obligations due to systemic constraints, leading to cumulative moral residue. In high-intensity ICU environments, this distress is driven by nonbeneficial treatment, poor communication, and resource limitations. Over time, unresolved moral distress contributes to chronic workplace stress and burnout. The authors emphasize that system-level interventions, particularly ethics consultation and organizational change, are essential to address root causes and improve clinician well-being and patient care."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43003538/",
+   "doi": "https://doi.org/10.1016/j.ccc.2026.07.006",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43002558",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Oral Health-Related Quality of Life, Perceived Stress, and Well-Being in Oral Lichen Planus Subtypes",
+   "revista": "Clin Exp Dent Res",
+   "autores": "Stolte KN, Dogan SS, Attia S et al.",
+   "tipo_estudo": "",
+   "destaque": "Patients with OLP reported poorer OHRQoL than healthy controls, whereas differences between reticular and erosive OLP were not significant. The findings suggest that oral-specific and generic patient-reported outcome measures capture complementary aspects of patient experience, with OHIP-G14 reflecting oral disease-specific burden in OLP.",
+   "resumo": [
+    {
+     "rotulo": "Objective",
+     "texto": "Oral lichen planus (OLP) is a chronic inflammatory mucosal disease with reticular and erosive clinical subtypes. This study aimed to compare oral health-related quality of life (OHRQoL), stress, and general well-being between participants with reticular OLP, erosive OLP, and healthy controls."
+    },
+    {
+     "rotulo": "Material And Methods",
+     "texto": "In this single-center cross-sectional study, healthy controls (n = 20) and patients with reticular (n = 20) or erosive OLP (n = 20) completed the OHIP-G14, PSS-10, and WHO-5-questionnaires, and group differences were evaluated."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Patients with OLP reported significantly poorer OHRQoL than controls (OHIP-G14 total score: 13.18 ± 10.01 vs. 2.85 ± 6.54; p < 0.001). Significant group differences were observed across all OHIP-G14 subdomains. Erosive OLP showed higher scores than reticular OLP across domains, though subtype differences were not significant. In both OLP groups, the highest mean scores were observed for physical pain and psychological discomfort. No significant between-group differences were observed for PSS-10 or WHO-5 (all p ≥ 0.259). Interpretation is limited by differences in baseline characteristics between groups."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Patients with OLP reported poorer OHRQoL than healthy controls, whereas differences between reticular and erosive OLP were not significant. The findings suggest that oral-specific and generic patient-reported outcome measures capture complementary aspects of patient experience, with OHIP-G14 reflecting oral disease-specific burden in OLP."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43002558/",
+   "doi": "https://doi.org/10.1002/cre2.70468",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43001116",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Workplace Violence Against Physicians in Bangladesh: A Contemporary Systems-Based Narrative Review of Current Evidence",
+   "revista": "Public Health Chall",
+   "autores": "Sufian MA, Satter NS, Shimul MMH",
+   "tipo_estudo": "Revisão",
+   "destaque": "Workplace violence against physicians in Bangladesh is a systems-level occupational, governance, and healthcare-resilience challenge arising from interacting individual, interpersonal, organizational, health-system, and societal conditions. Prevention should extend beyond reactive security measures to workforce strengthening, standardized reporting and accountability, legal protection, occupational support, communication and de-escalation, and public engagement. Future research should prioritize standardized measurement, longitudinal and intervention studies, and underrepresented healthcare settings.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Workplace violence against physicians is an occupational and public health challenge in resource-constrained healthcare systems. In Bangladesh, physician shortages, overcrowding, service delays, inadequate security, and institutional constraints may increase exposure to clinical environments. This narrative review synthesized evidence on forms, perpetrators, determinants, consequences, institutional responses, and prevention using a systems-based and socio-ecological perspective."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A narrative review was conducted with reference to the Scale for the Assessment of Narrative Review Articles (SANRA). PubMed, Scopus, Web of Science, and Google Scholar were searched for peer-reviewed publications from January 2022 to May 2026. The primary evidence comprised studies reporting workplace violence among physicians or physician-specific findings in Bangladeshi healthcare settings. Contextual evidence was considered separately to inform interpretation. Methodological quality was assessed using Joanna Briggs Institute critical appraisal tools. Findings were synthesized thematically because methodological heterogeneity precluded quantitative pooling."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Twelve studies constituted the evidence base. Psychological and verbal violence were most common, with patients' relatives or attendants frequently identified as perpetrators. Younger and early-career physicians, emergency department staff, and night-shift workers appeared particularly vulnerable, although demographic associations varied. Recurring determinants included treatment delays, overcrowding, staffing constraints, communication difficulties, inadequate security, weak reporting mechanisms, governance limitations, and health-system pressures. Workplace violence was associated with psychological distress, burnout, reduced job satisfaction, defensive medical practice, workforce instability, and disruption of healthcare delivery. Institutional reporting, investigation, and post-incident support remained inadequate."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Workplace violence against physicians in Bangladesh is a systems-level occupational, governance, and healthcare-resilience challenge arising from interacting individual, interpersonal, organizational, health-system, and societal conditions. Prevention should extend beyond reactive security measures to workforce strengthening, standardized reporting and accountability, legal protection, occupational support, communication and de-escalation, and public engagement. Future research should prioritize standardized measurement, longitudinal and intervention studies, and underrepresented healthcare settings."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43001116/",
+   "doi": "https://doi.org/10.1002/puh2.70452",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43003255",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "A National Research Agenda to Advance Physician Well-Being",
+   "revista": "Mayo Clin Proc",
+   "autores": "Dyrbye LN, Trockel M, Bilimoria K et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Through this process, the group developed a research agenda focused on four prioritized domains: (1) strengthening causal evidence linking occupational well-being to core system outcomes, (2) evaluating scalable organizational interventions to improve clinician well-being, (3) advancing pragmatic operational strategies for cultivating wellness-centered leadership, and (4) generating evidence to inform optimal interdisciplinary clinical work design. The intent of this research agenda is to define the evidence needed to help accelerate system level action to drive improvement and enhance the long-term stability and performance of the healthcare workforce.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Physician well-being is increasingly recognized as essential to healthcare system performance, workforce sustainability, and the capacity for organizational change. However, healthcare systems continue to lack sufficiently evaluated, scalable strategies to advance well-being (meaning, purpose, professional fulfillment) and address challenges, including occupational burnout, depression, and workforce retention. In response to persistent gaps in knowledge regarding scalable solutions and organizational action, the Stanford Medicine WellMD & WellPhD Center convened a national Physician Well-Being Think Tank in 2025. The Think Tank brought together well-being researchers, chief wellness officers, and healthcare executives who reviewed current evidence, identified critical knowledge gaps, and completed pre-meeting prioritization activities, voted on high-priority evidence gaps, and engaged in iterative small-group and full-group consensus discussions to develop priorities for future research. Through this process, the group developed a research agenda focused on four prioritized domains: (1) strengthening causal evidence linking occupational well-being to core system outcomes, (2) evaluating scalable organizational interventions to improve clinician well-being, (3) advancing pragmatic operational strategies for cultivating wellness-centered leadership, and (4) generating evidence to inform optimal interdisciplinary clinical work design. The intent of this research agenda is to define the evidence needed to help accelerate system level action to drive improvement and enhance the long-term stability and performance of the healthcare workforce."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43003255/",
+   "doi": "https://doi.org/10.1016/j.mayocp.2026.11.002",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43002774",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Moral Injury in Nursing as a Moral Ecology: A Mid-Range Theory of Professional Moral Identity Alignment",
+   "revista": "ANS Adv Nurs Sci",
+   "autores": "Norton AH, Rainbow J",
+   "tipo_estudo": "",
+   "destaque": "Seven propositions explain how ecological conditions sustain alignment, generate cumulative misalignment, and contribute to injury or repair. The framework differentiates moral injury from burnout and moral distress and shifts intervention toward structural and relational accountability.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Moral injury in nursing may develop when persistent structural and relational constraints disrupt nurses' ability to enact professional moral commitments. This article develops the Nursing Moral Ecology Framework, a nursing-specific mid-range theory derived from Copeland's Moral Ecology Framework and informed by a nursing-focused scoping review and a national study of registered nurses (N = 189). Professional moral identity alignment is proposed as the mechanism linking moral ecology to moral injury. Seven propositions explain how ecological conditions sustain alignment, generate cumulative misalignment, and contribute to injury or repair. The framework differentiates moral injury from burnout and moral distress and shifts intervention toward structural and relational accountability."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43002774/",
+   "doi": "https://doi.org/10.1097/ANS.0000000000000713",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43002325",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "The Impact of Loadshedding on the Psychosocial Well-Being of Older Adults in Residential Facilities in South Africa: Implications for Gerontological Social Services",
+   "revista": "J Cross Cult Gerontol",
+   "autores": "Wysoke G, Geyer S, Graham MA",
+   "tipo_estudo": "",
+   "destaque": "The experiences reported by older adults in residential facilities suggested associations with feelings of stress and loneliness during loadshedding. Recommendations for individual psychosocial support, group support among similarly affected older adults, advocacy, and long-term solutions to secure alternative power supplies that enable older adults to resile amid loadshedding are offered.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Planned rolling electricity outages in South Africa when electricity demand exceeds supply (\"loadshedding\") have a multifaceted impact on the population. To the authors' knowledge, the impact of loadshedding on the psychosocial well-being of South African older adults (60+) in residential facilities has not been investigated. The phenomenon was considered from an ecosystem lens. The study aimed to determine the impact of loadshedding on the psychosocial well-being of South African older adults in residential care and provide guidelines for gerontological social services. Quantitative research utilising a cross-sectional design and non-probability sampling was undertaken. Face-to-face surveys were conducted with 68 older adults at five facilities, both public and private, in the Gauteng Province of South Africa. Stress (Perceived Stress Scale), resilience (Brief Resilience Scale), and loneliness (Brief Loneliness Scale) were investigated. Participants reported moderate levels of perceived stress (M = 17.7) and moderate feelings of loneliness (M = 14.7) during loadshedding. A significant proportion of participants (67.6%) reported that loadshedding affected their psychosocial well-being. Participants' resilience scores were within the \"normal\" range (M = 3.7) regarding loadshedding. The experiences reported by older adults in residential facilities suggested associations with feelings of stress and loneliness during loadshedding. Recommendations for individual psychosocial support, group support among similarly affected older adults, advocacy, and long-term solutions to secure alternative power supplies that enable older adults to resile amid loadshedding are offered."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43002325/",
+   "doi": "https://doi.org/10.1007/s10823-026-09606-8",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43002157",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Time-dependent efficacy of vitamin D3 against chronic stress-induced behavioral and circadian deficits via the hepatic VDR-clock axis",
+   "revista": "Food Funct",
+   "autores": "Guo Y, Yang T, Xu Y et al.",
+   "tipo_estudo": "",
+   "destaque": "This study is the first to reveal the time-dependent antidepressant effects of VitD3 and identify the VDR-circadian clock axis as the underlying mechanism. These findings highlight the importance of intervention timing for VitD3 efficacy and support precision nutrition strategies aligned with CR for stress disorders.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Vitamin D3 (VitD3) is an essential fat-soluble micronutrient that protects against chronic stress-related disorders through its neuroprotective and anti-inflammatory effects. Major depressive disorder is accompanied by circadian rhythm (CR) disruption, and evidence from chrono-nutrition studies suggests that nutrient effects are strongly influenced by administration timing. However, whether VitD3 efficacy against chronic stress depends on intervention timing remains unclear. This study assessed the chrono-nutrition potential of VitD3 in a mouse model of chronic stress. Mice subjected to 4 weeks of chronic unpredictable mild stress (CUMS) received daily VitD3 either in the morning (AM) or evening (PM). VitD3 treatment mitigated CUMS-induced behavioral impairments, neuroinflammation, and neuronal damage in a time-dependent manner, with superior outcomes observed with PM administration. PM administration enhanced anxiety- and depression-like behaviors, hippocampal integrity, TNF-α levels, sleep duration, and serotonin synthesis. Mechanistically, PM administration more effectively restored hepatic Vdr rhythmic oscillation, coupled with re-synchronization of the core clock network. Genetic validation in Caenorhabditis elegans further supported the essential role of VDR in circadian restoration. This study is the first to reveal the time-dependent antidepressant effects of VitD3 and identify the VDR-circadian clock axis as the underlying mechanism. These findings highlight the importance of intervention timing for VitD3 efficacy and support precision nutrition strategies aligned with CR for stress disorders."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43002157/",
+   "doi": "https://doi.org/10.1039/d6fo03252d",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43001728",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Evidence of high rates of burnout symptoms in a cohort with cluster headache",
+   "revista": "Headache",
+   "autores": "Jennysdotter Olofsgård F, Ran C, Spulber S et al.",
+   "tipo_estudo": "",
+   "destaque": "Participants with cluster headache in our Swedish cohort reported higher scores for burnout symptoms, particularly during active bout. For participants in remission, the burnout symptoms score was inversely correlated to the number of years since their last active headache bout. When managing cluster headache in a clinical setting, it should be taken into consideration that this patient group has a substantial risk for developing burnout symptoms both in and out of an active bout. Future studies should evaluate how to best support patients with cluster headache handling exhaustion and promote recovery to improve their quality of life.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Cluster headache is a debilitating primary headache disorder. During active bouts, headache attacks occur daily and can last up to 3 h. Besides the excruciating pain, the disorder can greatly impact a patient's mental health, sleep, and life quality. The reoccurring attacks as well as sleep problems may lead to energy depletion and burnout symptoms, which can limit a person's ability to participate in society to the extent they would like to."
+    },
+    {
+     "rotulo": "Objective",
+     "texto": "Our aim was to investigate the extent of burnout symptoms in a Swedish cluster headache cohort using a cross-sectional approach. We further wanted to study if burnout symptoms can be linked to disease status-and if sex, lifestyle factors, or any specific clinical characteristics may be linked to change in burnout symptoms."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Between January 2024 and September 2025, the Shirom-Melamed Burnout Questionnaire was sent out via the Research Electronic Data Capture platform to 839 study participants with cluster headache. Global scores from the questionnaire were compared between study participants in active bout and remission. Likewise, the scores were analyzed between participants whose remission period had lasted longer than 5 years (long-term) compared to less than 5 years (short-term). Lifestyle and clinical factors were further analyzed in study participants with high Shirom-Melamed Burnout Questionnaire scores (global score >3.75)."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The total number of individuals included in the analysis was 373/839 (44.5%). Scores above threshold (>3.75) were recorded in 65.9% (58/88) of study participants in an active bout compared to 37.5% (90/240) in the remission group (odds ratio [OR] = 3.22, 95% confidence interval [CI] = 1.93-5.38; p < 0.001). Participants in short-term remission similarly had a higher percentage of scores above threshold compared to participants in long-term remission (42.0% [73/174] vs. 22.2% [12/54], OR = 2.53, 95% CI = 1.25-5.14; p = 0.009). Participants with burnout scores above 3.75 were more likely to be females (OR = 3.25, 95% CI = 2.04-5.19; pcorrected <0.001) and report sleep deprivation as an attack trigger (OR = 2.24, 95% CI = 1.32-3.82; pcorrected = 0.034)."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Participants with cluster headache in our Swedish cohort reported higher scores for burnout symptoms, particularly during active bout. For participants in remission, the burnout symptoms score was inversely correlated to the number of years since their last active headache bout. When managing cluster headache in a clinical setting, it should be taken into consideration that this patient group has a substantial risk for developing burnout symptoms both in and out of an active bout. Future studies should evaluate how to best support patients with cluster headache handling exhaustion and promote recovery to improve their quality of life."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43001728/",
+   "doi": "https://doi.org/10.1111/head.70213",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43001647",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Burnout in European Paediatric Residents-A Pan European Survey",
+   "revista": "Acta Paediatr",
+   "autores": "Copley S, Karara N, Erdi J et al.",
+   "tipo_estudo": "",
+   "destaque": "Burnout remains a significant issue. Modifiable workplace factors contribute to burnout and are urgent targets for change.",
+   "resumo": [
+    {
+     "rotulo": "Aim",
+     "texto": "Recruitment and retention are significant issues in paediatrics. High workload, poor working conditions, and burnout are reported. Burnout is associated with physician ill-health and dissatisfaction at work. Understanding burnout among paediatric residents may aid in supporting doctors' wellbeing and maintaining a sustainable paediatric workforce. We aimed to establish the prevalence of burnout in European paediatric residents and identify associated factors."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A survey was disseminated via SurveyMonkey via the Young European Academy of Paediatrics (YEAP) to residents. Demographic data was collected; burnout was assessed using the Copenhagen Burnout Inventory (CBI). Burnout prevalence was calculated, regression analysis performed on potential associated factors, and COVID-19 impact assessed. Content analysis was performed on free text responses."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Two hundred and five residents from 11 countries responded. 60% (124/205) scored as burnt-out (43% primarily personally related, 15% primarily work-related or patient related). Thirty-nine percent considered quitting paediatric training. Scoring as burnt-out was associated with lack of training flexibility, working over 40 h/week and 24-h oncall. Content analysis highlighted practical organisational challenges, excessive administrative work and additional working outside of working hours. COVID-19 increased burnout and impacted on training for 73%."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Burnout remains a significant issue. Modifiable workplace factors contribute to burnout and are urgent targets for change."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43001647/",
+   "doi": "https://doi.org/10.1111/apa.70788",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43001211",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "White matter damage across frontal-subcortical circuits in carbon monoxide intoxication: Insights from fixel-based analysis",
+   "revista": "Eur J Radiol Open",
+   "autores": "Chang CC, Cheng JS, Chang HI et al.",
+   "tipo_estudo": "",
+   "destaque": "Damage in the frontal-subcortical circuits can be found in patients with carbon monoxide intoxication, which was correlated to the severity in the affected cognitive domains.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Carbon monoxide intoxication (COI) can cause white matter damage through neurotoxic effects. This study investigated these abnormalities within frontal-subcortical circuits and their association with cognitive impairment."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "91 COI patients at chronic stage and 20 heathy controls were enrolled. Patients were divided into 3 severity groups (normal cognition; mild cognitive impairment, MCI; and dementia). Voxel-based morphometry and fixel-based analysis were evaluated between patients, as well as across different severity subgroups, and healthy controls. Regression analysis was conducted between the fixel derived metrics and the cognitive composite scores. Significance was set as family-wise error-corrected p < 0.05."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "White matter damage can be detected across frontal-subcortical circuits at chronic stage of CO intoxication. Compared with healthy controls, damage in COI patients with normal cognition can be found in the cingulum even without significant grey matter lesion. The COI-MCI group showed sporadically localized white matter abnormalities in motor, dorsolateral prefrontal and anterior cingulate circuits, whereas the COI-Dementia group demonstrated deficits involving multiple major white matter tracts, including the anterior limb of the internal capsule and anterior thalamic radiation, as well as basal ganglia, temporal and occipital lobes. Reduced fixel derived metrics in periventricular and frontal bundles, including the internal capsule, superior corona radiata and cingulum were highly correlated with cognitive performance in executive function (Pearson's r up to 0.674)."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Damage in the frontal-subcortical circuits can be found in patients with carbon monoxide intoxication, which was correlated to the severity in the affected cognitive domains."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43001211/",
+   "doi": "https://doi.org/10.1016/j.ejro.2026.100823",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43002673",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Loss of DUSP2-RPA signaling enhances virtual memory T cell-mediated innate-like antiviral immunity",
+   "revista": "Proc Natl Acad Sci U S A",
+   "autores": "Tian W, Qiu Y, Wang W et al.",
+   "tipo_estudo": "",
+   "destaque": "T cell-specific deletion of RPA1 phenocopies these effects, leading to spontaneous TVM cell accumulation and rapid effector-like responses upon viral challenge. Together, our findings establish a DUSP2-RPA-R-loop axis that restrains TVM cell development and innate-like antiviral immunity.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Virtual memory CD8+ T (TVM) cells are antigen-inexperienced cells with rapid effector potential, but how their differentiation and antiviral activity are regulated remains unclear. Here, using an autoantibody-based screening strategy, we identify the phosphatase DUSP2 as a key regulator of TVM cell responses. Dual-specificity phosphatase 2 (DUSP2) deficiency enhances CD8+ T cell-dependent antiviral immunity and promotes the expansion of a highly activated CD44super-high TVM subset. Upon viral challenge, these TVM cells respond rapidly without antigen recognition and display enhanced effector and cytokine programs, supporting an innate-like mode of antiviral immunity rather than conventional antigen-specific recall. Mechanistically, DUSP2 interacts with the replication protein A (RPA) complex to regulate RPA2 phosphorylation and chromatin association. Disruption of the DUSP2-RPA axis promotes R-loop accumulation and increases chromatin accessibility, which in turn activates Eomesodermin (EOMES)-associated transcriptional programs, eventually promoting TVM cell differentiation. T cell-specific deletion of RPA1 phenocopies these effects, leading to spontaneous TVM cell accumulation and rapid effector-like responses upon viral challenge. Together, our findings establish a DUSP2-RPA-R-loop axis that restrains TVM cell development and innate-like antiviral immunity."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43002673/",
+   "doi": "https://doi.org/10.1073/pnas.2620849123",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43003398",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Safety, Accuracy, Empathy, Information Quality, and Readability of Chronic Obstructive Pulmonary Disease Health Advice Generated by 6 Large Language Models: Cross-Sectional Comparative Evaluation Study",
+   "revista": "JMIR Med Inform",
+   "autores": "Fan L, Liu R, Wu Z et al.",
+   "tipo_estudo": "",
+   "destaque": "In this standardized single-turn COPD question set, model performance differed across several evaluated outcomes, whereas the first-round safety test neither established a between-model difference nor demonstrated equivalence. All 6 models produced potentially unsafe advice, and 9 safety classifications changed between rounds conducted several months apart despite high pooled agreement. These findings support cautious use of LLMs for supplementary COPD education, with clinician oversight for individualized treatment decisions and ongoing reassessment as public-facing systems change.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Large language models (LLMs) are increasingly used for health information, but chronic obstructive pulmonary disease (COPD)-related questions often involve safety-sensitive decisions, including treatment escalation, oxygen therapy, and exacerbation management. Because generative outputs may vary across repeated prompts, response stability is also relevant to comparative evaluation."
+    },
+    {
+     "rotulo": "Objective",
+     "texto": "This study aims to compare 6 public-facing LLM chatbots in answering COPD-related public health questions across safety, accuracy, empathy, information quality, source transparency, readability, and 2-round response stability."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We developed a 55-question English COPD question bank from an initial 108-question pool using web-based retrieval, Google Trends, PubMed-informed topic review, patient education resources, and expert screening. Six public-facing chatbot products were evaluated in a primary first round and a post hoc independent second round, added after first-round data collection, using the same 55 questions. Visible model/mode labels are provided in the supplementary materials. Five blinded raters assessed manually scored outcomes against a Global Initiative for Chronic Obstructive Lung Disease (GOLD) 2026-centered reference standard, and 6 readability indices were calculated. The primary cross-model analysis used the first round; the second round was analyzed as a matched retest sensitivity analysis. Stability was assessed using exact agreement and Cohen κ for safety, quadratic-weighted κ for ordinal ratings, and absolute-agreement single-measure intraclass correlation coefficients (ICCs) for continuous scores and readability indices; 95% CIs used question-level bootstrap resampling."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The first round yielded 330 responses. Unsafe responses occurred in every model: ChatGPT, Gemini, Copilot, and DeepSeek each generated 4 unsafe responses (7.3%); Qwen generated 5 (9.1%); and Doubao generated 6 (10.9%). The overall safety comparison was not statistically significant (Cochran Q=1.909, df=5; P=.86); this finding should not be interpreted as evidence of equivalent safety. Accuracy, empathy, information-quality measures, source-transparency scores, and readability indices differed significantly across models. Across 330 matched question-model pairs, safety classifications agreed in 97.3% of pairs (κ=0.821, 95% CI 0.543-0.979); accuracy and empathy showed weighted κ values of 0.872 and 0.856, respectively; DISCERN (an instrument for judging the quality of written consumer health information on treatment choices) and adapted Ensuring Quality Information for Patients (EQIP) showed ICCs of 0.954 and 0.925. Most readability indices also showed high overall 2-round stability, although model-specific variability remained. Nine safety classifications changed across the 2 rounds (5 from safe to unsafe and 4 from unsafe to safe)."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "In this standardized single-turn COPD question set, model performance differed across several evaluated outcomes, whereas the first-round safety test neither established a between-model difference nor demonstrated equivalence. All 6 models produced potentially unsafe advice, and 9 safety classifications changed between rounds conducted several months apart despite high pooled agreement. These findings support cautious use of LLMs for supplementary COPD education, with clinician oversight for individualized treatment decisions and ongoing reassessment as public-facing systems change."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43003398/",
+   "doi": "https://doi.org/10.2196/104836",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43003199",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Regional cortical thinning in cerebral small vessel disease: associations with disease burden and cognitive and motor impairment",
+   "revista": "Neuroscience",
+   "autores": "Fu Y, Zhang F, Li M et al.",
+   "tipo_estudo": "",
+   "destaque": "Exploratory incremental analyses showed that regional cortical thickness remained associated with cognitive performance in several regions after accounting for the corresponding regional cortical volume, intracranial volume, and other covariates. These findings suggest that cortical thickness and cortical volume may capture partly distinct aspects of cortical morphology in CSVD, with cortical thickness potentially providing complementary information related to cognitive performance.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Cerebral small vessel disease (CSVD) is a major cause of cognitive decline and mobility impairment, yet whether cortical thickness and cortical volume provide similar or complementary information across different levels of CSVD burden remains unclear. We examined regional cortical thickness and cortical volume in healthy controls and participants with CSVD using high-resolution structural magnetic resonance imaging and FreeSurfer-based parcellation. Greater CSVD burden was associated with thinning across bilateral insular, occipital, temporal, cingulate, and cuneal regions, whereas cortical volume alterations were more spatially restricted, with only the left parahippocampal gyrus surviving Bonferroni correction. After adjustment for demographic characteristics, vascular risk factors, apolipoprotein E genotype, and mean cortical thickness, associations remained evident in the bilateral insulae and selected occipital and temporal regions. Regional cortical thickness was also related to cognitive and mobility performance. Exploratory incremental analyses showed that regional cortical thickness remained associated with cognitive performance in several regions after accounting for the corresponding regional cortical volume, intracranial volume, and other covariates. These findings suggest that cortical thickness and cortical volume may capture partly distinct aspects of cortical morphology in CSVD, with cortical thickness potentially providing complementary information related to cognitive performance."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43003199/",
+   "doi": "https://doi.org/10.1016/j.neuroscience.2026.11.013",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43003143",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Effects of Probiotics/Synbiotic Interventions on Cognitive Dysfunction in Alzheimer's or MCI: A Systematic Review and Meta‑Analysis of randomized controlled trials",
+   "revista": "Ageing Res Rev",
+   "autores": "Zhang M, Zhang H, Fu B et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Probiotics or synbiotics may improve cognitive test performance, but the certainty of evidence is very low because of risk of bias, substantial heterogeneity, and imprecision. Exploratory subgroup analyses did not provide clear evidence that disease category, intervention duration, intervention type, study-level mean age, strain composition, dosage, or cognitive assessment instrument modified the treatment effect. Larger, well-designed randomized trials are needed.",
+   "resumo": [
+    {
+     "rotulo": "Objective",
+     "texto": "To systematically evaluate the effects of probiotics or synbiotics on cognitive function in individuals with mild cognitive impairment, Alzheimer's disease, and related cognitive decline."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "PubMed, Embase, Web of Science, and the Cochrane Library were searched from inception to 20 September 2026. Randomized controlled trials comparing viable probiotics or synbiotics with placebo or usual care were included. Cognitive changes were pooled as standardized mean differences (SMDs) using a random-effects model. Subgroup, sensitivity, RoB 2, Egger, and GRADE assessments were conducted."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Ten trials involving 739 participants were included. Probiotics or synbiotics were associated with a possible improvement in cognitive function (SMD = 0.50, 95% CI: 0.19, 0.81; P = 0.002; Ι2 = 76%). The approximate 95% prediction interval was -0.57 to 1.57. No statistically significant differences in treatment effects were detected between subgroups defined by disease category, intervention duration, intervention type, study-level mean age, strain composition, dosage, or cognitive instrument. The effect was numerically larger in studies with a mean age ≤ 70 years, but this difference was not significant (P = 0.17) and was sensitive to individual studies. Sensitivity analyses maintained the direction and statistical significance of the pooled effect. Egger's test showed no significant small-study effects (Z = 1.00, P = 0.318). The certainty of evidence was very low."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Probiotics or synbiotics may improve cognitive test performance, but the certainty of evidence is very low because of risk of bias, substantial heterogeneity, and imprecision. Exploratory subgroup analyses did not provide clear evidence that disease category, intervention duration, intervention type, study-level mean age, strain composition, dosage, or cognitive assessment instrument modified the treatment effect. Larger, well-designed randomized trials are needed."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43003143/",
+   "doi": "https://doi.org/10.1016/j.arr.2026.103442",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43002856",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "The joint association of cognitive function and sedentary time on mortality risk in older adults: National health and nutrition examination survey 2011-2014",
+   "revista": "Geriatr Nurs",
+   "autores": "Wilson SA, Churilla JR, Bigliassi M et al.",
+   "tipo_estudo": "",
+   "destaque": "The combination of cognitive function scores with sedentary time has been shown to be strongly associated with increased risks of both all-cause and cardiovascular disease-related mortality.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Examining the joint association of cognitive function and sedentary time may provide insight into the complex mechanisms underlying mortality risk within older adults. This longitudinal observational study examines the joint association of cognitive function and sedentary time on mortality risk in older adults."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Sample included older adult participants from the 2011-2014 National Health and Nutrition Examination Survey. The Digit Symbol Substitution Test, Consortium to Establish a Registry for Alzheimer's Disease subtests, and Animal Fluency were used to assess cognitive function. Average daily sitting and television time represented sedentary time. Cognitive function (lowest quartile) and sedentary time (above median) were combined for analysis."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Older adult participants (N = 2,230; ≥ 60 years; 49% male) were shown to have a significant (p < 0.05) increase in mortality within the lowest quartile of cognitive function and above-median sedentary time. A 2.8, 3.9, 2.8, and 2.5-fold increased risk for all-cause mortality for the Digit Symbol Substitution Test, Consortium to Establish a Registry for Alzheimer's Disease Immediate Learning, Delayed Learning, Animal Fluency test, respectively, were observed. Our analysis also revealed a 3.8, 3.2, 3.5, and 2.7-fold increased risk for cardiovascular disease-related mortality for the Digit Symbol Substitution Test, Consortium to Establish a Registry for Alzheimer's Disease Immediate Learning, Delayed Learning, and Animal Fluency test, respectively."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "The combination of cognitive function scores with sedentary time has been shown to be strongly associated with increased risks of both all-cause and cardiovascular disease-related mortality."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43002856/",
+   "doi": "https://doi.org/10.1016/j.gerinurse.2026.104420",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43002748",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Neurocognitive Outcomes After Cranial and Craniofacial Surgery: Global Research Trends and Emerging Themes",
+   "revista": "J Craniofac Surg",
+   "autores": "Kincaid E, Baer TM, Ganti L",
+   "tipo_estudo": "",
+   "destaque": "Research on neurocognitive outcomes after cranial and craniofacial surgery has expanded and become increasingly patient-centered. Recent themes emphasize neurodevelopment, long-term cognitive function, quality of life, and multidisciplinary perioperative management.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Neurocognitive outcomes are increasingly recognized as important after cranial and craniofacial procedures, but the structure and evolution of this literature have not been characterized comprehensively. The Web of Science Core Collection was used to identify 657 publications from 1991 through June 2026. Publication output, citations, contributing countries and institutions, international collaboration, and keyword co-occurrence were examined using Web of Science, VOSviewer, and Microsoft Excel. Annual publication output increased substantially over the study period. The United States produced the most publications (n=241), followed by China (n=81), Italy and Japan (n=49 each), and England (n=34). The University of California system and Harvard University were the leading institutional contributors. Keyword mapping demonstrated an interdisciplinary literature spanning craniotomy, craniosynostosis, traumatic brain injury, anesthesia, neuro-oncology, neurodevelopment, cognition, and quality of life. Research on neurocognitive outcomes after cranial and craniofacial surgery has expanded and become increasingly patient-centered. Recent themes emphasize neurodevelopment, long-term cognitive function, quality of life, and multidisciplinary perioperative management."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43002748/",
+   "doi": "https://doi.org/10.1097/SCS.0000000000013567",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
   },
   {
    "id": "pmid-42996849",
@@ -1182,7 +2094,7 @@
    "titulo": "Sleeve Gastrectomy With Jejunojejunal Bypass Versus Sleeve Gastrectomy: 12-Month Outcomes From a Propensity Score-Matched Analysis",
    "revista": "Clin Obes",
    "autores": "Sun Y, Zhang Y, Xue JM et al.",
-   "tipo_estudo": "",
+   "tipo_estudo": "Estudo observacional",
    "destaque": "Evidence for differences in metabolic, nutritional and safety-related outcomes remained inconclusive. The central observed bypass-proportion interval may inform prospective evaluation but not current operative selection.",
    "resumo": [
     {
@@ -1398,7 +2310,7 @@
    "id": "pmid-42994542",
    "fonte": "PubMed",
    "tipo_fonte": "artigo",
-   "titulo": "From NAD+ elevation to clinical benefit: tissue-specific regulation and translational barriers in aging and age-related disease",
+   "titulo": "From NAD+ elevation to clinical benefit: Tissue-specific regulation and translational barriers in aging and age-related disease",
    "revista": "Pharmacol Res",
    "autores": "Pei Z, Zhong M, Jiang Q et al.",
    "tipo_estudo": "Revisão",
@@ -1406,7 +2318,7 @@
    "resumo": [
     {
      "rotulo": "",
-     "texto": "Nicotinamide adenine dinucleotide (NAD+) decline has been implicated in aging and age-related disease, and precursor supplementation with nicotinamide riboside (NR) or nicotinamide mononucleotide (NMN) has shown efficacy in preclinical models. Human trials, however, have produced inconsistent functional outcomes, and the sources of this translational gap remain poorly defined. We combined a bibliometric analysis of 3,271 aging-focused NAD+ publications (2004-2025) with a critical synthesis of mechanistic and clinical evidence to localize where and why preclinical findings fail to translate. The bibliometric analysis revealed three structural features of the literature: (i) original research articles dominated the corpus, whereas the document-type classification cannot distinguish preclinical experiments from human observational or interventional studies; (ii) research is siloed across disease domains with limited cross-tissue comparison; and (iii) intervention-oriented keywords (NMN, NR, supplementation, drug delivery) have outpaced empirical clinical validation. Mechanistic synthesis showed that these structural gaps correspond to biological heterogeneity: NAD+ biosynthesis, consumption, redox balance, and subcellular compartmentalization are tissue- and compartment-specific, such that systemic precursor elevation does not uniformly restore functional NAD+ in disease-relevant tissues. Four subcellular pools-nuclear, cytosolic, mitochondrial, and axonal-each possess distinct rate-limiting bottlenecks, and hepatic metabolic reserve introduces an overlooked source of inter-individual variability. Across neurodegeneration, metabolic disease, cardiovascular aging, and sarcopenia, NAD+ dysregulation follows disease-specific mechanisms rather than a universal decline phenotype. We propose a precision-medicine framework that shifts the core question from whether NAD+ can be elevated to whether a defined intervention corrects a specific NAD+ defect in the appropriate tissue and subcellular compartment. This framework provides a structured basis for designing next-generation NAD+-targeted trials with tissue-specific biomarkers and function-oriented endpoints."
+     "texto": "Nicotinamide adenine dinucleotide (NAD+) decline has been implicated in aging and age-related disease, and precursor supplementation with nicotinamide riboside (NR) or nicotinamide mononucleotide (NMN) has shown efficacy in preclinical models. Human trials, however, have produced inconsistent functional outcomes, and the sources of this translational gap remain poorly defined. We combined a bibliometric analysis of 3271 aging-focused NAD+ publications (2004-2025) with a critical synthesis of mechanistic and clinical evidence to localize where and why preclinical findings fail to translate. The bibliometric analysis revealed three structural features of the literature: (i) original research articles dominated the corpus, whereas the document-type classification cannot distinguish preclinical experiments from human observational or interventional studies; (ii) research is siloed across disease domains with limited cross-tissue comparison; and (iii) intervention-oriented keywords (NMN, NR, supplementation, drug delivery) have outpaced empirical clinical validation. Mechanistic synthesis showed that these structural gaps correspond to biological heterogeneity: NAD+ biosynthesis, consumption, redox balance, and subcellular compartmentalization are tissue- and compartment-specific, such that systemic precursor elevation does not uniformly restore functional NAD+ in disease-relevant tissues. Four subcellular pools-nuclear, cytosolic, mitochondrial, and axonal-each possess distinct rate-limiting bottlenecks, and hepatic metabolic reserve introduces an overlooked source of inter-individual variability. Across neurodegeneration, metabolic disease, cardiovascular aging, and sarcopenia, NAD+ dysregulation follows disease-specific mechanisms rather than a universal decline phenotype. We propose a precision-medicine framework that shifts the core question from whether NAD+ can be elevated to whether a defined intervention corrects a specific NAD+ defect in the appropriate tissue and subcellular compartment. This framework provides a structured basis for designing next-generation NAD+-targeted trials with tissue-specific biomarkers and function-oriented endpoints."
     }
    ],
    "link": "https://pubmed.ncbi.nlm.nih.gov/42994542/",
@@ -2960,6 +3872,52 @@
     "cognicao"
    ],
    "visto_em": "2026-11-09T13:49:58.995883+00:00"
+  },
+  {
+   "id": "pmid-42986946",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Going Beyond GLP-1",
+   "revista": "Science",
+   "autores": "Nusinovich Y, Maroso M, OsÓRio J et al.",
+   "tipo_estudo": "",
+   "destaque": "The growing complexity of targeting metabolism.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "The growing complexity of targeting metabolism."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42986946/",
+   "doi": "https://doi.org/10.1126/science.aen0869",
+   "data": "2026-11-05T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-42986942",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "GLP-1 therapies and cancer risk",
+   "revista": "Science",
+   "autores": "Hicks B, Pottegård A",
+   "tipo_estudo": "",
+   "destaque": "Correct interpretation of evidence is essential in a rapidly evolving medical landscape.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Correct interpretation of evidence is essential in a rapidly evolving medical landscape."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42986942/",
+   "doi": "https://doi.org/10.1126/science.aei1490",
+   "data": "2026-11-05T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
   },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261104005226-htm",
@@ -7475,6 +8433,38 @@
     "cognicao"
    ],
    "visto_em": "2026-11-09T13:49:58.995883+00:00"
+  },
+  {
+   "id": "pmid-42936958",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Challenges in obese liver transplant recipients",
+   "revista": "Curr Opin Organ Transplant",
+   "autores": "Surendran S, Bharathan VK, Varghese CT",
+   "tipo_estudo": "Revisão",
+   "destaque": "Individualized recipient assessment, coordinated perioperative optimization, and long-term metabolic surveillance are essential to improve outcomes. Future research should refine obesity assessment beyond BMI and clarify the optimal integration of pharmacologic and surgical weight-loss strategies in liver transplantation candidates before and after transplantation.",
+   "resumo": [
+    {
+     "rotulo": "Purpose Of Review",
+     "texto": "The global obesity epidemic has significantly altered the epidemiology of chronic liver disease and liver transplantation, with metabolic dysfunction-associated steatohepatitis emerging as a rapidly increasing indication for liver transplantation worldwide. Obesity in liver transplantation candidates is frequently accompanied by sarcopenia, frailty, cardiovascular disease, and metabolic comorbidities, creating complex perioperative and long-term management challenges. This review summarizes contemporary evidence regarding assessment, pretransplant preparation, perioperative management, and long-term outcomes of obese liver transplant recipients, while highlighting evolving therapeutic strategies and unresolved clinical questions."
+    },
+    {
+     "rotulo": "Recent Findings",
+     "texto": "Recent literature emphasizes that BMI alone inadequately characterizes obesity in cirrhosis, with body composition, sarcopenic obesity, visceral adiposity, and frailty emerging as important prognostic factors. Structured prehabilitation, lifestyle modification, incretin-based pharmacotherapy, and selective metabolic bariatric surgery have shown promising results in carefully selected patients. Although obesity increases perioperative complexity and postoperative complications, carefully selected obese recipients can achieve graft and patient survival comparable to nonobese recipients."
+    },
+    {
+     "rotulo": "Summary",
+     "texto": "Obesity should not be considered a contraindication to liver transplantation. Individualized recipient assessment, coordinated perioperative optimization, and long-term metabolic surveillance are essential to improve outcomes. Future research should refine obesity assessment beyond BMI and clarify the optimal integration of pharmacologic and surgical weight-loss strategies in liver transplantation candidates before and after transplantation."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42936958/",
+   "doi": "https://doi.org/10.1097/MOT.0000000000001321",
+   "data": "2026-10-27T00:00:00+00:00",
+   "temas": [
+    "obesidade",
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-10T10:48:42.790864+00:00"
   },
   {
    "id": "pmid-42933419",
