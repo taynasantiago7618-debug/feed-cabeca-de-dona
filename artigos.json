@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-10T10:48:42.790864+00:00",
+ "atualizado_em": "2026-11-11T10:53:59.147733+00:00",
  "titulo": "Feed Científico Cabeça de Dona",
  "subtitulo": "Ciência nova, todo dia, sobre o que move a sua saúde",
  "temas": [
@@ -30,6 +30,1154 @@
   }
  ],
  "artigos": [
+  {
+   "id": "pmid-43007835",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Rhodotorula mucilaginosa DM2025 ameliorates obesity through cholesterol binding and the gut mycobiome-BAT PPARγ/UCP1 axis",
+   "revista": "Gut Microbes",
+   "autores": "Jing Y, Xiang Y, Zafir OC et al.",
+   "tipo_estudo": "",
+   "destaque": "Additionally, physical cholesterol binding to the yeast cell surface provides a complementary cholesterol‑reduction mechanism. Thus, R. mucilaginosa DM2025 represents a promising live probiotic candidate for obesity intervention.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Obesity is a major global health challenge, necessitating safe and effective therapies. Although probiotics are promising for obesity management, research has focused on bacteria, leaving non-Saccharomyces yeasts underexplored. Here, we investigated the anti‑obesity mechanisms of Rhodotorula mucilaginosa DM2025, isolated from the healthy murine gut. To test whether benefits depend on viable cells, high‑fat diet‑fed mice received either live yeast or its cell‑free supernatant, followed by integrated physiological, genomic, and metabolomic analyzes. Live yeast, but not supernatant, significantly reduced body weight gain, improved serum lipids, and was associated with activation of brown adipose tissue thermogenesis (upregulated PPARγ, PGC1α, UCP1). Though the supernatant lowered total cholesterol, it failed to affect weight or thermogenic genes, indicating cholesterol‑lowering and weight reduction are distinct processes. Live cells were enriched in propionate, indole, and carotenoid‑related metabolites, with genomic support for their biosynthesis. Live yeast reshaped the gut mycobiome, promoting Basidiomycota/Rhodotorula dominance; this fungal restructuring was absent in HFD controls. These findings suggest that R. mucilaginosa DM2025 anti‑obesity efficacy relies on the continuous metabolic activity of live cells, producing thermogenesis‑associated metabolites that may contribute to BAT activation. Additionally, physical cholesterol binding to the yeast cell surface provides a complementary cholesterol‑reduction mechanism. Thus, R. mucilaginosa DM2025 represents a promising live probiotic candidate for obesity intervention."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43007835/",
+   "doi": "https://doi.org/10.1080/19490976.2026.2760059",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43009103",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Nutrition Care Strategies at the Intersection of Menopause and Obesity Pharmacotherapy",
+   "revista": "J Nutr",
+   "autores": "Christensen S, Hurtado Andrade MD, Sampson-Paine K et al.",
+   "tipo_estudo": "",
+   "destaque": "Clinical strategies to mitigate these risks, including protein optimization, micronutrient monitoring, menopausal hormone therapy (osteoporosis/musculoskeletal health), and multidisciplinary care, are discussed alongside research priorities to inform targeted nutrition frameworks. Addressing these gaps is essential to ensure safe, effective, and sustainable obesity management for women in midlife and beyond.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "The premenopause to menopause transition, known as perimenopause, is a critical period of metabolic vulnerability, characterized by hormonal changes, shifts in body composition, and increased cardiometabolic risk. Concurrently, incretin mimetic pharmacotherapies have emerged as highly effective treatments for obesity, achieving weight reductions that are approximating those previously observed only after bariatric surgery. While these agents confer substantial benefits, their mechanisms-appetite suppression, delayed gastric emptying, and enhanced satiety-introduce nutritional risks that intersect with pre-existing vulnerabilities of women experiencing this transition. Reduced energy intake and inadequate micronutrient intake, combined with estrogen deficiency, heighten the risk for osteoporosis and sarcopenic obesity. Likewise, gastrointestinal adverse events further compromise dietary quality and hydration, while aging physiology amplifies susceptibility to malnutrition. This narrative review synthesizes current evidence on nutritional risks during perimenopause in the context of incretin mimetic pharmacotherapy, highlighting overlapping pathways that influence musculoskeletal health, metabolic resilience, and quality of life. Clinical strategies to mitigate these risks, including protein optimization, micronutrient monitoring, menopausal hormone therapy (osteoporosis/musculoskeletal health), and multidisciplinary care, are discussed alongside research priorities to inform targeted nutrition frameworks. Addressing these gaps is essential to ensure safe, effective, and sustainable obesity management for women in midlife and beyond."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43009103/",
+   "doi": "https://doi.org/10.1016/j.tjnut.2026.101936",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43009010",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Paraspinal Muscle Quality Modifies Frailty-Related Functional Recovery After Lumbar Instrumented Fusion",
+   "revista": "World Neurosurg",
+   "autores": "Eryilmaz F",
+   "tipo_estudo": "",
+   "destaque": "Paraspinal muscle quality modified frailty-related recovery following lumbar instrumented fusion. Combined assessment of frailty and muscle quality may be useful for preoperative risk assessment.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Frailty and paraspinal muscle degeneration are associated with adverse outcomes after lumbar fusion surgery. However, whether paraspinal muscle quality modifies frailty-related functional recovery remains unclear. This study evaluated the interaction between frailty and multifidus fatty infiltration (MFI) in predicting functional recovery following lumbar instrumented fusion."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A retrospective analysis was performed in 124 patients who underwent lumbar instrumented fusion for degenerative lumbar spine disorders between January 2020 and December 2024. Frailty was assessed using the 11-item Modified Frailty Index, and paraspinal muscle quality was quantified using MFI on preoperative magnetic resonance imaging. Functional recovery was defined as improvement in Oswestry Disability Index (ODI) score at 6 months. Multivariable linear regression, including a Frailty × MFI interaction term, was used to evaluate associations with recovery."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Higher MFI was associated with less ODI improvement. In multivariable analysis, frailty (β = -0.31, p < 0.001), MFI (β = -0.27, p = 0.001), and age (β = -0.16, p = 0.014) were independently associated with poorer functional recovery. A significant Frailty × MFI interaction was observed (β = -0.23, p = 0.003), indicating that the adverse association between frailty and recovery was stronger with greater MFI. ODI improvement ranged from 29 ± 10 points in non-frail patients with preserved muscle quality to 11 ± 7 points in frail patients with poor muscle quality."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Paraspinal muscle quality modified frailty-related recovery following lumbar instrumented fusion. Combined assessment of frailty and muscle quality may be useful for preoperative risk assessment."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43009010/",
+   "doi": "https://doi.org/10.1016/j.wneu.2026.125507",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43008589",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Associations between sarcopenic obesity subtypes, cognitive function and neurodegenerative diseases risk in middle-aged and older adults",
+   "revista": "Geriatr Nurs",
+   "autores": "Yu D, Liu T, Qian J et al.",
+   "tipo_estudo": "",
+   "destaque": "Distinct SO subtypes were associated with different cognitive profiles. Recognizing the CS-MSI subtype, which conventional obesity- and metabolism-based screening would miss, may improve early identification of middle-aged and older adults at risk, pending validation in independent cohorts.",
+   "resumo": [
+    {
+     "rotulo": "Purpose/Aims",
+     "texto": "This study aimed to identify subtypes of sarcopenic obesity (SO) in middle-aged and older adults and examine their associations with cognitive function and the risk of incident neurodegenerative diseases (NDs), to inform subtype-specific screening."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We utilized data from the China Health and Retirement Longitudinal Study (CHARLS), with baseline in 2011 and follow-up through 2020, incorporating 1,010 middle-aged and older adults with SO. Latent class analysis (LCA) was used to identify SO subtypes. Cross-sectional associations of subtypes and cognitive function were examined using linear regression models, and Cox proportional hazards models were applied to evaluate association with incident NDs."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Three SO subtypes were identified: Covert sarcopenia-muscle strength imbalance (CS-MSI), Low metabolic burden-muscle maintenance (LMB-MM), and High metabolic burden-inflammation driven (HMB-ID). Compared with LMB-MM, the CS-MSI subtype had lower performance across multiple cognitive domains, whereas the HMB-ID subtype showed a comparatively prominent decrement in orientation (β = -1.12, 95% CI: -1.66 to -0.58). Longitudinally, the CS-MSI subtype showed a directionally higher but non-significant hazard of incident NDs."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Distinct SO subtypes were associated with different cognitive profiles. Recognizing the CS-MSI subtype, which conventional obesity- and metabolism-based screening would miss, may improve early identification of middle-aged and older adults at risk, pending validation in independent cohorts."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43008589/",
+   "doi": "https://doi.org/10.1016/j.gerinurse.2026.104418",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "cognicao",
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43008129",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Low Muscle Mechanical Power, Worse Clinical Outcomes? A Cohort of Patients on Hemodialysis",
+   "revista": "Med Sci Sports Exerc",
+   "autores": "Disessa HS, Duarte MP, Roure JG et al.",
+   "tipo_estudo": "",
+   "destaque": "In patients on hemodialysis, low muscle mechanical power was strongly associated with a greater mortality risk, particularly among older patients. These findings position low muscle mechanical power as a clinically and potentially relevant aging-related condition.",
+   "resumo": [
+    {
+     "rotulo": "Background And Hypothesis",
+     "texto": "In older adults, low muscle mechanical power is an independent predictor of adverse clinical outcomes. In patients with chronic kidney disease, this has not yet been explored. In this study, we hypothesized that low muscle mechanical power is independently associated with increased risks of all-cause mortality and hospitalization in patients on hemodialysis."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "This study is a secondary analysis of the SARC-HD cohort, which enrolled patients from 19 dialysis centers across Brazil. Adults undergoing hemodialysis were assessed at baseline for relative muscle mechanical power using the five times sit-to-stand test (5-STSrel). Low relative muscle mechanical power was defined based on sex- and age-specific lowest tertiles (p33) of STSrel values (W⋅kg -1) whithin our cohort. All-cause mortality and hospitalizations were collected through a 24-month follow-up period. Cox proportional hazards regression was modeled, with adjustment for clinically relevant confounders."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "A total of 922 adults on hemodialysis were included (48.6% ≥60 years and 61.5% males), with 12.8% mortality and 35.4% hospitalization rates. Low muscle mechanical power was associated with an increased risk of all-cause mortality, with an adjusted hazard ratio (aHR) of 1.67 (95% CI: 1.15 - 2.41), but it was not associated with hospitalization (aHR=1.08, 95% CI: 0.87-1.36). In a subgroup analysis of age, the all-cause mortality outcome was significant in patients ≥ 60 years, with an aHR of 2.19 (95% CI: 1.41-3.40), but not in young (aHR=1.02, 95% CI: 0.50-2.10)."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "In patients on hemodialysis, low muscle mechanical power was strongly associated with a greater mortality risk, particularly among older patients. These findings position low muscle mechanical power as a clinically and potentially relevant aging-related condition."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43008129/",
+   "doi": "https://doi.org/10.1249/MSS.0000000000004208",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43004130",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Clinical role, biomechanical aspects, and barriers to the use of hip protectors in fracture prevention: insights from an Italian Delphi consensus panel",
+   "revista": "Rev Endocr Metab Disord",
+   "autores": "Giustina A, Camozzi V, Doga M et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Patients' adherence and device acceptability were identified as major determinants of effectiveness, while poor patients' acceptance, limited clinician awareness and lack of reimbursement were recognized as major barriers to implementation. This Italian Delphi consensus highlights the potential role of hip protectors as part of a comprehensive strategy for hip fracture prevention in high-risk older adults.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Hip fractures represent a major cause of morbidity, disability and mortality among older adults. Endocrinologists, bone experts and health authorities are called to all possible efforts in order to prevent osteoporosis, sarcopenia and falls, which are all causal factors of hip fractures due to their huge impact on quality of life, short- and long-term prognosis and direct and indirect costs for health systems worldwide. Hip protectors were proposed as a non-pharmacological intervention to reduce the impact forces transmitted to the proximal femur during falls. However, their clinical use remains limited, and uncertainty persists on their indications, efficacy, and implementation in routine practice. The aim of this study was to explore expert consensus on the clinical role, indications and barriers to the use of hip protectors in older adults at risk of falls. A modified Delphi consensus study organized by Glucocorticoid Induced Osteoporosis Skeletal Endocrinology Group (GIOSEG) involved a multidisciplinary panel of Italian experts in the management of osteoporosis, fragility fractures, and fall prevention. The Delphi process consisted of two rounds of anonymous surveys in which participants rated a series of statements using a six-point Likert scale. The questionnaire covered four domains, including relevance of falls into hip fractures, clinical role of hip protectors, barriers to their use, current gaps and future perspectives. Thirty-five experts participated in the first round and thirty-three completed the second round. Consensus was reached on several key aspects of hip fracture prevention. Hip protectors were recognized as a potentially useful adjunctive intervention, particularly in older adults at very high risk of falls and fractures. Patients' adherence and device acceptability were identified as major determinants of effectiveness, while poor patients' acceptance, limited clinician awareness and lack of reimbursement were recognized as major barriers to implementation. This Italian Delphi consensus highlights the potential role of hip protectors as part of a comprehensive strategy for hip fracture prevention in high-risk older adults."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43004130/",
+   "doi": "https://doi.org/10.1007/s11154-026-10095-w",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43004813",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Metabolic Vulnerability Despite Normal BMI: From Adverse Body Composition to Ectopic Fat and Organ Dysfunction",
+   "revista": "Am J Physiol Endocrinol Metab",
+   "autores": "Bahçebaşı S",
+   "tipo_estudo": "Revisão",
+   "destaque": "We also summarize advances in body composition and ectopic fat assessment, including dual-energy X-ray absorptiometry (DXA), magnetic resonance imaging (MRI), computed tomography (CT), bioelectrical impedance analysis (BIA), and artificial intelligence-assisted imaging, together with emerging therapeutic strategies focused on reducing visceral and ectopic fat, preserving skeletal muscle, and restoring metabolic tissue function rather than pursuing weight loss alone. Moving beyond BMI toward integrated assessment of body composition, adipose tissue biology, and ectopic fat distribution may improve recognition of metabolic vulnerability, facilitate earlier identification of individuals at increased cardiometabolic risk, and support more precise prevention and treatment strategies.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "BMI remains the most widely used measure for defining overweight and obesity; however, it does not adequately capture body fat distribution, skeletal muscle mass and quality, adipose tissue function, or ectopic fat accumulation. Consequently, individuals with a normal BMI may exhibit substantial metabolic abnormalities, whereas some individuals with obesity remain relatively metabolically healthy. These observations challenge the assumption that BMI reliably reflects metabolic health and highlight the concept of metabolic vulnerability despite normal body weight. This narrative review examines the biological basis of this metabolic vulnerability and evaluates the evidence supporting a shift from BMI-centered assessment toward body composition-based phenotyping. We discuss the interrelated roles of impaired adipose tissue expandability and function, visceral adiposity, chronic low-grade inflammation, adipose tissue fibrosis, skeletal muscle dysfunction, and ectopic lipid deposition in the development of insulin resistance and organ-specific metabolic dysfunction. Particular emphasis is placed on adipose tissue dysfunction as a potential unifying mechanism underlying metabolic heterogeneity among individuals with similar BMI. The review further examines adverse body composition across normal-weight metabolic phenotypes, including normal-weight obesity (NWO), metabolically unhealthy normal weight (MUNW), lean prediabetes, lean T2DM, lean MASLD, hypertension, cardiovascular disease, and chronic kidney disease. Excess visceral adiposity, unfavorable fat-to-lean mass distribution, impaired skeletal muscle quality, and ectopic fat accumulation in the liver, pancreas, heart, skeletal muscle, and other organs may contribute to metabolic risk independently of BMI. We also summarize advances in body composition and ectopic fat assessment, including dual-energy X-ray absorptiometry (DXA), magnetic resonance imaging (MRI), computed tomography (CT), bioelectrical impedance analysis (BIA), and artificial intelligence-assisted imaging, together with emerging therapeutic strategies focused on reducing visceral and ectopic fat, preserving skeletal muscle, and restoring metabolic tissue function rather than pursuing weight loss alone. Moving beyond BMI toward integrated assessment of body composition, adipose tissue biology, and ectopic fat distribution may improve recognition of metabolic vulnerability, facilitate earlier identification of individuals at increased cardiometabolic risk, and support more precise prevention and treatment strategies."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43004813/",
+   "doi": "https://doi.org/10.1152/ajpendo.90097.2026",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43004759",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Association between anticholinergic burden and geriatric outcomes in older adults with type 2 diabetes mellitus",
+   "revista": "Intern Med J",
+   "autores": "Baysoy BS, Soysal P, Pasin Ö et al.",
+   "tipo_estudo": "",
+   "destaque": "Anticholinergic medication exposure is observed in more than half of older adults with T2DM. Increased anticholinergic burden is an independent risk factor for sarcopenia, malnutrition and gait, and cognitive and functional decline in older T2DM patients. The use of anticholinergic drugs in older patients with T2DM should be carefully evaluated and strategies to minimise exposure implemented.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Older adults with type 2 diabetes mellitus (T2DM) frequently require multiple medications with anticholinergic and sedative properties for the management of diabetes-related complications and comorbidities, and diabetes itself predisposes patients to geriatric syndromes - making this population particularly vulnerable to the cumulative effects of anticholinergic burden."
+    },
+    {
+     "rotulo": "Aims",
+     "texto": "This study aimed to determine the association between anticholinergic burden and geriatric syndromes in T2DM."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "This retrospective study analysed comprehensive geriatric assessments of 715 T2DM outpatients from November 2018 to August 2024. Anticholinergic and sedative drug burden was evaluated using the Drug Burden Index, Anticholinergic Cognitive Burden Scale and Anticholinergic Risk Scale."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Among the patients with T2DM (80.63 ± 7.3; 70.3% female), 309 had no anticholinergic burden, 320 had low burden and 86 had high burden. After adjustment for dementia, Parkinson disease and HbA1c, high anticholinergic burden was significantly associated with lower scores on the Barthel Index (P = 0.003; adjusted β = -10.22), Mini Nutritional Assessment (P = 0.005; adjusted β = -1.84), Mini-Mental State Examination (P = 0.001; adjusted β = -2.59) and the Tinetti test (P = 0.006; adjusted β = -2.11), as well as higher Timed Up and Go scores (P = 0.001; adjusted β = 5.13) and an increased risk of sarcopenia (P = 0.031; adjusted odds ratios = 1.83)."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Anticholinergic medication exposure is observed in more than half of older adults with T2DM. Increased anticholinergic burden is an independent risk factor for sarcopenia, malnutrition and gait, and cognitive and functional decline in older T2DM patients. The use of anticholinergic drugs in older patients with T2DM should be carefully evaluated and strategies to minimise exposure implemented."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43004759/",
+   "doi": "https://doi.org/10.1111/imj.70697",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43003902",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Resistance exercise to attenuate lean mass loss during tirzepatide therapy for obesity: a randomized controlled trial",
+   "revista": "Nat Med",
+   "autores": "Green DJ, Haynes A, Underwood DR et al.",
+   "tipo_estudo": "",
+   "destaque": "In conclusion, resistance exercise training attenuated loss of total lean soft tissue mass, representing an effective adjunct to tirzepatide anti-obesity therapy. Australian New Zealand Clinical Trials Registry identifier: ACTRN12623001236684 .",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Incretin mimetics as obesity therapy induce substantial weight and fat loss but also decrease lean soft tissue mass, possibly impairing skeletal muscle function. Here, in this two-arm randomized controlled trial of adding resistance exercise (REx) to tirzepatide (T), 120 adults with overweight or obesity were treated with tirzepatide and randomized to thrice-weekly resistance exercise training or usual activities for 40 weeks. Tirzepatide was safe, and most participants tolerated up-titration to 15 mg weekly. Adherence to resistance exercise was 91%. Weight loss achieved was similar (T = -22.61 kg, T+REx = -22.28 kg, P = 0.694). For primary outcomes, loss of total fat mass was similar (T = -17.19 kg, T+REx = -17.98 kg, P = 0.700; between-group difference = -0.77 kg, 95% confidence interval (CI): -2.14 kg to 0.60 kg), but resistance exercise reduced loss of total lean soft tissue mass (T = -4.67 kg, T+REx = -3.57 kg, P < 0.001; between-group difference = 1.09 kg, 95% CI: 0.43-1.75 kg). For related endpoints, resistance exercise reduced loss of appendicular lean soft tissue mass (T = -3.55 kg, T+REx = -2.92 kg, P < 0.001). Upper and lower body muscle strength decreased with tirzepatide (bench press -4.09 kg, lat pulldown -4.42 kg, knee extension -4.42 kg) but increased with T+REx (+4.68 kg, +8.58 kg, +5.88 kg, respectively, all P < 0.001 versus tirzepatide). In conclusion, resistance exercise training attenuated loss of total lean soft tissue mass, representing an effective adjunct to tirzepatide anti-obesity therapy. Australian New Zealand Clinical Trials Registry identifier: ACTRN12623001236684 ."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43003902/",
+   "doi": "https://doi.org/10.1038/s41591-026-04752-5",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "sarcopenia",
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43005599",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Factors Influencing Resistance Exercise Engagement Along the Intention-Behavior Continuum in Older Adults with Diabetes and Possible Sarcopenia: A Qualitative Study",
+   "revista": "Patient Prefer Adherence",
+   "autores": "Han L, Chen S, Cheng L",
+   "tipo_estudo": "",
+   "destaque": "Older adults with diabetes and possible sarcopenia described barriers to initiating and sustaining resistance exercise across the intention-behavior continuum. Their accounts highlight the relevance of perceptions, concerns, self-regulation, and sociocultural factors beyond motivation alone. These findings may inform patient-centered, stage-specific interventions tailored to patients' preferences and daily routines.",
+   "resumo": [
+    {
+     "rotulo": "Purpose",
+     "texto": "Resistance exercise is considered an effective strategy for slowing muscle decline in older adults with diabetes and possible sarcopenia, but sustained engagement remains limited.Existing evidence has not fully explained the challenges involved in initiating and maintaining resistance exercise. The Multi-Process Action Control framework describes exercise engagement through intention establishment, behavioral regulation, and sustained engagement. This study aimed to explore factors influencing resistance exercise across the intention-behavior continuum in older adults with diabetes and possible sarcopenia."
+    },
+    {
+     "rotulo": "Patients And Methods",
+     "texto": "A descriptive qualitative study was conducted. Purposive sampling was used to recruit 37 older adults with diabetes and possible sarcopenia from two community health service centers between December 2024 and February 2025. Semi-structured interviews were conducted and analyzed using directed content analysis. Data collection continued until data saturation was reached."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Three themes and seven subthemes were identified across the intention-behavior continuum: (1) reflective barriers to exercise intention formation, including low perceived susceptibility and limited awareness of possible sarcopenia, negative attitudes about muscle strength decline, and fear of hypoglycemia and resistance exercise-related injury; (2) regulatory factors in behavior enactment, including difficulty developing and implementing feasible resistance exercise plans and problem solving through interpersonal resources; and (3) reflexive challenges to sustained engagement, including absence of stable cues for resistance exercise and resistance exercise in relation to self-identity."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Older adults with diabetes and possible sarcopenia described barriers to initiating and sustaining resistance exercise across the intention-behavior continuum. Their accounts highlight the relevance of perceptions, concerns, self-regulation, and sociocultural factors beyond motivation alone. These findings may inform patient-centered, stage-specific interventions tailored to patients' preferences and daily routines."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43005599/",
+   "doi": "https://doi.org/10.2147/PPA.S640947",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43009382",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Temporal dynamics and prognostic value of serum calcitonin during tirzepatide therapy in adults with obesity",
+   "revista": "Obes Res Clin Pract",
+   "autores": "Angelopoulos N, Simeakis G, Androulakis I et al.",
+   "tipo_estudo": "",
+   "destaque": "Tirzepatide was associated with a small early increase in serum calcitonin followed by stabilization through six months. Early calcitonin changes were associated with subsequent biochemical behavior, but the limited follow-up and small number of threshold events preclude conclusions regarding prognostic cutoffs or monitoring strategies.",
+   "resumo": [
+    {
+     "rotulo": "Purpose",
+     "texto": "To characterize serum calcitonin dynamics during six months of tirzepatide therapy for obesity and explore whether early changes are associated with subsequent biochemical behavior."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "This prospective observational study enrolled 77 adults with obesity initiating tirzepatide. One participant diagnosed with medullary thyroid carcinoma at baseline was excluded, leaving 76 participants for longitudinal analysis. Serum calcitonin was assessed at baseline, 3 months, and 6 months. Longitudinal changes were evaluated using non-parametric tests and mixed-effects models; prognostic analyses were exploratory."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Median calcitonin increased modestly from 2.05 pg/mL at baseline to 2.12 pg/mL at 3 months and 2.25 pg/mL at 6 months, with a significant overall time effect (p < 0.001) but no further significant change between 3 and 6 months (p = 0.43). Two participants with baseline calcitonin < 12 pg/mL developed new-onset elevations ≥ 12 pg/mL during early follow-up; no additional cases occurred at 6 months. Early calcitonin change was strongly associated with six-month change (Spearman ρ=0.73, p < 0.001), although prognostic analyses were limited by only two threshold events. Median weight loss was 8.3% and 15.0% at 3 and 6 months, respectively."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Tirzepatide was associated with a small early increase in serum calcitonin followed by stabilization through six months. Early calcitonin changes were associated with subsequent biochemical behavior, but the limited follow-up and small number of threshold events preclude conclusions regarding prognostic cutoffs or monitoring strategies."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43009382/",
+   "doi": "https://doi.org/10.1016/j.orcp.2026.11.001",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43007442",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Travel health needs and medication self-management among travellers using GLP-1-based medicines: a netnographic study",
+   "revista": "J Travel Med",
+   "autores": "Daif R, Elsayed K, Bikowski L et al.",
+   "tipo_estudo": "",
+   "destaque": "GLP-1-based medicines add travel-specific dosing, storage, tolerability, hydration and eating demands to medication-management problems already recognised in travel medicine. Planned and experienced records emphasised different problems, but the groups involved different contributors and do not show within-person change. Pre-travel assessment should address medication and itinerary fit, with treatment changes reviewed by the prescribing clinician and practical travel requirements addressed through authoritative travel-service information. Product-specific prescribing information should inform storage and dosing discussions.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Use of glucagon-like peptide-1 (GLP-1)-based medicines is expanding, while travel-specific evidence remains limited. Travellers must maintain treatment as transport, accommodation, food and daily routines change. This study explored travel-health needs, treatment workload, capacity and medication self-management in online accounts of planned and experienced travel."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A qualitative netnographic study examined 129 publicly accessible English-language discussions from Reddit, TripAdvisor and Mumsnet concerning current or recent GLP-1-based medicine use and actual or planned travel. Inductive coding identified reported actions, concerns and adaptations before the Cumulative Complexity Model guided a second interpretive stage. Cross-sectional comparison by travel status described differences in retrieved content, and sensitivity analysis excluded 20 compounded-tirzepatide records."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Analysis identified four linked findings: travel-related treatment workload and continuity, practical capacity for medication management, medication self-management and travel adaptations, and a cross-sectional pattern by travel status. Planned/upcoming records contained information seeking in 41/62 (66%) and medication logistics in 35/62 (56%), whereas experienced/current records contained eating and activity adaptation in 45/53 (85%). Suitable storage, itinerary flexibility, prior treatment experience and reliable guidance supported medication management. Travellers either maintained treatment while adapting travel practices or described moving, delaying, reducing or interrupting a dose when treatment and itinerary demands conflicted."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "GLP-1-based medicines add travel-specific dosing, storage, tolerability, hydration and eating demands to medication-management problems already recognised in travel medicine. Planned and experienced records emphasised different problems, but the groups involved different contributors and do not show within-person change. Pre-travel assessment should address medication and itinerary fit, with treatment changes reviewed by the prescribing clinician and practical travel requirements addressed through authoritative travel-service information. Product-specific prescribing information should inform storage and dosing discussions."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43007442/",
+   "doi": "https://doi.org/10.1093/jtm/taag103",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43009228",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Physician Impact and Toll of Surgical Complications",
+   "revista": "Urol Clin North Am",
+   "autores": "Azari S, Luckenbaugh AN, Bagrodia A",
+   "tipo_estudo": "Revisão",
+   "destaque": "Emerging strategies, including peer support programs and restructuring morbidity and mortality conferences, aim to address these gaps. Supporting surgeons through complications is essential to improve physician wellbeing, sustain surgical performance, and ultimately enhance patient care.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Surgical complications profoundly affect surgeons' psychological wellbeing, professional behavior, and career trajectory. Increasingly recognized as the second victim phenomenon, adverse events can lead to guilt, anxiety, burnout, and changes in clinical decision-making. Despite their frequency, surgeons often lack formal training and institutional support to process these experiences. Cultural norms emphasizing stoicism further contribute to isolation and maladaptive coping. Emerging strategies, including peer support programs and restructuring morbidity and mortality conferences, aim to address these gaps. Supporting surgeons through complications is essential to improve physician wellbeing, sustain surgical performance, and ultimately enhance patient care."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43009228/",
+   "doi": "https://doi.org/10.1016/j.ucl.2026.08.012",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43009444",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Psychometric Properties of the Perinatal Assessment of Paternal Affectivity in Peru: A Screening Measure for the Risk of Paternal Perinatal Psychopathology",
+   "revista": "Infant Ment Health J",
+   "autores": "Retiz O, Bartra R, Bartolo L et al.",
+   "tipo_estudo": "",
+   "destaque": "The measure performed equivalently across economic conditions and parity groups, supporting its use with diverse families. This work contributes to the field by expanding assessment practices beyond maternal factors and by strengthening early detection within Peruvian community and primary care settings.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "This study examined the psychometric properties of the Perinatal Assessment of Paternal Affectivity (PAPA) in Peru. The sample comprised 406 fathers of infants aged 0-17 months attending growth and development services in Metropolitan Lima; 58.1% were first-time fathers. They completed the PAPA, the Patient Health Questionnaire (PHQ-9), the Parental Stress Scale (PSS), and the Relationship Assessment Scale (RAS). Mean symptom levels were low, with a mild-to-moderate floor effect expected in a community sample. Confirmatory factor analysis supported a unidimensional structure with moderate-to-high loadings and good fit after allowing one residual correlation. The scale showed adequate internal consistency (ordinal α = 0.87; α = 0.81; ω = 0.86). Multi-group analyses supported strict measurement invariance across socioeconomic status and parity. Convergent and concurrent validity were supported by positive correlations with depressive symptoms (PHQ-9) and parental stress (PSS), and negative correlations with satisfaction with the baby and relationship satisfaction (RAS). ROC analysis indicated excellent discriminative capacity for depressive symptomatology (AUC = 0.87; optimal cutoff = 6.5; sensitivity = 0.80; specificity = 0.82). Findings support the PAPA as a brief, reliable, and valid screening measure for paternal perinatal psychopathology in community settings, with caution advised regarding cutoff use until replicated in Peruvian clinical samples. KEY FINDINGS: The PAPA demonstrated a clear unidimensional structure with good model fit in a Peruvian community sample. The scale showed strong convergent and concurrent validity through its associations with depressive symptoms, parental stress, and relationship satisfaction. The PAPA exhibited excellent discriminative capacity for depressive symptomatology, with an optimal cutoff score of 6.5. STATEMENT OF RELEVANCE: This study examines the psychometric properties of a screening tool for the risk of paternal perinatal psychopathology in Peru, an overlooked aspect of early childhood mental health. Identifying paternal affective difficulties allows practitioners to anticipate risks for infants' socioemotional development. The measure performed equivalently across economic conditions and parity groups, supporting its use with diverse families. This work contributes to the field by expanding assessment practices beyond maternal factors and by strengthening early detection within Peruvian community and primary care settings."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43009444/",
+   "doi": "https://doi.org/10.1002/imhj.70125",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43004875",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Building confianza, sharing Consejos: A grounded theory study of Latine mothers' socialization of coping",
+   "revista": "J Res Adolesc",
+   "autores": "Jimenez V, Tu KM",
+   "tipo_estudo": "",
+   "destaque": "Results highlight the central role of fomentando confianza (building trust) as a foundational relational context enabling Latine mothers to guide their adolescents in managing stressors and mothers' advice of prioritizing relational harmony, refocusing expectations, encouraging effort, and redefining agency, all of which are embedded within cultural values. This grounded theory model refines existing theories of parenting and coping socialization and advances understanding of relational contexts and cultural processes that may support Latine adolescent well-being.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Adolescence is a critical developmental period characterized by common stressors such as academic pressures and changing family and peer dynamics that may be exacerbated by additional stressors, such as acculturative stress, language barriers, and discrimination, for Latine youth. Cultural values of familismo (familism; loyalty to family) and respeto (respect; obedience, deference to authority) may play an important role in Latine parents' socialization of coping (SOC) messages about how to manage stressful situations, with implications for Latine youths' coping and well-being. Yet, culturally specific approaches to parents' SOC in the literature are scarce. Toward theory building via grounded theory methods, this study focused on how Latine parents socialize youth to cope with interpersonal and academic stressors with a sample of 23 majority Mexican-origin participants: 12 mothers (Mage = 40.08 years) and 11 adolescents (Mage = 14.36 years; 18% boys, 82% girls). Mothers and adolescents each participated in a one-time, 1.5-h semi-structured interview (Spanish or English). Mothers shared their experiences in providing advice regarding coping with interpersonal and academic stress. The resulting analysis presents a theoretical model of how Latine mothers guide youth to cope with stress and the role of cultural values (familismo, respeto) in this process. Results highlight the central role of fomentando confianza (building trust) as a foundational relational context enabling Latine mothers to guide their adolescents in managing stressors and mothers' advice of prioritizing relational harmony, refocusing expectations, encouraging effort, and redefining agency, all of which are embedded within cultural values. This grounded theory model refines existing theories of parenting and coping socialization and advances understanding of relational contexts and cultural processes that may support Latine adolescent well-being."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43004875/",
+   "doi": "https://doi.org/10.1111/jora.70319",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43009106",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Isosilybin ameliorates chronic stress induced metabolic syndrome",
+   "revista": "Biochim Biophys Acta Gen Subj",
+   "autores": "Kaushik AS, Agarwal V, Kumar N et al.",
+   "tipo_estudo": "",
+   "destaque": "Molecular analyses demonstrated partial restoration of SIRT6 expression together with normalisation of stress-induced alterations in c-Jun immunoreactivity and PGC-1α mRNA expression in hepatic and pancreatic tissues. The findings suggest that isosilybin attenuates chronic stress-induced metabolic syndrome by improving key metabolic parameters and is associated with changes in Sirt6 expression and PGC-1α mRNA levels.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Chronic stress contributes to the development of metabolic syndrome through disturbances in glucose metabolism, lipid homeostasis, and neuroendocrine regulation, thereby increasing the risk of cardiovascular disease and type 2 diabetes. Isosilybin, a bioactive flavonolignan derived from Silybum marianum (milk thistle), has demonstrated therapeutic potential in various metabolic disorders. However, its effects on chronic stress induced metabolic syndrome and its effects on SIRT6 and PGC-1α expression under chronic stress conditions remain unclear. The present study investigated the effects of isosilybin in a rat model of chronic unpredictable stress induced metabolic syndrome. A total of 24 rats were randomly allocated into four experimental groups (n = 6 per group). Fasting blood sugar levels, systolic blood pressure, lipid markers, and insulin resistance were evaluated. SIRT6 (sirtuin 6), c-Jun (transcription factor Jun), and PGC-1α (peroxisome proliferator-activated receptor gamma coactivator 1 alpha) expression levels were also assessed in the pancreatic and liver tissues. During the final two weeks (weeks 7-8) of the eight week CUS protocol, rats received isosilybin (10 mg/kg/day, orally) while CUS exposure was continued. Isosilybin treatment markedly improved metabolic disturbances. Significant reductions were observed in all metabolic parameters compared with untreated stressed rats. Molecular analyses demonstrated partial restoration of SIRT6 expression together with normalisation of stress-induced alterations in c-Jun immunoreactivity and PGC-1α mRNA expression in hepatic and pancreatic tissues. The findings suggest that isosilybin attenuates chronic stress-induced metabolic syndrome by improving key metabolic parameters and is associated with changes in Sirt6 expression and PGC-1α mRNA levels."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43009106/",
+   "doi": "https://doi.org/10.1016/j.bbagen.2026.131019",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43009071",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Occupational burnout among ophthalmologists: A systematic review and meta-analysis",
+   "revista": "Surv Ophthalmol",
+   "autores": "Butt FR, Al-Burak SA, Dhivagaran T et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Approximately 1 in 3 ophthalmologists experiences burnout, although certainty is very low. Intervention research remains almost absent.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Occupational burnout threatens clinician well-being, workforce stability, and the quality of patient care, yet its burden in ophthalmology has not been synthesized since 2021. We searched 5 databases from inception through March 13, 2026, and included 24 studies reporting burnout among ophthalmologists, ophthalmology trainees, and ophthalmology-specific health care professionals. Across the 12 studies with extractable prevalence data (n = 2,792), the pooled prevalence of burnout was 32.4% (95% confidence interval, 19.0%-49.5%; 95% prediction interval, 3.7%-85.6%), with extreme heterogeneity (I2 = 96.9%). All 9 sensitivity analyses produced estimates between 27.0% and 35.0%. Post hoc prevalence varied most with the operational definition of burnout, from 8.9% when all 3 Maslach dimensions were required to 52.7% when any 1 sufficed. Differences by instrument, career stage, and survey era were not statistically significant, and the numerically higher prevalence among residents largely disappeared after excluding the resident and attending studies with extreme definitions. Dissatisfaction with work-life balance (46.6%) was far more common than job dissatisfaction (20.1%). Women, academic or hospital-based practice, heavy workload, low work control, and inadequate support staff were the correlates reported most consistently. Approximately 1 in 3 ophthalmologists experiences burnout, although certainty is very low. Intervention research remains almost absent."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43009071/",
+   "doi": "https://doi.org/10.1016/j.survophthal.2026.11.001",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43008885",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Sublethal copper acetate exposure induces oxidative stress, antioxidant responses, and histopathological Alterations in Juvenile Hapalogenys analis",
+   "revista": "Environ Toxicol Pharmacol",
+   "autores": "Justin N, Zhang T, Li B et al.",
+   "tipo_estudo": "",
+   "destaque": "Histopathological alterations were observed in gills, liver, intestine, and kidneys. These findings provide species-specific data for environmental risk assessment of copper acetate in marine aquaculture.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "This study evaluated sublethal copper acetate toxicity in juvenile Hapalogenys analis. Acute toxicity established a 96h LC₅₀ of 0.227mg/L. Sublethal concentrations (0.05-0.20mg/L Cu²⁺; n = 3 replicate tanks per treatment, 3 fish per tank per time point) were tested under static conditions. Exposed fish exhibited hyperactivity, erratic swimming, and mucus secretion. Serum glucose increased 1.13-1.34-fold at 6h, then declined, whereas cortisol was suppressed 0.38-0.91-fold throughout exposure. Antioxidant responses showed temporal dynamics: SOD increased 1.44-1.72-fold at 6-12h, CAT peaked 1.30-1.64-fold at 48h, and GPx decreased 0.73-0.78-fold initially before recovering. MDA increased 1.47-fold at 6h but fell below control levels at 24-96h. Genes (CAT, GPX1a, Cu/Zn-SOD) were upregulated 1.10-7.14-fold at 24-96h. Histopathological alterations were observed in gills, liver, intestine, and kidneys. These findings provide species-specific data for environmental risk assessment of copper acetate in marine aquaculture."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43008885/",
+   "doi": "https://doi.org/10.1016/j.etap.2026.105229",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43008516",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Predicting employee turnover intention among healthcare and RMG workers: An integrated PLS-SEM, ANN, and fsQCA approach",
+   "revista": "Acta Psychol (Amst)",
+   "autores": "Mahin HM, Hoque MO, Hossain MM et al.",
+   "tipo_estudo": "",
+   "destaque": "The results align with the JD-R health-impairment pathway; we did not examine job resources. Because the data are cross-sectional and measure turnover intention and not actual turnover, the findings offer tentative implications for workforce retention.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "This study examines factors associated with employee turnover intention in Bangladesh's healthcare and ready-made garment (RMG) industries, two sectors vital to the national economy but facing labour instability linked to workplace stressors. Grounded in the health-impairment pathway of the Job Demands-Resources (JD-R) framework, it examines how job demands relate to burnout and turnover intention. We collected cross-sectional survey data from 311 full-time employees in the Dhaka and Chattogram divisions and analyzed them using partial least squares structural equation modeling (PLS-SEM), an artificial neural network (ANN), and fuzzy-set qualitative comparative analysis (fsQCA). Job stress, work-life imbalance, job insecurity, and burnout were each positively associated with turnover intention. In the pooled sample, burnout partially mediated the relationships between job stress, work-life imbalance, and job insecurity and turnover intention, although sector-level indirect effects differed. The three demands jointly explained only 8.9% of burnout variance, so most of it remains unexplained. The ANN identified burnout as the strongest predictor, with job stress and work-life imbalance similarly important and job insecurity the weakest; its predictive accuracy was comparable to, but not demonstrably better than, that of a linear benchmark. fsQCA identified three equifinal combinations of demands associated with high turnover intention, and no single condition was necessary. The results align with the JD-R health-impairment pathway; we did not examine job resources. Because the data are cross-sectional and measure turnover intention and not actual turnover, the findings offer tentative implications for workforce retention."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43008516/",
+   "doi": "https://doi.org/10.1016/j.actpsy.2026.108126",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43008220",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Berta, an Open-Source, Modular AI Scribe for Clinical Documentation: Implementation Report",
+   "revista": "JMIR Med Inform",
+   "autores": "Vaid S, Weldon M, Dunn J et al.",
+   "tipo_estudo": "",
+   "destaque": "An in-house AI scribe can be deployed at provincial scale within existing health system infrastructure at a fraction of the operating cost of commercial alternatives while preserving data sovereignty and institutional control. The full cost of ownership and documentation quality require further evaluation. By releasing Berta publicly, we provide a reproducible foundation that health systems can adapt to evaluate and deploy AI documentation technology within their own secure environments.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Clinical documentation is a major contributor to physician workload and burnout, particularly in high-acuity settings such as emergency departments. Ambient AI scribes have emerged as a response, but commercial products cost US $99 to more than US $600 per physician per month, operate as opaque systems, and often process data on vendor-controlled infrastructure. These characteristics limit organizational control over data sovereignty, quality improvement, and clinical workflows and create barriers to adoption in resource-constrained settings."
+    },
+    {
+     "rotulo": "Objective",
+     "texto": "We aimed to develop an open-source, modular AI scribe platform that could be deployed entirely within institutional infrastructure, and to evaluate its real-world use across a provincial health system."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We developed Berta, an open-source, modular platform that pairs a Next.js front end and a FastAPI back end with configurable automatic speech recognition and large language model components. A closed-source implementation developed in parallel with Berta was deployed at Alberta Health Services (AHS), Canada's largest provincially integrated health system at the time of implementation, and operated within AHS's existing Snowflake AI Data Cloud infrastructure. All clinical audio and text remained within the secure AHS environment. Use and session metadata were automatically recorded during routine clinical use by emergency physicians across AHS between November 2024 and July 2025, and physicians were emailed an optional survey. Operating costs were estimated from Snowflake service consumption over the same period."
+    },
+    {
+     "rotulo": "Unlabelled",
+     "texto": "During the 9-month study period, 197 emergency physicians registered at 105 urban and rural facilities used the system, generating 21,548 clinical sessions and more than 2700 hours of audio. Monthly session volume grew from 675 sessions in November 2024 to 5463 in July 2025. Mean recorded session length was 7.6 minutes, and 42% (82/197) of users customized at least 1 documentation template. Operating costs averaged less than US $30 per physician per month, representing a 70% to 95% reduction in cost compared with commercial subscription prices; this comparison excludes personnel costs for development and maintenance. Survey respondents (69-73 per item) rated user-friendliness as good (median 5, IQR 4-6), reported a median time saving of 16 to 30 (IQR 0-15 to 46-60) minutes per shift, and rated documentation quality the lowest. After the pilot, access was opened to other departments, and by September 30, 2026, approximately 2000 users had registered."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "An in-house AI scribe can be deployed at provincial scale within existing health system infrastructure at a fraction of the operating cost of commercial alternatives while preserving data sovereignty and institutional control. The full cost of ownership and documentation quality require further evaluation. By releasing Berta publicly, we provide a reproducible foundation that health systems can adapt to evaluate and deploy AI documentation technology within their own secure environments."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43008220/",
+   "doi": "https://doi.org/10.2196/105385",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43008042",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Psychosocial influences on hypertension in Southeastern Nigeria: A mixed-methods study protocol",
+   "revista": "PLoS One",
+   "autores": "Ebigwei Omeda AR, Chilaka M, Mohammadnezhad M et al.",
+   "tipo_estudo": "",
+   "destaque": "Findings will be disseminated at academic conferences and published in peer-reviewed journals and stakeholder meetings held in both the UK and Nigeria. The research aims to generate evidence to support the development of comprehensive psychosocial care plans that address both physical and mental aspects of hypertension treatment in areas with limited resources.",
+   "resumo": [
+    {
+     "rotulo": "Introduction",
+     "texto": "The Southeastern region of Nigeria faces a severe public health challenge from hypertension due to its high prevalence. Psychosocial factors including perceived stress, anxiety, depression, coping mechanisms, and social support play essential roles in hypertension development and health behaviour, yet there has been limited scholarly attention to these determinants in Nigerian and international qualitative research. This study addresses this evidence gap by investigating the psychosocial determinants of hypertension-related health behaviour outcomes in adults living in Southeastern Nigeria."
+    },
+    {
+     "rotulo": "Materials And Methods",
+     "texto": "The sequential explanatory mixed methods study includes validated psychometric instruments assessing perceived stress, anxiety, depression, coping mechanisms, and social support. The primary quantitative outcome is the Health Behaviour Index, a composite measure of hypertension-related health behaviours. Regression analyses, correlation tests, and mediation/moderation models will be used to examine relationships among these variables. The research team will collect qualitative data through semi-structured interviews accessible to participants either online or in person. Thematic analysis following Braun and Clarke's six-phase framework will be employed to explore participants' lived experiences of stress, coping, and hypertension management. Findings will be disseminated at academic conferences and published in peer-reviewed journals and stakeholder meetings held in both the UK and Nigeria. The research aims to generate evidence to support the development of comprehensive psychosocial care plans that address both physical and mental aspects of hypertension treatment in areas with limited resources."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43008042/",
+   "doi": "https://doi.org/10.1371/journal.pone.0362594",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43007981",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Suicide risk factors in nursing students: Depressive symptoms, academic burnout and academic efficacy after the pandemic",
+   "revista": "PLOS Ment Health",
+   "autores": "Ardiles-Irarrázabal RA, Pérez-Díaz PA, Pérez-González JC et al.",
+   "tipo_estudo": "",
+   "destaque": "Suicide risk in nursing students transcends traditional clinical factors, as it is shaped by the interaction between personal resources and mental health symptoms. These findings underscore the need for prevention and psychosocial support programs in nursing schools.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "The present study analyze the prevalence and factors associated with suicide risk in nursing students in the post-pandemic context, considering academic burnout, academic engagement, and symptoms of depression, anxiety, and stress as predictors. through a cross-sectional and correlational study conducted in a public university in Northern Chile. with a168 nursing undergraduates' sample. Validated instruments were administered, including the Beck Hopelessness Scale, the Utrecht Work Engagement Scale, the Maslach Burnout Inventory-Student Survey, and the DASS-21. Descriptive analyses, Pearson correlations, and multiple linear regression were conducted. A total of 11.31% of students met the predefined BHS threshold for elevated suicide-related risk. In the same sample, symptoms of depression, anxiety, and stress showed high prevalence rates. Suicide risk was negatively associated with vigor and dedication, while positively associated with low academic efficacy and depression. The regression model explained 54% of the variance in suicide risk (Adj.R² = 0.54; p < 0.001), with Depression (β = 4.04), Vigor (β = 0.63), Academic Efficacy (β = 0.88), and the interaction between Depression and Vigor (β = -0.69) being significant predictors in the model. Suicide risk in nursing students transcends traditional clinical factors, as it is shaped by the interaction between personal resources and mental health symptoms. These findings underscore the need for prevention and psychosocial support programs in nursing schools."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43007981/",
+   "doi": "https://doi.org/10.1371/journal.pmen.0000734",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43007814",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "The Political Economy of Attrition: LGBTI+ Activism, Collective Exhaustion, and the Stalemate of Public Policy in the Dominican Republic",
+   "revista": "J Homosex",
+   "autores": "Almonte Mateo JM",
+   "tipo_estudo": "",
+   "destaque": "The Dominican case illustrates and motivates the framework rather than empirically proving its causal relationships. The article closes with testable propositions, a research agenda, and policy implications.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "The stalemate of LGBTI+ public policy in the Dominican Republic is commonly discussed through religious conservatism, institutional exclusion, and limitations attributed to civil society. This article develops a complementary explanation centered on activist exhaustion. Its central contribution is the political economy of attrition, a conceptual framework that identifies plausible mechanisms through which an institutional configuration-the interaction of state action and inaction with the architecture of international cooperation-may produce and unevenly distribute the burdens of sustained activism, erode mobilizing capacity, and thereby contribute to policy stagnation. Drawing on a critical review that integrates social movement theory, activist-burnout research, community resilience, emotional taxation, and sexual-citizenship scholarship, the article brings these literatures into dialogue with intersectional, travesti, and decolonial thought. It proposes that attrition may be distributed differently across social and organizational positions shaped by gender, race, class, and access to resources. The Dominican case illustrates and motivates the framework rather than empirically proving its causal relationships. The article closes with testable propositions, a research agenda, and policy implications."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43007814/",
+   "doi": "https://doi.org/10.1080/00918369.2026.2761957",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43007596",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Testing the Effect of a Stress Management Programme on Perceived Levels of Clergy Burnout in Brazil: The Balanced Affect Approach",
+   "revista": "J Relig Health",
+   "autores": "Fabri JMG, Francis LJ, McKenna U et al.",
+   "tipo_estudo": "",
+   "destaque": "The balanced affect approach to clergy burnout operationalised by the Francis Burnout Inventory suggests that negative affect (emotional exhaustion) and positive affect (satisfaction in ministry) operate as partially separate systems, leading to the hypothesis that stress management workshops should lead to a reduction in negative affect measured by the Scale of Emotional Exhaustion in Ministry rather than to increase in positive affect measured by the Satisfaction in Ministry Scale. The hypothesis is supported in a study conducted among 43 clergy in Brazil who participated in a series of stress management workshops. The data support both the effectiveness of the workshops and the construct validity of the Francis Burnout Inventory.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "The balanced affect approach to clergy burnout operationalised by the Francis Burnout Inventory suggests that negative affect (emotional exhaustion) and positive affect (satisfaction in ministry) operate as partially separate systems, leading to the hypothesis that stress management workshops should lead to a reduction in negative affect measured by the Scale of Emotional Exhaustion in Ministry rather than to increase in positive affect measured by the Satisfaction in Ministry Scale. The hypothesis is supported in a study conducted among 43 clergy in Brazil who participated in a series of stress management workshops. The data support both the effectiveness of the workshops and the construct validity of the Francis Burnout Inventory."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43007596/",
+   "doi": "https://doi.org/10.1007/s10943-026-02820-1",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43007595",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Spiritual Well-Being as a Potential Resource in Relation to Technostress Among Healthcare Professionals: A Systematic Review of International Evidence",
+   "revista": "J Relig Health",
+   "autores": "Joy S, Rose S",
+   "tipo_estudo": "",
+   "destaque": "Spiritual well-being should therefore be considered a theoretically plausible potential resource rather than an established protective factor against technostress. Future longitudinal, intervention-based, multicenter, and cross-cultural studies using conceptually distinct and psychometrically robust measures are needed.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Digital transformation has increased healthcare professionals' exposure to technology-related occupational demands. This systematic review synthesized international evidence on spiritual well-being, technostress, and related psychological and occupational outcomes among healthcare professionals. Six databases were searched using predefined inclusion and exclusion criteria, yielding 15 evidence sources from 1,290 initially identified records. The included evidence represented studies from Sweden, Switzerland, South Korea, Germany, Finland, China, Iran, and Pakistan, together with evidence sources of international scope. Technostress-related findings associated digital workload, technological complexity, usability problems, electronic documentation, and persistent connectivity with burnout, emotional exhaustion, job strain, work-privacy conflict, reduced job satisfaction, and poorer occupational well-being. Spirituality-related findings suggested associations with resilience, coping, lower burnout, and psychological well-being. However, none of the included studies directly examined spiritual well-being and technostress together. Spiritual well-being should therefore be considered a theoretically plausible potential resource rather than an established protective factor against technostress. Future longitudinal, intervention-based, multicenter, and cross-cultural studies using conceptually distinct and psychometrically robust measures are needed."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43007595/",
+   "doi": "https://doi.org/10.1007/s10943-026-02831-y",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43007483",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Associations between digital and automated work and psychosocial outcomes: Cross-sectional results from the Gutenberg Health Study",
+   "revista": "Int Arch Occup Environ Health",
+   "autores": "Freiberg A, Nübling M, Chalabi J et al.",
+   "tipo_estudo": "",
+   "destaque": "Digital work is widely integrated, whereas automated work remains limited. Both show links to psychosocial risks and resources. Legal regulations, organizational support, and individual strategies may mitigate adverse impacts. Future research should clarify mechanisms, broaden outcome assessment beyond burnout, and evaluate preventive measures amid rapid technological change.",
+   "resumo": [
+    {
+     "rotulo": "Purpose",
+     "texto": "As technology increasingly shapes workplaces, evidence associated psychosocial effects remains limited. This study explored demographic correlates of digital and automated work, and examined associations between digital and automated work and psychosocial outcomes."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A cross-sectional study was conducted within the Gutenberg Health Study (Mainz/Mainz-Bingen, Germany; 2019-2022). Digital and automated work were assessed using the GAP (Gesunde Arbeit in Pionierbranchen) module. Digital work refers to the use of digital information, digital communication tools and digital networking in work processes, whereas automated work refers to the support of work from machines and robots. Psychosocial outcomes were examined using the Copenhagen Psychosocial Questionnaire (COPSOQ). Unadjusted ordinal logistic regression models estimated odds ratios and 95% confidence intervals for primary analyses. Linear regression models adjusted for age, sex, socioeconomic status, and data collection timing estimated β coefficients and 95% confidence intervals for secondary analyses."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Among 5,730 participants, frequent digital work was common (≈ 80%), whereas frequent automated work was rare (≈ 6%). Digital work was associated with higher job satisfaction and lower presenteeism, but also with greater intention to leave the profession and lower work engagement. Automated work was linked to higher burnout and lower job satisfaction. Technical and skill-related demands of digital and automated work were related to burnout, presenteeism, intention to leave, and reduced job satisfaction and general health. Positive experiences of digital and automated work were consistently associated with better psychosocial outcomes, including higher job satisfaction, work engagement, and general health."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Digital work is widely integrated, whereas automated work remains limited. Both show links to psychosocial risks and resources. Legal regulations, organizational support, and individual strategies may mitigate adverse impacts. Future research should clarify mechanisms, broaden outcome assessment beyond burnout, and evaluate preventive measures amid rapid technological change."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43007483/",
+   "doi": "https://doi.org/10.1007/s00420-026-02252-0",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43006709",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Impacts of Nature-Based Interventions on Healthcare Workers' Stress, Burnout, and Performance: A Systematic Literature Review",
+   "revista": "HERD",
+   "autores": "Park S, Khandan P, Johnson E et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Practical applications should consider feasibility and sustainability. Design strategies may include outdoor green spaces, such as rooftop gardens or courtyards, as well as passive indoor features that provide continuous restorative benefits, including window views of nature, plants, and curated soundscapes.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "ObjectivesThis systematic review synthesizes evidence on the efficacy of nature-based interventions (NBIs) in mitigating stress and burnout among healthcare workers (HCWs) while enhancing their performance.BackgroundWork-related stress and burnout are major challenges among HCWs, with adverse impacts on HCWs' well-being, patient outcomes, and healthcare systems. Although behavioral and organizational interventions have been widely studied, less attention has been given to NBIs, despite growing evidence of their potential for stress reduction.MethodThis review synthesized findings from 20 empirical studies published through October 2024, examining the types of NBIs used in healthcare settings and their effects on HCWs' stress, burnout, and performance. Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines, studies were identified across four NBI domains: outdoor activity in nature, virtual reality, real-world sensory stimulation (e.g., nature-themed recharge rooms, natural sounds), and visual access to nature.ResultsNBIs consistently reduced psychological and physiological stress. Evidence for burnout reduction was mixed, with the most evident effects in reducing exhaustion and depersonalization, but insignificant impacts on personal accomplishment. Performance-related outcomes such as mindfulness, resilience, and cognitive functions were generally enhanced, with immersive exposure to natural elements yielding stronger effects.ConclusionOverall, NBIs demonstrated promising results in reducing HCWs' stress and improving performance outcomes, but the impact on burnout was limited. Practical applications should consider feasibility and sustainability. Design strategies may include outdoor green spaces, such as rooftop gardens or courtyards, as well as passive indoor features that provide continuous restorative benefits, including window views of nature, plants, and curated soundscapes."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43006709/",
+   "doi": "https://doi.org/10.1177/19375867261481141",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43006696",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "The relationship between stress, occupational burnout, and retirement intention Among 179 elite athletes",
+   "revista": "Work",
+   "autores": "Li X, Ba H, Wang Q",
+   "tipo_estudo": "",
+   "destaque": "Communication stress showed stronger indirect associations with retirement intention than training and competition stress. Intervention strategies should be developed to alleviate emotional exhaustion, enhance personal accomplishment and improve communication mechanisms.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "BackgroundEarly retirement among elite athletes is prevalent, yet research remains limited on the occupational mental health of athletes in western China.ObjectiveThis study explores the relationships between stress, occupational burnout, and retirement intention among elite athletes in Sichuan Province, and verifies an indirect association model.MethodsStratified random sampling was employed to select 179 elite athletes from Sichuan Province. Surveys were conducted using the Athlete Stressor Questionnaire, Maslach Burnout Inventory (MBI-Athlete version) and Athlete Retirement Intention Questionnaire.ResultsEmotional exhaustion was significantly positively correlated with depersonalisation (r = 0.423, p < 0.01) and negatively correlated with personal accomplishment (r = -0.386, p < 0.01). Hierarchical regression identified four key correlates of retirement intention: emotional exhaustion (β = 0.382), years of training (β = 0.205), personal accomplishment (β = -0.231) and age (β = 0.217). Together, these four variables explained 40.2% of the variance. Both training and competition stress and communication stress showed patterns consistent with full indirect association with retirement intention via emotional exhaustion and depersonalisation; the indirect pathways accounted for 97.3% and 83.3% of the total associations, respectively.ConclusionOccupational burnout acts as an indirect link between stress and retirement intention among elite Sichuan athletes, with emotional exhaustion as the core influencing factor. Communication stress showed stronger indirect associations with retirement intention than training and competition stress. Intervention strategies should be developed to alleviate emotional exhaustion, enhance personal accomplishment and improve communication mechanisms."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43006696/",
+   "doi": "https://doi.org/10.1177/10519815261505431",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43006695",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Perceptions of Workplace Culture Among Emergency Physicians: Insights From In-Depth Interviews",
+   "revista": "Qual Manag Health Care",
+   "autores": "Sciascia AD, Page C, Behnke S",
+   "tipo_estudo": "",
+   "destaque": "The PEOPLE+ model's primary characteristic is being provider-centered, employing simultaneous changes to philosophic, economic, operational, leadership, and staffing models, and workplace culture was perceived as improved following employment of the model. Participants characterized a positive workplace culture as team-based with a nontraditional compensation model and leadership that embraces listening.",
+   "resumo": [
+    {
+     "rotulo": "Background And Objectives",
+     "texto": "Recently, the PEOPLE+ (Philosophy, Economics, Operational, Providers, and Leadership) model improved performance metrics in an emergency department (ED). However, ED provider perceptions of current workplace culture compared with previous ED work experience were not explored."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Using descriptive phenomenology, 18 physicians participated in semi-structured interviews that underwent reflexive thematic analysis. Interviews included open-ended questions related to physicians' perceptions of the PEOPLE+ model compared with prior ED experiences."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Fifty-three codes about previous work culture and 61 codes about current culture were identified. Participants described previous work settings as profit-driven, understaffed, and individualistic, with limited leadership engagement and high turnover. These conditions were perceived to cause burnout, poor work-life balance, and decreased perceptions of support. The PEOPLE+ model was associated with positive perceptions across all domains, with participants reporting feeling valued, supported, and included in decision-making. Adequate staffing, fair scheduling, team-based care, and accessible leadership contributed to satisfaction and stability in the views of the participants."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "The PEOPLE+ model's primary characteristic is being provider-centered, employing simultaneous changes to philosophic, economic, operational, leadership, and staffing models, and workplace culture was perceived as improved following employment of the model. Participants characterized a positive workplace culture as team-based with a nontraditional compensation model and leadership that embraces listening."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43006695/",
+   "doi": "https://doi.org/10.1097/QMH.0000000000000613",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43004020",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Expressive priority and somatic testimonial injustice: a framework for women's embodied distress",
+   "revista": "Arch Womens Ment Health",
+   "autores": "Roul SK",
+   "tipo_estudo": "Revisão",
+   "destaque": "Taking predictive-processing accounts of miscalibrated symptom report, the paper argues for the parity of bodily testimony as evidence, not its primacy, and states three discriminating, falsifiable predictions. Its empirical anchors are illustrative, and the framework awaits testing.",
+   "resumo": [
+    {
+     "rotulo": "Purpose",
+     "texto": "Research on women's mental health increasingly frames female distress as embodied, presenting this as a move beyond mind-body dualism. This paper asks whether the move is complete."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Conceptual analysis of the literature on epistemic injustice, somatisation, functional disorders, predictive processing, and gender bias in diagnosis."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "A residual assumption, termed here expressive priority, treats bodily distress as the expression of a prior psychological state that holds explanatory priority over the patient's own account. It concerns explanatory practice, not metaphysics, and is compatible with physicalism. Building on Fricker, Carel and Kidd, Dotson, and Pohlhaus, the paper develops somatic testimonial injustice: a sequence in which a bodily account is deflated in credibility, translated into a psychological idiom presented as the patient's own, and redirected so that it counts as evidence about her psychology rather than her body. The mechanism is general, but its burden is gendered, as endometriosis, systemic autoimmune disease, premenstrual dysphoric disorder, and polycystic ovary syndrome illustrate."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Taking predictive-processing accounts of miscalibrated symptom report, the paper argues for the parity of bodily testimony as evidence, not its primacy, and states three discriminating, falsifiable predictions. Its empirical anchors are illustrative, and the framework awaits testing."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43004020/",
+   "doi": "https://doi.org/10.1007/s00737-026-01788-x",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43003977",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Effects of chronic restraint stress on behavioral responses to haloperidol in rats treated with modafinil or methylphenidate",
+   "revista": "Psychopharmacology (Berl)",
+   "autores": "Alam N, Abbasi S",
+   "tipo_estudo": "",
+   "destaque": "These findings demonstrate stress- and treatment-dependent differences in behavioral responses to HALO following chronic psychostimulant exposure. Altered dopaminergic responsiveness is a possible interpretation, but the underlying neurochemical mechanisms remain to be established.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Chronic stress can alter behavior and neurobiological systems involved in cognition and psychostimulant responses. Modafinil (MOD) and methylphenidate (MPH) affect locomotor activity and cognitive performance, but how chronic restraint stress modifies subsequent behavioral responses to dopamine receptor blockade remains incompletely understood. This study evaluated behavioral responses to a haloperidol (HALO) challenge in restrained and unrestrained rats following chronic MOD or MPH treatment. Adult male Sprague-Dawley rats were allocated to two independent cohorts (MOD and MPH), each comprising 48 animals. Rats received daily oral MOD (75 mg/kg/day) or MPH (10 mg/kg/day) for 35 days, with or without restraint stress (2 h/day). Animals subsequently received a challenge dose of HALO (1​mg/kg, intraperitoneally) or saline. Locomotor activity was assessed in the home cage and open field, passive-avoidance performance was assessed using the Passive Avoidance Test, and head-dip frequency was recorded using the head-dip test. Data were analyzed separately for the MOD and MPH cohorts using three-way factorial ANOVA. HALO significantly reduced locomotor activity, passive-avoidance latency, and head-dip frequency, with the magnitude of these changes varying according to stress and chronic treatment conditions. Restraint stress increased open-field locomotion and reduced passive-avoidance latency and head-dip frequency in saline-treated animals. Chronic MOD and MPH treatment increased locomotor activity and head-dip frequency and increased passive-avoidance latency under saline-challenge conditions. However, reductions in passive-avoidance latency and head-dip frequency following HALO challenge cannot be attributed exclusively to memory-related or exploratory changes as catalepsy was not directly assessed and HALO-induced motor impairment may have contributed. These findings demonstrate stress- and treatment-dependent differences in behavioral responses to HALO following chronic psychostimulant exposure. Altered dopaminergic responsiveness is a possible interpretation, but the underlying neurochemical mechanisms remain to be established."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43003977/",
+   "doi": "https://doi.org/10.1007/s00213-026-07208-3",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43009229",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Complications of Transurethral Resection of Bladder Tumors: A Contemporary Review",
+   "revista": "Urol Clin North Am",
+   "autores": "Roadman DF, Shah PV, Janakiraman S et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "This article synthesizes recent evidence on intraoperative, early postoperative, and delayed complications, emphasizing modifiable risk factors and prevention strategies. Enhanced visualization, en-bloc resection, immediate intravesical chemotherapy, enhanced recovery after surgery principles, and frailty-informed care pathways may reduce repeat anesthetic exposure and procedural burden while preserving oncologic outcomes.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Transurethral resection of bladder tumor remains the cornerstone of diagnosis and management for non-muscle invasive bladder cancer, yet it carries meaningful perioperative and cumulative risks. Beyond bleeding, perforation, and infection, contemporary morbidity increasingly reflects frailty, postoperative delirium, cognitive decline, readmissions, and financial toxicity associated with repeated procedures. This article synthesizes recent evidence on intraoperative, early postoperative, and delayed complications, emphasizing modifiable risk factors and prevention strategies. Enhanced visualization, en-bloc resection, immediate intravesical chemotherapy, enhanced recovery after surgery principles, and frailty-informed care pathways may reduce repeat anesthetic exposure and procedural burden while preserving oncologic outcomes."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43009229/",
+   "doi": "https://doi.org/10.1016/j.ucl.2026.08.003",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43006840",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Effects of Morning Strength and Power Priming Exercises on Afternoon Physical and Cognitive Performance in Male Rugby Union Players",
+   "revista": "Eur J Sport Sci",
+   "autores": "Knight J, Russell M, Cunningham D et al.",
+   "tipo_estudo": "Ensaio clínico randomizado",
+   "destaque": "No changes were found for cognitive assessments (p > 0.05). Morning strength and power priming exercises combining heavy-load traditional and light-load ballistic exercises effectively enhanced vertical jump and sprint performance, but not cognitive performance, in the afternoon in male rugby union players.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "The objective of this study was to assess the effect of morning strength and power priming exercises on afternoon physical and cognitive performance in male rugby union players. On two occasions in a randomised, counterbalanced design, 25 male rugby union players completed morning physical (countermovement jump, 40 m linear sprint) and cognitive (rapid visual information processing; spatial working memory; paired associates of learning) assessments. Control (passive rest) or intervention (barbell back squat, 3 × 3 repetitions at 85% of one repetition maximum and barbell squat jump, 5 × 3 repetitions at 40% one repetition maximum) trials were implemented 5.5 h before afternoon assessments. Differences between morning and afternoon assessments were found in sprinting performance following intervention for 30 m fly (-0.08 ± 0.13 s, p = 0.004, ES: 0.615) and 40 m (-0.12 ± 0.17 s, p = 0.001, ES: 0.711) relative to control (0.03 ± 0.07 s, p = 0.022, ES: -0.476; 0.01 ± 0.09 s, p = 0.740, ES: -0.065, 30 m fly and 40 m, respectively). Afternoon countermovement jump flight time improved following intervention compared with control (2% vs. 0%, p = 0.012, ES: -0.53). No changes were found for cognitive assessments (p > 0.05). Morning strength and power priming exercises combining heavy-load traditional and light-load ballistic exercises effectively enhanced vertical jump and sprint performance, but not cognitive performance, in the afternoon in male rugby union players."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43006840/",
+   "doi": "https://doi.org/10.1002/ejsc.70286",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43009129",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Microglial, migrasomes promote high-fat diet-induced neurotoxicity",
+   "revista": "Metabolism",
+   "autores": "Qin Q, Liu Z, Kang X et al.",
+   "tipo_estudo": "",
+   "destaque": "These results uncover a metabolic-myelin-migrasome axis as a critical driver of neuronal injury and cognitive decline, identifying the blockade of microglial migrasome biogenesis as a potential therapeutic strategy for metabolism-associated neurological dysfunction.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Systemic metabolic abnormalities are established drivers of cognitive decline, traditionally attributed to secondary sequelae of cerebrovascular dysfunction. However, cellular events linking early metabolic stress to subsequent neuronal injury and neurodegenerative processes remain poorly defined."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Here, we demonstrate that high-fat diet (HFD) triggers microglia to release pathogenic migrasomes (long-lived organelle-like vesicles) that promote neuronal injury, during an early phase of metabolic stress, before the emergence of overt dyslipidemia, hyperglycemia, and vascular pathology. We found that HFD feeding remodels the lipid environment of myelin-rich white matter and disrupts myelin homeostasis. Upon phagocytosis of this altered myelin, microglia generate migrasomes enriched with the neurotoxic alarmin S100A9. The pathogenicity of these vesicles was supported by complementary gain- and loss-of-function studies: intracerebral injection of HFD-induced microglial migrasomes was sufficient to impair cognition and induce neuronal injury in healthy mice, whereas Tspan9 conditional knockout in Cx3cr1-CreERT2 mice markedly reduced migrasome formation and thereby attenuated HFD-induced neurotoxicity. Mechanistically, we show that S100A9 is sorted into migrasomes post-myelin phagocytosis and is a critical mediator for their neurotoxic effects."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "These results uncover a metabolic-myelin-migrasome axis as a critical driver of neuronal injury and cognitive decline, identifying the blockade of microglial migrasome biogenesis as a potential therapeutic strategy for metabolism-associated neurological dysfunction."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43009129/",
+   "doi": "https://doi.org/10.1016/j.metabol.2026.156841",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43009033",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Miro1 and mitochondrial dysfunction in Huntington's disease: Emerging mechanistic links and therapeutic perspectives",
+   "revista": "Mitochondrion",
+   "autores": "Gupta S, Mandal S, Dipa P et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "However, this gain-of-function rescue does not establish endogenous Miro1 deficiency or demonstrate that Miro1 dysfunction is a primary driver of HD pathology. This review critically analyses the molecular mechanisms underlying mitochondrial dysfunction in HD, particularly Miro1, its implications for HD neurodegeneration, and its therapeutic potential.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Huntington's disease (HD) is a chronic, hereditary, and ultimately fatal neurological disorder that is transmitted in an autosomal dominant manner through an abnormal expansion of trinucleotide CAG repeats in the huntingtin gene, which encodes a mutant protein with an expanded polyglutamine tract. HD occurs in approximately 5-10 individuals per 100,000 people worldwide, and is associated with increasing motor dysfunction, cognitive decline and profound neuropsychiatric disorder with a selective vulnerability of the striatal medium spiny neurons. Early and integral to HD pathogenesis is mitochondrial dysfunction, before the onset of clinical symptoms and obvious neurodegeneration. In the context of mitochondrial regulation, the atypical Rho GTPase Miro1 has emerged as a key regulator that integrates mitochondrial motility, calcium sensing, fusion/fission dynamics, and mitophagy. Mutant huntingtin interferes with the assembly of motor-adaptor complexes containing Miro1, mitochondrial transport along axons, the regulation of motility arrest by Ca2+-sensing mechanisms, and the degradation of Miro1 by PINK1/Parkin, leading to impaired mitochondrial quality control and propagation of bioenergetic stress. These converging abnormalities are linked to molecular pathology characterised by mitochondrial mislocalization, insufficient mitochondrial turnover and synaptic failure resulting in selective degeneration of HD neurons. A study using zQ175 HD model mice demonstrated that Miro1overexpression partially rescued impaired anterograde mitochondrial transport in striatal neurons. However, this gain-of-function rescue does not establish endogenous Miro1 deficiency or demonstrate that Miro1 dysfunction is a primary driver of HD pathology. This review critically analyses the molecular mechanisms underlying mitochondrial dysfunction in HD, particularly Miro1, its implications for HD neurodegeneration, and its therapeutic potential."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43009033/",
+   "doi": "https://doi.org/10.1016/j.mito.2026.102235",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43008987",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Kraft lignin/polyethylene glycol-based non-isocyanate polyurethane films: Composition-tunable shape memory behavior",
+   "revista": "Int J Biol Macromol",
+   "autores": "Kim DY, Heo JW, Yang JW et al.",
+   "tipo_estudo": "",
+   "destaque": "Among the tested films, the film prepared at a 50:50 KL/PEG hydroxyl-equivalent ratio showed the most favorable balance between strength and extensibility, exhibiting a tensile strength of 2.78 ± 0.16 MPa and an elongation at break of 103.29 ± 3.96%. These findings suggest that systematically controlling the KL/PEG ratio is an effective strategy for designing lignin-derived NIPU films as thermally responsive shape-memory materials.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Growing concerns regarding fossil resource dependence and isocyanate-related health hazards have driven interest in bio-based, isocyanate-free polymer materials. Kraft lignin (KL), an abundant natural aromatic biopolymer, is a promising renewable polyol feedstock. However, lignin-rich polymer networks often suffer from brittleness and restricted chain mobility. This study aimed to develop KL/polyethylene glycol (PEG)-based non-isocyanate polyurethane (NIPU) films by balancing the rigid KL aromatic domains with flexible PEG-derived ether segments. Dimethyl carbonate and hexamethylenediamine (HMDA) were used to form carbamate-related structures via an isocyanate-free carbonate-amine route, with epichlorohydrin used as a crosslinker for film formation. The KL/PEG ratio was varied across seven hydroxyl-equivalent compositions to tune the rigid-flexible segment balance. Chemical and spectroscopic analyses supported the formation of carbamate linkages and incorporation of HMDA-derived nitrogen. The KL/PEG ratio strongly affected film morphology, wettability, thermal behavior, flexibility, tensile properties, shape-fixing/recovery behavior, and antioxidant activity. Among the tested films, the film prepared at a 50:50 KL/PEG hydroxyl-equivalent ratio showed the most favorable balance between strength and extensibility, exhibiting a tensile strength of 2.78 ± 0.16 MPa and an elongation at break of 103.29 ± 3.96%. These findings suggest that systematically controlling the KL/PEG ratio is an effective strategy for designing lignin-derived NIPU films as thermally responsive shape-memory materials."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43008987/",
+   "doi": "https://doi.org/10.1016/j.ijbiomac.2026.155222",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43008847",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Protocol for a randomized controlled trial to promote physical activity in older hispanic adults: The De Pie y a Movernos study",
+   "revista": "Contemp Clin Trials",
+   "autores": "Rosenberg D, Greenwood-Hickman MA, Zhu W et al.",
+   "tipo_estudo": "",
+   "destaque": "Findings will provide evidence on the effectiveness of a culturally adapted approach to improve PA as a step towards developing effective dementia risk reduction interventions for the older Hispanic community. Clinical Trials.gov identifier: NCT06362824.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Dementia rates are higher for older Hispanic/Latino(a/e/x) (termed Hispanic throughout) compared to non-Hispanic White or Asian adults and their representation in dementia prevention studies is very low. Physical activity (PA) is known to reduce the risk of cognitive decline and dementia, but culturally adapted PA interventions are needed to reduce barriers to participation for older Hispanic adults. We tested a culturally adapted PA intervention for Hispanic adults ages 55 and over. Participants (N = 137) were randomized to receive either the culturally adapted intervention or an active comparison group. The theory-based, fully remote intervention includes 6 individualized telephone health coaching contacts over 12 weeks focused on goal-setting, problem-solving, and social support along with a Fitbit fitness tracker. Comparison group participants receive access to an online dementia prevention website. The primary outcome is moderate-to-vigorous PA measured by hip-worn ActiGraph accelerometers; secondary ActiGraph outcomes include meeting PA guidelines and daily time spent in sedentary time, light-intensity PA, and daily steps. Exploratory outcomes include cognitive function and psychosocial mechanisms. Analyses will use linear regression with robust standard error estimators and will be adjusted for imbalanced covariates and baseline moderate-to-vigorous PA, age, sex, site, education, and cognition. Recruitment began in August 2024 and is anticipated to be completed in August 2026. Findings will provide evidence on the effectiveness of a culturally adapted approach to improve PA as a step towards developing effective dementia risk reduction interventions for the older Hispanic community. Clinical Trials.gov identifier: NCT06362824."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43008847/",
+   "doi": "https://doi.org/10.1016/j.cct.2026.108526",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43008775",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Safety, tolerability, and efficacy of bepranemab in people living with prodromal-to-mild Alzheimer's disease: a randomised, double-blind, placebo-controlled, phase 2 trial",
+   "revista": "Lancet Neurol",
+   "autores": "Barton ME, Byrnes W, van den Steen B et al.",
+   "tipo_estudo": "",
+   "destaque": "Treatment with bepranemab was associated with an acceptable safety profile. However, the primary endpoint was not met. Hypothesis-generating differences favouring bepranemab in tau PET and 14-item Alzheimer's Disease Assessment Scale-Cognitive Subscale should be tested prospectively in trials powered for tau PET outcomes and stratified by baseline tau burden and apolipoprotein E ɛ4 status.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Tau aggregation is a defining feature of the pathophysiology of Alzheimer's disease and an appealing therapeutic target, yet tau-directed antibodies tested to date-primarily targeting N-terminal epitopes-have failed to slow tau progression or cognitive decline. Bepranemab targets the tau mid-region, predicted in cell-based assays to more effectively block neuron-to-neuron tau spread than anti-tau antibodies targeting the N-terminus. We aimed to investigate the safety and efficacy of bepranemab in slowing progression of tau pathology and clinical decline in people with prodromal-to-mild Alzheimer's disease."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "This double-blind, placebo-controlled, phase 2 trial recruited participants across 101 outpatient sites in Europe (eight countries), Canada, and the USA. Participants (aged 50-80 years) with prodromal-to-mild Alzheimer's disease were randomly assigned 1:1:1 (using an interactive response system) to intravenous bepranemab 45 mg/kg, bepranemab 90 mg/kg, or placebo (every 4 weeks for 76 weeks), stratified by diagnosis, apolipoprotein E ɛ4 carrier status, and symptomatic treatment use. The primary endpoint was change from baseline to week 80 in Clinical Dementia Rating Scale-Sum of Boxes (CDR-SB) total score. Efficacy was assessed in the full analysis set (ie, all randomly assigned participants who received at least a partial dose of trial medication and had at least one valid post-baseline clinic visit and efficacy assessment). Safety was assessed in all randomly assigned participants who received at least a partial dose of the trial medication. No imputation was done for missing data. The trial is registered at ClinicalTrials.gov (NCT04867616) and is complete."
+    },
+    {
+     "rotulo": "Findings",
+     "texto": "Between Aug 24, 2021, and Oct 25, 2022, 466 participants were randomly assigned to bepranemab 45 mg/kg (n=154), bepranemab 90 mg/kg (n=155), or placebo (n=157) at 85 sites. Median age was 72·0 years (IQR 66·0-76·0), 259 (56%) were female, and 207 (44%) were male. In total, 460 participants were included in the full analysis set: bepranemab 45 mg/kg (n=152), bepranemab 90 mg/kg (n=152), and placebo (n=156). Least-squares mean CDR-SB total score change from baseline to week 80 was 2·15 in the bepranemab 90 mg/kg group and 1·85 in the bepranemab 45 mg/kg group versus 1·81 in the placebo group, with differences versus placebo of 0·34 (95% CI -0·09 to 0·78, p=0·12; 80% CI 0·06 to 0·63) for the bepranemab 90 mg/kg group and 0·04 (-0·40 to 0·47, p=0·87; -0·25 to 0·32) for the bepranemab 45 mg/kg group. Frequency of treatment-emergent adverse events with bepranemab was similar to the placebo group (139 [91%] with bepranemab 45 mg/kg, 140 [91%] with bepranemab 90 mg/kg, and 142 [90%] with placebo); no treatment-related neuroinflammatory safety signals were identified clinically or on brain MRI scans. There were adverse events leading to death in four (1%) participants in the combined bepranemab groups and six (4%) in the placebo group; none were considered related to the trial treatment."
+    },
+    {
+     "rotulo": "Interpretation",
+     "texto": "Treatment with bepranemab was associated with an acceptable safety profile. However, the primary endpoint was not met. Hypothesis-generating differences favouring bepranemab in tau PET and 14-item Alzheimer's Disease Assessment Scale-Cognitive Subscale should be tested prospectively in trials powered for tau PET outcomes and stratified by baseline tau burden and apolipoprotein E ɛ4 status."
+    },
+    {
+     "rotulo": "Funding",
+     "texto": "UCB."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43008775/",
+   "doi": "https://doi.org/10.1016/S1474-4422(26)00357-1",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43008718",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Allergic resident memory finds a skin niche",
+   "revista": "Immunity",
+   "autores": "Barrere-Cain R, DeRogatis AM, Scharschmidt TC",
+   "tipo_estudo": "",
+   "destaque": "Mechanisms driving allergic relapse in the skin remain poorly defined. In this issue of Immunity, Asahina et al. identify a pathogenic CXCR6+ subset of skin-resident memory CD4+ T cells that persist after biologic treatment in human atopic dermatitis.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Mechanisms driving allergic relapse in the skin remain poorly defined. In this issue of Immunity, Asahina et al. identify a pathogenic CXCR6+ subset of skin-resident memory CD4+ T cells that persist after biologic treatment in human atopic dermatitis."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43008718/",
+   "doi": "https://doi.org/10.1016/j.immuni.2026.10.007",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43008336",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Emerging strategies for progressive supranuclear palsy (PSP) combination therapies",
+   "revista": "EBioMedicine",
+   "autores": "Rojas EP, Stahl J, Min Y et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "In this review, we summarise current treatment strategies attempted in PSP, compile disease-modifying therapies in development, and explore potential disease mechanisms suggested by multi-omics studies. By targeting several underlying disease processes at once, combination strategies have the potential to improve both motor and cognitive function, slow neurodegeneration, and ultimately alter disease progression.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Progressive supranuclear palsy (PSP) is a neurodegenerative disorder characterised by a combination of motor, ocular, cognitive, and behavioural impairment, but has a heterogeneous clinical presentation. It is a devastating and rapidly progressive atypical parkinsonian disorder with no current disease-modifying treatments. PSP is classified as a primary tauopathy characterised by abnormal accumulation of tau within neurons and glial cells, primarily in the brain stem, culminating in cell death. While genome wide association studies have been instrumental in identifying multiple risk loci, recent multi-omics studies combining brain gene expression and other omics measures have revealed a plethora of perturbed transcripts and molecular pathways that may play pivotal roles in PSP. This includes genes such as MAPT, STOM, KANK2, DDR2, LRRK2, and STX6, but their precise roles remain elusive. These genes are differentially expressed and may regulate processes including neuroinflammation, glymphatic clearance of tau, cytoskeletal maintenance, and synaptic function. In this review, we summarise current treatment strategies attempted in PSP, compile disease-modifying therapies in development, and explore potential disease mechanisms suggested by multi-omics studies. By targeting several underlying disease processes at once, combination strategies have the potential to improve both motor and cognitive function, slow neurodegeneration, and ultimately alter disease progression."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43008336/",
+   "doi": "https://doi.org/10.1016/j.ebiom.2026.106546",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43008324",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Thermal annealing-induced charge storage enhancement in WO3/β-Ga2O3 nanowire heterostructures for MOS capacitive memory",
+   "revista": "Nanotechnology",
+   "autores": "Kumar KN, Kumar M, Vasantharao G et al.",
+   "tipo_estudo": "",
+   "destaque": "These enhanced parameters can be ascribed to the annealing-induced modification of electrically active defects together with improved interface quality. The results demonstrated the thermally annealed WO3/β-Ga2O3 VAHNWs as a promising candidate for future non-volatile memory technologies..",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "This paper examines non-volatile metal oxide semiconductor (MOS) capacitive memory based on WO3/β-Ga2O3 heterostructure nanowire arrays. The WO3/β-Ga2O3 vertical oriented axial heterostructure nanowires (VAHNWs) were synthesized using glancing angle deposition (GLAD) technique installed in an RF sputtering system. The fabricated VAHNWs were also subjected to air annealing at 600 ˚C for 1 hour. The interface trap density (D_it) decreased from 1.7×10^10 〖eV〗^(-1) 〖cm〗^(-2) (as-deposited) to 1×10^10 〖eV〗^(-1) 〖cm〗^(-2)(annealed) which is consistent with a reduction in electrically active interface states. The MOS capacitor exhibited a significant memory window of approximately 5.35 V at ± 8 V and stable endurance over 2000 programming/erasing cycles. Moreover, a charge retention duration as long as 3.5×10^(4 ) s was observed after annealing. These enhanced parameters can be ascribed to the annealing-induced modification of electrically active defects together with improved interface quality. The results demonstrated the thermally annealed WO3/β-Ga2O3 VAHNWs as a promising candidate for future non-volatile memory technologies.."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43008324/",
+   "doi": "https://doi.org/10.1088/1361-6528/aec020",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43008093",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Verbal Fluency Markers of Cognitive Decline in Galician-Spanish Bilingual Older Adults: A Pilot Study",
+   "revista": "Am J Speech Lang Pathol",
+   "autores": "Estrada Pineda AM, Rießler M, Ferreiro SM",
+   "tipo_estudo": "",
+   "destaque": "Our results indicate that the average number of clusters, the average number of switches on LF, and the total number of correct words on both SF and LF seem particularly sensitive to cognitive status. There also seems to be a gradual reduction in verbal fluency performance across these three measures as cognitive decline increases.",
+   "resumo": [
+    {
+     "rotulo": "Purpose",
+     "texto": "As life expectancy increases, cognitive decline becomes an important public health concern. The early detection of cognitive changes is essential for timely treatment. This study examined the performance of Galician-Spanish bilingual older adults on verbal fluency tasks to determine whether measures of total correct words, average number of clusters, average cluster size, and average number of switches could detect varying levels of cognitive decline."
+    },
+    {
+     "rotulo": "Method",
+     "texto": "Sixty-three bilingual (or multilingual) participants from the SECONDSGALES project (38 controls, 13 with mild cognitive impairment [MCI] and 12 with dementia) aged 65 years and older were evaluated, in their preferred language, across two tasks: animals for semantic fluency (SF), and the letter S for letter fluency (LF)."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Linear mixed-effects model analyses revealed that cognitively impaired participants produced fewer correct words than controls across both tasks, although the difference was more pronounced on SF than on LF. None of the clustering and switching measures yielded significant results on SF. On LF, cognitively impaired participants showed significantly fewer clusters and significantly fewer switches, and the dementia group showed significantly smaller clusters compared to controls. Estimates across three out of four models suggest a tendency for scores to decline as impairment increases."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Our results indicate that the average number of clusters, the average number of switches on LF, and the total number of correct words on both SF and LF seem particularly sensitive to cognitive status. There also seems to be a gradual reduction in verbal fluency performance across these three measures as cognitive decline increases."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43008093/",
+   "doi": "https://doi.org/10.1044/2026_AJSLP-26-00097",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261108233103-htm",
    "fonte": "ScienceDaily",
@@ -8021,6 +9169,29 @@
     "cognicao"
    ],
    "visto_em": "2026-11-05T21:02:06.788010+00:00"
+  },
+  {
+   "id": "pmid-42950793",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Discovery of novel pyridine-2-tetrazole derivatives as in vivo memory enhancement agents",
+   "revista": "Bioorg Chem",
+   "autores": "Hung NV, Hoang VH, Long LTB et al.",
+   "tipo_estudo": "",
+   "destaque": "This cognitive enhancement was demonstrated through the Object Recognition Test, modified Y-maze, and Passive Avoidance Test. These findings suggest that compound 28 may exert its neuroprotective effects through a different molecular mechanism rather than exclusive AChE inhibition, highlighting its potential as a lead compound for the treatment of cognitive impairment and related neurodegenerative disorders such as AD.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Despite the currently incurable nature of Alzheimer's disease (AD), acetylcholinesterase (AChE) inhibitors remain the primary therapeutic strategy for symptom management. In this study, twenty-five novel pyridine-2-tetrazole derivatives were designed, their binding affinities with AChE were predicted using machine learning models, and their drug-likeness were calculated. Following their synthesis, the compounds were evaluated in vitro for AChE inhibitory activity. Based on these findings, lead compounds 11 and 28 were selected for in vivo assessment to determine their effects on cognitive function in trimethyltin (TMT)-induced cognitive impairment mouse models at dosages of 20 mg/kg and 60 mg/kg. Although compound 28 exhibited modest in vitro AChE inhibition, it significantly improved cognitive performance in TMT-induced mice across both dosage groups. This cognitive enhancement was demonstrated through the Object Recognition Test, modified Y-maze, and Passive Avoidance Test. These findings suggest that compound 28 may exert its neuroprotective effects through a different molecular mechanism rather than exclusive AChE inhibition, highlighting its potential as a lead compound for the treatment of cognitive impairment and related neurodegenerative disorders such as AD."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42950793/",
+   "doi": "https://doi.org/10.1016/j.bioorg.2026.110683",
+   "data": "2026-10-28T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-11T10:53:59.147733+00:00"
   },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-10-261027230715-htm",
