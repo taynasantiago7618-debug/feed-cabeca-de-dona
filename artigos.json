@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-11T10:53:59.147733+00:00",
+ "atualizado_em": "2026-11-12T10:55:00.400978+00:00",
  "titulo": "Feed Científico Cabeça de Dona",
  "subtitulo": "Ciência nova, todo dia, sobre o que move a sua saúde",
  "temas": [
@@ -30,6 +30,1255 @@
   }
  ],
  "artigos": [
+  {
+   "id": "pmid-43015368",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Rare GLP1R variants attenuate weight loss with semaglutide but not tirzepatide",
+   "revista": "Nat Metab",
+   "autores": "Levy ME, Schiabor Barrett KM, Telis N et al.",
+   "tipo_estudo": "",
+   "destaque": "Carriers of rare variants in GIPR, which encodes the glucose-dependent insulinotropic polypeptide receptor, the second target of tirzepatide, also achieve normal weight loss responses. Our study demonstrates that rare GLP1R variants affect the response to semaglutide but not to tirzepatide.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Weight loss with glucagon-like peptide-1 receptor agonists (GLP-1RAs) is heterogeneous across individuals, yet the genetic causes of this variation are not fully known. We integrated exome sequencing data with electronic health records within the Helix Research Network (n = 351,818). Here, we show that, among 13,725 GLP-1RA-treated adults, carriers of rare damaging GLP1R variants lose less weight with semaglutide than matched non-carriers but achieve a near-normal tirzepatide response. Carriers of rare variants in GIPR, which encodes the glucose-dependent insulinotropic polypeptide receptor, the second target of tirzepatide, also achieve normal weight loss responses. Our study demonstrates that rare GLP1R variants affect the response to semaglutide but not to tirzepatide."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43015368/",
+   "doi": "https://doi.org/10.1038/s42255-026-01656-z",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43015940",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Moral injury in nursing: An evolutionary concept analysis",
+   "revista": "Nurs Ethics",
+   "autores": "Maleki M, Mardani A, Vaismoradi M",
+   "tipo_estudo": "Revisão",
+   "destaque": "A conceptual framework that integrates the key conceptual elements has been developed.ConclusionsThis concept analysis establishes clearer conceptual boundaries for moral injury in nursing and distinguishes it from related constructs. The proposed conceptual framework provides a foundation for future measurement refinement, empirical research, and intervention development while highlighting the importance of organizational strategies that preserve nurses' moral integrity and support ethical professional practice.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "BackgroundMoral injury is an important ethical and psychological concern in nursing, but its conceptual boundaries remain ambiguous due to overlapping with related constructs such as moral distress, burnout, compassion fatigue, and post-traumatic stress disorder. Lack of conceptual clarity hinders its consistent measurement and devising interventional strategies.ObjectiveTo clarify the concept of moral injury in nursing.DesignConcept analysis based on the Rodgers' evolutionary method.SearchA structured literature search of PubMed, Scopus, Web of Science, CINAHL, and Embase was conducted to support Rodgers' evolutionary concept analysis. The retrieved literature was analyzed to identify surrogate terms, related concepts, antecedents, attributes, consequences, and empirical referents of moral injury.ResultsThirty-five studies (12 qualitative, 22 quantitative, and one mixed-method) were included, indicating that moral injury in nursing has reached relative conceptual maturity. Moral injury is conceptualized as a multidimensional moral-psychological phenomenon characterized by three defining attributes: \"ethical integrity violation,\" \"identity disruption,\" and \"persistent moral suffering.\" Antecedents are identified across individual, professional, organizational, and societal/system levels, encompassing personal moral characteristics, ethically challenging clinical situations, organizational constraints, and broader healthcare system conditions. Consequences similarly extend across individual, professional, organizational, and patient-care levels, including enduring psychological suffering, impaired professional functioning, reduced organizational effectiveness, workforce instability, and compromised quality of care. Existing empirical referents incompletely capture the multidimensional nature of the concept, particularly the disruption of professional identity. A conceptual framework that integrates the key conceptual elements has been developed.ConclusionsThis concept analysis establishes clearer conceptual boundaries for moral injury in nursing and distinguishes it from related constructs. The proposed conceptual framework provides a foundation for future measurement refinement, empirical research, and intervention development while highlighting the importance of organizational strategies that preserve nurses' moral integrity and support ethical professional practice."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43015940/",
+   "doi": "https://doi.org/10.1177/09697330261503960",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43015714",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "From technique to sensitivity: the transformation of clinical and ethical reasoning in physiotherapy students in the context of chronic neurodegenerative diseases",
+   "revista": "BMC Med Educ",
+   "autores": "Pérez-de la Cruz S",
+   "tipo_estudo": "",
+   "destaque": "Future physiotherapists perceive humanization and the empathetic interpretation of non-verbal cues as essential therapeutic tools. Unlike previous studies focused on clinical experience, this research explores pre-clinical ethical maturation, offering a unique perspective on the educational foundation and humanistic predisposition of future graduates prior to their immersion in the healthcare system. It is imperative that academic curricula formally integrate competencies in bioethics, palliative care and emotional management to prepare graduates for extreme vulnerability and prevent early professional burnout.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "The evolution of Physiotherapy requires a shift from the biomedical model towards bioethical and humanistic approaches. This study explores how final-year students perceive their professional role when dealing with patients with complex neurodegenerative conditions, where traditional technical success is challenged by the irreversibility of the deterioration."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Qualitative research based on interpretative description. Thirty final-year students from the University of Almería (Spain) took part, divided into five working groups. Three training sessions and discussions were held on Amyotrophic Lateral Sclerosis (ALS), Alzheimer's disease, stroke and Rett syndrome. The data were analysed using thematic analysis and triangulation by researchers external to the study, with reflexivity ensured through logbooks."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "A shift in clinical reasoning was identified, with sensitivity taking precedence over technique. Students redefined therapeutic success in terms of \"comfort\" and support, valuing \"microscopic achievements\" such as the preservation of dignity and the alleviation of distress. Of particular note is the ability to adapt ethical principles according to the patient's cognitive integrity (autonomy in ALS versus protection in Alzheimer's) and the integration of the carer as an inseparable part of the therapeutic process."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Future physiotherapists perceive humanization and the empathetic interpretation of non-verbal cues as essential therapeutic tools. Unlike previous studies focused on clinical experience, this research explores pre-clinical ethical maturation, offering a unique perspective on the educational foundation and humanistic predisposition of future graduates prior to their immersion in the healthcare system. It is imperative that academic curricula formally integrate competencies in bioethics, palliative care and emotional management to prepare graduates for extreme vulnerability and prevent early professional burnout."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43015714/",
+   "doi": "https://doi.org/10.1186/s12909-026-10077-1",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43016211",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Large language model responses about PMOS : information quality, readability, transparency and perceived empathy",
+   "revista": "J Obstet Gynaecol",
+   "autores": "Chen Y, Xiong YJ, Yu P et al.",
+   "tipo_estudo": "",
+   "destaque": "Ratings differed for the specific configurations and single responses examined in this treatment-heavy question set. The findings neither establish stable model rankings nor demonstrate clinical correctness, safety or effectiveness for patients.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Freely accessible large language models provide health information, but their communication characteristics require evaluation. We compared information quality, transparency, readability and perceived empathy for questions about polyendocrine metabolic ovarian syndrome (PMOS; formerly PCOS)."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Thirty-three clinician-formulated English questions using PCOS terminology were submitted once to each of three free-access configurations during 20-25 July 2026. Two clinicians rated DISCERN, EQIP, JAMA benchmarks, global quality and perceived empathy. Six readability indices were calculated. Matched comparisons used Friedman tests, paired signed-rank permutation comparisons and Holm correction."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Across 99 archived responses, the DeepSeek-V4 configuration received higher final ratings than GPT-5.5 and Gemini 3.5 on all five clinician-rated measures (Holm-adjusted pairwise P < 0.05). Median DISCERN scores were 67.0, 62.0 and 61.0, respectively. DeepSeek-V4 had higher median ARI, GFI, FKGL and SMOG values, whereas GPT-5.5 had the highest median Coleman-Liau score. FRES showed no overall difference (adjusted P = 0.100). Initial empathy agreement was low (ICC 0.05-0.43)."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Ratings differed for the specific configurations and single responses examined in this treatment-heavy question set. The findings neither establish stable model rankings nor demonstrate clinical correctness, safety or effectiveness for patients."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43016211/",
+   "doi": "https://doi.org/10.1080/01443615.2026.2758484",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43016196",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Relation Between the Prevalence of Hearing Loss, Auditory Processing Disorder, and Cognitive Decline in Older Adults: A Retrospective Study",
+   "revista": "J Int Adv Otol",
+   "autores": "Ghosh V, Yathiraj A",
+   "tipo_estudo": "",
+   "destaque": "The study demonstrates that hearing loss, APD symptoms, and cognitive decline frequently coexist but are not strongly associated. This emphasizes that all 3 screening procedures should be performed in older adults for timely detection and management.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Older adults are known to experience communication difficulties due to hearing loss, auditory processing disorder (APD), and cognitive decline. These conditions have been found to independently or in pairs affect communication, social participation, and quality of life. However, there are limited reports on the relationship of these 3 conditions among older adults. Thus, the study aimed to determine the association between hearing loss, APD, and cognitive decline in older adults and examine the influence of age and gender."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Using the records of 1100 older adults aged 50-95 years who visited a tertiary care geriatric clinic, the data of pure-tone hearing screening, risk for APD, and cognition were analyzed."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The number of participants referred was the highest for hearing screening (59.3%), followed by cognitive decline (55.6%), and APD (24.8%). Only 18.5% passed all 3 screening procedures, while 81.5% were referred on at least 1 screening procedure. In general, males were referred more frequently than females, with the referral rate being higher with advancement in age. Significant differences were found between APD and the other 2 screening procedures but not between hearing and cognition. The associations among the 3 screening procedures were weak to moderate, suggesting their independence."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "The study demonstrates that hearing loss, APD symptoms, and cognitive decline frequently coexist but are not strongly associated. This emphasizes that all 3 screening procedures should be performed in older adults for timely detection and management."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43016196/",
+   "doi": "https://doi.org/10.65717/iao.2026.262359",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43015924",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Prospective associations between diet quality, frailty and incident cognitive impairment in the health and retirement study",
+   "revista": "BMC Glob Public Health",
+   "autores": "Beydoun MA, Wei C, Weiss J et al.",
+   "tipo_estudo": "",
+   "destaque": "Higher diet quality was associated with lower physical frailty but not independently with incident cognitive impairment. Food-specific associations were heterogeneous and largely did not survive multiple-testing correction. Findings warrant replication before drawing dietary recommendations for cognitive health.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Diet quality is a modifiable determinant of healthy aging, potentially influencing physical and cognitive functioning through inflammatory and metabolic pathways. Although healthier dietary patterns have been linked to reduced frailty and cognitive decline, findings remain inconsistent. The interrelationships among diet quality, physical frailty, and incident cognitive impairment, including potential modification by specific dietary components, remain poorly understood."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We analyzed 1,636 cognitively normal participants in 2016 from the Health and Retirement Study, a longitudinal study of adults in the United States (U.S.), with diet assessed in 2013, frailty in 2016, and cognitive follow-up through 2022. Cognitive impairment was assessed with cognitive tests and used the Langa-Weir classification; diet quality was measured using the Healthy Eating Index-2015 (HEI-2015); and physical frailty used a modified Fried phenotype. Survey-weighted regression, Cox models, four-way decomposition, competing-risk and multistate models, and additive Bayesian network (ABN)-informed generalized structural equation models (GSEM) were applied."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Higher HEI-2015 scores were associated with lower frailty (β = -0.13, P < 0.001), but not with incident cognitive impairment. Frailty was associated with higher cognitive risk in minimally adjusted models (Hazard Ratio (HR) = 2.27, 95% confidence interval (CI): 1.56-3.32), with attenuation after full adjustment. Exploratory analyses identified 13 nominally significant food-item associations with composite cognitive impairment, including higher risks associated with selected dairy products, processed meats, and beverages, and an inverse association with red wine (HR = 0.77, 95% CI: 0.66-0.89). None survived FDR correction. Five dietary associations with probable dementia alone survived FDR correction but remained exploratory. Four-way decomposition provided limited evidence of dietary mediation or interaction, while sensitivity analyses supported attenuation of frailty-cognition associations."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Higher diet quality was associated with lower physical frailty but not independently with incident cognitive impairment. Food-specific associations were heterogeneous and largely did not survive multiple-testing correction. Findings warrant replication before drawing dietary recommendations for cognitive health."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43015924/",
+   "doi": "https://doi.org/10.1186/s44263-026-00347-x",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43015642",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "EXPRESS: Brain Age Gap from Non-Contrast CT Is Independently Associated with Functional Outcome after Acute Ischemic Stroke",
+   "revista": "J Cereb Blood Flow Metab",
+   "autores": "Mahajna M, Charatpangoon P, Martin Ondrus M et al.",
+   "tipo_estudo": "",
+   "destaque": "These findings support CT-based BrainAGE as a marker of brain health complementary to established prognostic factors. Whether BrainAGE improves patient-level risk stratification or clinical decision-making requires independent external validation and prospective evaluation.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "BackgroundOutcomes after acute ischemic stroke (AIS) vary beyond lesion burden and clinical severity, suggesting a role for baseline structural brain vulnerability. We evaluated whether brain age gap (BrainAGE) derived from routine non-contrast computed tomography (NCCT) is associated with functional outcome after AIS.MethodsWe analyzed 1,173 AIS patients from a prospective multicenter cohort. A deep learning model estimated brain age from contralesional baseline NCCT to minimize lesion-related confounding. BrainAGE was defined as predicted minus chronological age. The primary outcome was 90-day functional status, assessed using proportional odds regression adjusted for age, sex, baseline stroke severity, early ischemic changes, and reperfusion therapy.ResultsBrainAGE was higher in AIS patients than in controls (+3.1 ± 9.1 years; p<0.001). Higher BrainAGE was associated with worse functional outcome after adjustment for age, sex, and other clinical predictors (POR 1.091 per 5 years; 95% CI 1.023-1.162; p=0.008). BrainAGE improved model fit but modestly improved discrimination.ConclusionsBrainAGE from routine NCCT provided modest incremental prognostic information beyond age and conventional clinical predictors. These findings support CT-based BrainAGE as a marker of brain health complementary to established prognostic factors. Whether BrainAGE improves patient-level risk stratification or clinical decision-making requires independent external validation and prospective evaluation."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43015642/",
+   "doi": "https://doi.org/10.1177/0271678X261508305",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43015321",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Pharmacological chaperone treatment with Cystadane in aspartylglucosaminuria: an open-label, phase Ib/II trial",
+   "revista": "Nat Commun",
+   "autores": "Laine M, Banning A, Sairanen V et al.",
+   "tipo_estudo": "",
+   "destaque": "Further studies should be carried out in a larger patient population over a longer time to demonstrate the effects on disease progression. EudraCT registration number 2017-000645-48.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "This phase Ib/II investigator-initiated, open label trial aims to show the safety and efficacy of Cystadane (betaine) in aspartylglucosaminuria, a lysosomal storage disorder characterized by progressive cognitive decline, in Finnish patients homozygous for the Finnish major mutation, aged between 3 and 17 years at study begin (recruited: 25, analyzed: 21). Oral Cystadane efficacy and safety were studied over 48 months. The primary endpoint of the study, reduction of glycoasparagines in the urine, was quantitatively determined using liquid chromatography/mass spectrometry and normalized to urine creatinine. Urine glycoasparagines are significantly reduced upon Cystadane treatment (by 68.6% ±10.8%; p = 0.000), and the study thus meets its primary endpoint. Our data show that Cystadane/betaine efficiently improves the main disease biomarker, and it is safe to use in aspartylglucosaminuria. Further studies should be carried out in a larger patient population over a longer time to demonstrate the effects on disease progression. EudraCT registration number 2017-000645-48."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43015321/",
+   "doi": "https://doi.org/10.1038/s41467-026-78752-x",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "rss-https-www-sciencedaily-com-releases-2026-11-261109205401-htm",
+   "fonte": "ScienceDaily",
+   "tipo_fonte": "noticia",
+   "titulo": "Obesity linked to up to 27% lower risk of death in dementia",
+   "revista": "",
+   "autores": "",
+   "tipo_estudo": "",
+   "destaque": "A surprising study of more than 4,500 older adults found that people who were overweight or obese when diagnosed with dementia had a 16% to 27% lower risk of death than those at a normal weight. Researchers suspect that extra energy and muscle reserves may help patients survive the disease's toll on the body, although the reason for the survival advantage remains unclear.",
+   "resumo": [],
+   "link": "https://www.sciencedaily.com/releases/2026/11/261109205401.htm",
+   "doi": "",
+   "data": "2026-11-11T07:59:57-05:00",
+   "temas": [
+    "cognicao",
+    "obesidade"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43014863",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Weight-inclusive Care",
+   "revista": "Prim Care",
+   "autores": "Crespo C, Tucker T",
+   "tipo_estudo": "Revisão",
+   "destaque": "The conventional weight-centric model of care exacerbates weight stigma and leads to discrimination, gaps in care, and patient harm. The weight-inclusive care model is an alternative paradigm that can improve patient outcomes without damaging stigma. Behavior-focused management techniques used within integrative medicine can be embraced from a weight-inclusive lens, with respect to social and community factors such as body image and social influencers of health, to improve and sustain health from a personalized, respectful, and equitable lens.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "The conventional weight-centric model of care exacerbates weight stigma and leads to discrimination, gaps in care, and patient harm. The weight-inclusive care model is an alternative paradigm that can improve patient outcomes without damaging stigma. Behavior-focused management techniques used within integrative medicine can be embraced from a weight-inclusive lens, with respect to social and community factors such as body image and social influencers of health, to improve and sustain health from a personalized, respectful, and equitable lens."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43014863/",
+   "doi": "https://doi.org/10.1016/j.pop.2026.07.005",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43014803",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Impact of Clinical Pharmacist Integration on Weight Management and Transplant Eligibility Among Patients With End-Stage Kidney Disease With Obesity",
+   "revista": "J Am Coll Clin Pharm",
+   "autores": "Yang A, Tecza D, Medwin C et al.",
+   "tipo_estudo": "",
+   "destaque": "IIP therapy appears safe and effective in ESKD. CPP integration was associated with greater weight loss, increased achievement of active transplant eligibility, and improved treatment optimization, highlighting its potential role in addressing obesity-related barriers to transplantation.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Obesity is a barrier to kidney transplantation in patients with end-stage kidney disease (ESKD). Injectable incretin peptides (IIP) have transformed weight management; however, real-world data in ESKD are limited. This study evaluated the impact of integrating a clinical pharmacist practitioner (CPP) into an interprofessional high body mass index (BMI) kidney transplant clinic on weight loss and transplant eligibility outcomes."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "This single-center, retrospective study included adults with ESKD and obesity-prescribed IIP for transplant eligibility between June, 2022 and December, 2024. Cohort 1 included patients treated before CPP implementation; Cohort 2 included patients following implementation. The primary outcome was the percent change in body mass index (BMI) at 3, 6, and 12 months following IIP initiation. Secondary outcomes included changes in transplant eligibility status, IIP dose intensity, and predefined adverse events (AEs) at 12 months."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Eighty-four patients were included (Cohort 1: n = 28; Cohort 2: n = 56). Cohort 2 achieved greater BMI reductions at 3 (-2.0% vs. +1.45%), 6 (-3.3% vs. +1.16%), and 12 months (-8.0% vs. +2.8%; p < 0.01 for all). Among patients initially ineligible for kidney transplantation, 45% of patients in Cohort 2 became active on the transplant waitlist by 12 months compared with 11.5% in Cohort 1 (p = 0.006). More patients in Cohort 2 reached high IIP dose intensity (48.2% vs. 3.6%, p < 0.001), without differences in AE."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "IIP therapy appears safe and effective in ESKD. CPP integration was associated with greater weight loss, increased achievement of active transplant eligibility, and improved treatment optimization, highlighting its potential role in addressing obesity-related barriers to transplantation."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43014803/",
+   "doi": "https://doi.org/10.1002/jac5.70336",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43014567",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "The association between malnutrition and sarcopenia in community-dwelling older adults: A systematic review and meta-analysis",
+   "revista": "Clin Nutr ESPEN",
+   "autores": "Brandão AF, Zucatti KP, Frenzel AP et al.",
+   "tipo_estudo": "",
+   "destaque": "Given the very low certainty of the evidence and the high risk of bias among the above-included studies, these findings should be interpreted with caution. Nevertheless, the available evidence suggests that malnutrition or risk of malnutrition may be associated with sarcopenia in community-dwelling older adults, highlighting the need for early identification while emphasizing that well-designed longitudinal studies are required to confirm this association and better understand its temporal relationship, thereby supporting the development of integrated interventions.",
+   "resumo": [
+    {
+     "rotulo": "Background And Objectives",
+     "texto": "Malnutrition contributes to functional decline in older adults and may precede the development of sarcopenia. This review examined their underexplored relationship in community-dwelling older adults."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A systematic search, conducted up to February 6, 2024, across six databases and grey literature, identified studies on malnutrition (as measured by the MNA) and sarcopenia in community-dwelling older adults. Reviewers screened and extracted data independently, assessed bias using the Newcastle-Ottawa Scale, and performed meta-analyses with random-effects models. Evidence certainty was rated using GRADE."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Twenty studies were included in the systematic review. Malnutrition prevalence ranged from 0.4% to 35.1%, while sarcopenia prevalence ranged from 4.8% to 50.2%. Nineteen studies contributed to the quantitative synthesis, depending on data availability. Meta-analysis of 13 studies (6,459 participants) showed that older adults with malnutrition or risk of malnutrition were more likely to present sarcopenia than their well-nourished counterparts (OR = 3.54; 95% CI: 2.52-4.98). No evidence of publication bias was identified for the OR analysis. A meta-analysis of nine studies reporting MNA as a score showed significantly lower MNA scores among individuals with sarcopenia (SMD = -1.17; 95% CI: -2.28 to -0.05). Most studies were classified as having a high risk of bias (n = 19). the certainty of the evidence was rated as very low in both analyses."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Given the very low certainty of the evidence and the high risk of bias among the above-included studies, these findings should be interpreted with caution. Nevertheless, the available evidence suggests that malnutrition or risk of malnutrition may be associated with sarcopenia in community-dwelling older adults, highlighting the need for early identification while emphasizing that well-designed longitudinal studies are required to confirm this association and better understand its temporal relationship, thereby supporting the development of integrated interventions."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43014567/",
+   "doi": "https://doi.org/10.1016/j.clnesp.2026.105243",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43014326",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Trevogrumab (anti-GDF8) with or without garetosmab (anti-activin A) for prevention of muscle loss during semaglutide-induced weight reduction in people with obesity (COURAGE): a two-part, phase 2, double-blind, placebo-controlled, randomised trial",
+   "revista": "Lancet",
+   "autores": "Mosenzon O, Rosenstock J, Raya JG et al.",
+   "tipo_estudo": "",
+   "destaque": "This study establishes proof of concept for GDF8 inhibition by trevogrumab alone as a generally well tolerated strategy to preserve lean mass during GLP-1 receptor agonist-induced weight loss. Although the addition of ActA inhibition by garetosmab further improved body composition and weight loss, the combination did not have favourable safety and tolerability. Further study is required to understand whether improved body composition during weight loss might preserve physical function and overall metabolic health.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Rapid weight loss, as induced by GLP-1 receptor agonists, is accompanied by pronounced muscle loss. GDF8 (myostatin) and activin A (ActA), acting via ActRIIA/B receptors, are negative regulators of muscle mass. The aim of this study was to evaluate the effect of antibodies blocking GDF8 (trevogrumab) and ActA (garetosmab) on semaglutide-induced weight and muscle loss."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "COURAGE is a two-part, phase 2, double-blind, placebo-controlled, randomised trial. This multicentre (60 sites), US-based trial enrolled participants aged 18-80 years with obesity (BMI ≥30 kg/m2). In part A, participants were treated for 26 weeks with semaglutide (titrated to 2·4 mg subcutaneously weekly) in addition to a randomly assigned (1:1:1:1) concomitant treatment: placebo, trevogrumab 200 mg, trevogrumab 400 mg, or trevogrumab 400 mg and garetosmab 10 mg/kg. Trevogrumab was administered subcutaneously weekly and garetosmab was administered intravenously every 4 weeks. Part A also included a subsequent semaglutide withdrawal period, at which point participants (randomly assigned at baseline 1:1 within each group) received either trevogrumab 400 mg or placebo for an additional 26 weeks. In part B, participants were treated with semaglutide for 52 weeks and randomly assigned (1:2:2) to concomitant treatment with placebo, trevogrumab 25 mg, or trevogrumab 75 mg. Groups were stratified according to sex, BMI (<35 kg/m2vs ≥35 kg/m2), and participation in an exploratory MRI substudy assessing thigh muscle volume. Study participants, the principal investigators, and study site personnel were masked to all randomisation assignments throughout the study. Primary endpoints were percent change in lean mass, fat mass, and bodyweight from baseline to week 26 (part A) or week 52 (part B). Efficacy and safety analyses were done in all randomly assigned participants who received at least one dose of a study drug (efficacy, as randomly assigned; safety, as treated). COURAGE is registered with ClinicalTrials.gov, NCT06299098, and is currently active, not recruiting."
+    },
+    {
+     "rotulo": "Findings",
+     "texto": "975 participants were enrolled between June 21, 2024, and April 14, 2025. Mean age was 49·0 years (SD 13·2) and mean BMI was 36·7 kg/m2 (SD 5·0); 627 (64%) of 975 participants were female and 348 (36%) were male. In part A (n=605, of whom n=599 received at least one dose of study drug), a substantial decrease in lean mass was observed in the semaglutide plus placebo group at week 26 (-6·6% [95% CI -7·4 to -5·7]); the estimated treatment difference (ETD) versus semaglutide plus placebo was +3·1% (95% CI 1·9 to 4·3) with semaglutide plus trevogrumab 200 mg, +2·7% (1·5 to 4·0) with semaglutide plus trevogrumab 400 mg, and +4·5% (3·1 to 5·9) with semaglutide plus trevogrumab 400 mg plus garetosmab 10 mg/kg. In part B (n=376), lean mass percent change from baseline to week 52 for semaglutide plus placebo was -7·3% (-8·8 to -5·8); the ETD versus semaglutide plus placebo was +1·5% (-0·3 to 3·3) for semaglutide plus trevogrumab 25 mg, and +3·1% (1·3 to 4·9) for semaglutide plus trevogrumab 75 mg. Change from baseline in fat mass in part A was -15·6% (-17·4 to -13·9) in the semaglutide plus placebo group; the ETD was significant in the semaglutide plus trevogrumab 400 mg group (-3·4% [-5·9 to -0·9]) and the semaglutide plus trevogrumab 400 mg plus garetosmab 10 mg/kg group (-11·7% [-14·4 to -9·0]) in part A. No other groups in part A nor any in part B had significantly different changes in fat mass compared with semaglutide plus placebo. Percent change in bodyweight in part A was -10·6 (-11·6 to -9·7) in the semaglutide plus placebo group; the ETD was significant for the semaglutide plus trevogrumab 400 mg plus garetosmab 10 mg/kg group (-2·7 [-4·1 to -1·2]). No other groups in part A nor any in part B had significantly different changes in bodyweight compared with semaglutide plus placebo. Semaglutide plus trevogrumab (25 mg, 75 mg, 200 mg, or 400 mg) was generally well tolerated with a safety profile similar to semaglutide plus placebo; however, semaglutide plus trevogrumab 400 mg plus garetosmab 10 mg/kg had a high incidence of serious adverse events (14 [9%] of 149) and treatment discontinuations (48 [32%] of 149). Gastrointestinal adverse events were the most commonly reported, and they occurred with similar incidence across treatment groups. Muscle spasms occurred more frequently in the semaglutide plus trevogrumab 400 mg plus garetosmab 10 mg/kg group (61 [41%] of 149) compared with the semaglutide plus trevogrumab 200 mg or 400 mg groups (23 [8%] of 299) and semaglutide plus placebo groups (seven [5%] of 151). Most adverse events were mild to moderate in severity. Two deaths occurred during the study, both in the semaglutide plus trevogrumab 400 mg plus garetosmab 10 mg/kg group; a causal association between treatment and these events was not identified."
+    },
+    {
+     "rotulo": "Interpretation",
+     "texto": "This study establishes proof of concept for GDF8 inhibition by trevogrumab alone as a generally well tolerated strategy to preserve lean mass during GLP-1 receptor agonist-induced weight loss. Although the addition of ActA inhibition by garetosmab further improved body composition and weight loss, the combination did not have favourable safety and tolerability. Further study is required to understand whether improved body composition during weight loss might preserve physical function and overall metabolic health."
+    },
+    {
+     "rotulo": "Funding",
+     "texto": "Regeneron Pharmaceuticals, Inc."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43014326/",
+   "doi": "https://doi.org/10.1016/S0140-6736(26)01953-7",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43011196",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Prevalence and Prognostic Impact of Sarcopenic Dysphagia in Older Patients With Heart Failure",
+   "revista": "Circ Rep",
+   "autores": "Matsuo K, Yoneki K, Kobayashi K et al.",
+   "tipo_estudo": "",
+   "destaque": "Sarcopenic dysphagia affected 24.0% of patients with HF, and was associated with poorer swallowing-related measures and prognosis.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Dysphagia is common in older patients with heart failure (HF), but evidence regarding sarcopenic dysphagia remains limited. The purpose of this retrospective study was to clarify the prevalence of sarcopenic dysphagia and its relationship with swallowing-related measures and prognosis in older patients with HF."
+    },
+    {
+     "rotulo": "Methods And Results",
+     "texto": "The study group included patients aged ≥65 years admitted with HF between June 2021 and December 2023. Patients were classified into 3 groups using the diagnostic algorithm for sarcopenic dysphagia at discharge: robust (without sarcopenia), sarcopenia (with sarcopenia only), and sarcopenic dysphagia (with sarcopenia and dysphagia). Outcomes were swallowing-related measures (maximal tongue pressure, geniohyoid muscle area, and geniohyoid muscle echogenicity) and a 1-year composite outcome (all-cause death or HF-related readmission). Of 524 screened patients, 363 were analyzed (median age 83 years [Q1-Q3: 78-90 years], 46.6% women); 61 patients were robust (16.8%), 215 had sarcopenia (59.2%), and 87 had sarcopenic dysphagia (24.0%). In the analysis of covariance, swallowing-related measures were poorer in the sarcopenic dysphagia group compared with the robust group (P<0.05). In the Cox regression analysis compared with robust, sarcopenia was not statistically significantly associated with prognosis, but sarcopenic dysphagia was associated with a higher risk (hazard ratio 2.53, 95% confidence interval 1.30-4.90, P=0.006)."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Sarcopenic dysphagia affected 24.0% of patients with HF, and was associated with poorer swallowing-related measures and prognosis."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43011196/",
+   "doi": "https://doi.org/10.1253/circrep.CR-26-0216",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43011005",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Residual Risk Despite High Short Physical Performance Battery Scores in Older Patients With Heart Failure: A Multicenter Retrospective Cohort Study",
+   "revista": "Circ Rep",
+   "autores": "Iwasaki T, Kurata H, Hata Y et al.",
+   "tipo_estudo": "",
+   "destaque": "Even among older patients with HF and preserved physical performance (SPPB ≥10), accumulation of sarcopenia-related impairments was associated with an increased risk of adverse outcomes. Supplementing the SPPB with simple functional assessments may improve risk stratification in clinical practice.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "The prognostic value of the Short Physical Performance Battery (SPPB), which is widely used to assess physical function and prognostic risk in patients with heart failure (HF), is unclear in patients with high SPPB scores. In this study we evaluated whether sarcopenia-related factors defined by the Asian Working Group for Sarcopenia in 2019 provided additional prognostic value in this population."
+    },
+    {
+     "rotulo": "Methods And Results",
+     "texto": "This retrospective multicenter cohort study of the J-Proof HF registry included 3,044 patients aged ≥65 years with a discharge SPPB score ≥10. Impairments in handgrip strength, five-times chair stand test, and calf circumference were aggregated into a composite physical function score (range, 0-3). The primary outcome was the composite of all-cause death or rehospitalization for HF within 1 year, which occurred in 25.0% of the cohort. The composite outcome risk increased in a stepwise manner with each additional impaired domain (adjusted hazard ratio per 1-point increase, 1.245; 95% confidence interval 1.132-1.370; P<0.001). The fully adjusted model showed acceptable discrimination (Harrell's C-index=0.694). Each domain independently demonstrated a similar magnitude of association with the outcome."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Even among older patients with HF and preserved physical performance (SPPB ≥10), accumulation of sarcopenia-related impairments was associated with an increased risk of adverse outcomes. Supplementing the SPPB with simple functional assessments may improve risk stratification in clinical practice."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43011005/",
+   "doi": "https://doi.org/10.1253/circrep.CR-26-0159",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43010172",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Oops! I Cut It Again: Modulatory Proteolysis in Metabolic Health and Disease",
+   "revista": "Obes Rev",
+   "autores": "Pánico P, Velasco M, Ortíz-Huidobro RI et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Proteolytic systems regulate processes essential for maintaining metabolic homeostasis, including insulin secretion, insulin sensitivity and glucose uptake, adipose tissue physiology, muscle mass, and lipid metabolism in the liver. Concordantly, dysregulation of these systems contributes to the development of metabolic diseases, such as metabolic syndrome, insulin resistance, obesity, sarcopenia, and metabolic dysfunction-associated steatotic liver disease, acting both as causal and aggravating factors.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Proteolysis is an irreversible posttranslational modification that modulates protein stability, localization, interactions, and function. There are four intracellular proteolytic systems (calpains, caspases, ubiquitin-proteasome system, and lysosomes) and several extracellular proteases (metalloproteases and serine proteases). In this work, we review the diverse effects of proteolysis on the physiology of tissues vital for metabolic homeostasis as well as the contribution of proteolytic systems to the development of metabolic diseases. Proteolytic systems regulate processes essential for maintaining metabolic homeostasis, including insulin secretion, insulin sensitivity and glucose uptake, adipose tissue physiology, muscle mass, and lipid metabolism in the liver. Concordantly, dysregulation of these systems contributes to the development of metabolic diseases, such as metabolic syndrome, insulin resistance, obesity, sarcopenia, and metabolic dysfunction-associated steatotic liver disease, acting both as causal and aggravating factors."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43010172/",
+   "doi": "https://doi.org/10.1111/obr.70262",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43011230",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Correction to \"Sarcopenia Definitions and Diagnostic Challenges Across Diverse Clinical Populations: A Scoping Review\"",
+   "revista": "Health Sci Rep",
+   "autores": "",
+   "tipo_estudo": "",
+   "destaque": "[This corrects the article DOI: 10.1002/hsr2.72782.].",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "[This corrects the article DOI: 10.1002/hsr2.72782.]."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43011230/",
+   "doi": "https://doi.org/10.1002/hsr2.73454",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43011228",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "GLP-1 based therapy of obesity and type 2 diabetes",
+   "revista": "Diabetol Int",
+   "autores": "Holst JJ",
+   "tipo_estudo": "Revisão",
+   "destaque": "In addition, any prescription of a GLP-1RA should include a plan to mitigate adverse effects of treatment termination. Nevertheless, GLP-1RAs represent a major breakthrough in the therapy of metabolic disease and are now included among the essential medicines of the WHO.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "GLP-1 is 30-amino acid peptide that is secreted from the intestine in response to food intake. The release mechanism involves luminal exposure to as well as absorption and metabolism of the major nutrients. It functions mainly as a part of the ileal brake mechanism whereby nutrient entry in distal segments of the small intestine inhibit gastrointestinal secretion and motility as well as appetite and food intake, signalling nutritional abundance. It also functions as a second line incretin hormone. It acts on the brain via sensory vagal afferents, but also interacts with exposed neurons expressing the GLP-1 receptor in the circumventricular organs, in turn activating brain nuclei involved in appetite regulation and reward. High doses of GLP-1 cause nausea and vomiting, but slow dosing titration mitigates this. GLP-1 Receptor Agonists owe their actions to these physiological mechanisms and therefore represent powerful antidiabetic agents (A1c levels below 5.7%) and cause major weight loss (up to 20%), but also appear to reduce the systemic low-grade inflammation of obesity and type 2 diabetes and to exert beneficial action on the blood vessels, providing the GLP-1RAs with preventive effects on cardiovascular, hepatic, renal and central nervous system complications. Orally active GLP-1rAs have also been developed. It is emphasized that GLP-1RA therapy should be accompanied by lifestyle changes for efficacy and to prevent side effects of the weight loss. In addition, any prescription of a GLP-1RA should include a plan to mitigate adverse effects of treatment termination. Nevertheless, GLP-1RAs represent a major breakthrough in the therapy of metabolic disease and are now included among the essential medicines of the WHO."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43011228/",
+   "doi": "https://doi.org/10.1007/s13340-026-00946-x",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43012507",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Durable and Additive Disease Control at 52 Weeks With Ixekizumab Plus Tirzepatide Versus Ixekizumab Alone in Adults With Psoriatic Arthritis and Obesity or Overweight: Additional Results From a Randomized Clinical Trial",
+   "revista": "Arthritis Rheumatol",
+   "autores": "Merola JF, Kartman CE, Fischer P et al.",
+   "tipo_estudo": "",
+   "destaque": "Comprehensive improvements in disease activity, including ACR50, quality of life, weight, and metabolic outcomes, continued through week 52 and were greater with IXE+TZP than IXE alone, with no new safety concerns. These findings support concomitant IXE+TZP in patients with active PsA and immunometabolic disease.",
+   "resumo": [
+    {
+     "rotulo": "Objective",
+     "texto": "Obesity or overweight occurs in 72% to 82% of individuals with psoriatic arthritis (PsA). Previous data revealed greater disease control with concomitant ixekizumab (IXE) and tirzepatide (TZP) versus IXE alone in adults with active PsA and obesity or overweight with at least one weight-related comorbidity at the week 36 primary end point. The objective of this report is to evaluate the effect of IXE+TZP versus IXE on psoriatic disease control and safety measures up to week 52."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "TOGETHER-PsA (ClinicalTrials.gov ID NCT06588296) is a phase 3b, randomized, open-label, assessor-blinded 52-week trial. Participants were randomized 1:1 to IXE+TZP or IXE using US-approved doses. Week 52 outcomes were prespecified, non-multiplicity-controlled, and exploratory. Outcomes included 50% improvement in American College of Rheumatology response criteria (ACR50) and rheumatologic, dermatologic, patient-reported, metabolic, and safety outcomes."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "A total of 271 participants were randomized (IXE+TZP, n = 138; IXE, n = 133). The proportion achieving the primary outcome of simultaneous ACR50 and ≥10% weight reduction continued to increase from week 36 through week 52 for IXE+TZP (39.2%) versus IXE (1.7%) (Δ37.5%; P < 0.001). ACR50 continued to diverge after week 36, with a clinically meaningful difference at week 52 for IXE+TZP (43.7%) versus IXE (15.7%) (Δ 28.0%; P < 0.001). IXE+TZP demonstrated significant improvements in ACR20, minimal disease activity, Disease Activity Index for Psoriatic Arthritis, patient-reported outcomes, and metabolic outcomes versus IXE alone. Safety profiles were consistent with previous studies for each drug."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Comprehensive improvements in disease activity, including ACR50, quality of life, weight, and metabolic outcomes, continued through week 52 and were greater with IXE+TZP than IXE alone, with no new safety concerns. These findings support concomitant IXE+TZP in patients with active PsA and immunometabolic disease."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43012507/",
+   "doi": "https://doi.org/10.1002/art.70375",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43010688",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Cardiovascular Outcomes in Semaglutide Versus Tirzepatide Users With Obesity and Atherosclerotic Disease: A Target Trial Emulation",
+   "revista": "Diabetes Obes Metab",
+   "autores": "Aubrac G, Raquib RV, Le MT et al.",
+   "tipo_estudo": "",
+   "destaque": "Among adults with overweight or obesity and ASCVD without diabetes, there was no significant difference in cardiovascular risk between semaglutide and tirzepatide.",
+   "resumo": [
+    {
+     "rotulo": "Aims",
+     "texto": "Semaglutide, a glucagon-like peptide-1 (GLP-1) receptor agonist, is approved for cardiovascular risk reduction in individuals with overweight or obesity and cardiovascular disease. Whether tirzepatide, a dual GLP-1 and glucose-dependent insulinotropic polypeptide receptor agonist, has similar cardiovascular benefits remains unknown. The objective was to compare the effectiveness of semaglutide versus tirzepatide on the risk of major adverse cardiovascular events (MACE) in individuals with overweight or obesity and atherosclerotic cardiovascular disease (ASCVD) without diabetes."
+    },
+    {
+     "rotulo": "Materials And Methods",
+     "texto": "This active comparator, new user study emulated a trial using national claims data from Komodo Health. Eligible individuals had a history of ASCVD and, within 1 year prior to initiation: BMI ≥ 27 with a diagnosis of overweight or obesity, continuous insurance coverage and no diabetes or contraindications. Prior GLP-1 receptor agonist or obesity medication users were excluded. The primary outcome was a composite of myocardial infarction, stroke, hospitalization for heart failure or unstable angina, coronary revascularization and mortality (revised 5-point MACE). Secondary outcomes included revised 3-point MACE and individual endpoints. Hazard ratios were estimated using Cox models with inverse probability weighting."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "There was a non-significant difference in risk of revised 5-point MACE (HR = 1.21, 95% CI: 0.99-1.51) or secondary outcomes between semaglutide and tirzepatide. Sensitivity analyses showed directionally consistent point estimates for revised 5-point MACE but highlighted sensitivity to decisions surrounding early events, off-label use, analytic approach and outcome definition."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Among adults with overweight or obesity and ASCVD without diabetes, there was no significant difference in cardiovascular risk between semaglutide and tirzepatide."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43010688/",
+   "doi": "https://doi.org/10.1111/dom.71550",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43011784",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Pharmacomicrobiomics of GLP-1 receptor agonist gastrointestinal tolerability: integrating host genetics and the gut microbiome",
+   "revista": "Front Microbiomes",
+   "autores": "Kumbhare SV, Pedroso I, Sinha R et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Published methodological studies have suggested why such a study would be challenging: both interaction detection and the measurement unreliability associated with single-timepoint microbiome profiling impose substantial sample size penalties. This review summarizes what host genetics and the microbiome individually do and do not explain about GLP-1 RA tolerability, and describes the study design features, paired genotyping, repeat-sample metagenomics, and prospective symptom capture that a future joint analysis would require.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Gastrointestinal (GI) adverse events, such as nausea, vomiting, diarrhea, and constipation, remain a dominant barrier to the sustained use of GLP-1 receptor agonists (GLP-1 RAs), driving discontinuation independently of the drug's metabolic benefits. Two host-side biological systems have been independently established as determinants of this variability. The first is host genetics, anchored by a 2026 genome-wide association study in which GLP1R variants predicted both weight-loss efficacy and nausea or vomiting risk, while a GIPR signal for vomiting was restricted to tirzepatide users. The second system is the gut microbiome, which regulates endogenous GLP-1 secretion through short-chain fatty acid and bile acid signaling and is itself reshaped by GLP-1 RA exposure. Pharmacomicrobiomics integrates host genetic and microbiome data to explain drug response. In the literature surveyed for this review, these two determinants are consistently examined in parallel rather than jointly: we did not identify a study, in GLP-1 RA therapy or in another drug class, that fit a 'host-genotype-by-microbiome' interaction model against a drug tolerability outcome. Published methodological studies have suggested why such a study would be challenging: both interaction detection and the measurement unreliability associated with single-timepoint microbiome profiling impose substantial sample size penalties. This review summarizes what host genetics and the microbiome individually do and do not explain about GLP-1 RA tolerability, and describes the study design features, paired genotyping, repeat-sample metagenomics, and prospective symptom capture that a future joint analysis would require."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43011784/",
+   "doi": "https://doi.org/10.3389/frmbi.2026.2016564",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43010147",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "\"Are you going to get busy living or are you going to get busy dying?\" Traumatic stressors in older adult-caregiver dyads during COVID-19 social scarcity in the USA",
+   "revista": "Int J Qual Stud Health Well-being",
+   "autores": "Kilaberia TR, Bell JF, Mair CA et al.",
+   "tipo_estudo": "",
+   "destaque": "Powerlessness was a feature of traumatic stress reflected among older adults, and it was responsibility among caregivers. The study underscores the importance of trauma-informed support in caregiving at a time of involuntary and prolonged exposure to social scarcity.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "The 2022 US National Strategy to Support Caregivers emphasises the importance of understanding trauma as part of caregiving relationships. However, this focus has not been applied to understanding caregiving during social scarcity such as COVID-19 from a dyadic older adult-caregiver perspectives."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Drawing on joint perspectives of 11 older adult-caregiver dyads (N = 22), this qualitative thematic study explored how social scarcity impacted caregiving relationships, and whether there was evidence of traumatic stress in shared experiences. Dyads represented parent-child, relatives, and friend relationships aside from spouses."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Three themes were identified: (1) interactional micro-injuries and micro-adaptations; (2) nested troubles: present challenges and old wounds; and (3) eudaemonic deprivation-a perception of the erosion of order, meaning and purpose. Stressors were described as continuous fear, losses, grief, loneliness, loss of meaning, and disruptive feelings of anxiety impacting caregiving relationships."
+    },
+    {
+     "rotulo": "Discussion",
+     "texto": "Older adults demonstrated keener, sharper experiences of losses, and generally expressed self-focused distress whereas caregivers expressed generally adaptive and dyad-oriented responses. Powerlessness was a feature of traumatic stress reflected among older adults, and it was responsibility among caregivers. The study underscores the importance of trauma-informed support in caregiving at a time of involuntary and prolonged exposure to social scarcity."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43010147/",
+   "doi": "https://doi.org/10.1080/17482631.2026.2755142",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43014928",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Physiological acclimation to freshwater conditions reshapes the megalopae holobiont of Eriocheir sinensis",
+   "revista": "J Environ Sci (China)",
+   "autores": "Huang P, Du J, Cao L et al.",
+   "tipo_estudo": "",
+   "destaque": "Correlation analysis revealed that the Amaricoccus was significantly correlated with key genes involved in host amino acid metabolism, oxidative stress, and the PI3K-Akt pathway, indicating that microbe-host interactions play a central role in coordinating energy redistribution to cope with osmotic stress. This study reveals the multi-dimensional adaptation mechanisms through which megalopae achieve the transition from a hyperosmotic to a hypoosmotic environment by integrating microbial community reconstruction, precise cell clearance mechanisms, and systematic metabolic reprogramming.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "To investigate the effects of natural salinity transition on megalopae of Eriocheir sinensis, this study systematically deciphered the response and adaptation mechanisms of megalopae to low-salinity stress. The results showed that the marine-to-freshwater habitat shift significantly reshaped the intestinal microbial community structure and increased the α-diversity index. The relative abundance of core bacterial taxa such as Amaricoccus was significantly elevated, while that of the conditional pathogen Flavobacterium was significantly reduced. At the host level, natural salinity transition stress triggered a series of profound cellular and molecular responses. To eliminate damaged cells, the Caspase-mediated apoptotic pathway and the LC3-mediated autophagic pathway were significantly activated. Meanwhile, signaling pathways controlling cell proliferation and growth, including Focal adhesion, Hippo, and PI3K-Akt, were significantly inhibited. Metabolically, stress response-related pathways such as Cortisol synthesis and secretion and AMP/Adenosine signaling were activated, driving an \"energy-saving\" strategy characterized by enhanced catabolism and reduced anabolism of proteins and lipids. Changes in the levels of key metabolites, such as 8-hydroxyguanosine and Ectoine, further confirmed the occurrence of oxidative stress and the shift in osmotic regulation strategies. Correlation analysis revealed that the Amaricoccus was significantly correlated with key genes involved in host amino acid metabolism, oxidative stress, and the PI3K-Akt pathway, indicating that microbe-host interactions play a central role in coordinating energy redistribution to cope with osmotic stress. This study reveals the multi-dimensional adaptation mechanisms through which megalopae achieve the transition from a hyperosmotic to a hypoosmotic environment by integrating microbial community reconstruction, precise cell clearance mechanisms, and systematic metabolic reprogramming."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43014928/",
+   "doi": "https://doi.org/10.1016/j.jes.2026.04.017",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43014866",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Beyond Survival: A Systems-Integrated Approach to Clinical Self-Care in Primary Care",
+   "revista": "Prim Care",
+   "autores": "Mehta DH, Locke A",
+   "tipo_estudo": "Revisão",
+   "destaque": "Primary care clinician burnout is rising and is driven not only by individual stress, but also by structural inefficiency, workplace culture, and moral distress that limits clinicians' ability to deliver value-aligned care. This article reframes clinical self-care as a professional competency and patient safety imperative, grounded in integrative and salutogenic principles. It proposes a systems-integrated Swiss cheese prevention model with 3 aligned layers: (1) structural safeguards (workload/panel size, team-based care, and inbox time), (2) a culture of psychological and moral safety (leadership, dialogue, and peer support), and (3) embedded individual skills (sleep, boundaries, and mind-body regulation).",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Primary care clinician burnout is rising and is driven not only by individual stress, but also by structural inefficiency, workplace culture, and moral distress that limits clinicians' ability to deliver value-aligned care. This article reframes clinical self-care as a professional competency and patient safety imperative, grounded in integrative and salutogenic principles. It proposes a systems-integrated Swiss cheese prevention model with 3 aligned layers: (1) structural safeguards (workload/panel size, team-based care, and inbox time), (2) a culture of psychological and moral safety (leadership, dialogue, and peer support), and (3) embedded individual skills (sleep, boundaries, and mind-body regulation)."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43014866/",
+   "doi": "https://doi.org/10.1016/j.pop.2026.07.008",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43014860",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Addressing Primary Care Access with an Integrative Medicine Lens",
+   "revista": "Prim Care",
+   "autores": "Gordon A, Rosenbaum E",
+   "tipo_estudo": "Revisão",
+   "destaque": "All of these empower patients in their own health. Healthier patients, a broader team, and better physician retention combine to improve primary care access.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Integrative medicine/ whole person care widens the lens through which we view health and healing, offering patients and physicians more options for care. Group visits and team-based care amplify physician effectiveness by increasing numbers of patients seen, addressing loneliness and social needs, and decreasing burnout. Interdisciplinary care addresses more health needs. All of these empower patients in their own health. Healthier patients, a broader team, and better physician retention combine to improve primary care access."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43014860/",
+   "doi": "https://doi.org/10.1016/j.pop.2026.07.002",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43010139",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Acute Suffering, Act of Togetherness and On-Scene Space: A Concept Synthesis for Caring in Prehospital Emergency Care",
+   "revista": "Scand J Caring Sci",
+   "autores": "Holmberg M, Wallinvirta E, Rantala A et al.",
+   "tipo_estudo": "",
+   "destaque": "Using the STOP-sign metaphor, the STOP synthesis highlights the importance of pausing in prehospital emergency care to recognize the patient as a multidimensional human being experiencing acute suffering. By integrating the concepts of acute Suffering, act of Togetherness and On-scene space within the prehospital context, the synthesis promotes a shift beyond a solely biomedical perspective toward a caring science understanding of suffering and care. The synthesis may support prehospital professionals, particularly nurses, in integrating caring and medical knowledge in clinical practice and provides a theoretical basis for future research, education and a holistic prehospital emergency care.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Prehospital emergency care attends to patients experiencing acute suffering; a sudden and profound disruption affecting the person's life, body and existential well-being in the context of illness, injury or crisis. In this unpredictable and vulnerable setting, a central question emerges: how can caring needs be effectively met?"
+    },
+    {
+     "rotulo": "Aim",
+     "texto": "The aim of this paper is to develop a concept synthesis grounded in a caring science paradigm within the prehospital context, clarifying the nature of caring."
+    },
+    {
+     "rotulo": "Method",
+     "texto": "A concept synthesis based on a caring science theoretical framework was conducted using a combined deductive-inductive approach, integrating theory, clinical experience and relevant literature through an abductive and iterative process."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The synthesis introduces three interrelated concepts: acute Suffering (S), act of Togetherness (T) and On-scene space (O), situated within Prehospital emergency care (P). These concepts collectively shape the STOP synthesis. STOP positions caring as the core of prehospital emergency care, emphasizing a holistic perspective that extends beyond a purely biological understanding. It provides a structured framework for understanding and practicing the complexity of caring in this setting."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Using the STOP-sign metaphor, the STOP synthesis highlights the importance of pausing in prehospital emergency care to recognize the patient as a multidimensional human being experiencing acute suffering. By integrating the concepts of acute Suffering, act of Togetherness and On-scene space within the prehospital context, the synthesis promotes a shift beyond a solely biomedical perspective toward a caring science understanding of suffering and care. The synthesis may support prehospital professionals, particularly nurses, in integrating caring and medical knowledge in clinical practice and provides a theoretical basis for future research, education and a holistic prehospital emergency care."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43010139/",
+   "doi": "https://doi.org/10.1111/scs.70335",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43015113",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Capturing Habits in Humans: Neural Circuitry, Computations, and Clinical Mechanisms",
+   "revista": "J Neurosci",
+   "autores": "Gera R, Wassum KM, Oh S et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Recent laboratory paradigms aim to reveal habit formation more sensitively than traditional outcome-devaluation paradigms, whereas real-world digital approaches use smartphones, wearables, and intensive longitudinal measurement to track habit formation and expression in everyday life. Integrating these approaches can help link habits to physiology, symptoms and neural circuits across laboratory to real-world and clinical contexts.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Habits allow repeated behaviors to be executed efficiently, but habitual control can contribute to maladaptive inflexibility when it dominates despite changing goals or consequences. This review examines recent advances in understanding habitual control across neural circuits, computation, clinical phenotypes, and measurement. We first consider dorsomedial striatal mechanisms that support action-outcome learning and flexible goal-directed behavior and how chronic stress can alter striatal inputs to bias learning toward habitual control. Progress on what computational reinforcement-learning accounts for arbitration between goal-directed and habitual systems is described along prefrontal mechanisms guiding model-based control, action perseveration, and compulsivity in obsessive-compulsive disorder (OCD). A wider behavioral spectrum beyond action initiation is provided, reviewing emerging work on habitual inhibition and frontostriatal circuit dynamics of avoidance in OCD. Recent laboratory paradigms aim to reveal habit formation more sensitively than traditional outcome-devaluation paradigms, whereas real-world digital approaches use smartphones, wearables, and intensive longitudinal measurement to track habit formation and expression in everyday life. Integrating these approaches can help link habits to physiology, symptoms and neural circuits across laboratory to real-world and clinical contexts."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43015113/",
+   "doi": "https://doi.org/10.1523/JNEUROSCI.1241-26.2026",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43014713",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Effects of short-term transport and relocation on stress-related hormones, bone metabolism, and growth performance in growing Holstein heifers",
+   "revista": "J Vet Med Sci",
+   "autores": "Itagaki K, Kim S, Tsuchiaka S et al.",
+   "tipo_estudo": "",
+   "destaque": "Additionally, free fatty acid (FFA) concentrations increased after transport (P<0.01), whereas average daily height gain (ADHG) significantly decreased following transport (P=0.018). In conclusion, short-term transport and relocation did not induce an increase in plasma cortisol but were associated with transient changes in bone metabolic markers, plasma FFA concentrations, and ADHG.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Livestock transport is widely recognized as a significant stressor that affects animal health, growth, and welfare. This study evaluated the effects of short-term transport and relocation on stress-related hormones, bone metabolism, and growth in 14 Holstein heifers. Data were collected 14 days before transport (-14 d), on the day of transport (0 d), and 7 days after transport (7 d) across two seasons (spring and summer). Measurements included cortisol (plasma and saliva), fecal glucocorticoid metabolites (FGMs), oxytocin (plasma and saliva), bone metabolic markers (plasma), several biochemical parameters (plasma), and growth metrics. Plasma cortisol significantly decreased post-transport (P=0.037), indicating that plasma cortisol did not increase following short-term transport and relocation. While salivary cortisol and FGM concentrations remained stable after transport, FGM concentrations were significantly higher in summer than in spring (P<0.01), suggesting a possible association with seasonal environmental differences. Regarding bone metabolism, both tartrate-resistant acid phosphatase 5b (TRAP5b) and alkaline phosphatase isoenzyme 3 (ALP3) decreased after transport (P<0.01). The bone-formation to -resorption ratio (ALP3/TRAP5b index) increased transiently on day 0, before declining. Additionally, free fatty acid (FFA) concentrations increased after transport (P<0.01), whereas average daily height gain (ADHG) significantly decreased following transport (P=0.018). In conclusion, short-term transport and relocation did not induce an increase in plasma cortisol but were associated with transient changes in bone metabolic markers, plasma FFA concentrations, and ADHG."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43014713/",
+   "doi": "https://doi.org/10.1292/jvms.26-0278",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43014097",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Metabolic-translational control of NK cell fitness under chronic stress",
+   "revista": "Biomed Pharmacother",
+   "autores": "Ortutu BF, Guo X, Thomas CJ et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "We propose that the interaction between metabolic capacity and translational demand may determine whether NK cells maintain function or become dysfunctional under persistent stress. This framework provides a rationale for engineering NK cells with greater metabolic-translational reserve and resilience to metabolically restrictive tumor microenvironments, with potential implications for improving the persistence and therapeutic efficacy of adoptive and CAR-NK cell therapies.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Natural killer (NK) cells are critical mediators of immune surveillance, yet their functional capacity is frequently compromised by chronic metabolic and environmental stress. Although metabolic reprogramming is recognized as a major determinant of NK-cell activity, how metabolic capacity is coordinated with translational control to sustain effector function and cellular persistence remains poorly understood. This review examines NK-cell fitness as a dynamic metabolic-translational balance in which nutrient availability, mitochondrial function, redox homeostasis, and nutrient-sensing pathways determine the resources available for biosynthesis, while translational control regulates their allocation toward effector protein production, adaptation, and cellular maintenance. We highlight eukaryotic elongation factor-2 kinase (eEF2K) as a mechanistically defined regulator of translational elongation with direct evidence of relevance to NK-cell function, while Nucleus Accumbens-Associated Protein 1 (NAC1) is considered a candidate regulator of NK-cell metabolic adaptation whose role remains to be established. We propose that the interaction between metabolic capacity and translational demand may determine whether NK cells maintain function or become dysfunctional under persistent stress. This framework provides a rationale for engineering NK cells with greater metabolic-translational reserve and resilience to metabolically restrictive tumor microenvironments, with potential implications for improving the persistence and therapeutic efficacy of adoptive and CAR-NK cell therapies."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43014097/",
+   "doi": "https://doi.org/10.1016/j.biopha.2026.120051",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43013871",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "A Co-Designed and Bilingual WhatsApp-Based Chatbot Intervention (PflegeBot) for Informal Caregivers in Germany: Single-Arm Nonrandomized Feasibility Study",
+   "revista": "JMIR Form Res",
+   "autores": "Gencer H, Mena E, Freund T et al.",
+   "tipo_estudo": "",
+   "destaque": "PflegeBot could be delivered through WhatsApp, and participants providing follow-up data reported high usability and generally favorable satisfaction. Controlled evaluations with objective engagement data and assessment of differential reach and outcomes are warranted.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Informal caregivers play a central role in long-term care but experience elevated risks of stress, depressive symptoms, and caregiver burden, alongside barriers to accessing preventive support. Low-threshold digital public health interventions may offer scalable support; however, evidence on their feasibility, usability, and contextual fit remains limited, particularly for heterogeneous caregiver populations."
+    },
+    {
+     "rotulo": "Objective",
+     "texto": "This study describes the development and implementation of PflegeBot, an intersectionality-informed WhatsApp-based chatbot intervention, and evaluates its feasibility, usability, and acceptability among informal caregivers in Germany."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A single-arm, nonrandomized feasibility study with pre-post assessments was conducted between December 2023 and March 2024. Informal caregivers aged 18 years and older were recruited via community-based, institutional, and online channels. PflegeBot was a co-designed, bilingual (German and Turkish) WhatsApp-based chatbot that delivered 84 scheduled messages over 12 weeks. Content included caregiving information, self-care, and cognitive behavioral therapy-informed self-help, plus optional frequently asked questions and question functions. Baseline and full follow-up assessments were administered online. Feasibility was assessed using indicators of recruitment, chatbot initiation and message delivery, opt-out, and provision of follow-up measures. Usability was assessed using the System Usability Scale (SUS), and acceptability was assessed using study-specific items. Exploratory outcomes included perceived stress (4-item Perceived Stress Scale [PSS-4]), caregiver burden (4-item Zarit Burden Interview [ZBI-4]), depressive symptoms (Center for Epidemiologic Studies Depression Scale [CES-D]), and loneliness (6-item De Jong Gierveld Loneliness Scale [DJGLS-6]). Analyses were descriptive; no hypothesis tests were conducted. Open-ended follow-up feedback was examined using a systematic inductive descriptive approach."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Of 102 participants included in the baseline analysis sample, 84 (82%) were women. According to chatbot log data, message delivery was initiated for 67 participants. Forty-nine participants provided at least one follow-up measure, and complete SUS data were available for 46 participants. The mean SUS score was 82.45 (SD 14.86, 95% CI 78.03-86.86; range 47.5-100), and 35 out of 46 (76%) participants scored at or above the benchmark of 68. Overall satisfaction with PflegeBot had a mean rating of 4.02 out of 5 (SD 0.98; n=46). Among participants responding to the relevant item, 1 out of 45 (2%) reported using the optional FAQ function. Mean changes were -0.57 (95% CI -1.24 to 0.10; n=35) for perceived stress, 0.81 (95% CI -0.02 to 1.63; n=36) for caregiver burden, -2.38 (95% CI -5.42 to 0.66; n=34) for depressive symptoms, and -0.39 (95% CI -0.90 to 0.12; n=36) for loneliness. Open-ended feedback highlighted needs for more flexible delivery, greater tailoring, and easier navigation."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "PflegeBot could be delivered through WhatsApp, and participants providing follow-up data reported high usability and generally favorable satisfaction. Controlled evaluations with objective engagement data and assessment of differential reach and outcomes are warranted."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43013871/",
+   "doi": "https://doi.org/10.2196/95268",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43013762",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Evaluating Wearable Electrodermal Activity as a Candidate Digital Biomarker of Occupational Well-Being: Longitudinal Real-World Study",
+   "revista": "JMIR Form Res",
+   "autores": "Salonius H, Kytölä P, Pakarinen S et al.",
+   "tipo_estudo": "",
+   "destaque": "These findings provide practical evidence that continuous wearable EDA monitoring can be combined with mEMA in naturalistic occupational settings. Associations between the proprietary DNE index, valence, burnout, and work engagement provide preliminary convergent evidence supporting further evaluation of DNE as a candidate digital biomarker in occupational well-being research. Interpretation remains constrained by the proprietary signal-processing pipeline, and this study does not establish construct-specific validity, prospective predictive performance, screening or diagnostic validity, sensitivity to change, or individual-level monitoring usage.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Wearable physiological sensing and mobile self-report methods offer new opportunities for monitoring occupational well-being in real-world settings. However, interpreting continuous physiological signals in relation to psychological states such as job burnout and work engagement remains challenging, particularly when using deployable systems that rely on proprietary signal processing."
+    },
+    {
+     "rotulo": "Objective",
+     "texto": "This study examined a proprietary electrodermal activity (EDA)-derived arousal index as a candidate digital biomarker for research on occupational well-being. We examined associations between job burnout, work engagement, and sympathetic activation indexed by a device-derived EDA metric, and assessed whether combining physiological data with mobile-based ecological momentary assessment (mEMA) of valence provides complementary information."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A total of 75 knowledge workers participated, with sufficient paired physiological and mEMA data obtained from 57 participants in wave 1 and 51 in wave 2 (total observations=108). Participants were monitored continuously over 14 consecutive days at 2 time points 6 months apart. Autonomic arousal was operationalized using the device-derived double normalized electrodermal activity (DNE) index obtained from wearable EDA recordings. Valence was assessed using mEMA. Associations between physiological activation, valence, and occupational well-being outcomes were analyzed using generalized least squares models with a compound-symmetry covariance structure to account for repeated observations within participants."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The wearable-derived DNE index showed a clear diurnal pattern, with higher values during daytime and lower values during nighttime. Greater within-nighttime DNE variability was associated with higher burnout (estimate=0.02, 95% CI 0.01-0.03; P<.001) and lower engagement (estimate=-0.03, 95% CI -0.05 to -0.01; P=.009). The daily DNE × valence interaction was also associated with engagement (estimate=-0.35, 95% CI -0.69 to -0.00; P=.047). Removing all DNE and valence variables significantly worsened model fit for both burnout (χ²₁₀=28.5; P=.002) and engagement (χ²₁₀=23.7; P=.009), supporting their combined explanatory value. Model-based profiles further showed that negative valence was associated with higher predicted burnout and lower predicted engagement than positive valence across both high- and low-arousal scenarios, although prediction intervals were wide and partially overlapping. Model comparisons showed that including physiological and mEMA-based variables improved explanatory power."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "These findings provide practical evidence that continuous wearable EDA monitoring can be combined with mEMA in naturalistic occupational settings. Associations between the proprietary DNE index, valence, burnout, and work engagement provide preliminary convergent evidence supporting further evaluation of DNE as a candidate digital biomarker in occupational well-being research. Interpretation remains constrained by the proprietary signal-processing pipeline, and this study does not establish construct-specific validity, prospective predictive performance, screening or diagnostic validity, sensitivity to change, or individual-level monitoring usage."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43013762/",
+   "doi": "https://doi.org/10.2196/104167",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43013466",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Depression, anxiety, and stress and fulfillment of contraceptive preferences among young people in Texas and California",
+   "revista": "PLoS One",
+   "autores": "Hecht HK, Yarger J, Hopkins K et al.",
+   "tipo_estudo": "",
+   "destaque": "Young people experiencing mental distress were less likely to realize their contraceptive preference. Future interventions should focus on providing mental health support and improving contraceptive access for young people, including addressing insurance barriers. A primary care model integrating both mental and reproductive healthcare will help to address important health needs of young people.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Young people face both increased mental health concerns and growing barriers to accessing reproductive healthcare."
+    },
+    {
+     "rotulo": "Objective",
+     "texto": "This study examined the association of depressive, anxiety and stress symptoms with preferred contraceptive method use, a measure of healthcare access and reproductive autonomy."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We used baseline data (April 2018-May 2023) from a cluster randomized trial at 29 community colleges in Texas and California. Participants were 2,065 sexually active, first-year community college students ages 18-25. We used multivariable mixed effects multinomial logistic regression for clustered data to examine the association of depressive (CESD-10) or anxiety and stress symptoms (DASS-21) and fulfillment of participants' contraceptive preferences (unfulfilled, fulfilled or unknown), controlling for factors related to mental health and care access."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Overall, 51% of participants had an unfulfilled contraceptive preference, and 4% did not know what they preferred. Multivariable results showed elevated depressive symptoms (relative risk ratio [RRR]: 1.31, 95% confidence interval [CI]: 1.01, 1.71) or anxiety and stress symptoms (RRR: 1.31, 95% CI 1.03, 1.66) were associated with having an unfulfilled contraceptive preference versus a fulfilled preference. Additionally, elevated depressive symptoms were associated with having an unknown preference versus fulfilled preference (RRR: 2.98, 95% CI: 1.78, 4.99). Participants with mental distress were also significantly more likely to report cost or insurance barriers as reasons for having an unfulfilled preference (p < 0.05)."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Young people experiencing mental distress were less likely to realize their contraceptive preference. Future interventions should focus on providing mental health support and improving contraceptive access for young people, including addressing insurance barriers. A primary care model integrating both mental and reproductive healthcare will help to address important health needs of young people."
+    },
+    {
+     "rotulo": "Trial Registration",
+     "texto": "ClinicalTrials.gov Identifier: NCT03519685."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43013466/",
+   "doi": "https://doi.org/10.1371/journal.pone.0359942",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43013334",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Examining the Feasibility, Acceptability, and Preliminary Efficacy of a Health App for Postacute Pandemic Years in Managing Physical and Psychological Distress Symptoms: Pilot Quasi-Experimental Study",
+   "revista": "JMIR Form Res",
+   "autores": "Liu JYW, Man D, Lai FHY et al.",
+   "tipo_estudo": "",
+   "destaque": "The study demonstrated the HAPPY app's feasibility, acceptability, and potential efficacy for managing physical and psychological distress symptoms. High recruitment, retention, and adherence rates, along with measurable improvements in distress, fatigue, sleep quality, and pain, suggest the app's promise as a scalable intervention.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Physical and psychological distress symptoms can adversely affect daily functioning and quality of life, highlighting the need for accessible self-management support. Although mobile health (mHealth) interventions show promise in supporting physical symptom management, evidence regarding their feasibility and potential effects on psychological distress remains limited."
+    },
+    {
+     "rotulo": "Objective",
+     "texto": "This pilot study aimed to evaluate the feasibility, acceptability, and preliminary efficacy of the health app for postacute pandemic years (HAPPY) for managing physical and psychological distress symptoms."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A 2-arm, single-blind, quasi-experimental trial was conducted from July 2023 to January 2024. Thirty-eight participants experiencing distress symptoms related to COVID-19 were assigned to the experimental group or a waitlist control group. The experimental group received a 24-week mHealth intervention through the HAPPY app, which included an 8-week supervised phase with weekly face-to-face sessions and a 16-week self-management phase. The control group received no active treatment. Feasibility was assessed through recruitment, adherence, and adverse event monitoring, whereas preliminary efficacy was evaluated at 8 weeks (T1) and 24 weeks (T2) and compared with baseline (T0) using quantitative measures of distress, fatigue, sleep quality, pain, emotional regulation, and posttraumatic stress disorder (PTSD)."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The study demonstrated the feasibility of the HAPPY app, with a recruitment rate of 88.37% (38/43), a dropout rate of 10.5% (4/38), and an adherence rate of 93.33% (14/15) for the supervised sessions. No adverse events were reported. Significant within-group improvements were observed for distress (Kessler Psychological Distress Scale [K10]; P<.001), fatigue (Brief Fatigue Inventory-Chinese [BFI-C]; P<.001), sleep quality (Chinese Pittsburgh Sleep Quality Index [CPSQI]; P=.009), and PTSD symptoms (Chinese Impact of Event Scale-Revised [CIES-R]; P=.02). However, between-group differences were limited."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "The study demonstrated the HAPPY app's feasibility, acceptability, and potential efficacy for managing physical and psychological distress symptoms. High recruitment, retention, and adherence rates, along with measurable improvements in distress, fatigue, sleep quality, and pain, suggest the app's promise as a scalable intervention."
+    },
+    {
+     "rotulo": "Trial Registration",
+     "texto": "ClinicalTrials.gov NCT05459896; https://clinicaltrials.gov/study/NCT05459896."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43013334/",
+   "doi": "https://doi.org/10.2196/93453",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43010179",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Human cognitive performance-associated gut microbiota influences learning and memory in mice through arginine and pterin metabolism",
+   "revista": "Gut Microbes",
+   "autores": "Tracey H, Antolín A, Teichenne J et al.",
+   "tipo_estudo": "",
+   "destaque": "Our findings highlight the potential role of the gut microbiome in cognitive performance among older individuals, particularly information processing speed, and identify potential mechanisms involving alterations in arginine and pterin metabolism. Integrating human and mouse data supports a model in which microbiota-associated metabolic remodeling influences cognitive performance.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "The human gut microbiome undergoes changes across the lifespan and has been implicated in age-related decline. The symbol digit modalities test (SDMT) is a measure of information processing speed and is sensitive to mild cognitive impairment. Here, we assessed SDMT scores and fecal shotgun metagenomics in older individuals from the Imageomics cohort (n = 867) and performed fecal microbiota transplantation (FMT) from human donors to male C57BL/6 mouse recipients. In mice, we evaluated cognitive performance using the Morris water maze (MWM) and measured neurone density, fecal shotgun metagenomics, hippocampal metabolomics, and cortical gene expression to identify microbial-derived functional properties related to cognitive performance. In humans, both microbial species composition and functional profiles were associated with cognitive performance. FMT from high-SDMT donors improved cognitive performance and increased neuronal density in recipient mice compared with FMT from low-SDMT donors. In both humans and mice, higher cognitive performance was associated with arginine and proline metabolism and pterin-related pathways. In mice receiving microbiota from high-SDMT donors, cortical gene expression showed enrichment of dopamine receptor pathways and reduced dopamine reuptake and catecholamine biosynthesis. Our findings highlight the potential role of the gut microbiome in cognitive performance among older individuals, particularly information processing speed, and identify potential mechanisms involving alterations in arginine and pterin metabolism. Integrating human and mouse data supports a model in which microbiota-associated metabolic remodeling influences cognitive performance."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43010179/",
+   "doi": "https://doi.org/10.1080/19490976.2026.2750588",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43013794",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Semantic Processing in Unresponsive Patients With Acute Brain Injury",
+   "revista": "Neurology",
+   "autores": "Alkhachroum A, Manolovitz B, McKeown J et al.",
+   "tipo_estudo": "",
+   "destaque": "Semantic processing was a specific but insensitive biomarker of recovery, suggesting potential utility as a rule-in marker of preserved cognitive function. These findings are hypothesis-generating and require validation in larger multicenter cohorts before clinical implementation.",
+   "resumo": [
+    {
+     "rotulo": "Background And Objectives",
+     "texto": "Early prognostication after acute brain injury (ABI) is challenging because behavioral responsiveness may not accurately reflect preserved cognitive function. Neural responses to semantic incongruity can identify language processing despite the absence of overt behavior. We investigated whether bedside EEG could detect semantic processing in unresponsive patients with ABI and whether its presence was associated with long-term outcomes."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "In this prospective 2-center cohort study, unresponsive adults with ABI admitted to neurologic intensive care units between 2022 and 2025 underwent bedside EEG during a language paradigm comparing congruent and incongruent sentence endings (e.g., \"my favorite color is green/soon\"). Semantic processing was defined by differential event-related responses within centroparietal channels (300-500 milliseconds) using cluster-based permutation testing with false discovery rate correction. Outcomes were assessed for recovery of consciousness and functional recovery (Glasgow Outcome Scale-Extended score ≥4) at 12 months by blinded interviewers. Diagnostic performance was evaluated using sensitivity, specificity, predictive values, accuracy, and likelihood ratios."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Among 105 patients (mean age 58 ± 19 years; 21% women; 53% Hispanic/Latino), the most common etiologies were intracerebral hemorrhage (45%), traumatic brain injury (43%), and subarachnoid hemorrhage (10%). Withdrawal of life-sustaining therapy occurred in 31%. Semantic processing was detected in 13 patients (12%). Recovery of consciousness occurred in 77% of patients with semantic processing compared with 49% without semantic processing (odds ratio [OR] 3.5; 95% CI 0.9-13.5, p = 0.08). Functional recovery occurred in 42% with semantic processing compared with 14% without semantic processing (OR 4.5; 95% CI 1.2-16.6, p = 0.03). Semantic processing was highly specific but insensitive for predicting both recovery of consciousness (specificity 94%, sensitivity 18%) and functional recovery (specificity 92%, sensitivity 29%). After excluding patients who underwent withdrawal of life-sustaining therapy or died of non-neurologic medical complications, specificity increased to 100% for recovery of consciousness and 95% for functional recovery."
+    },
+    {
+     "rotulo": "Discussion",
+     "texto": "EEG evidence of semantic processing can be detected in a subset of unresponsive patients with ABI during the acute phase of injury and is associated with favorable long-term outcomes. Semantic processing was a specific but insensitive biomarker of recovery, suggesting potential utility as a rule-in marker of preserved cognitive function. These findings are hypothesis-generating and require validation in larger multicenter cohorts before clinical implementation."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43013794/",
+   "doi": "https://doi.org/10.1212/WNL.0000000000218680",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43010665",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Active Inference and Predictive Processing for Skill Learning: Implications for Skill Acquisition in Coaching Practice",
+   "revista": "Eur J Sport Sci",
+   "autores": "Mackey J, Collins D, Taylor J",
+   "tipo_estudo": "Revisão",
+   "destaque": "We suggest that AIF offers a parsimonious perspective, accommodating the dynamic, embodied and enactive nature of skill acquisition without the necessity of committing to either framework's specific assumptions. This perspective provides practitioners with a coherent and flexible framework for understanding and designing skill learning interventions, offering a practically useful account of skill acquisition for coaching practice.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "This paper explores the potential of the Active Inference Framework (AIF) and Predictive Processing (PP) to advance our understanding of skill and motor learning with a key focus on introducing these concepts to coaches and highlighting their practical implications. Conceptual frameworks such as Information Processing (IP) and Ecological Dynamics (ED) have contributed significantly to the field of skill acquisition. Despite recent efforts to reconcile these perspectives, however, their fundamentally different theoretical foundations concerning perception, cognition and learning processes pose substantial challenges for integration. Although ED has made valuable contributions through its focus on perception-action coupling and direct interaction with the environment, it involves adopting a radical ontological stance that emphasises rejecting traditional cognitive constructs that can complicate practical applications in coaching. Conversely, IP's reliance on concepts such as stored motor programs and the view of the brain as a computer-like processor can limit its ability to account for the dynamic, emergent nature of skill acquisition in real-world contexts. We suggest that AIF offers a parsimonious perspective, accommodating the dynamic, embodied and enactive nature of skill acquisition without the necessity of committing to either framework's specific assumptions. This perspective provides practitioners with a coherent and flexible framework for understanding and designing skill learning interventions, offering a practically useful account of skill acquisition for coaching practice."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43010665/",
+   "doi": "https://doi.org/10.1002/ejsc.70292",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43013551",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Modest loss of sleep increases susceptibility to cybersecurity threats",
+   "revista": "Proc Natl Acad Sci U S A",
+   "autores": "Schechtman E",
+   "tipo_estudo": "",
+   "destaque": "The transition led to a ~13% increase in the probability of clicking a suspicious link, without affecting the probability of opening the email or reporting it as spam. These results demonstrate that even modest, mundane, and acute loss of sleep has real-life, potentially hazardous, implications for cognitive function.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Sleep restriction leads to impaired cognitive processing across domains. I examined whether the transition to daylight saving time (DST), typically accompanied by compromised sleep, would lead to an increase in the probability of falling prey to a simulated phishing attack using a fully naturalistic experiment with random assignment and blinding. A predatory email was sent to employees at the University of California, Irvine (N = 11,218) either on the morning of Monday following the transition to DST or one week earlier. The transition led to a ~13% increase in the probability of clicking a suspicious link, without affecting the probability of opening the email or reporting it as spam. These results demonstrate that even modest, mundane, and acute loss of sleep has real-life, potentially hazardous, implications for cognitive function."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43013551/",
+   "doi": "https://doi.org/10.1073/pnas.2622467123",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43015111",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Cross-Species Approaches to Understanding Human Cognition",
+   "revista": "J Neurosci",
+   "autores": "Buffalo EA, Cohen MR, Constantinidis C et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "By linking mechanism to behavior, these approaches guide targeted interventions and effective clinical translation. While challenges remain, these integrated approaches are advancing our understanding of the mechanistic foundation of human cognition.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Recent methodological advances including high-density intracranial recordings and population-level analytical frameworks enable deeper and more direct integration between animal models and human neuroscience. As a result, there is an increasing need for standardized behavioral paradigms and circuit-level analyses that can be used in both animals and humans. Cross-species approaches provide crucial foundations for treating neurological and psychiatric disorders. Parallel experiments validate therapeutic targets and enable development of mechanistically grounded behavioral biomarkers for early disease detection. Here, we provide a brief review of recent findings that have direct implications for attention deficits, memory impairments, and decision-making dysfunctions. By linking mechanism to behavior, these approaches guide targeted interventions and effective clinical translation. While challenges remain, these integrated approaches are advancing our understanding of the mechanistic foundation of human cognition."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43015111/",
+   "doi": "https://doi.org/10.1523/JNEUROSCI.1201-26.2026",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43015108",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Six Challenges for a Mechanistic Science of Human Interoception",
+   "revista": "J Neurosci",
+   "autores": "Avidan G, Allen MG, Khalsa SS et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "These challenges are best understood as linked requirements for moving interoception research from relevance to mechanism. Together, they highlight the need to move beyond predominantly static, passive, and single-modality approaches toward studies that can test how internal bodily signals relate to neural activity, behavior, and health.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Human interoception has become a major focus of systems, cognitive, and clinical neuroscience. Work across the past decade has shown that signals originating within the body shape perception, emotion, cognition, behavior, and health. Despite rapid methodological and conceptual progress, which substantially expanded our understanding of how bodily signals are processed and represented, much of the field remains constrained by descriptive methods. As these approaches passively assess bodily signals or subjective awareness, they have limited ability to establish causal mechanisms or translate interoceptive findings into clinically informative frameworks. Here, we identify six challenges and corresponding methodological directions for advancing human interoception research: strengthening integration of animal and human models, developing causal perturbation paradigms, capturing interoception in ecologically valid contexts, standardizing multidimensional measurement across bodily systems, adjudicating between computational accounts, and translating mechanistic insights into clinically informative models of health and disease. These challenges are best understood as linked requirements for moving interoception research from relevance to mechanism. Together, they highlight the need to move beyond predominantly static, passive, and single-modality approaches toward studies that can test how internal bodily signals relate to neural activity, behavior, and health."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43015108/",
+   "doi": "https://doi.org/10.1523/JNEUROSCI.1178-26.2026",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43015101",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Embodied Computation: How Does Embodiment Impact Sensorimotor and Cognitive Processing?",
+   "revista": "J Neurosci",
+   "autores": "Schaffer ES, Saxena S, Keller R et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "This review focuses on embodied computation: how the physical body shapes neural activity and behavior across functions ranging from motor control to cognitive processes. We examine the impact of embodiment in several domains, including compositional reuse, intrinsic motivation, metabolic costs, and connectome-constrained computation, with the broader aim of asking when the body can be abstracted away and when it is essential for explaining what the brain computes.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Animals act on the world through a physical body and continually adjust behavior in response to the sensory feedback their actions produce. This closed loop between brain, body, and environment is central to motor control, but its role in other neural computations remains less clear. This review focuses on embodied computation: how the physical body shapes neural activity and behavior across functions ranging from motor control to cognitive processes. We examine the impact of embodiment in several domains, including compositional reuse, intrinsic motivation, metabolic costs, and connectome-constrained computation, with the broader aim of asking when the body can be abstracted away and when it is essential for explaining what the brain computes."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43015101/",
+   "doi": "https://doi.org/10.1523/JNEUROSCI.1188-26.2026",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43014653",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "The Burden of Occult Cerebrovascular Disease in CKD: A Scoping Review",
+   "revista": "Am J Kidney Dis",
+   "autores": "Vasaghi-Gharamaleki M, Jazayeri SB, Pillai A et al.",
+   "tipo_estudo": "",
+   "destaque": "Occult cerebrovascular abnormalities are frequently reported across diverse CKD populations, particularly among patients with advanced kidney disease. Variation in the prevalence of abnormalities may reflect differences in CKD severity, participant characteristics, neuroimaging protocols, and outcome definitions. These findings highlight the need for standardized neuroimaging approaches and prospective studies to better characterize the clinical implications of OCCD in CKD.",
+   "resumo": [
+    {
+     "rotulo": "Rationale & Objective",
+     "texto": "Occult cerebrovascular diseases (OCCD) including extracranial and intracranial atherosclerotic disease (ECAD and ICAD) and cerebral small vessel disease (CSVD) are asymptomatic cerebrovascular abnormalities associated with future risk of stroke and dementia. Although chronic kidney disease (CKD) is strongly associated with adverse brain health outcomes, the breadth of evidence regarding OCCD in people with CKD has not been comprehensively characterized. This scoping review summarizes the available literature on OCCD among adults with CKD without clinically overt cerebrovascular disease."
+    },
+    {
+     "rotulo": "Sources Of Evidence",
+     "texto": "PubMed, EMBASE, Web of Science, and Scopus were searched for studies published between January 2000 and July 2025."
+    },
+    {
+     "rotulo": "Eligibility Criteria",
+     "texto": "Peer-reviewed studies reporting the frequency or characteristics of OCCD manifestations in adults with CKD without a known history of stroke or transient ischemic attack."
+    },
+    {
+     "rotulo": "Charting Methods",
+     "texto": "Two reviewers independently screened studies and extracted data on study characteristics, CKD definitions, neuroimaging modalities, and reported OCCD findings. Methodological quality was assessed using a modified Newcastle-Ottawa Scale."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Forty-six studies comprising 5,153 participants with CKD were included. Study populations varied substantially with respect to CKD stage, dialysis status, study design, and imaging methodology. Two studies evaluating ICAD reported moderate-to-severe intracranial stenosis in approximately one-quarter of participants with CKD. Across studies evaluating ECAD, the frequency of significant extracranial carotid stenosis ranged from approximately 3% in patients with non-dialysis-dependent CKD to 28% among patients receiving dialysis. Thirty-eight studies evaluated manifestations of CSVD, including cerebral microbleeds, silent cerebral infarctions, white matter hyperintensities, and enlarged perivascular spaces. Several studies suggested a greater burden of CSVD manifestations among patients with advanced CKD or dialysis dependence. Reported frequencies varied considerably across studies."
+    },
+    {
+     "rotulo": "Limitations",
+     "texto": "Considerable heterogeneity in study populations, CKD definitions, imaging protocols, and outcome ascertainment methods limited direct comparison across studies."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Occult cerebrovascular abnormalities are frequently reported across diverse CKD populations, particularly among patients with advanced kidney disease. Variation in the prevalence of abnormalities may reflect differences in CKD severity, participant characteristics, neuroimaging protocols, and outcome definitions. These findings highlight the need for standardized neuroimaging approaches and prospective studies to better characterize the clinical implications of OCCD in CKD."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43014653/",
+   "doi": "https://doi.org/10.1053/j.ajkd.2026.07.018",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43014489",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Deep learning-based estimation of multi-tracer PET phenotypes from structural MRI for A/T/N-related analysis and progression prediction in Alzheimer's disease",
+   "revista": "Neuroimage",
+   "autores": "Xie W, Pan X, Zhan Y et al.",
+   "tipo_estudo": "",
+   "destaque": "In OASIS, generated PET-derived features improved CDR stratification and future cognitive decline prediction, increasing AUCs from 0.662 to 0.739 and from 0.569 to 0.643. These findings suggest that the method can provide PET-derived phenotypes related to A/T/N analysis from structural MRI when PET is unavailable, but should not be interpreted as a replacement for molecular PET assessment.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Early identification and staging of Alzheimer's disease (AD) require integrated assessment of amyloid deposition, tau pathology, and neurodegeneration. PET provides spatially resolved in vivo imaging biomarkers, but its routine use is constrained by cost, tracer availability, and radiation exposure, limiting access to complete A/T/N imaging profiles. We propose a conditional flow matching-based framework that estimates SUV-space PET-derived phenotypes related to 18F-FDG, 18F-florbetapir and 18F-flortaucipir from a single T1-weighted MRI scan. To address limitations in SUV-level quantitative fidelity, single-tracer applicability, and external generalization, the framework combines a PET prior network with a time-conditioned velocity network and uses multi-constraint losses to preserve SUV accuracy, regional uptake consistency, and anatomical boundaries. The model was developed using 1,978 paired ADNI MRI-PET records from 991 participants and evaluated in a predefined ADNI test set and an independent hospital PET/MR cohort of 514 participants. In ADNI, voxel-level MAEs were 0.012, 0.034, and 0.021 SUV, with representative ROI Pearson correlations of 0.978, 0.842, and 0.781. In the hospital cohort, corresponding MAEs were 0.014, 0.037, and 0.024 SUV, with ROI correlations of 0.952, 0.803, and 0.834. In OASIS, generated PET-derived features improved CDR stratification and future cognitive decline prediction, increasing AUCs from 0.662 to 0.739 and from 0.569 to 0.643. These findings suggest that the method can provide PET-derived phenotypes related to A/T/N analysis from structural MRI when PET is unavailable, but should not be interpreted as a replacement for molecular PET assessment."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43014489/",
+   "doi": "https://doi.org/10.1016/j.neuroimage.2026.122345",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43014307",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "The blood-brain barrier imports diverse neuroprotective proteins through pathways impaired early in Alzheimer's disease models",
+   "revista": "Cell",
+   "autores": "Zhou H, Maynard JC, Pennacchio AJ et al.",
+   "tipo_estudo": "",
+   "destaque": "Hepatic APOA1 overexpression restores APOA1 in the 5xFAD brain, rescuing astrocytic, synaptic, and behavioral deficits. These findings recast the BBB as a selective interface that recruits neuroprotective circulatory proteins for brain health.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "The blood-brain barrier (BBB) has been defined primarily by what it excludes, yet the scale and function of physiological blood-to-brain protein transport remain largely unknown. Using bioorthogonal proteomics, we find that the healthy BBB samples 191 plasma proteins and permits 92 into the brain parenchyma. Enriched for carrier and metabolic functions, these proteins home to distinct brain cell types, such as apolipoprotein A1 (APOA1) to astrocytes and alpha-1 antitrypsin (SERPINA1) to microglia. This cell-type tropism relies on a BBB-parenchyma receptor hand-off: APOA1 crosses the BBB via SR-B1 and engages astrocytic ATP-binding cassette transporter A1 (ABCA1), a key Alzheimer's risk gene, driving cholesterol efflux that supports synapse integrity. Unlike LPS-induced nonspecific leakage, early-stage 5xFAD mice show selective BBB transport remodeling, with reduced APOA1 and increased SERPINA1 uptake. Hepatic APOA1 overexpression restores APOA1 in the 5xFAD brain, rescuing astrocytic, synaptic, and behavioral deficits. These findings recast the BBB as a selective interface that recruits neuroprotective circulatory proteins for brain health."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43014307/",
+   "doi": "https://doi.org/10.1016/j.cell.2026.10.039",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
   {
    "id": "pmid-43007835",
    "fonte": "PubMed",
@@ -2528,7 +3777,7 @@
    "revista": "Expert Opin Ther Targets",
    "autores": "Picca A, Calvani R, Coelho-Júnior HJ et al.",
    "tipo_estudo": "",
-   "destaque": "The future of therapeutics against sarcopenia will likely depend less on identifying increasingly anabolic agents than on matching molecular targets to the dominant biological mechanisms limiting muscle function in individual patients. Biomarkers of target engagement, deep phenotyping, and mechanism-informed combination strategies integrating pharmacological, nutritional, and exercise interventions will be essential to improve patient stratification and translate molecular target modulation into meaningful functional benefit.",
+   "destaque": "The future of therapeutics against sarcopenia will likely depend less on identifying anabolic agents than on matching molecular targets to the dominant biological mechanisms limiting muscle function in individual patients. Biomarkers of target engagement, deep phenotyping, and mechanism-informed combination strategies integrating pharmacological, nutritional, and exercise interventions will be essential to improve patient stratification and translate molecular target modulation into meaningful functional benefit.",
    "resumo": [
     {
      "rotulo": "Introduction",
@@ -2540,7 +3789,7 @@
     },
     {
      "rotulo": "Expert Opinion",
-     "texto": "The future of therapeutics against sarcopenia will likely depend less on identifying increasingly anabolic agents than on matching molecular targets to the dominant biological mechanisms limiting muscle function in individual patients. Biomarkers of target engagement, deep phenotyping, and mechanism-informed combination strategies integrating pharmacological, nutritional, and exercise interventions will be essential to improve patient stratification and translate molecular target modulation into meaningful functional benefit."
+     "texto": "The future of therapeutics against sarcopenia will likely depend less on identifying anabolic agents than on matching molecular targets to the dominant biological mechanisms limiting muscle function in individual patients. Biomarkers of target engagement, deep phenotyping, and mechanism-informed combination strategies integrating pharmacological, nutritional, and exercise interventions will be essential to improve patient stratification and translate molecular target modulation into meaningful functional benefit."
     }
    ],
    "link": "https://pubmed.ncbi.nlm.nih.gov/42995438/",
@@ -5068,6 +6317,41 @@
    "visto_em": "2026-11-10T10:48:42.790864+00:00"
   },
   {
+   "id": "pmid-42987780",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "An international women in radiology retreat: Design, impact, and a framework for leadership, community, and well-being",
+   "revista": "Clin Imaging",
+   "autores": "Reichman M, Dodelzon K, Averill S et al.",
+   "tipo_estudo": "",
+   "destaque": "An intentionally designed, community-centered retreat may provide a reproducible framework for fostering leadership, professional fulfillment, and physician well-being among women radiologists. Incorporating principles of connection, mentorship, reflection, and belonging into retreats may represent an important strategy for addressing burnout, strengthening retention, and supporting a more sustainable radiology workforce.",
+   "resumo": [
+    {
+     "rotulo": "Purpose",
+     "texto": "Burnout among radiologists remains a global challenge and disproportionately affects women because of persistent inequities in leadership opportunities, mentorship, work-life integration, and professional advancement. While wellness initiatives have expanded, few interventions foster enduring professional relationships and community for women radiologists. This study describes the design and evaluation of an international retreat developed to promote leadership, collaboration, and physician well-being among women in radiology."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "The American Association of Women in Radiology (AAWR) International Women in Radiology Retreat was designed to address challenges specific to women in radiology through a small-group, immersive experience emphasizing mentorship, reflective discussion, leadership development, and authentic connection rather than traditional didactic programming. Twenty-six women radiologists representing multiple countries and career stages participated. A post-retreat anonymous survey assessed participant experience through quantitative questions and qualitative free-text responses, analyzed using inductive thematic analysis."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Eighteen participants completed the survey (69% response rate). All respondents expressed interest in participating in future retreats. Qualitative analysis identified seven domains of impact: connection and community, shared experiences across cultures, professional growth, personal renewal, inspiration, networking and collaboration, and commitment to action. Participants also reported sustained engagement following the retreat through mentorship, communication, collaborative scholarship, and networking, suggesting benefits extending beyond the retreat."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "An intentionally designed, community-centered retreat may provide a reproducible framework for fostering leadership, professional fulfillment, and physician well-being among women radiologists. Incorporating principles of connection, mentorship, reflection, and belonging into retreats may represent an important strategy for addressing burnout, strengthening retention, and supporting a more sustainable radiology workforce."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42987780/",
+   "doi": "https://doi.org/10.1016/j.clinimag.2026.110974",
+   "data": "2026-11-05T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261104005226-htm",
    "fonte": "ScienceDaily",
    "tipo_fonte": "noticia",
@@ -6112,6 +7396,45 @@
    "visto_em": "2026-11-09T13:49:58.995883+00:00"
   },
   {
+   "id": "pmid-42979833",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Infant Crying and Neonatal Nurses' Performance and Well-Being: A Mixed-Methods Study",
+   "revista": "West J Nurs Res",
+   "autores": "Idilbi N, Green G, Masalha L et al.",
+   "tipo_estudo": "",
+   "destaque": "Nurses working in neonatal care may experience emotional and psychological strain due to continuous exposure to infant crying. Hospital administrators must consider environmental modifications to support the mental well-being of nursing staff, ultimately improving patient care and job satisfaction.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Nursing staff in neonatal units are routinely exposed to prolonged and intense infant crying, which when combined with other hospital noises, can contribute to both physical stress and psychological stress."
+    },
+    {
+     "rotulo": "Objective",
+     "texto": "We sought to examine the association between exposure to infant crying and the physiological and psychological well-being of neonatal nurses and work performance."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A mixed-methods questionnaire was distributed to rotating-shift neonatal nurses at 7 medical centers in Israel. Ethics approval was obtained; participants gave written informed consent. Data were collected anonymously between July and August 2024."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "A total of 210 female nurses responded to the survey. Hierarchical regression and mediation analyses, controlling for professional seniority, showed that perceived unit resources and preparedness were significantly associated with lower immediate emotional-functional response (β = -0.38, P < .001); this immediate response, in turn, fully mediated the association between unit resources and nurses' sustained post-shift impact (indirect effect = -0.36; 95% CI, -0.52 to -0.22), with no significant direct association between unit resources and post-shift impact once immediate response was accounted for. Qualitative analysis identified 4 themes: emotional distress and helplessness, mental and psychological strain, the need for evidence-based interventions and policies addressing environmental and structural barriers, and physical health consequences."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Nurses working in neonatal care may experience emotional and psychological strain due to continuous exposure to infant crying. Hospital administrators must consider environmental modifications to support the mental well-being of nursing staff, ultimately improving patient care and job satisfaction."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42979833/",
+   "doi": "https://doi.org/10.1177/01939459261488626",
+   "data": "2026-11-04T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261101010549-htm",
    "fonte": "ScienceDaily",
    "tipo_fonte": "noticia",
@@ -6647,19 +7970,19 @@
    "revista": "Expert Rev Cardiovasc Ther",
    "autores": "Chotalia R, Ghias O, Shah MU et al.",
    "tipo_estudo": "Revisão",
-   "destaque": "Benefits are likely mediated through weight loss dependent and weight-loss independent mechanisms. Important uncertainties remain regarding their role in non-obese HFpEF, optimal patient selection, and their safety in HFrEF.",
+   "destaque": "Benefits are likely mediated through weight‑loss‑dependent and weight-loss‑independent mechanisms. Important uncertainties remain regarding their role in non-obese HFpEF, optimal patient selection, and their safety in HFrEF.",
    "resumo": [
     {
      "rotulo": "Introduction",
-     "texto": "Heart failure with preserved ejection fraction (HFpEF) accounts for over half of all heart failure hospitalisations and is increasing in prevalence, largely driven by obesity and Type 2 Diabetes Mellitus (T2DM). Glucagon-like-peptide receptor agonists (GLP-1 RAs) and the dual GLP-1/GIP agonist, tirzepatide, have been shown to be safe and effective medications in the treatment of T2DM and obesity as well as in obesity-related HFpEF."
+     "texto": "Heart failure with preserved ejection fraction (HFpEF) accounts for over half of all heart failure hospitalizations and is increasing in prevalence, largely driven by obesity and type 2 diabetes mellitus (T2DM). Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and the dual GLP-1/GIP agonist, tirzepatide, have been shown to be safe and effective medications in the treatment of T2DM and obesity, as well as in obesity-related HFpEF."
     },
     {
      "rotulo": "Areas Covered",
-     "texto": "This review summarises the pathophysiology of obesity-related HFpEF, mechanisms by which GLP-1 RAs and tirzepatide may improve symptoms and outcomes, and summarise evidence from recent randomised controlled and observational trials across the disease spectrum they have been studied in. Therapeutic implications and future research directions are also discussed. A structured literature search was performed using PubMed/MEDLINE and Cochrane Central Register of Controlled Trials (CENTRAL) up to August 2025."
+     "texto": "This review summarizes the pathophysiology of obesity-related HFpEF, mechanisms by which GLP-1 RAs and tirzepatide may improve symptoms and outcomes, and summarize evidence from recent randomized controlled and observational trials across the disease spectrum in which they have been studied. Therapeutic implications and future research directions are also discussed. A structured literature search was performed using PubMed/MEDLINE and the Cochrane Central Register of Controlled Trials (CENTRAL) up to August 2025."
     },
     {
      "rotulo": "Expert Opinion",
-     "texto": "GLP-1 receptor agonists and tirzepatide represent a promising therapeutic advance for obesity-related HFpEF. Benefits are likely mediated through weight loss dependent and weight-loss independent mechanisms. Important uncertainties remain regarding their role in non-obese HFpEF, optimal patient selection, and their safety in HFrEF."
+     "texto": "GLP-1 receptor agonists and tirzepatide represent a promising therapeutic advance for obesity-related HFpEF. Benefits are likely mediated through weight‑loss‑dependent and weight-loss‑independent mechanisms. Important uncertainties remain regarding their role in non-obese HFpEF, optimal patient selection, and their safety in HFrEF."
     }
    ],
    "link": "https://pubmed.ncbi.nlm.nih.gov/42975004/",
