@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-12T10:55:00.400978+00:00",
+ "atualizado_em": "2026-11-13T10:52:53.059537+00:00",
  "titulo": "Feed Científico Cabeça de Dona",
  "subtitulo": "Ciência nova, todo dia, sobre o que move a sua saúde",
  "temas": [
@@ -30,6 +30,168 @@
   }
  ],
  "artigos": [
+  {
+   "id": "pmid-43021385",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Prognostic relevance of protein prescriptions based on adjusted body weight in critically ill overweight or obese patients - analysis of a large international database",
+   "revista": "Crit Care",
+   "autores": "Neuberger M, Müller D, Schwaab R et al.",
+   "tipo_estudo": "",
+   "destaque": "Early protein intake does not appear to be associated with time to ICU discharge among survivors. However, in critically ill patients with overweight or obesity, very low protein intake during the early acute phase may be associated with less favorable in-ICU outcomes.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "ESPEN currently recommends using adjusted body weight (aBW) to guide protein prescriptions for critically ill overweight or obese patients. The prognostic relevance of this concept is unknown."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We analyzed a subset of a large international point prevalence survey of nutritional practice in 785 intensive care units (ICUs) worldwide. Patients were included if they had been in the ICU for at least 96 h and had a BMI ≥ 25 kg/m². We modelled the association between early average protein intake (days 1-4 after ICU admission) and the cause-specific adjusted hazards of in-ICU death and ICU discharge alive within a competing risks framework. Intake was normalized to aBW, defined as ideal body weight plus 25% of the difference between actual and ideal body weight."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "9,068 patients were analyzed. There was no evidence of an association between early protein intake and ICU discharge alive. In contrast, very low protein intake (below approximately 0.45 g/kg aBW/day) was associated with a higher hazard of in-ICU death. Above this threshold, there was no clear evidence of a further association between protein intake and the hazard of in-ICU death. The strongest association was observed at 0 g/kg aBW/day (adjusted hazard rate 1.41 i.e. an estimated 38% higher risk, 95% confidence interval 1.17-1.69)."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Early protein intake does not appear to be associated with time to ICU discharge among survivors. However, in critically ill patients with overweight or obesity, very low protein intake during the early acute phase may be associated with less favorable in-ICU outcomes."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43021385/",
+   "doi": "https://doi.org/10.1186/s13054-026-06449-0",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43021482",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Pre-pandemic Probable Sarcopenia and COVID-19-Related Healthcare Utilization Among Community-Dwelling Older Adults : A Retrospective Cohort from Health and Retirement Study",
+   "revista": "Ann Geriatr Med Res",
+   "autores": "Soudah O, Okour M, Hattar R et al.",
+   "tipo_estudo": "",
+   "destaque": "Pre-pandemic probable sarcopenia was independently associated with increased COVID-19-related healthcare utilization among community-dwelling older adults. These findings highlight the importance of early identification and management of sarcopenia in older adults to potentially reduce severe COVID-19 outcomes. Further studies are warranted to evaluate targeted preventive interventions.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Sarcopenia has become a significant concern that detrimentally affects older adults' health. Patients with sarcopenia demonstrated higher disease severity and mortality rates of Coronavirus Disease 2019 (COVID-19). This study aims to evaluate the effect of pre-pandemic probable sarcopenia on COVID-19 related healthcare demands among older adults living in community settings."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "The study was conducted using a Health and Retirement Study, a national representative dataset for older adults in the US. The study included participants with COVID-19 diagnosis and retrospectively assessing their sarcopenia status using a SARC-F questionnaire."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The study cohort included 354 participants with COVID-19 with a mean age of 61.03 years (SD = 9.49). Probable sarcopenia was identified in 13.56% of the study population. In adjusted analyses, probable sarcopenia was independently associated with higher odds of COVID-19-related emergency room visits (OR = 2.17, 95% CI: 1.03-4.57), hospitalization (OR = 3.12, 95% CI: 1.37-7.12), and oxygen or ventilator requirement (OR = 3.15, 95% CI: 1.08-9.21). Female sex was associated with lower odds of hospitalization and oxygen/ventilator requirement. Non-Hispanic Black and Hispanic participants demonstrated significantly higher odds of COVID-19-related healthcare utilization compared with Non-Hispanic White participants. No statistically significant interaction effects were observed between probable sarcopenia and sex or physical activity."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Pre-pandemic probable sarcopenia was independently associated with increased COVID-19-related healthcare utilization among community-dwelling older adults. These findings highlight the importance of early identification and management of sarcopenia in older adults to potentially reduce severe COVID-19 outcomes. Further studies are warranted to evaluate targeted preventive interventions."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43021482/",
+   "doi": "https://doi.org/10.4235/agmr.26.0109",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43021748",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Microdosing, fractional and split dosing of injectable GLP-1-based drugs: balancing potential benefits and risks",
+   "revista": "Minerva Endocrinol (Torino)",
+   "autores": "Infante M, Seminara G, Fabbri A et al.",
+   "tipo_estudo": "",
+   "destaque": "Split dosing of injectable once-weekly incretin receptor agonists consists of administering smaller doses of an injectable once-weekly GLP-1-based drug more frequently than once per week with pre-filled MDPs through the \"click-counting\" method. This Special Article aims to provide a critical appraisal of the potential benefits and risks of microdosing, fractional dosing and split dosing of injectable GLP-1-based drugs, which warrant thorough investigation in future pharmacokinetic/pharmacodynamic studies and clinical trials.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Glucagon-like peptide-1 (GLP-1)-based drugs (also known as incretin receptor agonists) have revolutionized the management of type 2 diabetes and overweight/obesity. Microdosing, fractional dosing and split dosing of GLP-1-based drugs administered by subcutaneous injection (particularly the newer incretin receptor agonists semaglutide and tirzepatide) have recently emerged as alternative off-label dosing strategies used to improve long-term treatment tolerability while preserving or optimizing the therapeutic benefits of these agents. Evidence regarding these practices is mostly anecdotal and their use is not supported by manufacturers, scientific societies, drug regulatory agencies and official clinical guidelines. Fractional dosing of injectable incretin receptor agonists is the off-label administration of injectable GLP-1-based drugs at a fraction of a given standard approved drug dose by counting the audible and tactile clicks generated as the dose selector dial of pre-filled multi-dose injection pens (MDPs) is turned forward (off-label \"click-counting\" method). Microdosing of injectable incretin receptor agonists represents a form of fractional dosing that consists of administering subtherapeutic doses [\"microdoses\": doses lower than the lowest standard approved drug dose (starting dose)] of injectable GLP-1-based drugs with pre-filled MDPs through the \"click-counting\" method. Split dosing of injectable once-weekly incretin receptor agonists consists of administering smaller doses of an injectable once-weekly GLP-1-based drug more frequently than once per week with pre-filled MDPs through the \"click-counting\" method. This Special Article aims to provide a critical appraisal of the potential benefits and risks of microdosing, fractional dosing and split dosing of injectable GLP-1-based drugs, which warrant thorough investigation in future pharmacokinetic/pharmacodynamic studies and clinical trials."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43021748/",
+   "doi": "https://doi.org/10.23736/S2724-6507.26.04655-5",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43021542",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Periodontitis as a Modifiable Risk Factor for Dementia: Mechanistic Pathways Linking Oral Inflammation to Neurodegeneration",
+   "revista": "Can J Neurol Sci",
+   "autores": "Makarios SN, Shukla R, Yadav H et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Collectively, the literature suggests a stepwise oral-brain axis: first gingival inflammation promotes local and systemic pro-inflammatory cytokine release, second repeated bacteremia allows oral pathogens and microbial byproducts to enter circulation, third these signals and agents access and compromise the blood-brain barrier, then fourth microglia in the brain become primed and hyper-reactive and at last enhanced neuroinflammation accelerates amyloid-β and tau pathology. Although causal inference remains limited by the predominance of observational data, emerging intervention studies and mechanistic evidence suggest that periodontal health is a potentially modifiable factor in dementia prevention strategies.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Emerging evidence increasingly implicates chronic periodontal disease as a contributor to age-related cognitive decline and dementia, including Alzheimer's disease (AD). Periodontitis is defined by persistent oral microbial dysbiosis, ulcerated gingival epithelium, repeated bacteremia and sustained systemic inflammatory signaling - factors that plausibly influence neuroimmune pathways and cerebrovascular integrity. This review synthesizes findings from epidemiological studies, systematic reviews, mechanistic analyses and experimental models to examine the biological links between oral inflammation and neurodegeneration. Collectively, the literature suggests a stepwise oral-brain axis: first gingival inflammation promotes local and systemic pro-inflammatory cytokine release, second repeated bacteremia allows oral pathogens and microbial byproducts to enter circulation, third these signals and agents access and compromise the blood-brain barrier, then fourth microglia in the brain become primed and hyper-reactive and at last enhanced neuroinflammation accelerates amyloid-β and tau pathology. Although causal inference remains limited by the predominance of observational data, emerging intervention studies and mechanistic evidence suggest that periodontal health is a potentially modifiable factor in dementia prevention strategies."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43021542/",
+   "doi": "https://doi.org/10.1017/cjn.2026.10704",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43020960",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Microglial Metabolic Reprogramming Regulated by HIF-1α/HK2 Positive Feedback Inhibits Adult Hippocampal Neurogenesis in Diabetes-Associated Cognitive Dysfunction",
+   "revista": "Mol Neurobiol",
+   "autores": "Jiang S, Zhao Y, Zhang Q et al.",
+   "tipo_estudo": "",
+   "destaque": "HIF-1α lactylation is associated with HIF-1α stabilisation, acting as a potential metabolic-epigenetic mechanism that links glycolytic flux to sustained microglial activation, neuroinflammation and impaired AHN in DACD. Pharmacological inhibition of this axis attenuated neuroinflammation and improved cognitive outcomes in our model, suggesting a candidate therapeutic strategy for DACD.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Diabetes-associated cognitive dysfunction (DACD) is a significant complication with few effective treatments and unclear underlying mechanism. The aim of this study was to investigate how hyperglycemia disrupts adult hippocampal neurogenesis (AHN) through metabolic-immune interactions, seeking to identify potential treatment targets for DACD. DACD models were developed using db/db mice or streptozotocin-induced mice, and their cognitive function was assessed through behavioral tests. Next, we integrated multi-omics analyses (transcriptomic, single-cell, and lactylome profiling) with metabolic studies in BV2 cells exposed to diabetic conditions. Pharmacological modulators (3-BP, C646, TSA) were used to clarify the underlying mechanisms. The mice with DACD demonstrated cognitive deficits, impaired AHN, and activation of hippocampal microglia. Transcriptomic analysis revealed glycolysis as the primary dysregulated pathway. Mechanistically, hyperglycemia/AGEs induced glycolytic reprogramming and increased lactate levels, which promoted HIF-1α lactylation at lysine residues-a modification catalyzed by p300 and opposed by histone deacetylases. This posttranslational modification was associated with HIF-1α stabilisation and with enhanced transcriptional occupancy at the HK2 promoter. This established a self-amplifying feedback loop, perpetuating microglial activation and disrupting the blood-brain barrier via CXCL10 secretion, which led to CD8+ T-cell infiltration. Systemic administration of the glycolytic inhibitor 3-BP disrupted the pathogenic circuit, thereby normalizing metabolism, attenuating neuroinflammation, and restoring cognitive function. HIF-1α lactylation is associated with HIF-1α stabilisation, acting as a potential metabolic-epigenetic mechanism that links glycolytic flux to sustained microglial activation, neuroinflammation and impaired AHN in DACD. Pharmacological inhibition of this axis attenuated neuroinflammation and improved cognitive outcomes in our model, suggesting a candidate therapeutic strategy for DACD."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43020960/",
+   "doi": "https://doi.org/10.1007/s12035-026-06348-z",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43021018",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Understanding verbal and numerical probability information and decision making among individuals with and without autism spectrum disorder",
+   "revista": "Psychon Bull Rev",
+   "autores": "Honda H, Kumazaki H, Ueda K",
+   "tipo_estudo": "",
+   "destaque": "In contrast, non-ASD individuals were more frequently represented in a cluster that relied primarily on numerical information. These findings suggest that individuals with and without ASD differ in how verbal probability expressions are interpreted and incorporated into decision making, highlighting the importance of considering individual differences in the communication of uncertainty.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "This study examined how individuals with and without autism spectrum disorder (ASD) interpret probabilistic information expressed verbally or numerically, and how such interpretations influence decision-making. Two experiments were conducted: Experiment 1 included 48 participants with ASD and 41 participants without ASD in the final analyses, and Experiment 2 included an independent sample of 49 participants without ASD. Participants translated verbal probability expressions (e.g., likely, doubtful) into numerical estimates and made hypothetical treatment recommendations based on either verbal or numerical probabilities. Compared with non-ASD individuals, participants with ASD showed less differentiated numerical translations across verbal probability expressions, indicating greater similarity in the numerical meanings assigned to different expressions. A hierarchical Bayesian analysis followed by cluster analysis identified three decision-making profiles. Notably, individuals with ASD were more likely to belong to a cluster characterized by stronger sensitivity to the directionality (positive vs. negative framing) of verbal probability expressions and weaker reliance on numerical translation. In contrast, non-ASD individuals were more frequently represented in a cluster that relied primarily on numerical information. These findings suggest that individuals with and without ASD differ in how verbal probability expressions are interpreted and incorporated into decision making, highlighting the importance of considering individual differences in the communication of uncertainty."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43021018/",
+   "doi": "https://doi.org/10.3758/s13423-026-03032-0",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
   {
    "id": "pmid-43015368",
    "fonte": "PubMed",
@@ -261,6 +423,750 @@
     "cognicao"
    ],
    "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43020727",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "IGF binding proteins: emerging endocrine mediators of cancer-associated muscle wasting",
+   "revista": "Trends Cancer",
+   "autores": "Dall'Olio F, Shalimanova E, Vassetzky Y",
+   "tipo_estudo": "",
+   "destaque": "Furthermore, aging may contribute to susceptibility to cancer-associated muscle loss through alterations in the insulin-like growth factor (IGF)/insulin-like growth factor binding protein (IGFBP) axis and decreased muscle's anabolic and regenerative capacity. Recent mechanistic studies have identified the IGF/IGFBP axis as a promising source of biomarkers and potential therapeutic targets in cancer-associated muscle wasting.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Cancer-associated sarcopenia is a key determinant of treatment toxicity and mortality. Recent data indicate that insulin-like growth factor binding protein 1 and insulin-like growth factor binding protein 2 may be endocrine mediators connecting tumor-derived signals, hepatic reprogramming, and defective muscle regeneration. Furthermore, aging may contribute to susceptibility to cancer-associated muscle loss through alterations in the insulin-like growth factor (IGF)/insulin-like growth factor binding protein (IGFBP) axis and decreased muscle's anabolic and regenerative capacity. Recent mechanistic studies have identified the IGF/IGFBP axis as a promising source of biomarkers and potential therapeutic targets in cancer-associated muscle wasting."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43020727/",
+   "doi": "https://doi.org/10.1016/j.trecan.2026.10.009",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43020203",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Reframing the gut-muscle axis through the lens of functional redundancy: A conceptual framework for chronic sarcopenia, acute muscle wasting, and microbiota-related interventions",
+   "revista": "Exp Gerontol",
+   "autores": "Li SY, Ma YF, Tian S et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Microbiota-related interventions are candidate adjuncts to nutrition and exercise. Purified metabolites are distinguished from postbiotics, and direct clinical efficacy in acute critical-illness sarcopenia remains unestablished.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Sarcopenia is a progressive systemic skeletal muscle disorder that predominantly affects older adults, and its pathogenesis remains incompletely understood. Research on sarcopenia has largely followed two lines of inquiry. The first concerns chronic, age-associated sarcopenia, which involves anabolic resistance, chronic low-grade inflammation, neuromuscular junction degeneration, and hormonal alterations. The second concerns acute sarcopenia and related rapid muscle wasting during severe illness (e.g. sepsis, trauma, major surgery), which must be distinguished from ICU-acquired weakness and cancer cachexia. The gut-muscle axis has attracted interest as a potential contributor to sarcopenia onset and progression. This narrative review integrates heterogeneous cell, animal, observational human, and intervention evidence through four proposed functional modules: anabolic support, anti-catabolic protection, redox/mitochondrial homeostasis, and inflammatory-immune regulation. From the perspective of functional redundancy, we discuss a hypothetical \"sarcopenia-susceptible state\" and stage-informed research questions; these are conceptual constructs rather than validated disease stages or treatment algorithms. Microbiota-related interventions are candidate adjuncts to nutrition and exercise. Purified metabolites are distinguished from postbiotics, and direct clinical efficacy in acute critical-illness sarcopenia remains unestablished."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43020203/",
+   "doi": "https://doi.org/10.1016/j.exger.2026.113376",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43020182",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "α-Actinin-3 deficiency protects skeletal muscle function from the effects of acute cold exposure",
+   "revista": "J Sport Health Sci",
+   "autores": "Houweling PJ, Tiong CF, Kiriaev L et al.",
+   "tipo_estudo": "",
+   "destaque": "This work emphasizes the important role that skeletal muscle plays in mammalian thermogenesis. Deficiency of the fast-muscle fibre protein α-actinin-3 protects skeletal muscle mass and function following acute cold exposure - providing a potential explanation for the increased frequency of the ACTN3 577X allele during the evolution of modern-day humans.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Homozygosity for a nonsense polymorphism in the ACTN3 gene (rs1815739; ACTN3 577X) results in the loss of the fast-twitch skeletal muscle protein α-actinin-3 in an estimated 1.5 billion humans worldwide. α-Actinin-3 deficiency does not cause disease but is detrimental to elite sprint/power performance through a metabolic and physiological \"slowing\" of fast twitch muscle fibers. We have previously shown that α-actinin-3 deficiency is also associated with improved cold tolerance in humans following acute cold-water immersion."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Using published archaic and modern human DNA data we assessed the frequency of the ACTN3 577X allele. To further understand the mechanisms behind improved cold tolerance we examined the molecular and physiological impacts of acute cold exposure using the Actn3 knockout mouse model."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Here we inferred that ACTN3 577X arose ∼135,000 years ago and increased in frequency in European and Asian populations around 42,000 years ago, a period that aligns with modern human migration into cooler climates. Haplotype analyses around the ACTN3 R577X locus confirmed distinct inheritance patterns in different ethnic groups. Following acute cold exposure (4° C for 5 h), Actn3 knockout mice show lower muscle mass loss and improved fatigue resistance compared to wildtype. Actn3 knockout mouse muscles also exhibit higher levels of mitochondrial oxidative phosphorylation, with reduced activation of metabolic and protein breakdown pathways following cold exposure."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "This work emphasizes the important role that skeletal muscle plays in mammalian thermogenesis. Deficiency of the fast-muscle fibre protein α-actinin-3 protects skeletal muscle mass and function following acute cold exposure - providing a potential explanation for the increased frequency of the ACTN3 577X allele during the evolution of modern-day humans."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43020182/",
+   "doi": "https://doi.org/10.1016/j.jshs.2026.101192",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43019533",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "NutriA-Senior, a Mobile App to Enhance Nutritional Awareness in Older Adults: Design and Pilot Usability Study",
+   "revista": "JMIR Form Res",
+   "autores": "Bosoni P, Vincenti A, Bolpagni F et al.",
+   "tipo_estudo": "",
+   "destaque": "This pilot usability study shows encouraging results, suggesting that NutriA-S is a highly usable, intuitive, and credible digital health tool for older adults. The identified limitations in items like customizability, willingness to pay, and willingness to use the app frequently, which received lower scores, will guide app refinements before deploying NutriA-S in an upcoming randomized controlled trial for older adults with sarcopenia or probable sarcopenia.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Mobile health is emerging as a ubiquitous paradigm for delivering health care interventions when self-management is feasible. However, interventions targeting older or frail participants should account for age-related cognitive, visual, and physical needs to optimize usability and long-term retention."
+    },
+    {
+     "rotulo": "Objective",
+     "texto": "This paper describes the rationale, design, and implementation of Nutritional App-Senior (NutriA-S), a theory-informed mobile app developed to enhance nutritional education in older adults with sarcopenia or probable sarcopenia. Moreover, we present the results of a usability study conducted in a cohort of age-matched healthy volunteers."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "NutriA-S was designed as a self-instructional app built on the Moodle e-learning platform. It includes 24 progression modules containing interactive quizzes and associated informational items aimed at engaging users by sustaining attention and improving nutritional knowledge. A 4-week pilot usability study was conducted with 35 healthy volunteers aged 65 to 85 years, recruited through flyers posted in 2 outpatient settings. After recruitment, participants used the app remotely at home with telemedicine-based monitoring and support. At the end of the study, usability was quantitatively assessed using the Italian version of the standard System Usability Scale (SUS) and the User Version of the Mobile Application Rating Scale (uMARS)."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The SUS questionnaire yielded a median total score of 80 out of 100 (IQR 55.00-92.50), indicating good perceived usability, with more than half of the participants rating the app as acceptable (above the threshold of 68). The overall median uMARS score was 4.083 (IQR 3.68-4.30), with the functionality and information domains achieving the highest median scores of 4.5 (with IQRs of 4.00-4.50 and 4.13-4.75, respectively), confirming that older adults perceived the tool as technically reliable and highly credible."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "This pilot usability study shows encouraging results, suggesting that NutriA-S is a highly usable, intuitive, and credible digital health tool for older adults. The identified limitations in items like customizability, willingness to pay, and willingness to use the app frequently, which received lower scores, will guide app refinements before deploying NutriA-S in an upcoming randomized controlled trial for older adults with sarcopenia or probable sarcopenia."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43019533/",
+   "doi": "https://doi.org/10.2196/89551",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43018852",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Causal effects of connective tissue diseases on sarcopenia-related traits and the mediating role of immune cell phenotypes: a mediation Mendelian randomization study",
+   "revista": "Clin Rheumatol",
+   "autores": "Kang H, Wang Q, Zhou Y et al.",
+   "tipo_estudo": "",
+   "destaque": "This mediation MR study provides genetic evidence that DM, MCTD, PM and RA are causally associated with specific sarcopenia-related traits. The partial mediation of RA's effects through HLA-DR up-regulation on CD14⁻CD16⁻ cells suggests a potential immune pathway linking RA to muscle loss, though these findings require confirmation in independent cohorts. Key Points • The first mediation MR study to quantifies the mediating role of a specific immune cell phenotype in the causal pathway from CTDs to sarcopenia-related traits. • DM, MCTD, PM, and RA were causally associated with sarcopenia-related traits, with PM and RA showing the most consistent detrimental effects. • HLA-DR expression on CD14-CD16- cells may partially mediate the effect 3 of RA on appendicular lean mass and whole body fat free mass.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Sarcopenia is increasingly recognized as a common comorbidity of connective tissue diseases (CTDs). However, the causal relationships between CTDs and sarcopenia-related traits, and whether immune cells mediate these effects, remain unclear."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We performed a three-step Mendelian randomization (MR) analysis using genome-wide association study summary data of European ancestry. Step 1 evaluated the causal effects of seven CTDs on five sarcopenia-related traits. Step 2 screened 731 immune cell phenotypes for associations with these traits. Step 3 assessed the causal effects of the selected CTDs on the selected immune cell phenotypes. For each exposure-mediator-outcome triplet, the indirect effect and the mediation proportion were estimated using a two-step MR approach."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Dermatomyositis (DM), mixed connective tissue disease (MCTD), polymyositis (PM), and rheumatoid arthritis (RA) were causally associated with at least one sarcopenia-related trait. Among 731 immune traits, 15 were significantly associated with at least three traits after FDR correction. In patients with RA, mediation analysis indicated that HLA-DR expression on CD14-CD16- cells partially mediated the effect on appendicular lean mass (mediation proportion = 9.76%, P = 0.040, q = 0.099) and whole-body-fat-free mass (mediation proportion = 5.76%, P = 0.039, q = 0.099), though these mediation findings did not survive FDR correction and should therefore be considered exploratory."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "This mediation MR study provides genetic evidence that DM, MCTD, PM and RA are causally associated with specific sarcopenia-related traits. The partial mediation of RA's effects through HLA-DR up-regulation on CD14⁻CD16⁻ cells suggests a potential immune pathway linking RA to muscle loss, though these findings require confirmation in independent cohorts. Key Points • The first mediation MR study to quantifies the mediating role of a specific immune cell phenotype in the causal pathway from CTDs to sarcopenia-related traits. • DM, MCTD, PM, and RA were causally associated with sarcopenia-related traits, with PM and RA showing the most consistent detrimental effects. • HLA-DR expression on CD14-CD16- cells may partially mediate the effect 3 of RA on appendicular lean mass and whole body fat free mass."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43018852/",
+   "doi": "https://doi.org/10.1007/s10067-026-08534-9",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43018784",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Chronic cholestatic liver disease impairs skeletal muscle regeneration: partial modulation by ursodeoxycholic acid of satellite cells and innate immunity",
+   "revista": "Mol Biol Rep",
+   "autores": "Cifuentes-Silva E, Tacchi F, Portal-Rodríguez M et al.",
+   "tipo_estudo": "",
+   "destaque": "UDCA at 15 mg/kg/day altered selected myogenic and immune marker-defined readouts and MyHC-IIB abundance but did not improve histological indices of post-cryoinjury repair at day 12. A single endpoint cannot distinguish delayed progression, differences in initial injury burden, or persistently incomplete regeneration. These data do not support a clinical recommendation of UDCA for muscle repair.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Chronic cholestatic liver disease (CCLD) is associated with skeletal muscle dysfunction, but its effects on muscle regeneration and the response to ursodeoxycholic acid (UDCA) remain incompletely characterized."
+    },
+    {
+     "rotulo": "Methods And Results",
+     "texto": "Male C57BL/6 mice received standard chow or a 0.1% 3,5-diethoxycarbonyl-1,4-dihydrocollidine (DDC) diet, with vehicle or UDCA (15 mg/kg/day); tibialis anterior cryoinjury at week 6 was followed by a 12-day recovery (n = 3-6 per group, depending on the assay). We assessed histology, fiber morphometry, embryonic myosin heavy chain (MyHC-emb) staining, flow cytometry, and adult MyHC isoforms. CCLD + UDCA exhibited more histologically altered tissue, more centrally nucleated fibers (both p < 0.0001), and more MyHC-emb⁺ fibers (p = 0.0002) than CCLD at day 12. The Pax7⁺ fraction was greater in CCLD than in controls (18.55% vs. 4.67%; adjusted p = 0.0001) and lower in CCLD + UDCA than in CCLD (4.63%; p = 0.0001), without a change in Myf5/MyoD composition within Pax7⁺ cells. CCLD + UDCA did not differ significantly from CCLD for MHC-II⁺, M1-like, or M2-like macrophage-associated frequencies, whereas the CD11b⁺Ly6G⁺ fraction was higher (p = 0.0043). MyHC-IIB abundance was greater in CCLD + UDCA than in CCLD (p = 0.0436)."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "UDCA at 15 mg/kg/day altered selected myogenic and immune marker-defined readouts and MyHC-IIB abundance but did not improve histological indices of post-cryoinjury repair at day 12. A single endpoint cannot distinguish delayed progression, differences in initial injury burden, or persistently incomplete regeneration. These data do not support a clinical recommendation of UDCA for muscle repair."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43018784/",
+   "doi": "https://doi.org/10.1007/s11033-026-13137-3",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43018780",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Small bites for big risks: efficacy of the small-bites closure technique in a real-world laparotomy cohort",
+   "revista": "Hernia",
+   "autores": "Açar S, Karaevli Ç, Aydın C et al.",
+   "tipo_estudo": "",
+   "destaque": "The small-bites technique is a safe and comparably effective closure method for real-world cohorts. It maintains fascial integrity in high-risk patients and significantly reduces incisional hernia risk in non-malignant cases.",
+   "resumo": [
+    {
+     "rotulo": "Purpose",
+     "texto": "This study aimed to evaluate the clinical outcomes of the continuous small-bites fascial closure technique compared to standard large-bites closure in an unselected, consecutive series of high-risk patients undergoing midline laparotomy. The primary objective was to investigate whether the small-bites approach remains effective and safe in a real-world surgical population burdened with systemic comorbidities."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A retrospective analysis of a prospectively maintained clinical database was conducted on 101 patients assigned via an institutional protocol (53 small-bites, 48 large-bites). The primary outcome was the one-year incidence of incisional hernia (IH). Secondary outcomes included surgical site infections and operative metrics. Multivariable binary logistic regression was utilized to adjust for baseline confounding factors, specifically variations in abdominal muscle quality as measured by the L3 cross-sectional mass ratio."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "At the one-year follow-up, overall IH occurred in 7.5% of the small-bites group versus 12.5% of the large-bites group (p = 0.405). The small-bites approach required significantly longer fascial closure times (p = 0.016) but resulted in non-significant reductions in surgical site infections (30.2% vs. 39.6%, p = 0.322) and early evisceration (5.4% vs. 15.8%, p = 0.072). Additionally, baseline L3 cross-sectional mass ratio did not independently predict herniation (p = 0.142). Subgroup analyses revealed no significant differences in IH rates between the closure techniques in high-risk patients presenting with underlying malignancy (p = 0.632), sarcopenia (p = 0.689), or stomas (p = 1.000). However, in patients without malignancy, the small-bites technique yielded a significantly lower incidence of IH compared to the standard approach (p = 0.022). Adjusted multivariable regression indicated a non-significant decreased risk of IH development with small-bites (p = 0.360)."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "The small-bites technique is a safe and comparably effective closure method for real-world cohorts. It maintains fascial integrity in high-risk patients and significantly reduces incisional hernia risk in non-malignant cases."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43018780/",
+   "doi": "https://doi.org/10.1007/s10029-026-03901-6",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43018676",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "A pilot study on the impact of Hydroxiram D supplementation on nutritional status and sarcopenia-related parameters",
+   "revista": "J Physiol Biochem",
+   "autores": "Gallo P, Flagiello V, Di Cola S et al.",
+   "tipo_estudo": "Ensaio clínico randomizado",
+   "destaque": "Six months of Hydroxiram D was associated with a more favorable change in PA in patients with compensated MASLD-related cirrhosis, with favorable trends in muscle parameters. These hypothesis-generating findings warrant confirmation in larger, prospectively registered, double-blind trials to confirm efficacy and long-term outcomes.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Sarcopenia is a frequent and prognostically relevant complication of chronic liver disease. The SARCIRAM pilot trial investigated the effect of Hydroxiram D, a formulation of branched-chain amino acids (BCAAs), β-hydroxy-β-methylbutyrate (HMB), and vitamin D, on nutritional status and sarcopenia-related parameters in patients with compensated cirrhosis due to metabolic dysfunction-associated steatotic liver disease (MASLD). In this single-center, randomized pilot study, adults with compensated MASLD-related cirrhosis (Child-Pugh A) received Hydroxiram D plus standard care or standard care alone for 6 months. The primary outcome was phase angle (PA), while secondary outcomes were appendicular skeletal muscle mass (ASMM)/height², handgrip strength (HGS), and 4-meter walk test (4-mWT). Between-group comparisons used baseline-adjusted models. Post-hoc simulation analyses were used exploratorily to inform the design of future studies. Thirty-two patients were analyzed. After 6 months, the adjusted change in PA was significantly more favorable in the treated group versus controls (+ 0.36° vs. - 0.45°, p = 0.046). Between-group differences in muscle mass, HGS, and gait speed were not statistically significant, although effect estimates directionally favoured the intervention. No treatment-related adverse events were observed. Six months of Hydroxiram D was associated with a more favorable change in PA in patients with compensated MASLD-related cirrhosis, with favorable trends in muscle parameters. These hypothesis-generating findings warrant confirmation in larger, prospectively registered, double-blind trials to confirm efficacy and long-term outcomes."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43018676/",
+   "doi": "https://doi.org/10.1007/s13105-026-01253-4",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43017731",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Reactivating young muscle regenerative pathways in ageing through inhibition of the 'gerozyme' 15-hydroxyprostaglandin dehydrogenase",
+   "revista": "Philos Trans R Soc Lond B Biol Sci",
+   "autores": "Nalbandian M, Blau HM",
+   "tipo_estudo": "Revisão",
+   "destaque": "Pharmacological inhibition of 15-PGDH restores PGE2 signalling and improves muscle mass, strength and regenerative capacity in old mice and constitutes a promising therapeutic strategy to counter sarcopenia and promote late-life muscle function. This article is part of the theme issue 'Developmental circuits in ageing'.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "We are living longer, but the years lived free from chronic diseases and disabilities have not increased at the same rate. The loss of skeletal muscle function in late life constitutes a major barrier to achieving this goal. With age, muscle mass and strength progressively decline. When the loss of muscle function becomes pathological, it is clinically recognized as a syndrome, sarcopenia. The goal of our laboratory is to understand the cellular and molecular mechanisms that drive muscle ageing and sarcopenia and to identify therapeutic strategies that preserve or restore muscle function in older individuals. In this review, we discuss our discovery of the gerozyme 15-hydroxyprostaglandin dehydrogenase (15-PGDH), a molecular driver of ageing that impedes muscle tissue growth, maintenance and regeneration. 15-PGDH abundance and enzymatic activity increase with age, leading to degradation of prostaglandin E2 (PGE2), a lipid mediator with key roles in skeletal muscle regeneration and tissue homeostasis. By limiting PGE2 bioavailability, elevated 15-PGDH contributes to the impaired regenerative and adaptive capacity of aged muscle. Pharmacological inhibition of 15-PGDH restores PGE2 signalling and improves muscle mass, strength and regenerative capacity in old mice and constitutes a promising therapeutic strategy to counter sarcopenia and promote late-life muscle function. This article is part of the theme issue 'Developmental circuits in ageing'."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43017731/",
+   "doi": "https://doi.org/10.1098/rstb.2026.0156",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43017725",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Developmental epigenetic circuits and their epigenetic drift in skeletal muscle ageing",
+   "revista": "Philos Trans R Soc Lond B Biol Sci",
+   "autores": "Schaeffer L, Afanaseva L, Belotti E",
+   "tipo_estudo": "Revisão",
+   "destaque": "By integrating developmental and epigenetic perspectives, we argue that myofibre ageing reflects not only cumulative damage but also the long-term consequences of how these exceptionally long-lived cells were originally built. This article is part of the theme issue 'Developmental circuits in ageing'.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Development and ageing are two deeply intertwined processes, but it remains unclear how programmes established during early development influence the long-term stability of post-mitotic tissues. Skeletal muscle provides a model of choice to study the connection between these processes. Myofibres are long-lived, multinucleated syncytia whose identity and homeostasis rely on transcriptional, metabolic and epigenetic states established during embryonic and postnatal development. Throughout life, these states are further reinforced by satellite cell-derived inputs. In this review, we discuss how early specification cues, chromatin architecture and metabolic wiring establish durable regulatory circuits preserving myofibre integrity but also limiting its plasticity across the lifespan. These developmental features, combined with decades of physiological strain, progressively challenge genomic integrity and destabilize the maintenance of epigenetic information. Over time, this instability causes an epigenetic drift, encompassing alterations in DNA methylation, changes in histone landscapes and disruption in higher-order chromatin organization. Such alterations erode transcriptional fidelity and contribute to the appearance of hallmarks of the ageing phenotype. By integrating developmental and epigenetic perspectives, we argue that myofibre ageing reflects not only cumulative damage but also the long-term consequences of how these exceptionally long-lived cells were originally built. This article is part of the theme issue 'Developmental circuits in ageing'."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43017725/",
+   "doi": "https://doi.org/10.1098/rstb.2025.0342",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43019802",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Depressive symptoms, possible sarcopenia, and functional disability among Chinese adults aged 50 years or more: A five-wave longitudinal study",
+   "revista": "Maturitas",
+   "autores": "Mai T, Chao G",
+   "tipo_estudo": "",
+   "destaque": "Participants with both exposures had the highest standardized risk, but there was no evidence of positive additive interaction and the joint association was less than multiplicative. The clinical usefulness of joint assessment requires prospective evaluation.",
+   "resumo": [
+    {
+     "rotulo": "Objectives",
+     "texto": "To examine separate and joint associations of baseline depressive symptoms and possible sarcopenia with repeatedly assessed functional disability among Chinese adults aged 50 years or more."
+    },
+    {
+     "rotulo": "Study Design",
+     "texto": "Five-wave longitudinal cohort analysis, 2011-2020."
+    },
+    {
+     "rotulo": "Main Outcome Measures",
+     "texto": "The presence of depressive symptoms was defined as a score ≥ 10 on the 10-item Center for Epidemiologic Studies Depression Scale. Possible sarcopenia was defined as low handgrip strength determined using the 2025 Asian Working Group for Sarcopenia age- and sex-specific thresholds because directly measured muscle mass was unavailable. We assessed disability in terms of basic and instrumental activities of daily living, separately and jointly. Modified Poisson generalized estimating equations estimated risk ratios; logistic models provided standardized risks and risk differences with cluster-bootstrap confidence intervals."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Of 9346 eligible participants, 8790 contributed 30,366 complete-case person-wave observations. Compared with neither exposure, adjusted risk ratios were 1.38 (95% confidence interval 1.32-1.44) for depressive symptoms only, 1.27 (1.18-1.37) for possible sarcopenia only, and 1.46 (1.38-1.56) for both. Standardized risks were 30.7%, 41.3%, 38.0%, and 46.0%, respectively. The risk difference for both versus neither was 15.3 percentage points (12.6-18.1). Additive interaction was -2.6 percentage points (-6.2 to 1.2), and the multiplicative interaction ratio was 0.84 (0.77-0.91). After multiple imputation, the contrast between the two single-exposure groups attenuated (risk ratio 1.06, 0.99-1.13)."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Participants with both exposures had the highest standardized risk, but there was no evidence of positive additive interaction and the joint association was less than multiplicative. The clinical usefulness of joint assessment requires prospective evaluation."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43019802/",
+   "doi": "https://doi.org/10.1016/j.maturitas.2026.109190",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43020464",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Real-world effectiveness of tirzepatide in individuals with obesity: weight response, treatment-related factors and diabetes status",
+   "revista": "Diabetes Metab",
+   "autores": "Parrotta ME, Milani I, Chinucci M et al.",
+   "tipo_estudo": "",
+   "destaque": "Tirzepatide was effective and well tolerated in routine practice. Greater weight loss occurred in obesity without T2D, while prior GLP-1RA exposure was independently associated with a reduced weight response. Previous GLP1-RA exposure may partly account for the different weight-loss trajectories observed between obesity with and without T2D. Residual differences at longer follow-up may reflect additional unmeasured clinical, metabolic, and treatment-related factors.",
+   "resumo": [
+    {
+     "rotulo": "Introduction",
+     "texto": "Tirzepatide reduces body weight and improves glycemic control, but real-world comparisons between individuals with obesity with and without type 2 diabetes (T2D) remain limited, as well as the potential influence on weight-loss response of baseline characteristics (especially sex and previous treatment exposure). We aimed to compare anthropometric and metabolic outcomes in these populations, as well as treatment persistence, discontinuation, and the influence of prior GLP-1 receptor agonist (GLP-1 RA) exposure."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "This retrospective multicenter study included adults with overweight/obesity without T2D (Ob) or with T2D (ObT2D) treated with tirzepatide. Data were collected at baseline and after 2-4 (T1), 5-8 (T2), and 9-15 (T3) months. Longitudinal changes were assessed using linear mixed-effects models, and multivariable analyses identified predictors of weight loss."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Ob participants (n=210, 74.8% female) were younger, had higher BMI, better glycemic control, and less previous GLP-1RA exposure than ObT2D participants (n=378, 49.7% female) (45.7% vs 79.3%; p<0.001). Weight loss was greater in Ob than ObT2D at all follow-ups (-5.0% vs -2.8%, -10.1% vs -3.3%, and -14.2% vs -4.7%; all p≤0.011), with mixed-effects models confirming different trajectories. This difference was attenuated and no longer statistically significant when analyses were restricted to treatment-naïve participants. Prior GLP-1RA exposure was independently associated with lower weight loss, while an interaction between prior GLP-1RA exposure and T2D status emerged at longer follow-up. No effect modification by sex or age was clearly detectable in this cohort. Discontinuation was more frequent in Ob, with adverse events, and financial barriers among the main reported reasons. Adverse events occurred in 16.9%, were mainly mild, transient gastrointestinal events, more frequent in Ob than ObT2D (26.9% vs 11.1%; p<0.001)."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Tirzepatide was effective and well tolerated in routine practice. Greater weight loss occurred in obesity without T2D, while prior GLP-1RA exposure was independently associated with a reduced weight response. Previous GLP1-RA exposure may partly account for the different weight-loss trajectories observed between obesity with and without T2D. Residual differences at longer follow-up may reflect additional unmeasured clinical, metabolic, and treatment-related factors."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43020464/",
+   "doi": "https://doi.org/10.1016/j.diabet.2026.101807",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43020699",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "\"Exploring the experiences of burnout and job satisfaction of mammographers engaging in enhanced and advanced practice within NHS breast services: A qualitative interview study of UK practice\"",
+   "revista": "Radiography (Lond)",
+   "autores": "Shariff SR, Scragg B, Spacey A",
+   "tipo_estudo": "",
+   "destaque": "EP and AP mammographers experience professional fulfilment alongside occupational strain. Role expansion alone is insufficient to support workforce sustainability without investment in staffing, protected professional time, supportive leadership, and wellbeing. Addressing these factors may improve retention, resilience, and service sustainability.",
+   "resumo": [
+    {
+     "rotulo": "Introduction",
+     "texto": "Enhanced practice (EP) and advanced practice (AP) mammographers are integral to UK National Health Service (NHS) Breast Services. While role expansion has increased service capacity and improved patient pathways, it has also introduced greater clinical responsibility, emotional labour, and organisational demands. Although burnout is recognised across healthcare professions, little is known about how EP and AP mammographers experience burnout alongside job satisfaction. This study therefore explored how EP and AP mammographers working within NHS Breast Services experience, perceive and negotiate burnout and job satisfaction and examined the organisational factors influencing occupational wellbeing."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A qualitative study using online semi-structured interviews was conducted with fifteen EP and AP mammographers across NHS Breast Services. Participants were recruited through purposive sampling, and interviews were analysed using inductive reflexive thematic analysis."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Four themes were developed: organisational pressure and constraints, emotional and cognitive burden, professional identity and meaning, and support systems and coping. Participants described workload, workforce shortages, administrative responsibilities, and emotional labour as contributors to burnout. Despite these challenges, AP provided professional fulfilment through autonomy, specialist expertise, meaningful patient interactions, and influence over care. Participants perceived limited organisational support as affecting their ability to cope with workplace demands. Findings demonstrate that burnout and professional fulfilment coexist, reflecting a balance between demands and resources."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "EP and AP mammographers experience professional fulfilment alongside occupational strain. Role expansion alone is insufficient to support workforce sustainability without investment in staffing, protected professional time, supportive leadership, and wellbeing. Addressing these factors may improve retention, resilience, and service sustainability."
+    },
+    {
+     "rotulo": "Implications For Practice",
+     "texto": "Workforce wellbeing strategies should extend beyond individual resilience and focus on organisational interventions supporting EP and AP roles while recognising the emotional demands of breast-imaging."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43020699/",
+   "doi": "https://doi.org/10.1016/j.radi.2026.103639",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43019370",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Cognitive and physiological responses to prolonged video viewing: Activities of the autonomic nervous system and hypothalamo-pituitary-adrenal axis in relation to video interest",
+   "revista": "PLoS One",
+   "autores": "Matsui H, Tanabe R, Mogi R et al.",
+   "tipo_estudo": "",
+   "destaque": "A significant main effect of interest was observed only for LF. These findings indicate that the video conditions differed in subjective cognitive evaluation, with condition-dependent temporal changes detected for HR, whereas no significant interest × time interactions were detected for the other physiological indicators.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "In recent years, online lectures and conferences have become widespread, but prolonged video viewing has been suggested to affect psychological state and physiological regulation. However, few studies have objectively examined how such viewing influences autonomic and endocrine activity. This study aimed to evaluate changes in autonomic nervous system (ANS) activity and hypothalamo-pituitary-adrenal (HPA) axis activity during the viewing of high- and low-interest videos. Twenty-six university students (10 males, 16 females; aged 21-24 years) watched high-interest (comedy) and low-interest (lecture) videos (90 minutes each). After viewing each video, they recorded subjective ratings of concentration, comprehension, interest, and fatigue. To assess autonomic nervous system activity, heart rate (HR) and heart rate variability (HRV) analyses, including the low-frequency (LF)/high-frequency (HF) ratio (LF/HF), LF and HF power, and very low-frequency (VLF) power, were performed. As stress markers, saliva samples were collected before, during, and after video viewing to measure cortisol, amylase, and chromogranin A (CgA). Subjective ratings showed that scores for concentration, comprehension, and interest were significantly higher, and fatigue was lower during the high-interest video. Regarding physiological indicators, significant main effects of time were observed for heart rate, LF/HF, LF, HF, and VLF, with overall patterns of lower heart rate and LF/HF and higher LF, HF, and VLF power during viewing. Salivary cortisol also decreased over time during both videos, demonstrating a significant main effect of time. However, no significant changes were observed in salivary amylase or chromogranin A. Furthermore, a significant interest × time interaction was observed for HR, but not for the other physiological indicators. A significant main effect of interest was observed only for LF. These findings indicate that the video conditions differed in subjective cognitive evaluation, with condition-dependent temporal changes detected for HR, whereas no significant interest × time interactions were detected for the other physiological indicators."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43019370/",
+   "doi": "https://doi.org/10.1371/journal.pone.0362672",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43019354",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Network analysis of physical exercise, sleep quality, and psychological distress among Chinese university students",
+   "revista": "PLoS One",
+   "autores": "Wang J, Ma Y, Han T et al.",
+   "tipo_estudo": "",
+   "destaque": "Cross-domain associations among physical exercise, sleep quality, and psychological distress were concentrated in a limited number of dimensions, particularly stress, daytime dysfunction, exercise frequency, and exercise duration. Stress and daytime dysfunction showed relatively prominent sleep-psychological distress associations, whereas higher exercise frequency and longer exercise duration were associated with lower stress and fewer subjective sleep problems, respectively. No gender-related network differences were detected, but this does not establish network equivalence. These cross-sectional findings identify dimension-specific associations but cannot establish causal relationships or intervention targets.",
+   "resumo": [
+    {
+     "rotulo": "Objective",
+     "texto": "Physical exercise, sleep quality, and psychological distress may be interconnected among university students, but their dimension-specific associations remain unclear. This study examined their network structure and compared male and female networks."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A convenience sample of 1,600 university students from two higher-education institutions in central China was surveyed from 16 March to 29 May 2026. Physical exercise, sleep quality, and psychological distress were assessed using the Physical Activity Rating Scale, Pittsburgh Sleep Quality Index, and 21-item Depression Anxiety Stress Scales. A 12-node regularized partial correlation network was estimated. Expected influence, bridge expected influence, bootstrap procedures, and network comparison tests were used."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The network retained 27 non-zero edges, with stronger connections mainly within domains. Daytime dysfunction-stress had the largest positive cross-domain edge-weight point estimate, whereas exercise frequency-stress and exercise duration-subjective sleep quality were prominent negative connections. Stress showed relatively high expected influence and positive bridge expected influence point estimates, although bootstrap difference tests did not clearly distinguish these estimates from those of several other nodes. No gender-related differences were detected in global strength, network structure, or individual edges after multiple-comparison correction, while supplementary analyses indicated limited detection capability."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Cross-domain associations among physical exercise, sleep quality, and psychological distress were concentrated in a limited number of dimensions, particularly stress, daytime dysfunction, exercise frequency, and exercise duration. Stress and daytime dysfunction showed relatively prominent sleep-psychological distress associations, whereas higher exercise frequency and longer exercise duration were associated with lower stress and fewer subjective sleep problems, respectively. No gender-related network differences were detected, but this does not establish network equivalence. These cross-sectional findings identify dimension-specific associations but cannot establish causal relationships or intervention targets."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43019354/",
+   "doi": "https://doi.org/10.1371/journal.pone.0362609",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43019059",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "A SIRT6-OVOL2 axis governs excitatory neuron resilience to chronic stress",
+   "revista": "Cell Rep",
+   "autores": "Zhou P, Li X, Sun H et al.",
+   "tipo_estudo": "",
+   "destaque": "The SIRT6 allosteric agonist MDL-800 recapitulates these findings, eliciting antidepressant-like effects. These findings elucidate SIRT6's role in promoting stress resilience and support SIRT6-targeting strategies for treating depression.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Current antidepressants primarily target monoaminergic and glutamatergic systems, but insufficiently protect against stress-induced neuronal dysfunction, highlighting the need for mechanism-based therapies. Here, we propose SIRT6 as a determinant of stress resilience. Excitatory neuron-specific SIRT6 overexpression attenuates chronic unpredictable mild stress (CUMS)-induced anhedonia, despair, anxiety-like phenotypes, and circadian disruption, whereas astrocytic or inhibitory neuronal overexpression provides no comparable effect. Conversely, excitatory neuron-specific SIRT6 deletion induces depression-like behaviors and disrupts circadian locomotor activity under basal conditions. Hippocampal single-nucleus transcriptomics identifies a stress-sensitive excitatory neuronal subtype depleted following CUMS but restored by SIRT6 overexpression. Regulatory network analysis positions OVOL2 as a central transcription factor governing stress-associated transcriptional alterations. SIRT6 directly interacts with OVOL2 and modulates its stability, thereby driving transcription of downstream targets, including Nrg1. The SIRT6 allosteric agonist MDL-800 recapitulates these findings, eliciting antidepressant-like effects. These findings elucidate SIRT6's role in promoting stress resilience and support SIRT6-targeting strategies for treating depression."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43019059/",
+   "doi": "https://doi.org/10.1016/j.celrep.2026.118297",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43017859",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Ruff Shift Recharge: Feasibility and Acceptability of Canine-Assisted Breaks for Night-Shift Psychiatric Nurses",
+   "revista": "J Am Psychiatr Nurses Assoc",
+   "autores": "Zock G, Hawks M",
+   "tipo_estudo": "",
+   "destaque": "Drop-in AAA breaks were deliverable and acceptable to participating nurses at this site. Findings do not establish effectiveness, comparative advantage, mechanism, sustainability, or generalizability. Future studies should retain structured canine welfare monitoring and include usual-break and active nonanimal comparison conditions.",
+   "resumo": [
+    {
+     "rotulo": "Objective",
+     "texto": "To evaluate the feasibility and acceptability of canine-assisted breaks for night-shift psychiatric nurses and the practicality of participant measures and canine welfare monitoring in inpatient staff-focused animal-assisted activity (AAA) research."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Night-shift nurses (N = 11) were offered voluntary drop-in AAA breaks over 3 weeks at an inpatient psychiatric facility. Feasibility indicators included enrollment, attendance, survey completion, canine welfare monitoring, and adverse events. Acceptability indicators included session duration, observed engagement, and participant feedback. Mood was assessed before and after each break using the Positive and Negative Affect Schedule. Burnout and well-being were assessed 1 week before and after the intervention period. Outcomes were summarized descriptively. Therapy dog welfare was monitored through structured observation and repeated Canine Behavioral Assessment and Research Questionnaire assessments."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Eight nurses participated in 21 AAA breaks; durations ranged from 2 to 47 min (M = 22.3 min). Break-embedded data collection and canine welfare monitoring did not disrupt workflow, but follow-up survey attrition limited postintervention data. Feedback respondents described improved mood and energy and reduced stress. None of the 21 AAA breaks were terminated for canine stress. One site visit ended 30 min early after stress occurred without participants present."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Drop-in AAA breaks were deliverable and acceptable to participating nurses at this site. Findings do not establish effectiveness, comparative advantage, mechanism, sustainability, or generalizability. Future studies should retain structured canine welfare monitoring and include usual-break and active nonanimal comparison conditions."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43017859/",
+   "doi": "https://doi.org/10.1177/10783903261503226",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43019027",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Integrating U.S. embassy visits into global health education: student reflections on diplomacy-focused experiential learning",
+   "revista": "Med Educ Online",
+   "autores": "Wallace LS, Mousetes S",
+   "tipo_estudo": "",
+   "destaque": "The embassy visit expanded students' understanding of diplomacy while introducing previously unrecognized career pathways. Drawing on these findings, we propose a conceptual framework comprising four interconnected learning domains, suggesting that embassy visits provide a valuable component of global health education abroad.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "U.S. embassy visits offer a unique opportunity to examine the intersection of diplomacy and healthcare yet are rarely incorporated into health professions education. This study examined student reflections following a U.S. Embassy visit in North Macedonia to inform the integration of diplomacy-focused experiential learning into global health curricula."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Twenty-one Ohio State University undergraduates (12 females; mean age=19.48±0.60 years) participated in an experiential learning activity at the U.S. Embassy-Skopje, North Macedonia, which included discussions with embassy personnel on diplomacy and healthcare delivery within a diplomatic setting, as well as an Embassy Health Unit tour. Immediately following the visit, students completed a structured written reflection describing a meaningful or surprising aspect of the experience and its influence on their understanding of diplomacy, healthcare, or international collaboration. Reflections were analyzed using Braun and Clarke's reflexive thematic analysis. Themes were developed through iterative coding and refinement, with the second author independently reviewing the thematic framework to confirm interpretations and achieve consensus."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Reflexive thematic analysis identified three major themes-Expanding Conceptions of Diplomacy and the U.S. Foreign Service, Recognizing Healthcare as a Diplomatic Enterprise, and Broadening Professional Identity through Exposure to Global Health Careers-each comprising two related subthemes."
+    },
+    {
+     "rotulo": "Discussion",
+     "texto": "Student reflections highlighted adaptability, resilience, cross-cultural communication, teamwork, and flexibility while revealing progression from knowledge to understanding to professional identity. The embassy visit expanded students' understanding of diplomacy while introducing previously unrecognized career pathways. Drawing on these findings, we propose a conceptual framework comprising four interconnected learning domains, suggesting that embassy visits provide a valuable component of global health education abroad."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43019027/",
+   "doi": "https://doi.org/10.1080/10872981.2026.2762625",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43019495",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Cerebral Amyloid Angiopathy in Alzheimer Disease Continuum: Prevalence and Clinical Relevance in a Biomarker-Defined Memory Clinic Cohort",
+   "revista": "Neurology",
+   "autores": "Lalive HM, Ribaldi F, Mendes AJ et al.",
+   "tipo_estudo": "",
+   "destaque": "The binary probable CAA label may therefore reflect greater amyloid burden without necessarily delineating a clinically distinct subgroup within the AD continuum. Marker-specific approaches targeting cortical superficial siderosis and high lobar CMB burden may prove more informative.",
+   "resumo": [
+    {
+     "rotulo": "Background And Objectives",
+     "texto": "Cerebral amyloid angiopathy (CAA) frequently co-occurs with Alzheimer disease (AD), yet the prevalence and clinical significance of comorbid CAA among cognitively impaired individuals on the AD continuum remain unclear. We aimed to determine the frequency of probable CAA (Boston criteria v2.0) in a memory-clinic cohort of symptomatic amyloid-positive individuals and to compare demographic, clinical, cognitive, and biomarker profiles between those with and without comorbid probable CAA."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We conducted a retrospective cohort study at the Geneva Memory Center including amyloid-positive patients confirmed by CSF or amyloid PET. Participants meeting the Boston criteria v2.0 for probable CAA were classified as AD-probable CAA, whereas those with possible or no CAA were classified as AD-nonprobable CAA. Group differences were assessed using standard parametric and nonparametric tests, linear mixed-effects models for cognitive trajectories, logistic regression for cerebral microbleed (CMB)-CSF biomarker associations, and voxel-wise Statistical Parametric Mapping for regional amyloid PET differences."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Among 533 participants (mean age 73.8 ± 6.7 years, 59% female), 148 (28%) met criteria for probable CAA. Demographic characteristics, baseline cognition (mini-mental state examination: rank-biserial r = -0.05, 95% CI -0.16 to 0.07, p = 0.410), and longitudinal cognitive decline (β = -0.02, 95% CI -0.05 to 0.02, p = 0.309; median follow-up 28.1 months) did not differ between groups. Lower CSF Aβ42 was associated with lobar CMB burden (odds ratio per 1 SD decrease = 1.48, 95% CI 1.14-1.92, p = 0.004). Voxel-wise PET analyses revealed higher cortical amyloid uptake in AD-probable CAA with tracer-dependent patterns (cluster-level family-wise error p < 0.05)."
+    },
+    {
+     "rotulo": "Discussion",
+     "texto": "More than one-quarter of amyloid-positive patients fulfilled the Boston criteria v2.0 for probable CAA. Probable CAA was not associated with a distinct clinical presentation or trajectory of cognitive decline. Higher cortical amyloid PET uptake in probable CAA and the association of lower CSF Aβ42 with lobar CMB burden suggest more prominent cerebral amyloidosis in this population. The binary probable CAA label may therefore reflect greater amyloid burden without necessarily delineating a clinically distinct subgroup within the AD continuum. Marker-specific approaches targeting cortical superficial siderosis and high lobar CMB burden may prove more informative."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43019495/",
+   "doi": "https://doi.org/10.1212/WNL.0000000000218738",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43016954",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Environmental epimutagens, epigenetic memory, and cancer latency",
+   "revista": "NAR Cancer",
+   "autores": "Arimondo P, Coumoul X, Lepeule J et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Establishing causality will require physiologically realistic exposure models, longitudinal and lineage-resolved analyses, and functional tests distinguishing biomarkers of exposure from persistent mediators of cancer susceptibility. Such work may identify preventable exposures, informative biomarkers, and opportunities for cancer interception.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Environmental exposures can cause cancer through DNA damage and mutations, but whether they can also leave durable, cancer-relevant changes in gene regulation is less clear. Chromatin helps maintain cell identity, differentiation state, and plasticity, providing a route by which non-genetic effects of exposure could persist after exposure. We define environmental epimutagens as agents or conditions that perturb chromatin regulation, and examine how such perturbations may influence cancer initiation and latency. Exposures can reach chromatin through altered metabolite or cofactor availability, interference with chromatin-regulating proteins, and direct chemical modification. Most resulting changes are transient, adaptive, or secondary. The central question is which become biologically embedded in long-lived cell populations, remain silent during latency, and alter responses to later genetic, inflammatory, or tissue-level pressures. Studies of inflammatory memory and transient disruption of chromatin repression show that short-lived perturbations can durably reprogram cellular potential, lower the threshold for tumor initiation, or generate tumorigenic states. Exposures may also influence the later selection of primed cells. Establishing causality will require physiologically realistic exposure models, longitudinal and lineage-resolved analyses, and functional tests distinguishing biomarkers of exposure from persistent mediators of cancer susceptibility. Such work may identify preventable exposures, informative biomarkers, and opportunities for cancer interception."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43016954/",
+   "doi": "https://doi.org/10.1093/narcan/zcag033",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43020754",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Exercise is medicine: Translating exercise-induced cognitive benefits into rehabilitation practice",
+   "revista": "J Hand Ther",
+   "autores": "Nagamatsu LS, Nikpal MA, Marshall S et al.",
+   "tipo_estudo": "",
+   "destaque": "Our goal is to provide clinicians and researchers with the background knowledge that will equip them with what, how, and why exercise should be part of usual care for all types of patients in rehabilitation settings.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Exercise is one of the most impactful activities we can do to support physical, cognitive, and mental health across the lifespan and within both healthy and clinical populations. There is robust evidence that exercise promotes cognitive function, enhancing our ability to plan, think, and execute goal-directed behaviours. These cognitive benefits directly support patients in rehabilitation contexts to understand, follow, and safely apply clinical recommendations."
+    },
+    {
+     "rotulo": "Purpose",
+     "texto": "In this expert review, we provide an overview of the exercise neuroscience literature, highlighting key findings for the effects of exercise on cognition and brain health, followed by an overview of proposed mechanisms for these findings. Next, we translate these findings and offer a perspective in how they may be beneficial in rehabilitation settings, including special considerations for different populations experiencing cognitive decline. Finally, we end with a discussion of the limitations and future directions of this work, with special attention to equity, diversity, and inclusion to ensure that this knowledge remains accessible to all."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Our goal is to provide clinicians and researchers with the background knowledge that will equip them with what, how, and why exercise should be part of usual care for all types of patients in rehabilitation settings."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43020754/",
+   "doi": "https://doi.org/10.1016/j.jht.2026.08.002",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43020520",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Effect of intensive blood pressure control on cognitive outcomes and brain structures in adults with type 2 diabetes: prespecified analysis of secondary outcomes of BPROAD randomised controlled trial",
+   "revista": "BMJ",
+   "autores": "Wang W, Xu Y, Xu F et al.",
+   "tipo_estudo": "Ensaio clínico randomizado",
+   "destaque": "Over a median of about four years, no statistically significant difference in incidence of a composite of all cause dementia or mild cognitive impairment was observed among adults with type 2 diabetes receiving standard treatment of SBP (target <140 mm Hg) and intensive treatment (target <120 mm Hg). Intensive treatment was, however, associated with a reduction in the accrual of cerebral white matter lesion volume.",
+   "resumo": [
+    {
+     "rotulo": "Objective",
+     "texto": "To evaluate the effect of intensive compared with standard treatment of systolic blood pressure (SBP) on cognitive outcomes and brain structures in adults with type 2 diabetes."
+    },
+    {
+     "rotulo": "Design",
+     "texto": "Multicentre, open label, outcome assessor masked, randomised controlled trial."
+    },
+    {
+     "rotulo": "Setting",
+     "texto": "145 clinical centres across seven geographical regions in China."
+    },
+    {
+     "rotulo": "Participants",
+     "texto": "12 821 adults aged ≥50 years with type 2 diabetes, raised SBP, and increased cardiovascular risk, of whom 12 434 without probable dementia at baseline were included in this cognitive ancillary study. Further assessments were performed annually and at the end of study."
+    },
+    {
+     "rotulo": "Interventions",
+     "texto": "Participants were randomly assigned to receive intensive treatment targeting SBP <120 mm Hg or standard treatment targeting SBP <140 mm Hg for up to five years."
+    },
+    {
+     "rotulo": "Main Outcome Measures",
+     "texto": "The primary cognitive outcome was a composite of all cause dementia or mild cognitive impairment. Secondary cognitive outcomes included all cause dementia, mild cognitive impairment, changes in cognitive functions, and changes in brain magnetic resonance imaging (MRI) characteristics. A subset of participants underwent brain MRI at baseline (n=862) and at the end of study (n=605) to assess changes in white matter lesion volume and total brain volume."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "6219 participants were assigned to receive intensive treatment and 6215 to receive standard treatment. Baseline mean age was 63.7 years, and 5567 (44.8%) participants were women. After one year, mean SBP was 121.6 mm Hg in the intensive treatment group and 133.2 mm Hg in the standard treatment group. During a median follow-up of 3.8 years, the primary cognitive outcome of all cause dementia or mild cognitive impairment occurred in 747 participants (3.69 events per 100 person years) in the intensive treatment group and 783 participants (3.89 events per 100 person years) in the standard treatment group (hazard ratio 0.96, 95% confidence interval (CI) 0.86 to 1.06; P=0.38). In the MRI substudy (428 intensive treatment v 434 standard treatment), the intensive treatment group had a smaller increase in white matter lesion volume compared with the standard treatment group (between group difference -0.09 inverse hyperbolic sine (asinh) transformed cm3, 95% CI -0.15 to -0.02; P=0.01)."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Over a median of about four years, no statistically significant difference in incidence of a composite of all cause dementia or mild cognitive impairment was observed among adults with type 2 diabetes receiving standard treatment of SBP (target <140 mm Hg) and intensive treatment (target <120 mm Hg). Intensive treatment was, however, associated with a reduction in the accrual of cerebral white matter lesion volume."
+    },
+    {
+     "rotulo": "Trial Registration",
+     "texto": "ClinicalTrials.gov NCT03808311."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43020520/",
+   "doi": "https://doi.org/10.1136/bmj-2026-101209",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43020304",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "L1CAM promotes motor function and cognitive function in experimental autoimmune encephalomyelitis in mice",
+   "revista": "Brain Res",
+   "autores": "Li W, Wu J, Peng Y et al.",
+   "tipo_estudo": "",
+   "destaque": "L1CAM can also suppress the neuroinflammation in the hippocampus of EAE mouse to ameliorate cognitive dysfunction. These results suggest that L1CAM may represent a promising therapeutic method for curing multiple sclerosis.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Multiple sclerosis is an inflammatory demyelinating disorder of the central nervous system. L1 cell adhesion molecule (L1CAM) plays a critical role in neural development and injury repair. However, its influence on motor and cognitive functions in the experimental autoimmune encephalomyelitis (EAE)animal model of multiple sclerosis remains poorly understood. In this study, we utilized an EAE mouse model induced by MOG35-55 and administered recombinant L1CAM. We systematically evaluated its effects using behavioral assessments, histopathological analyses, and molecular biology. L1CAM can significantly ameliorate the demyelination in the spinal cord and sciatic nerve, increase the survival of spinal cord neurons, suppress the neuroinflammation in the lumbar spinal cord to reduce the clinical scores, and enhance hindlimb motor function. L1CAM can also suppress the neuroinflammation in the hippocampus of EAE mouse to ameliorate cognitive dysfunction. These results suggest that L1CAM may represent a promising therapeutic method for curing multiple sclerosis."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43020304/",
+   "doi": "https://doi.org/10.1016/j.brainres.2026.150629",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43020291",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Irosustat and STX140 improve cognitive function and modulate amyloid, oxidative stress, and inflammatory pathways in experimental Alzheimer's disease",
+   "revista": "Biochem Pharmacol",
+   "autores": "Anbar HS, Lozon Y, Khodr V et al.",
+   "tipo_estudo": "",
+   "destaque": "Morphological assessments showed that the drugs protected against brain atrophy and neuronal loss. Irosustat and STX140 are therefore promising therapeutic candidates for the management of Alzheimer's Disease.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Alzheimer's disease (AD) is currently the most prevalent neurodegenerative disorder affecting the geriatric population. The pathology of AD has been described as neuronal loss caused by the accumulation of beta-amyloid plaques and the formation of neurofibrillary tangles resulting from tau protein phosphorylation. This study aimed to investigate the therapeutic potential of steroid sulfatase inhibition using two drugs, the clinical steroid sulfatase inhibitor Irosustat and the multi-targeting preclinical candidate STX140, in scopolamine-induced AD in male Wistar rats compared to Donepezil as a standard drug. Behavioral tests such as the Open Field Test, Elevated Plus Maze Test, and Morris Water Maze Test were conducted to confirm the disease state and assess any improvement. At the end of the study, the animals were dissected to collect blood and brain samples for morphological, histological, immunohistochemical, biochemical, quantitative polymerase chain reaction and western blotting analyses. Treatment with Irosustat or STX140 improved learning, memory, and cognitive function compared with the disease group. The treated groups showed lowered brain tissue Aβ-40 & 42 levels, acetylcholinesterase activity, oxidative stress, and inflammatory markers. Morphological assessments showed that the drugs protected against brain atrophy and neuronal loss. Irosustat and STX140 are therefore promising therapeutic candidates for the management of Alzheimer's Disease."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43020291/",
+   "doi": "https://doi.org/10.1016/j.bcp.2026.118618",
+   "data": "2026-11-12T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
   },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261109205401-htm",
@@ -7435,6 +8341,29 @@
    "visto_em": "2026-11-12T10:55:00.400978+00:00"
   },
   {
+   "id": "pmid-42981608",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Augmented reality paradigm and EA-DGCNN decoding algorithm for motor imagery in stroke patients",
+   "revista": "J Neural Eng",
+   "autores": "Xu F, Yan D, Zhu C et al.",
+   "tipo_estudo": "",
+   "destaque": "Neurophysiological feature analysis indicates that the AR paradigm elicits more pronounced event-related desynchronization and event-related synchronization responses. The t-SNE visualization demonstrates that the AR paradigm, coupled with the proposed model, produces highly discriminative feature clustering patterns.Significance.This study delivers a more effective paradigm and a robust decoding solution for clinical BCI rehabilitation.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Objective.Stroke represents one of the leading causes of long-term motor dysfunction on a global scale. Existing motor imagery (MI) brain-computer interface (BCI) rehabilitation training systems face critical challenges of suboptimal patient engagement and limited electroencephalography (EEG) feature decoding capacity. To overcome these challenges, this study presents two primary original contributions: an independently designed wearable augmented reality (AR) MI training paradigm and a novel Euclidean alignment-based Dynamic Graph Convolutional Neural Network (EA-DGCNN) end-to-end decoding architecture.Approach.The immersive AR-MI paradigm heightens patient engagement and enhances MI performance. The EA-DGCNN model incorporates Euclidean alignment to minimize inter-subject variability in EEG distributions. The model extracts multi-dimensional spatiotemporal features via convolutional block attention, dynamic graph attention, and multi-scale convolutions, incorporating a Broad Learning System to achieve precise classification results.Main results.Experimental results demonstrate that the model achieves an accuracy of 85.13 ± 10.53% on the public BCI Competition IV 2a dataset. On a custom clinical dataset of 20 stroke patients, the AR paradigm yields a classification accuracy of 71.9 ± 8.9%, outperforming the 68.9 ± 8.0% of the traditional 2D paradigm. Furthermore, evaluations on the 64-channel PhysioNet benchmark demonstrate robust cross-subject transferability with a superior grand-average accuracy of 83.67 ± 8.52%. Neurophysiological feature analysis indicates that the AR paradigm elicits more pronounced event-related desynchronization and event-related synchronization responses. The t-SNE visualization demonstrates that the AR paradigm, coupled with the proposed model, produces highly discriminative feature clustering patterns.Significance.This study delivers a more effective paradigm and a robust decoding solution for clinical BCI rehabilitation."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42981608/",
+   "doi": "https://doi.org/10.1088/1741-2552/aebdce",
+   "data": "2026-11-04T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261101010549-htm",
    "fonte": "ScienceDaily",
    "tipo_fonte": "noticia",
@@ -7935,7 +8864,7 @@
    "revista": "Mol Metab",
    "autores": "Mowery SA, Knerr PJ, Hjøllund KR et al.",
    "tipo_estudo": "",
-   "destaque": "The modest weight lowering efficacy of orally administered NNC0130 highlights the continued challenges of low oral bioavailability of acylated peptides. However, the substantial efficacy observed with subcutaneous administration motivated advancement into Phase 2 clinical development.",
+   "destaque": "The modest weight-lowering efficacy of orally administered NNC0130 highlights the continued challenges of low oral bioavailability of acylated peptides. However, the substantial efficacy observed with subcutaneous administration motivated advancement into Phase 2 clinical development.",
    "resumo": [
     {
      "rotulo": "Objectives",
@@ -7947,11 +8876,11 @@
     },
     {
      "rotulo": "Results",
-     "texto": "NNC0130 exhibited in vitro potency comparable to semaglutide at human GLP-1R and to tirzepatide at human GIPR, with a chemical structure compatible with semi-recombinant production. Its human half-life of 76-89 h was deemed suitable for once-daily oral administration. In a multiple-ascending dose trial in participants with overweight or obesity and with separate subcutaneous and oral cohorts, daily subcutaneous administration of NNC0130 escalating from 0.3 to 3.0 mg per dose provided a placebo-corrected mean body weight loss of 9% after 12 weeks of treatment and 12% after 15 weeks. Daily oral administration escalating from 5 to 50 mg per dose provided a placebo-corrected mean body weight loss of 4% after 12 weeks, which was not statistically significantly different from zero. The relative oral bioavailability when co-formulated with permeation enhancer salcaprozate sodium was estimated to 1.6-2.2% versus s. c. administration."
+     "texto": "NNC0130 exhibited in vitro potency comparable to semaglutide at human GLP-1R and to tirzepatide at human GIPR, with a chemical structure compatible with semi-recombinant production. Its human half-life of 76-89 h was deemed suitable for once-daily oral administration. In a multiple-ascending dose trial in participants with overweight or obesity and with separate subcutaneous and oral cohorts, daily subcutaneous administration of NNC0130 escalating from 0.3 to 3.0 mg per dose provided a placebo-corrected mean body weight loss of 9% after 12 weeks of treatment and 12% after 15 weeks. Daily oral administration escalating from 5 to 50 mg per dose provided a placebo-corrected mean body weight loss of 4% after 12 weeks, which was not statistically significantly different from zero. The relative oral bioavailability when co-formulated with permeation enhancer sodium N-(8-[2-hydroxybenzoyl]amino)caprylate was estimated to 1.6-2.2% versus s. c. administration."
     },
     {
      "rotulo": "Conclusions",
-     "texto": "The modest weight lowering efficacy of orally administered NNC0130 highlights the continued challenges of low oral bioavailability of acylated peptides. However, the substantial efficacy observed with subcutaneous administration motivated advancement into Phase 2 clinical development."
+     "texto": "The modest weight-lowering efficacy of orally administered NNC0130 highlights the continued challenges of low oral bioavailability of acylated peptides. However, the substantial efficacy observed with subcutaneous administration motivated advancement into Phase 2 clinical development."
     }
    ],
    "link": "https://pubmed.ncbi.nlm.nih.gov/42977258/",
@@ -8741,6 +9670,29 @@
     "cognicao"
    ],
    "visto_em": "2026-11-09T13:49:58.995883+00:00"
+  },
+  {
+   "id": "pmid-42970833",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "A phase-calibrated combined electrical-sensory neuromodulation platform for short-term frontoparietal network modulation and cognitive fatigue resistance",
+   "revista": "J Neural Eng",
+   "autores": "Yan C, Ouyang Y, Zhang S et al.",
+   "tipo_estudo": "Ensaio clínico randomizado",
+   "destaque": "Together, these findings characterize the short-term neurodynamic profile associated with the integrated protocol. Exploratory brain-behavior analysis showed a positive full-sample association that was sensitive to individual observations.Significance.These findings support the feasibility of the timing-informed combined electrical-sensory platform and provide preliminary evidence of short-term condition-associated frontoparietal modulation.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Objective.Non-invasive combined electrical-sensory neuromodulation may be limited by cross-modal timing discrepancies arising from modality-specific conduction delays. This pilot study aimed to develop and evaluate an individualized delay-calibrated stimulation platform integrating transcranial alternating current stimulation with rhythmic visual and auditory inputs for modulating cognitive-fatigue-related frontoparietal network dynamics.Approach.We developed a microcontroller-based combined electrical-sensory stimulation platform and implemented a feedforward delay-compensation strategy based on individualized ERP latencies, including visualP1 and auditoryN1. The system was evaluated in a randomized, sham-controlled crossover study involving 17 participants, of whom 15 provided complete electroencephalographic datasets.Main results.Across the three tested protocols, the combined electrical-sensory condition showed larger immediate post-intervention theta-power changes than the audiovisual and sham conditions and a theta- weighted phase lag index difference relative to sham. During the subsequent high-load cognitive task, the combined condition showed a shallower mean parietal alpha accumulation trajectory. Together, these findings characterize the short-term neurodynamic profile associated with the integrated protocol. Exploratory brain-behavior analysis showed a positive full-sample association that was sensitive to individual observations.Significance.These findings support the feasibility of the timing-informed combined electrical-sensory platform and provide preliminary evidence of short-term condition-associated frontoparietal modulation."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42970833/",
+   "doi": "https://doi.org/10.1088/1741-2552/aebcb6",
+   "data": "2026-11-02T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-13T10:52:53.059537+00:00"
   },
   {
    "id": "pmid-42967254",
