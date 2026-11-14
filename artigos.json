@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-13T10:52:53.059537+00:00",
+ "atualizado_em": "2026-11-14T10:36:06.033586+00:00",
  "titulo": "Feed Científico Cabeça de Dona",
  "subtitulo": "Ciência nova, todo dia, sobre o que move a sua saúde",
  "temas": [
@@ -30,6 +30,70 @@
   }
  ],
  "artigos": [
+  {
+   "id": "pmid-43025465",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Kidney effects of tirzepatide across albuminuria, filtration markers, and clinical outcomes: a parent-trial-level systematic review and meta-analysis",
+   "revista": "Diabetes Res Clin Pract",
+   "autores": "Li S, Li S, Xu P et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "In that high-risk stratum, the hard-only hazard ratio versus dulaglutide was 0.70 (0.57-0.86), while end-stage kidney disease was not clearly reduced (1.04; 0.70-1.55). Albuminuria lowering versus insulin was reproducible; hard-outcome benefit was population- and endpoint-dependent, and dedicated kidney-outcome trials remain needed.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Whether tirzepatide's kidney effects extend from albuminuria lowering to filtration preservation and clinical outcomes remains uncertain. We searched PubMed, Embase, and the Cochrane Library through August 2026 and mapped randomized reports to independent parent trials. Ten parent trials provided kidney data; eight informed each principal synthesis. Versus insulin, tirzepatide reduced urinary albumin-to-creatinine ratio by 27.0% (95% CI, 16.0%-36.6%; I2 = 37.8%; moderate certainty), whereas placebo-controlled evidence was uncertain (-18.1%; 95% CI, -43.2% to 18.3%; very low certainty). Fixed-time creatinine-based estimated glomerular filtration rate showed no clear benefit (0.36 mL/min/1.73 m2; 95% CI, -0.34 to 1.07; low certainty). In SURPASS-CVOT, approximate post hoc aggregate contrasts suggested larger high-risk effects for filtration and a hard-only composite, but were multiplicity-unadjusted and not formal individual-participant interaction tests. In that high-risk stratum, the hard-only hazard ratio versus dulaglutide was 0.70 (0.57-0.86), while end-stage kidney disease was not clearly reduced (1.04; 0.70-1.55). Albuminuria lowering versus insulin was reproducible; hard-outcome benefit was population- and endpoint-dependent, and dedicated kidney-outcome trials remain needed."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43025465/",
+   "doi": "https://doi.org/10.1016/j.diabres.2026.113668",
+   "data": "2026-11-14T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43025914",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Health Disparities in Medically Underserved Populations: Traumatic Brain Injury Caregivers",
+   "revista": "Phys Med Rehabil Clin N Am",
+   "autores": "Xia B, Perrin PB",
+   "tipo_estudo": "Revisão",
+   "destaque": "Guided by the Stress Process Model of Caregiving, the review examines racial/ethnic disparities in caregiving, caregiving in low-income and middle-income countries, and structural determinants of caregiver distress. Implications for culturally responsive interventions, strengths-based approaches, and community-engaged research are discussed.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Caregivers of adult patients with traumatic brain injury (TBI) experience substantial mental health burden, with risks elevated among those caring for medically underserved TBI populations. This narrative review synthesizes evidence on mental health disparities among TBI caregivers, highlighting the role of social determinants of health in shaping caregiving demands, stress exposure, and access to resources. Guided by the Stress Process Model of Caregiving, the review examines racial/ethnic disparities in caregiving, caregiving in low-income and middle-income countries, and structural determinants of caregiver distress. Implications for culturally responsive interventions, strengths-based approaches, and community-engaged research are discussed."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43025914/",
+   "doi": "https://doi.org/10.1016/j.pmr.2026.08.008",
+   "data": "2026-11-14T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "rss-https-www-sciencedaily-com-releases-2026-11-261111005911-htm",
+   "fonte": "ScienceDaily",
+   "tipo_fonte": "noticia",
+   "titulo": "Study of 750,000 pregnancies reveals a surprising twist about Ozempic and Wegovy",
+   "revista": "",
+   "autores": "",
+   "tipo_estudo": "",
+   "destaque": "A study of more than 750,000 pregnancies found that early exposure to Ozempic, Wegovy, and similar drugs was not linked to increased pregnancy complications when used for weight loss, but was associated with a higher risk of premature birth when prescribed for diabetes. The surprising difference suggests that diabetes itself may be driving the risk, although researchers caution that the drugs' safety during pregnancy remains uncertain.",
+   "resumo": [],
+   "link": "https://www.sciencedaily.com/releases/2026/11/261111005911.htm",
+   "doi": "",
+   "data": "2026-11-13T07:48:10-05:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
   {
    "id": "pmid-43021385",
    "fonte": "PubMed",
@@ -191,6 +255,762 @@
     "cognicao"
    ],
    "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-43023239",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Artemether prevents renal proximal tubules enlargement in high‑fat diet induced obese mice",
+   "revista": "Mol Med Rep",
+   "autores": "Weng W, Shen L, Liu H et al.",
+   "tipo_estudo": "",
+   "destaque": "Additionally, artemether enhanced fatty acid oxidation, likely increased pyruvate oxidation and tricarboxylic acid cycle rate, and suppressed fatty acids activated TGF‑β1 signaling. Collectively, these findings suggested that artemether reduces kidney weight and prevents PTs enlargement in HFD mice, likely through modulating mitochondrial respiration and remodeling energy metabolism.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Enlarged kidney size is a common pathological manifestation in obesity, yet no effective therapeutic strategies currently exist to prevent this process. The present study aimed to investigate the effects of artemether, an artemisinin‑based drug, on kidney weight and renal proximal tubules (PTs) enlargement in obese mice. High‑fat diet (HFD)‑induced obese mice were established and treated with artemether. Obesity phenotype, kidney weight and PTs pathology were evaluated. Molecular mechanisms were explored in vitro using TKPTS cells. The results demonstrated that artemether markedly reduced kidney weight and attenuated PTs enlargement in HFD mice independent of body weight changes. In HFD mice, PTs exhibited over‑proliferation, excessive lipid droplets deposition and metabolic dysfunction. Artemether inhibited PTs hyperproliferation, reduced key glycolytic enzymes, upregulated mitochondrial pyruvate carrier (MPC) 1, MPC2 and isocitrate dehydrogenase subunit β in kidney. However, the renal triglyceride/cholesterol levels and mitochondrial β‑oxidation related proteins were not affected by artemether. In vitro, artemether mitigated fatty acids‑induced decline in mitochondrial membrane potential, modulated mitochondrial respiration and disturbed oxidative phosphorylation. Furthermore, although artemether decreased glycolytic gene transcription and glycolytic reserve, it unexpectedly increased lactate excretion. Additionally, artemether enhanced fatty acid oxidation, likely increased pyruvate oxidation and tricarboxylic acid cycle rate, and suppressed fatty acids activated TGF‑β1 signaling. Collectively, these findings suggested that artemether reduces kidney weight and prevents PTs enlargement in HFD mice, likely through modulating mitochondrial respiration and remodeling energy metabolism."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43023239/",
+   "doi": "https://doi.org/10.3892/mmr.2026.14067",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43022280",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Molecular and systemic mechanisms of tumor-associated bone metabolic disorders",
+   "revista": "J Bone Oncol",
+   "autores": "Chen S, Jiang Y, Chen Y et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "We highlight growing evidence that non-bone-metastatic tumors may affect the skeleton mainly through systemic mechanisms rather than direct bone invasion. We also distinguish established mechanisms from less clearly defined mechanisms across different tumor types and discuss challenges in biomarker development, mechanistic stratification, and personalized skeletal protection.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Tumor-associated bone metabolic disorders are increasingly recognized as major complications of cancer, contributing to skeletal fragility, pain, disability, and reduced quality of life. These disorders are biologically heterogeneous and should not be considered a single entity. Bone metastases, multiple myeloma and other marrow-involving malignancies, non-bone-metastatic solid tumors, and cancer therapy-related bone injury differ substantially in the degree of tumor-bone interaction, marrow niche remodeling, systemic inflammation, endocrine disturbance, and treatment exposure. In this review, we discuss tumor-associated skeletal dysfunction from three perspectives: direct tumor-induced bone remodeling, systemic host-mediated bone loss, and treatment-induced skeletal toxicity. Current evidence suggests that tumor-derived factors, metabolic stress, osteoimmune dysregulation, endocrine alterations, cachexia, sarcopenia, reduced mechanical loading, and osteocyte dysfunction collectively impair bone homeostasis. We highlight growing evidence that non-bone-metastatic tumors may affect the skeleton mainly through systemic mechanisms rather than direct bone invasion. We also distinguish established mechanisms from less clearly defined mechanisms across different tumor types and discuss challenges in biomarker development, mechanistic stratification, and personalized skeletal protection."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43022280/",
+   "doi": "https://doi.org/10.1016/j.jbo.2026.100811",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43024322",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Association between systemic immune-inflammation index and skeletal muscle mass in patients with nonalcoholic fatty liver disease: A cross-sectional study",
+   "revista": "Medicine (Baltimore)",
+   "autores": "Peng Q, Yang W, Lu Z et al.",
+   "tipo_estudo": "",
+   "destaque": "Subgroup analyses showed more pronounced negative correlations in males (β = -0.045, 95% CI = -0.073 to -0.018, P = .001) and non-Hispanic white individuals (β = -0.129, 95% CI = -0.193 to -0.065, P < .001). Our findings provide evidence of an independent negative association between SII and skeletal muscle mass in NAFLD patients, suggesting that systemic immune inflammation may contribute to muscle loss in this population.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Nonalcoholic fatty liver disease (NAFLD) is characterized by excessive liver fat accumulation, which is associated with inflammatory responses and metabolic disruptions that may affect skeletal muscle mass. However, the specific relationship between the systemic immune-inflammation index (SII) and skeletal muscle mass in NAFLD patients remains unclear. We conducted a cross-sectional analysis using data from the 2017 to 2018 National Health and Nutrition Examination Survey. The study comprised 673 adults with confirmed NAFLD who met inclusion criteria and had complete data on SII and skeletal muscle mass. Generalized weighted linear regression models were employed to assess the association, with adjustment for multiple covariates including demographic, socioeconomic, and clinical factors. After controlling for covariates, regression analysis revealed a significant independent negative correlation between SII and muscle mass (β = -0.037, 95% confidence interval [CI] = -0.055 to -0.019, P < .001). Smooth curve analysis indicated an approximately linear relationship, with an inflection point at 536.63 (1000 cells/μL). Subgroup analyses showed more pronounced negative correlations in males (β = -0.045, 95% CI = -0.073 to -0.018, P = .001) and non-Hispanic white individuals (β = -0.129, 95% CI = -0.193 to -0.065, P < .001). Our findings provide evidence of an independent negative association between SII and skeletal muscle mass in NAFLD patients, suggesting that systemic immune inflammation may contribute to muscle loss in this population."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43024322/",
+   "doi": "https://doi.org/10.1097/MD.0000000000051462",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43024283",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Prevalence and associated factors of sarcopenia among community-dwelling older adults in Vietnam: A cross-sectional study",
+   "revista": "Medicine (Baltimore)",
+   "autores": "Doan TD, Truong AT, Nguyen DTT et al.",
+   "tipo_estudo": "",
+   "destaque": "A lower prevalence of sarcopenia was observed among participants who were overweight or obese (aPR = 0.45; 95% CI: 0.36-0.54), physically active (aPR = 0.81; 95% CI: 0.69-0.95), or reported no low family economic status (aPR = 0.82; 95% CI: 0.70-0.97). Sarcopenia was highly prevalent among community-dwelling older adults and independently associated with frailty, multimorbidity, and nutritional status, underscoring the need for early community-based screening and integrated nutritional and physical interventions.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Sarcopenia is a geriatric syndrome characterized by age-related declines in skeletal muscle mass, strength, and physical performance. Despite its clinical relevance, it is frequently under-recognized because it is often considered a normal consequence of aging, even though it is associated with adverse outcomes such as functional impairment, falls, hospitalization, and mortality. Therefore, early identification and targeted nutritional and physical interventions are essential. This study aimed to determine the prevalence of sarcopenia and its associated factors among community-dwelling older adults in a developing-country setting. A cross-sectional study was conducted in January 2024 among 660 community-dwelling older adults in Can Gio District, Ho Chi Minh City, Vietnam. Sarcopenia was defined according to the Asian Working Group for Sarcopenia 2019 criteria, incorporating handgrip strength, 6-m walking speed, and skeletal muscle mass assessed by bioelectrical impedance analysis. Participants underwent standardized anthropometric measurements, physical performance assessments, and nutritional evaluations using body mass index and Mini Nutritional Assessment. Sociodemographic, clinical, frailty, and lifestyle data were collected. Associations with sarcopenia were examined using prevalence ratios (PRs) and 95% confidence intervals (CIs). Sarcopenia was identified in 42.4% (280/660; 95% CI: 38.6%-46.3%) of the participants. In the fully adjusted model, sarcopenia was independently associated with frailty (adjusted PR [aPR] = 1.72; 95% CI: 1.07-2.76), multimorbidity (aPR = 1.23; 95% CI: 1.04-1.45), and underweight status (aPR = 1.46; 95% CI: 1.27-1.68). A lower prevalence of sarcopenia was observed among participants who were overweight or obese (aPR = 0.45; 95% CI: 0.36-0.54), physically active (aPR = 0.81; 95% CI: 0.69-0.95), or reported no low family economic status (aPR = 0.82; 95% CI: 0.70-0.97). Sarcopenia was highly prevalent among community-dwelling older adults and independently associated with frailty, multimorbidity, and nutritional status, underscoring the need for early community-based screening and integrated nutritional and physical interventions."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43024283/",
+   "doi": "https://doi.org/10.1097/MD.0000000000051540",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43024160",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Radiomics-based risk prediction: survival in sarcopenic gastrointestinal and genitourinary cancer cohorts using a population-specific sarcopenia definition",
+   "revista": "Eur Radiol Exp",
+   "autores": "Letchumanan N, Hanaoka S, Sugawara K et al.",
+   "tipo_estudo": "",
+   "destaque": "This work demonstrates the efficacy of utilizing recently proposed Japanese population-based SMI definition values to optimize risk stratification for sarcopenic patients.",
+   "resumo": [
+    {
+     "rotulo": "Objective",
+     "texto": "This study demonstrated that the recently proposed Asian (Japanese)-cohort-based skeletal muscle index (SMI) definition (< 36.2 cm 2 / m 2 for males and < 29.6 cm 2 / m 2 for females), along with other factors such as radiomic and clinical variables, could improve risk categorization for survival in sarcopenic, gastrointestinal (GI), and genitourinary (GU) cancer patients."
+    },
+    {
+     "rotulo": "Materials And Methods",
+     "texto": "This retrospective study involved 2,015 patients who underwent major surgery at our institution between 2006 and 2018. From the axial CT image of the L3 vertebral region, the skeletal muscle was segmented to calculate the SMI values. 646 radiomic features were extracted from the image, and the Boruta algorithm was used to identify the most pertinent features. The final set of features consisted of these features and clinical variables. The dataset was split into training and testing sets comprising 1,512 patients (75%) and 503 patients (25%), respectively. Four models were evaluated in this study: (1) random survival forest (RSF)-based radiomic model, (2) Cox proportional hazard-based model, (3) Asian (Japanese)-specific SMI definition-based model, and (4) integrated model, which combines experiments (2) and (3). The Kaplan-Meier (KM) curves, log-rank tests, and Harrell's concordance index (C-index) were computed to assess the predictive performance of the models."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The integrated model achieved the highest performance in terms of C-index (0.760, 95% CI: 0.686-0.835) among all other models. Survival stratification was statistically significant across all the experiments (p < 0.0001)."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "This work demonstrates the efficacy of utilizing recently proposed Japanese population-based SMI definition values to optimize risk stratification for sarcopenic patients."
+    },
+    {
+     "rotulo": "Key Points",
+     "texto": "Question Can population-specific sarcopenia definitions, clinical variables, and CT muscle radiomics together improve overall survival risk stratification in patients with gastrointestinal and genitourinary cancers? Findings In this cohort of 2,015 patients, combining sarcopenia, clinical variables, and CT muscle radiomics yielded an overall survival C-index of 0.760. Relevance statement The incorporation of the Asian (Japanese)-specific skeletal muscle index definition improves risk stratification for the survival of sarcopenic cancer patients when combined with an imaging-based approach, such as radiomics and other clinical parameters, highlighting the value of multimodal integration."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43024160/",
+   "doi": "https://doi.org/10.1186/s41747-026-00848-2",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43022342",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Cardiovascular outcomes with semaglutide versus tirzepatide in patients with obesity and atherosclerotic cardiovascular disease without diabetes",
+   "revista": "Am Heart J Plus",
+   "autores": "Doma M, Ramadan A, Yazdanpanah MH et al.",
+   "tipo_estudo": "",
+   "destaque": "Semaglutide and tirzepatide were associated with similar cardiovascular outcomes. Prospective head-to-head trials are warranted to validate these results.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Comparative cardiovascular data on glucagon-like peptide-1 (GLP-1) agonists versus dual glucose-dependent insulinotropic polypeptide (GIP)/GLP-1 agonists in atherosclerotic cardiovascular disease (ASCVD) without diabetes are limited."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "This propensity score-matched retrospective TriNetX study compared adults aged ≥45 years with body mass index ≥27 kg/m2 and ASCVD initiating treatment with semaglutide or tirzepatide. Hazard ratios (HRs) with 95% confidence intervals (CIs) were used to analyze 3-point major adverse cardiovascular events (MACE: all-cause mortality, myocardial infarction, or ischemic stroke) and 5-point MACE (3-point MACE plus heart failure exacerbation and revascularization)."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "After matching, 5665 patients were analyzed per group. No statistically significant differences were observed between semaglutide and tirzepatide in 5-point MACE (19.5% vs 17.1%; HR 1.03; 95% CI 0.94-1.12), 3-point MACE (17.4% vs 15.4%; HR 1.04; 95% CI 0.95-1.14), or any individual component."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Semaglutide and tirzepatide were associated with similar cardiovascular outcomes. Prospective head-to-head trials are warranted to validate these results."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43022342/",
+   "doi": "https://doi.org/10.1016/j.ahjo.2026.101003",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43024315",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "When hypertensive crisis mimics septic shock: A case report of pheochromocytoma-induced severe lactic acidosis following GLP-1 receptor agonist administration",
+   "revista": "Medicine (Baltimore)",
+   "autores": "Khan AA, Aslam S, Aqeel M et al.",
+   "tipo_estudo": "",
+   "destaque": "Fat-containing adrenal lesions do not exclude pheochromocytoma, and biopsy should be avoided. The temporal association with GLP-1 receptor agonist exposure is hypothesis-generating and warrants further investigation as use of these agents continues to expand.",
+   "resumo": [
+    {
+     "rotulo": "Rationale",
+     "texto": "Pheochromocytoma is a rare catecholamine-secreting tumor that may present atypically with severe lactic acidosis and systemic inflammatory features, closely mimicking sepsis and delaying diagnosis. A possible interaction with glucagon-like peptide-1 (GLP-1) receptor agonists has been suggested but remains poorly understood."
+    },
+    {
+     "rotulo": "Patient Concerns",
+     "texto": "A 48-year-old woman with type 2 diabetes mellitus presented with acute nausea, vomiting, chills, severe abdominal pain, and hypertensive crisis within hours of self-administering tirzepatide, a dual GLP-1/glucose-dependent insulinotropic polypeptide receptor agonist. She was febrile, tachycardic, and markedly hypertensive, with severe lactic acidosis and systemic inflammatory markers suggestive of sepsis."
+    },
+    {
+     "rotulo": "Diagnoses",
+     "texto": "Initial evaluation favored sepsis; however, negative cultures, sustained severe hypertension, hyperlactatemia disproportionate to perfusion status, and elevated urinary normetanephrines redirected the evaluation toward an endocrine cause. The clinical and biochemical picture supported a diagnosis of probable pheochromocytoma. Imaging revealed a fat-containing left adrenal mass initially suggestive of myelolipoma, representing a diagnostic pitfall."
+    },
+    {
+     "rotulo": "Interventions",
+     "texto": "The patient was managed with intravenous fluids, a continuous nicardipine infusion, and oral alpha-blockade with doxazosin. Empiric broad-spectrum antibiotics were started and later discontinued as infection became unlikely. Beta-blockade was withheld until adequate alpha-blockade was achieved. Supportive care and electrolyte correction were provided."
+    },
+    {
+     "rotulo": "Outcomes",
+     "texto": "Blood pressure and lactate improved over 48 hours with clinical stabilization. The patient was discharged on oral alpha-blockade with plans for outpatient functional imaging (64Cu-DOTATATE positron emission tomography) and definitive surgical evaluation."
+    },
+    {
+     "rotulo": "Lessons",
+     "texto": "Pheochromocytoma should be considered in patients presenting with unexplained lactic acidosis and hypertensive crisis, even when sepsis appears likely. Catecholamine-driven type B lactic acidosis can closely mimic infectious shock. Fat-containing adrenal lesions do not exclude pheochromocytoma, and biopsy should be avoided. The temporal association with GLP-1 receptor agonist exposure is hypothesis-generating and warrants further investigation as use of these agents continues to expand."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43024315/",
+   "doi": "https://doi.org/10.1097/MD.0000000000051565",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43022657",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Clinical Outcomes of Tirzepatide After Metabolic Bariatric Surgery: A Systematic Review",
+   "revista": "Diabetes Metab Syndr Obes",
+   "autores": "Alfuhaydi GL, Alahmed AA, Alfayez OM",
+   "tipo_estudo": "Revisão",
+   "destaque": "Current observational evidence suggests that tirzepatide may provide clinically meaningful additional weight loss after MBS; however, the available evidence remains limited and heterogeneous. Larger prospective comparative studies with longer follow-up are needed to confirm its efficacy, durability, safety, and comparative effectiveness in this population.",
+   "resumo": [
+    {
+     "rotulo": "Background And Objectives",
+     "texto": "Suboptimal weight outcomes, including recurrent weight gain (RWG) and insufficient weight loss (IWL), remain important clinical challenges after metabolic bariatric surgery (MBS). Although tirzepatide has demonstrated substantial weight loss in nonsurgical populations, its role after MBS remains uncertain. This systematic review evaluated the clinical outcomes of tirzepatide initiated after MBS in adults."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We conducted a systematic review following PRISMA 2020 guidance. PubMed (MEDLINE), Embase, Web of Science Core Collection, and the Cochrane Central Register of Controlled Trials (CENTRAL) were searched from database inception through June 2026. Eligible studies included adults with prior MBS who received tirzepatide and reported weight, metabolic, or safety outcomes. Two reviewers independently screened studies and extracted data. Risk of bias was assessed using the Newcastle-Ottawa Scale (NOS)."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Five observational studies met the inclusion criteria. Across studies, tirzepatide was associated with clinically meaningful weight loss after MBS. Mean percent total body weight loss (%TBWL) ranged from 12.0% to 18.1% at the last available follow-up (6-12 months), and a high proportion of patients achieved ≥5%, ≥10%, and ≥15% TBWL where reported. Absolute reductions in body weight and body mass index were observed in studies reporting these outcomes. One study reported reductions in both fat mass and fat-free mass following tirzepatide treatment. Limited data suggested modest changes in glycemic and lipid parameters. Available safety data suggested that tirzepatide appeared to be generally well tolerated, although safety data were limited and follow-up was short. Mild gastrointestinal adverse events were the most reported, and no serious treatment-related adverse events were reported. Risk of bias was rated as low in two studies and moderate in three, and the certainty of evidence for comparative weight-loss outcomes was rated as very low."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Current observational evidence suggests that tirzepatide may provide clinically meaningful additional weight loss after MBS; however, the available evidence remains limited and heterogeneous. Larger prospective comparative studies with longer follow-up are needed to confirm its efficacy, durability, safety, and comparative effectiveness in this population."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43022657/",
+   "doi": "https://doi.org/10.2147/DMSO.S656297",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43024566",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Psychosocial and demographic predictors of BSN program acceptance and completion: a longitudinal study",
+   "revista": "Int J Nurs Educ Scholarsh",
+   "autores": "Jennings LA, Urban RW, Cipher DJ",
+   "tipo_estudo": "",
+   "destaque": "Nursing programs internationally may use these results to evaluate stress and resilience among pre-nursing students in their own context. These findings highlight the need to investigate whether stress-management and resilience-building strategies support nursing students' academic success and program completion. Predicting program acceptance or completion remains challenging due to multifactorial influences on nursing student success.",
+   "resumo": [
+    {
+     "rotulo": "Objectives",
+     "texto": "The purpose of this article was to examine if select demographic and academic variables as well as stress, resilience, and persistence in pre-nursing students predicted program acceptance and program completion."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "This IRB-approved, survey-based study used a longitudinal predictive design. Study data were collected in Fall 2020 and participants were followed to track program acceptance and completion."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Participants (n=198) were mostly female (89.9 %), racially diverse, mean age of 24.8. Univariate logistic regression analyses revealed age, female gender, grade point average, Asian race, first generation status, intention for the on-campus program, stress, and resilience to be significant predictors of program acceptance. In the multivariate model, female gender, first-generation, and on-campus intention remained significant. There were no significant predictors of program completion."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Nursing programs internationally may use these results to evaluate stress and resilience among pre-nursing students in their own context. These findings highlight the need to investigate whether stress-management and resilience-building strategies support nursing students' academic success and program completion. Predicting program acceptance or completion remains challenging due to multifactorial influences on nursing student success."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43024566/",
+   "doi": "https://doi.org/10.1515/ijnes-2025-0136",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43024628",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Reading Korean historical trauma in China: A qualitative content analysis of Douban reviews of Han Kang's Human Acts and We Do Not Part",
+   "revista": "PLoS One",
+   "autores": "Geng J, Kong D, Li B",
+   "tipo_estudo": "",
+   "destaque": "The findings show that Chinese reception of Korean historical-trauma fiction cannot be reduced to overall approval or disapproval. It also varies by work and by the ways readers connect literary form, translation, memory ethics, and affect in their responses.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Using 1,704 public Douban reviews, this study examines how Chinese readers respond to Korean historical trauma represented in Han Kang's Human Acts and We Do Not Part. We developed a 39-code binary coding frame from a 200-review development subset and froze it before formal corpus-wide coding. Two researchers independently coded a separate 400-review validation set, and a third adjudicated 893 disagreement code-cells to create the Human Reference. DeepSeek-V4-Pro then provided preliminary codes for the remaining 1,304 reviews. One researcher verified all 1,304 reviews, a different researcher independently audited 261 reviews under a prespecified blinded audit, and the third adjudicated 534 audit disagreement code-cells. The final 1,704 × 39 matrix shows that readers most often discuss literary form and aesthetics, ethical and memory-oriented reflection, overall evaluation and reading behavior, and affective or embodied response. Reviews of We Do Not Part discuss translation, editions, and reading difficulty more often, whereas reviews of Human Acts more often mention sadness, memory and witnessing, state violence, and broader ethical or political concerns. The strongest co-occurrence relationships included translation evaluation with translation-induced reading/comprehension difficulty, memory-oriented ethical reflection with literary witnessing, and language of heaviness or despair with embodied response. These pairwise results show that mediation-related, mnemonic, and affective responses each co-occur with closely related reception patterns within individual reviews. The findings show that Chinese reception of Korean historical-trauma fiction cannot be reduced to overall approval or disapproval. It also varies by work and by the ways readers connect literary form, translation, memory ethics, and affect in their responses."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43024628/",
+   "doi": "https://doi.org/10.1371/journal.pone.0361034",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43024595",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Sex differences in the effect of viable cell-containing and heat-killed Roseburia faecis on repeated water avoidance stress-induced irritable bowel syndrome Wistar rat model",
+   "revista": "PLoS One",
+   "autores": "Ha S, Kim N, Nam RH et al.",
+   "tipo_estudo": "",
+   "destaque": "Both preparations reduced rWAS-induced FPO in both sexes. In the L-BBH024 experiment, additional changes in mast cell infiltration, protease-related gene expression, and microbial features were more evident in females.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Roseburia faecis has been reported to mitigate irritable bowel syndrome (IBS), which is characterized by altered intestinal motility, mucosal immune activation, and gut microbial dysbiosis. This study aimed to evaluate the sex-dependent effects of heat-killed R. faecis (HK-BBH024) and a viable cell-containing R. faecis preparation (L-BBH024) in a repeated water avoidance stress (rWAS)-induced IBS Wistar rat model."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Fecal pellet output (FPO) and colonic mast cell infiltration were measured in the rWAS IBS model induced in 7-week Wistar rats (males and females). Gut microbial composition and function were analyzed by 16S rRNA sequencing and Kyoto Encyclopedia of Genes and Genomes pathway prediction, with or without BBH024 treatment."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The marked rWAS-induced increase in FPO in both sexes was reduced by HK-BBH024 and L-BBH024. rWAS also increased colonic mast cell infiltration in the proximal colon and the mRNA expression of protease-related genes, whereas L-BBH024 attenuated these sex differences. Specifically, L-BBH024 was associated with a borderline decrease in mast cell infiltration and suppressed Prss1 and Prss2 mRNA expression in females, whereas Prss3 expression was reduced in males. Microbiota profiling showed that rWAS-associated alterations in beta diversity, selected bacterial taxa, linear discriminant analysis-derived microbial biomarkers, and predicted KEGG functional pathways were more evident in females."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Both preparations reduced rWAS-induced FPO in both sexes. In the L-BBH024 experiment, additional changes in mast cell infiltration, protease-related gene expression, and microbial features were more evident in females."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43024595/",
+   "doi": "https://doi.org/10.1371/journal.pone.0360294",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43024082",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Supporting Families of Children With Cancer Using a Virtual Assistant for Social Care: Development and Usability Study",
+   "revista": "JMIR Cancer",
+   "autores": "Sezgin E, Booze AM, Wisne LM et al.",
+   "tipo_estudo": "",
+   "destaque": "The stakeholder-informed VA to address HRSN and toxic stress in pediatric oncology was highly usable and acceptable in prototype testing. Future work should evaluate live deployment, resource linkage, toxic stress outcomes, and equity in larger, more diverse, and longitudinal studies.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Families of children with cancer face substantial financial, social, and emotional stressors, including unmet health-related social needs (HRSN) and toxic stress, which contribute to disparities. Virtual assistants (VAs) offer a scalable option to screen for HRSN and connect families to resources, but their design and acceptability in pediatric oncology are not well characterized."
+    },
+    {
+     "rotulo": "Objective",
+     "texto": "The objective of this study was to evaluate a VA prototype designed to screen for HRSN and reduce toxic stress among families of children with cancer."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A 2-phase mixed methods study was conducted to co-design and evaluate a VA prototype for caregivers of children with cancer. In phase 1, a community advisory board (CAB) including health care providers and a parent advocate (n=8) iteratively refined VA content, tone, and interface through 3 virtual co-design sessions. In phase 2, caregivers (n=40) completed in-person VA prototype usability sessions that included structured observation, a semistructured interview, the System Usability Scale (SUS), a caregiver satisfaction survey, and a reaction card task. Social drivers of health, rurality, and neighborhood disadvantage were characterized using survey data and geocoded indices."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "CAB feedback refined prototype components including community resources, stress management, conversation history, and resource feedback. In phase 2, usability was high (SUS mean 82.6, SD 14.0); 95% (38/40) of caregivers rated the VA as easy to use and good to use, and 92.5% (37/40) reported that the VA motivated them to remain engaged during screening and resource identification. Qualitative analysis revealed that caregivers favored the VA's simplicity and its potential to provide timely support, particularly shortly after diagnosis. Participants expressed strong preferences for electronic health record integration to streamline care, though they noted concerns regarding privacy and \"app fatigue\" as potential adoption barriers. Reaction card responses were predominantly positive (eg, \"accessible,\" \"easy,\" and \"useful\"). Greater socioeconomic vulnerability was associated with higher usability ratings, while rural and medically underserved caregivers reported lower confidence and more negative desirability attributes."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "The stakeholder-informed VA to address HRSN and toxic stress in pediatric oncology was highly usable and acceptable in prototype testing. Future work should evaluate live deployment, resource linkage, toxic stress outcomes, and equity in larger, more diverse, and longitudinal studies."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43024082/",
+   "doi": "https://doi.org/10.2196/105818",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43023495",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "The Effect of Progressive Relaxation Exercise on Life Satisfaction, Comfort, and Burnout Levels of Nurses: A Randomized Controlled Trial",
+   "revista": "Workplace Health Saf",
+   "autores": "Korkut S, Özel Akyürek BN",
+   "tipo_estudo": "",
+   "destaque": "Occupational health professionals can integrate brief, structured PRE sessions into workplace wellness programs, enabling nurses to perform standardized exercises independently during breaks or outside working hours. This practical approach may support nurses' psychological well-being without disrupting patient care or workflow.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Nurses experience occupational and personal stress, which can reduce well-being and life satisfaction and contribute to burnout. The purpose of this study was to evaluate the effect of progressive relaxation exercises (PRE) on nurses' life satisfaction, comfort, and burnout."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "This randomized controlled trial included nurses from a tertiary care hospital. The intervention consisted of PRE involving the sequential contraction and relaxation of major muscle groups. The intervention group performed PRE for 5 weeks, three times a week, with each session lasting 20 minutes, outside active working hours. Outcomes were assessed using the Satisfaction with Life Scale, Nurse Comfort Questionnaire, and Maslach Burnout Inventory. Data were analyzed using descriptive statistics, chi-square, t-tests, and repeated-measures ANOVA in SPSS 25.0."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "After five weeks, the intervention group showed significantly higher life satisfaction (18.06±2.97 vs. 12.50±2.52, p < 0.001), total comfort (115.63±14.64 vs. 100.73±13.49, p < 0.001), and personal accomplishment (30.26±3.35 vs. 27.30±5.01, p = 0.009) scores than the control group. In contrast, emotional exhaustion (25.76±5.59 vs. 29.63±5.82, p = 0.011) and depersonalization (11.23±3.51 vs. 15.13±3.13, p < 0.001) were significantly lower in the intervention group."
+    },
+    {
+     "rotulo": "Conclusions/Application To Practice",
+     "texto": "PRE reduced nurses' burnout and enhanced their life satisfaction and comfort. It can be recommended as a simple and reliable complementary method to support nurses' well-being. Occupational health professionals can integrate brief, structured PRE sessions into workplace wellness programs, enabling nurses to perform standardized exercises independently during breaks or outside working hours. This practical approach may support nurses' psychological well-being without disrupting patient care or workflow."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43023495/",
+   "doi": "https://doi.org/10.1177/21650799261503628",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43023407",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "How Specialty Shapes Burnout in the Medical ICU: A Qualitative Study of Resident Experiences",
+   "revista": "ATS Sch",
+   "autores": "Michaels AN, Thompson E, Schrank Z et al.",
+   "tipo_estudo": "",
+   "destaque": "Drivers and mitigators of burnout vary across residency training specialties in the MICU, though common themes exist amongst different specialties. Identifying these themes creates opportunities for intervention strategies with the potential to improve resident satisfaction, training quality, and patient outcomes.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "The negative impacts of burnout in resident physicians have been widely documented, and burnout rates in the Medical Intensive Care Unit (MICU) are high. While burnout has been studied in physicians and other personnel in Intensive Care Units (ICUs), little attention has been given to resident physicians in the MICU. Our prior study demonstrated very high rates of burnout in residents in the MICU and was suggestive that non-internal medicine (non-IM) residents may be at an even higher risk of burnout than their internal medicine (IM) colleagues."
+    },
+    {
+     "rotulo": "Objective",
+     "texto": "This study aimed to determine and compare drivers and mitigators of burnout experienced by IM and non-IM (Family Medicine (FM) and Emergency Medicine (EM)) resident physicians rotating in the MICU. It also sought to identify drivers and mitigators of burnout that may be amenable to intervention strategies."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Three different resident disciplines (IM, EM, and FM) hosted trained investigators who mediated focus groups of 4-12 trainees during protected teaching time between April 2022 and May 2023. The focus groups aimed at identifying contributors to and mitigators of burnout in the MICU. Trained scribes recorded notes from the conversation, which were later parsed into themes and compared across groups to determine if similar themes existed in other resident specialties."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "In this study, we identified common themes in the focus groups from residents of all specialties and themes unique to each specialty. Universal drivers of burnout included moral distress and ethical concerns and insufficient orientation. Multiple unique drivers for FM and EM residents were identified including decreased gratification (FM), guilt (FM), communicating uncertainty to families (EM), managing chronic medical diseases (EM), and hierarchical relationships (FM & IM). Universal mitigators across all three specialties include meaningful patient experiences, time and access to food, and positive team dynamics."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Drivers and mitigators of burnout vary across residency training specialties in the MICU, though common themes exist amongst different specialties. Identifying these themes creates opportunities for intervention strategies with the potential to improve resident satisfaction, training quality, and patient outcomes."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43023407/",
+   "doi": "https://doi.org/10.1093/atsscholar/aapag076",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43023353",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Key factors associated with job burnout and job engagement among care workers in Korea",
+   "revista": "Work",
+   "autores": "Park D, Kim M, Kang Y",
+   "tipo_estudo": "",
+   "destaque": "These exploratory, cross-sectional findings identify physical and psychological health support, professional development and social recognition, and economic and regional working conditions as policy areas for further consideration. Longitudinal and intervention research is needed to establish temporal relationships and evaluate workplace or policy measures.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "BackgroundCare work involves high emotional and physical labor, exposing workers to psychosocial stressors, ergonomic risks, and health problems, making job burnout and job engagement critical issues for the sustainability of care services.ObjectiveThis study examines multidimensional factors associated with job burnout and job engagement among care workers in Korea to inform improvements in working conditions and policy.MethodsUsing data from the 6th Korean Working Conditions Survey, this study analysed 550 wage-employed care workers. Random Forest analysis ranked factors across individual characteristics, job demands, job resources, and health domains; multiple linear regression analyses then estimated associations for the ten highest-ranked variables for each outcome.ResultsJob burnout was positively associated with job demands, including job stress and emotional instability, as well as health-related factors such as systemic fatigue. In contrast, job engagement was primarily associated with job resources, including job prospects and perceived value of work. Region of employment and economic conditions were associated with both outcomes, suggesting that environmental and economic contexts are each relevant to care workers' job experiences.ConclusionsJob burnout was primarily associated with job demands and health-related factors, whereas job engagement was primarily associated with job resources. These exploratory, cross-sectional findings identify physical and psychological health support, professional development and social recognition, and economic and regional working conditions as policy areas for further consideration. Longitudinal and intervention research is needed to establish temporal relationships and evaluate workplace or policy measures."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43023353/",
+   "doi": "https://doi.org/10.1177/10519815261504419",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43023352",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Association of subjective workload on burnout in village midwives: A NASA TLX-based investigation",
+   "revista": "Work",
+   "autores": "Ernawaty, Binendra OV, Putri NK et al.",
+   "tipo_estudo": "",
+   "destaque": "These findings support systematic workload assessment to identify occupational strain and inform institutional strategies to promote midwives' well-being in rural healthcare settings. The cross-sectional design precludes causal inference.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "BackgroundVillage midwives play a central role in delivering maternal and primary healthcare services in rural Indonesia, where professional demands are extensive and resources are limited. Understanding the relationship between subjective workload and burnout is essential to support their occupational well-being.ObjectiveThis study examined the association between multidimensional subjective workload and burnout among village midwives using the NASA Task Load Index (NASA-TLX).MethodsA cross-sectional survey was conducted among 209 village midwives in Kediri District, Indonesia, selected through simple random sampling from the official registry. Subjective workload was assessed using the six NASA-TLX dimensions: mental demand, physical demand, temporal demand, performance, effort, and frustration. Burnout was measured using the Maslach Burnout Inventory. Ordinal logistic regression was used to evaluate associations between workload dimensions and burnout levels.ResultsMost respondents reported moderate workload and moderate burnout. Mental demand, physical demand, temporal demand, performance pressure, and effort were significantly associated with higher burnout levels, whereas frustration was not statistically significant.ConclusionsMultiple dimensions of subjective workload were associated with burnout among village midwives. These findings support systematic workload assessment to identify occupational strain and inform institutional strategies to promote midwives' well-being in rural healthcare settings. The cross-sectional design precludes causal inference."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43023352/",
+   "doi": "https://doi.org/10.1177/10519815261504745",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43023162",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Faecal adrenal and thyroid hormones as markers of cold stress in Florida manatees (Trichechus manatus latirostris)",
+   "revista": "Conserv Physiol",
+   "autores": "Smoll LI, Burgess EA, Keeley T et al.",
+   "tipo_estudo": "",
+   "destaque": "Multivariate hormone profiles differed among health groups in the full dataset, though these patterns were strongly influenced by the disproportionate representation of immature animals in the CSS group. Together, these findings identify faecal T3 as a promising non-invasive indicator of CSS and improve understanding of endocrine responses to cold stress in manatees.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Florida manatees (Trichechus manatus latirostris) are susceptible to cold stress syndrome (CSS), a chronic, sometimes lethal, multisystem disease associated with skin lesions, emaciation, dehydration and secondary infections. To investigate endocrine changes associated with CSS, we compared faecal adrenal (cortisol and aldosterone) and thyroid hormone [total triiodothyronine (T3) and thyroxine (T4)] metabolite concentrations among manatees that died due to CSS, presumed healthy manatees that died acutely from watercraft collision injuries and live, apparently healthy wild manatees. Faecal T3 showed the strongest and most consistent association with health status, with CSS manatees exhibiting concentrations approximately three times higher than healthy animals. Elevated T3 concentrations may reflect increased thyroid hormone activity associated with thermoregulatory demands, nutritional stress or both. Faecal T4 was also elevated in CSS manatees, though this result was sensitive to the exclusion of calves and is complicated by strong cross-reactivity of the T4 assay with reverse T3 (rT3). Faecal cortisol concentrations were more strongly associated with size class than health status, with calves showing higher concentrations than adults regardless of group, potentially reflecting developmental and life-history factors including weaning and hypothalamic-pituitary-adrenal axis maturation. Faecal aldosterone showed an overall marginal effect of health status that was not maintained in pairwise comparisons or sensitivity analyses. Faecal hormone concentrations in manatees that died from acute watercraft injuries did not differ significantly from those of live, apparently healthy animals, providing some support for the interpretation that the differences in CSS manatees reflect ante-mortem physiological state rather than post-mortem sampling effects. Multivariate hormone profiles differed among health groups in the full dataset, though these patterns were strongly influenced by the disproportionate representation of immature animals in the CSS group. Together, these findings identify faecal T3 as a promising non-invasive indicator of CSS and improve understanding of endocrine responses to cold stress in manatees."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43023162/",
+   "doi": "https://doi.org/10.1093/conphys/coag083",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43024215",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Mnemonic Similarity Task Variants for Probing Age-Related Memory Impairments Across Species and Modalities",
+   "revista": "Methods Mol Biol",
+   "autores": "Ferguson LA, Chien CJ, Leal SL et al.",
+   "tipo_estudo": "",
+   "destaque": "The Mnemonic Similarity Task (MST) is a well-validated behavioral memory test for use in both humans and animal models that queries the ability to distinguish between highly similar but nonidentical stimuli (\"lures\") and repeated stimuli (\"targets\"), a process that is thought to rely upon a computational process known as pattern separation, which is supported by the hippocampus. Both increasing age as well as pathological and neurological hallmarks of Alzheimer's disease are associated with deficits in this task. Here, we describe the methods for implementing four versions of the MST: a behavioral version for use in humans, a version that can be implemented using functional magnetic resonance imaging, an emotional version of the task, and finally a version for use in rodents.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "The Mnemonic Similarity Task (MST) is a well-validated behavioral memory test for use in both humans and animal models that queries the ability to distinguish between highly similar but nonidentical stimuli (\"lures\") and repeated stimuli (\"targets\"), a process that is thought to rely upon a computational process known as pattern separation, which is supported by the hippocampus. Both increasing age as well as pathological and neurological hallmarks of Alzheimer's disease are associated with deficits in this task. Here, we describe the methods for implementing four versions of the MST: a behavioral version for use in humans, a version that can be implemented using functional magnetic resonance imaging, an emotional version of the task, and finally a version for use in rodents."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43024215/",
+   "doi": "https://doi.org/10.1007/978-1-0716-5703-4_19",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43024204",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Analyzing Spatial Learning Behavior and Cognitive Function in Aging Mice Using the Barnes Maze",
+   "revista": "Methods Mol Biol",
+   "autores": "Christensen A",
+   "tipo_estudo": "",
+   "destaque": "There is a wide variety of protocols used with variations of almost every step. A protocol is described here that has been adapted to the needs of aged mice.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Testing cognitive functions in aging rodents presents unique challenges. Aged mice may have deficits in senses and movement that require careful consideration. Further, the translatability of rodent behavior to the human condition is difficult to assess. However, deficits in spatial memory are seen in both rodents and humans with increasing age. Thus, tests of spatial memory could be reasonably argued to be the most translationally relevant. The Barnes maze was developed to test spatial learning and memory and can be evaluated in ways that are easily adaptable to many of the issues that affect older mice. There is a wide variety of protocols used with variations of almost every step. A protocol is described here that has been adapted to the needs of aged mice."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43024204/",
+   "doi": "https://doi.org/10.1007/978-1-0716-5703-4_8",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43023923",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Sensory neuron-immune cross talk tunes memory CD8+ T cell responses",
+   "revista": "J Exp Med",
+   "autores": "Zhang J, Pan TY, Kley AL et al.",
+   "tipo_estudo": "",
+   "destaque": "We further demonstrate that CGRP-Ramp1 signaling promotes Langerhans cell (LC) migration from the epidermis to draining LNs, thereby contributing to support antigen-specific CD8+ T cell responses and memory formation. Our findings reveal unexpected cross talk between sensory neurons, pain, LCs, and memory CD8+ T cells during VACV s.s. immunization, suggesting the potential to enhance CGRP-Ramp1 signaling for improving vaccine efficacy.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Neuroimmune communication shapes antiviral immunity. The effect of pain signaling on vaccine-induced adaptive immunity, however, remains largely unexplored. We found that vaccinia virus (VACV) immunization by skin scarification (s.s.) activates transient receptor vanilloid 1 (Trpv1)+ sensory neurons, induces pain-like behaviors in mice, and promotes the release of the neuropeptide calcitonin gene-related peptide (CGRP) in the skin. Moreover, in the absence of Trpv1+ neurons, the memory CD8+ T cell response is significantly blunted. We further demonstrate that CGRP-Ramp1 signaling promotes Langerhans cell (LC) migration from the epidermis to draining LNs, thereby contributing to support antigen-specific CD8+ T cell responses and memory formation. Our findings reveal unexpected cross talk between sensory neurons, pain, LCs, and memory CD8+ T cells during VACV s.s. immunization, suggesting the potential to enhance CGRP-Ramp1 signaling for improving vaccine efficacy."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43023923/",
+   "doi": "https://doi.org/10.1084/jem.20261215",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43024497",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Integrating Embodied Cognition Into Doctor of Physical Therapy Curriculum: A Case Report on Learning Spinal Tracts",
+   "revista": "J Phys Ther Educ",
+   "autores": "Dial M, Kneiss J",
+   "tipo_estudo": "",
+   "destaque": "Embodied cognition teaching methods were effective in improving learning outcomes for students learning spinal tracts neuroanatomy and pathophysiology. Future research should focus on comparing EC activities to other active learning strategies as well as using EC for developing critical thinking and patient care skills.",
+   "resumo": [
+    {
+     "rotulo": "Background And Purpose",
+     "texto": "Embodied cognition (EC) techniques immerse students in activities that require integrating motor and sensory perceptions with body movement and the environment. Experiences are then processed in the mind to create knowledge. This prospective case report describes the application of EC when teaching spinal tract pathways."
+    },
+    {
+     "rotulo": "Case Description",
+     "texto": "One cohort of first-year Doctor of Physical Therapy students who had previously been exposed to an EC activity was included. Pretesting and post-testing occurred during the EC activity, while retention questions assessed during the final exam were used to evaluate longer-term learning outcomes. In addition, pre- and post-test questions were categorized by difficulty using Bloom's Taxonomy and assessed for change in knowledge."
+    },
+    {
+     "rotulo": "Outcomes",
+     "texto": "Students showed significant improvement in spinal tract knowledge (χ2(2) = 21.951, P < .001), with final exam scores (M = 80.51%, SD = 19.98) significantly higher than both pretest (M = 57.57%, SD = 12.43) and post-test (M = 68.78%, SD = 16.25) scores. When comparing types of questions between the pre- and post-tests, Tier 1 (\"remember\") questions improved significantly (P < .001, d = 1.20), whereas Tier 2 (\"apply\") questions showed no significant change (P = .909)."
+    },
+    {
+     "rotulo": "Discussion And Conclusion",
+     "texto": "Embodied cognition teaching methods were effective in improving learning outcomes for students learning spinal tracts neuroanatomy and pathophysiology. Future research should focus on comparing EC activities to other active learning strategies as well as using EC for developing critical thinking and patient care skills."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43024497/",
+   "doi": "https://doi.org/10.1097/JTE.0000000000000455",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43022303",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Hypothesis on energy storage by membrane proton buffers: Connections to sleep and memory",
+   "revista": "Biochem Biophys Rep",
+   "autores": "Morelli AM",
+   "tipo_estudo": "Revisão",
+   "destaque": "Since memory depends on the accumulation and expenditure of brain energy, possible connections between energy buffers and memory are being considered. This study reevaluates the experiments of Russian scientists who, half a century ago, achieved a biphasic oxidative phosphorylation with intermediate proton accumulation by an artificial hydrophobic proton buffer embedded in the lipid phase.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Extramitochondrial ATP synthesis appears widespread thanks to the formation of mitochondrial-derived vesicles (MDVs) that export the mitochondrial molecular machinery of oxidative phosphorylation (OXPHOS) to cellular and extracellular membrane systems, where OXPHOS can occur in two phases: first, protons are charged into membrane proton buffers, and then, \"discharge\" occurs with the coupled synthesis of ATP. The capacitance of membrane proton buffers increases in the presence of abundant basic proteins (such as the myelin sheath, which contains nearly 30% myelin basic protein) allowing the first phase of OXPHOS to optimally charge the proton buffer, which then allows for an efficient discharge phase with the synthesis of large amounts of ATP. This provides an energy storage function that was not predicted by the chemiosmotic theory. Since memory depends on the accumulation and expenditure of brain energy, possible connections between energy buffers and memory are being considered. This study reevaluates the experiments of Russian scientists who, half a century ago, achieved a biphasic oxidative phosphorylation with intermediate proton accumulation by an artificial hydrophobic proton buffer embedded in the lipid phase."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43022303/",
+   "doi": "https://doi.org/10.1016/j.bbrep.2026.102857",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43022223",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Xanthohumol promotes cognitive function-associated neuroprotein changes in two mouse models of Alzheimer's disease",
+   "revista": "IBRO Neurosci Rep",
+   "autores": "Liu W, Xu B, Yang C et al.",
+   "tipo_estudo": "",
+   "destaque": "Moreover, Nine common signaling pathways mainly involved in energy metabolism, neurodegenerative disease, cardiovascular disease and cancer. So multi high-throughput proteomic analyses of hippocampus add to the scientific basis for development of effective drugs for AD, one candidate of which is Xn.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Alzheimer's disease (AD) is a neurodegenerative disorder that progressively impairs cognitive function for which there is no effective treatment. Natural dietary compounds such as xanthohumol (Xn) potentially offer a new therapeutic approach in AD. We aim to employ quantitative proteomic techniques to investigate the effects of Xn on cognitive impairment in two established murine models of AD. Treatment with 0.5 mg/kg Xn significantly improved the ability of stimulating learning and memory and cognitive function of 3 ×Tg AD mice while 5 mg/kg Xn ameliorated cognitive decline in APP/PS1 mice. We identified two common differential proteins and 12 pathways in the hippocampi of 3 ×Tg AD mice and 70 common differential proteins and 22 pathways in APP/PS1 mice. Moreover, Nine common signaling pathways mainly involved in energy metabolism, neurodegenerative disease, cardiovascular disease and cancer. So multi high-throughput proteomic analyses of hippocampus add to the scientific basis for development of effective drugs for AD, one candidate of which is Xn."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43022223/",
+   "doi": "https://doi.org/10.1016/j.ibneur.2026.10.013",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43022171",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Kochia scoparia fruit improves scopolamine-induced cognitive dysfunction in mice and attenuates glutamate-induced neurotoxicity in HT22 hippocampal cells",
+   "revista": "Food Sci Biotechnol",
+   "autores": "Oh YC, Jeong YH, Yang HJ et al.",
+   "tipo_estudo": "",
+   "destaque": "Furthermore, KFE suppressed glutamate-induced hippocampal cell death, lactate dehydrogenase release, and ROS production, demonstrating its efficacy in protecting neurons from oxidative damage. These findings suggest that KFE has cognitive function-improving and neuroprotective effects, and thus has potential value for the prevention and treatment of neurodegenerative diseases.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Kochia scoparia has been used as a food ingredient and herb in Korea. This study aimed to investigate the alleviating effects of Kochia scoparia fruit ethanol extract (KFE) on scopolamine-induced cognitive impairment and its protective effect on glutamate-induced neurotoxicity. The results showed that KFE improved spatial memory function and learning ability in mice, but showed only a slight improvement in working memory ability. Additionally, KFE was shown to suppressed the loss of normal neurons in the hippocampus and cortex. These effects are thought to be broadly associated with increased activation of ERK, CREB, and Akt and increased expression of BDNF in mouse hippocampal tissue. Furthermore, KFE suppressed glutamate-induced hippocampal cell death, lactate dehydrogenase release, and ROS production, demonstrating its efficacy in protecting neurons from oxidative damage. These findings suggest that KFE has cognitive function-improving and neuroprotective effects, and thus has potential value for the prevention and treatment of neurodegenerative diseases."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43022171/",
+   "doi": "https://doi.org/10.1007/s10068-026-02295-6",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43022875",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Sequential syntax of EEG microstates captures the temporal dynamics of inhibitory control",
+   "revista": "iScience",
+   "autores": "Cano-Garcia O, Guzmán-Díaz K, Rivera-Tello S et al.",
+   "tipo_estudo": "",
+   "destaque": "Multiple sequence alignment showed non-random temporal organization in all conditions (all z > 11.5 and p < 0.001). These results support sequence syntax as a framework for linking millisecond-scale brain dynamics to cognitive function.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Electroencephalogram (EEG) microstates are successive global brain states whose temporal organization may reflect cognitive dynamics that conventional summary statistics do not capture. We applied a sequence-based framework, combining conditional successor analysis with multiple sequence alignment adapted from genomics, to microstate sequences recorded during a Go/NoGo task in 30 healthy adults. Generalized estimating equations showed no condition-level differences in standard microstate metrics. Conditional successor analysis identified three motifs enriched in the NoGo-early window (100-500 ms): A-C-D (p FDR = 0.013), B-A-D (p FDR = 0.029), and E-A-D (p FDR = 0.040), all passing through microstate A and ending in microstate D, consistent with fronto-central engagement. Multiple sequence alignment showed non-random temporal organization in all conditions (all z > 11.5 and p < 0.001). These results support sequence syntax as a framework for linking millisecond-scale brain dynamics to cognitive function."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43022875/",
+   "doi": "https://doi.org/10.1016/j.isci.2026.118097",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43022207",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Exercise-conditioned serum drives mitochondrial remodeling in neurons",
+   "revista": "iScience",
+   "autores": "Csikos V, Lysaker CR, Hauger BM et al.",
+   "tipo_estudo": "",
+   "destaque": "These results demonstrate that circulating acute exercise factors promote mitophagy and mitochondrial turnover in neurons. This supports the broader concept that exercise could enhance brain mitochondrial function.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Regular exercise and fasting are can improve brain health. How these interventions affect mitochondrial quality control processes in neurons is unknown. We hypothesized that circulating factors induced by acute exercise could stimulate neuronal mitophagy and mitochondrial remodeling.We treated primary cortical mouse neurons with serum collected from mice following a single bout of exhaustive treadmill running or sedentary controls. To determine if one bout of exercise activates brain mitophagy in vivo, we mice underwent an acute fasting and treadmill paradigm followed by electron microscopy of the frontal cortex. Proteomics analysis revealed widespread changes in mitochondrial and autophagy-related proteins and upregulation of mitochondrial biogenesis, protein quality control, and redox signaling. Acute exercise in a fasted state increased mitophagy. These results demonstrate that circulating acute exercise factors promote mitophagy and mitochondrial turnover in neurons. This supports the broader concept that exercise could enhance brain mitochondrial function."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43022207/",
+   "doi": "https://doi.org/10.1016/j.isci.2026.118118",
+   "data": "2026-11-13T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "rss-https-www-sciencedaily-com-releases-2026-11-261110042553-htm",
+   "fonte": "ScienceDaily",
+   "tipo_fonte": "noticia",
+   "titulo": "AI-powered bionic eye breakthrough could help the blind see again",
+   "revista": "",
+   "autores": "",
+   "tipo_estudo": "",
+   "destaque": "Scientists have developed an AI-powered approach that makes experimental bionic vision technology more precise, helping predict the flashes and shapes of light perceived by a blind man with a brain implant. By learning how an individual's brain responds to electrical stimulation, the technology could bring researchers closer to restoring some degree of sight to people with blindness.",
+   "resumo": [],
+   "link": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm",
+   "doi": "",
+   "data": "2026-11-12T06:55:55-05:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
   },
   {
    "id": "pmid-43015368",
@@ -4262,6 +5082,41 @@
     "cognicao"
    ],
    "visto_em": "2026-11-10T10:48:42.790864+00:00"
+  },
+  {
+   "id": "pmid-43000631",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "One-Year Family- and Home-Based Intervention for Childhood Obesity: Changes in Eating Behaviors and Diet Quality Among All Family Members",
+   "revista": "Fam Community Health",
+   "autores": "Lemay J, Siroux J, Ramos I et al.",
+   "tipo_estudo": "",
+   "destaque": "This 1-year intervention improved overall diet quality and UE across and reduced zBMI in children with OW/OB. However, children responded differently: some reduced zBMI and CR, whereas others experienced an increase in CR and zBMI.",
+   "resumo": [
+    {
+     "rotulo": "Introduction",
+     "texto": "Obesity is a complex and multifactorial condition. For children living with overweight and obesity (OW/OB), family- and home-based intervention is a recommended approach to support weight management. We evaluated changes in eating behaviors and diet quality after a 1-year home-based intervention targeting families with at least 1 child living with OW/OB."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Eating behaviors (cognitive restriction [CR], emotional eating [EE], uncontrolled eating [UE]) were assessed using the DEBQ (caregivers) and the CTFEQ-r17 (children). Diet quality was measured using a brief questionnaire based on France's nutritional guidelines. Linear mixed models assessed intervention effects."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Among 142 families (n = 194 children [53% girls] with OW/OB, n = 223 caregivers [60% female]), overall diet quality improved ( P < .04), except male caregivers with OW/OB. Children showed reduction in UE ( P < .001) and caregivers in EE and UE ( P < .02). Reduced zBMI among children with OW/OB was associated with decreased CR, whereas an increased in zBMI was associated with increased CR ( r = 0.65; P = .04)."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "This 1-year intervention improved overall diet quality and UE across and reduced zBMI in children with OW/OB. However, children responded differently: some reduced zBMI and CR, whereas others experienced an increase in CR and zBMI."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43000631/",
+   "doi": "https://doi.org/10.1097/FCH.0000000000000470",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-14T10:36:06.033586+00:00"
   },
   {
    "id": "pmid-42996849",
