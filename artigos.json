@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-14T10:36:06.033586+00:00",
+ "atualizado_em": "2026-11-15T10:38:28.671158+00:00",
  "titulo": "Feed Científico Cabeça de Dona",
  "subtitulo": "Ciência nova, todo dia, sobre o que move a sua saúde",
  "temas": [
@@ -30,6 +30,440 @@
   }
  ],
  "artigos": [
+  {
+   "id": "pmid-43033542",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "TREM1 and TREM2 in musculoskeletal disorders: the TREM1-TREM2 axis, context-dependent functions, and therapeutic modulation",
+   "revista": "Int Immunopharmacol",
+   "autores": "Kalinkovich A, Livshits G",
+   "tipo_estudo": "Revisão",
+   "destaque": "This review examines TREM1 and TREM2 in osteoarthritis, rheumatoid arthritis, osteoporosis, and sarcopenia, with emphasis on their cellular functions, disease-specific effects, pharmacological modulators, and potential therapeutic interactions. We also discuss whether disease-, cell-, and stage-specific modulation, potentially coordinated over time or combined with specialized pro-resolving mediators (SPMs), could inform future therapeutic strategies.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "TREM1 and TREM2 are related innate immune receptors involved in inflammatory responses, myeloid-cell function, and tissue remodeling across musculoskeletal disorders (MSDs). Their effects are context dependent and may be considered within a functional TREM1-TREM2 axis. TREM1 primarily amplifies innate inflammatory signaling through DAP12-associated pathways, promoting cytokine and chemokine production, leukocyte activation, and tissue injury. TREM2 regulates phagocytosis, efferocytosis, lipid metabolism, cellular adaptation, and tissue remodeling, but is not uniformly protective: physiological TREM2-DAP12 signaling supports osteoclast differentiation and bone remodeling, whereas enhanced or dysregulated activity may promote osteoclastogenesis, pathological bone resorption, osteoarthritis progression, or abnormal new bone formation. Complete TREM2 deficiency can also disturb tissue and bone homeostasis. This review examines TREM1 and TREM2 in osteoarthritis, rheumatoid arthritis, osteoporosis, and sarcopenia, with emphasis on their cellular functions, disease-specific effects, pharmacological modulators, and potential therapeutic interactions. We also discuss whether disease-, cell-, and stage-specific modulation, potentially coordinated over time or combined with specialized pro-resolving mediators (SPMs), could inform future therapeutic strategies."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43033542/",
+   "doi": "https://doi.org/10.1016/j.intimp.2026.117675",
+   "data": "2026-11-15T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43033112",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Beyond BMI During Neoadjuvant Therapy: Nutritional Phenotyping and Targeted Dietetic Intervention in Locally Advanced Rectal Cancer",
+   "revista": "Nutr Cancer",
+   "autores": "Gosavi R, Carpenter B, Newell D et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "For dietitians, this supports a shift from one-off screening toward longitudinal assessment that integrates oral intake, symptom burden, body-composition risk, and treatment trajectory. Although intervention evidence remains heterogeneous, nutritional care during neoadjuvant therapy should be proactive, individualized, and embedded within modern rectal cancer pathways.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Locally advanced rectal cancer is increasingly managed through prolonged neoadjuvant pathways, including total neoadjuvant therapy and, in selected patients, non-operative organ-preservation strategies. Although these approaches have improved opportunities for tumor response and organ preservation, they also extend the period during which nutritional decline, altered bowel function, fatigue, and loss of physiological reserve may occur. Nutritional vulnerability during this interval is heterogeneous and may not be adequately captured by body weight or body mass index alone. This state-of-the-art narrative review examines nutritional phenotypes relevant to patients with locally advanced rectal cancer during neoadjuvant therapy. It first outlines why this interval should be regarded as a period of dynamic nutritional vulnerability. It then summarizes key phenotypes that may inform risk stratification and care, including overt malnutrition, sarcopenia, sarcopenic obesity, myosteatosis, and treatment-related decline. Finally, it proposes a practical framework for phenotype-based assessment and targeted dietetic intervention prior to restaging and definitive management. Current evidence suggests that adverse body-composition change during neoadjuvant therapy may be associated with poorer treatment tolerance, inferior tumor response, and worse oncological outcomes. For dietitians, this supports a shift from one-off screening toward longitudinal assessment that integrates oral intake, symptom burden, body-composition risk, and treatment trajectory. Although intervention evidence remains heterogeneous, nutritional care during neoadjuvant therapy should be proactive, individualized, and embedded within modern rectal cancer pathways."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43033112/",
+   "doi": "https://doi.org/10.1080/01635581.2026.2762544",
+   "data": "2026-11-15T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43032838",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Advances in HFpEF Research Based on Characteristics of Older Adults",
+   "revista": "Aging Med (Milton)",
+   "autores": "Li R, Hashim R",
+   "tipo_estudo": "Revisão",
+   "destaque": "Exercise-based cardiac rehabilitation and narrative lifestyle interventions are effective strategies for addressing these geriatric syndromes, and this review will address these issues. This article is a narrative review synthesizing current evidence on geriatric vulnerability phenotypes and rehabilitation-based interventions in older adults with HFpEF.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Heart failure with preserved ejection fraction (HFpEF) is the most common heart failure phenotype in older adults, associated with significant functional impairment and poor prognosis. Increasing evidence suggests that HFpEF should be considered a systemic, age-related syndrome, rather than an isolated cardiac disease. This review summarizes recent advances in the epidemiology, pathophysiology, and cellular mechanisms of HFpEF, with a particular focus on the frailty-sarcopenia-malnutrition triad. Age-related inflammation, mitochondrial dysfunction, and anabolism resistance interact with the hemodynamic abnormalities specific to HFpEF, leading to decreased exercise tolerance and functional decline. Frailty, muscle loss, and malnutrition often coexist in elderly patients with HFpEF and synergistically exacerbate clinical outcomes. Exercise-based cardiac rehabilitation and narrative lifestyle interventions are effective strategies for addressing these geriatric syndromes, and this review will address these issues. This article is a narrative review synthesizing current evidence on geriatric vulnerability phenotypes and rehabilitation-based interventions in older adults with HFpEF."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43032838/",
+   "doi": "https://doi.org/10.1002/agm2.70119",
+   "data": "2026-11-15T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43033301",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Tirzepatide and inflammation: a critical reappraisal of the immunometabolic case for incretin-based therapy",
+   "revista": "Rev Endocr Metab Disord",
+   "autores": "Jabbar AD",
+   "tipo_estudo": "Revisão",
+   "destaque": "Because the mechanistic evidence concerns GLP-1 receptor agonism almost entirely, the appraisal applies to incretin-based therapy as a class, tirzepatide being the worked example. Five falsifiable propositions are advanced with the experiments that would refute them.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Tirzepatide, a dual glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptor agonist, lowers high-sensitivity C-reactive protein (hsCRP) by 29-55% across randomised trials in obesity, heart failure with preserved ejection fraction and obstructive sleep apnoea, and interleukin-6 by 25-30% at 72 weeks. Much of this is not weight-mediated: in SURPASS-4 the fall in hsCRP correlated with that in body mass index at r = 0.07, and mediation analysis of trials of semaglutide, a selective GLP-1 receptor agonist, attributes only 21-62% of its hsCRP effect to change in glycated haemoglobin and/or weight. The mechanism, however, is not the one usually given: the account reproduced in most reviews, that incretin receptors on macrophages and T lymphocytes signal through cyclic AMP to restrain nuclear factor-κB, is not supported by the best-controlled data. The principal antibody used to detect the T-cell GLP-1 receptor gives signal in receptor-null cells; Glp1r is undetectable by quantitative PCR in peritoneal and adipose macrophages; and haematopoietic receptor deletion does not abolish semaglutide's anti-atherosclerotic effect. I therefore propose a three-route model, graded by evidence: limited direct signalling in a few validated lymphocyte populations, a central neuro-immune relay, and a large indirect metabolic contribution. That adipose macrophages are refractory to tirzepatide while Kupffer cells respond, and that C-reactive protein is hepatocyte-derived, suggest a substantially hepatic rather than adipose effect. Because the mechanistic evidence concerns GLP-1 receptor agonism almost entirely, the appraisal applies to incretin-based therapy as a class, tirzepatide being the worked example. Five falsifiable propositions are advanced with the experiments that would refute them."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43033301/",
+   "doi": "https://doi.org/10.1007/s11154-026-10101-1",
+   "data": "2026-11-15T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43033015",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Can Sleep Disturbance Mediate the Relationship Between Professional Quality of Life and Mental Health Among Nurses? A Mediation Model",
+   "revista": "Int Nurs Rev",
+   "autores": "Alelayan H",
+   "tipo_estudo": "",
+   "destaque": "The cumulative burden of professional quality of life is substantially associated with nurses' mental health. Sleep disturbance showed a significant indirect association between professional quality of life and mental health outcomes, underscoring the need to integrate sleep-focused interventions into programs designed to promote nurses' psychological resilience and well-being.",
+   "resumo": [
+    {
+     "rotulo": "Aim",
+     "texto": "To examine whether sleep disturbance mediates the relationship between professional quality of life and mental health among nurses."
+    },
+    {
+     "rotulo": "Background",
+     "texto": "Understanding the complex interplay among mental health, professional quality of life, and sleep disturbance is essential for developing strategies to enhance nurses' psychological well-being."
+    },
+    {
+     "rotulo": "Design",
+     "texto": "A cross-sectional, correlational study was conducted using a convenience sample."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "The sample consisted of 258 nurses working in Dubai hospitals, United Arab Emirates. Mental health, professional quality of life, and sleep disturbance were assessed using the Nurse's Workplace Mental Health Questionnaire, the Short Professional Quality of Life Scale, and the PROMIS Sleep Disturbance 8b Short Form, respectively."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Mental health was strongly and negatively correlated with burnout and compassion fatigue, and weakly to moderately and positively correlated with compassion satisfaction. Mediation analysis showed significant positive direct and indirect statistical associations between compassion satisfaction and mental health, with sleep disturbance as the proposed mediator. In contrast, burnout and compassion fatigue had negative direct and indirect effects on mental health through sleep disturbance. Sleep disturbance partially mediated the associations between professional quality of life dimensions and mental health among nurses."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "The cumulative burden of professional quality of life is substantially associated with nurses' mental health. Sleep disturbance showed a significant indirect association between professional quality of life and mental health outcomes, underscoring the need to integrate sleep-focused interventions into programs designed to promote nurses' psychological resilience and well-being."
+    },
+    {
+     "rotulo": "Implications For Nursing",
+     "texto": "Nurse leadership and ongoing evaluation of working conditions are essential to sustain healthy practice settings and improve outcomes for both nurses and patients."
+    },
+    {
+     "rotulo": "Implications For Health Policy",
+     "texto": "Healthcare organizations should foster supportive work environments that strengthen nurses' psychological resilience and well-being."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43033015/",
+   "doi": "https://doi.org/10.1111/inr.70264",
+   "data": "2026-11-15T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43032085",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Curricular Experiences Perceived to Support Resilience, Motivation, and Curiosity in First-Year Medical Students",
+   "revista": "Med Sci Educ",
+   "autores": "Janke RL, Harrell HE, Taylor JA et al.",
+   "tipo_estudo": "",
+   "destaque": "Findings align with SDT: experiences offering relatedness (patient/team contact), competence (feedback/visible progress), and autonomy (active roles/choice) were perceived as most supportive. Current classroom-centric elements showed limited impact. Strengthening experiential, hands-on components and integrating SDT-aligned features such as patient vignettes, formative practice, and structured feedback into classroom settings may enhance engagement and well-being without increasing curricular burden, though these represent single-timepoint perceptions rather than measured changes in resilience, motivation, or burnout.",
+   "resumo": [
+    {
+     "rotulo": "Introduction",
+     "texto": "Resilience, intrinsic motivation, and curiosity are critical for success in medicine and may buffer early burnout. Guided by Self-Determination Theory (SDT), which emphasizes autonomy, competence, and relatedness, this study examined which first-year curricular components students perceive as supporting these attributes."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "An end-of-year survey was administered to all first-year medical students at a U.S. medical school (N = 136; 112 responses, 82.4%). Students rated curricular components on their impact on resilience, intrinsic motivation, and curiosity using a - 2 to + 2 scale. Sum and mean scores were calculated, and one-sample Wilcoxon signed-rank tests versus 0 were performed with Benjamini-Hochberg false discovery rate (FDR) correction. An open-ended prompt captured qualitative reflections."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Experiential, clinical, and hands-on activities received the highest ratings across constructs. For resilience, clinically integrated courses and any specialty preceptorships had the highest ratings (means 1.49-1.57). Intrinsic motivation was rated highest by preceptorships, shadowing, and volunteering (1.47-1.63). Curiosity ratings were highest for preceptorships, shadowing, and anatomy lab (1.57-1.76). These top rated items remained significant after FDR (q < 0.001). Qualitative comments (n = 59; 53%) emphasized clinical relevance, identity formation, instructor passion, structure, low-stakes practice, peer community, and calibrated challenge."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Findings align with SDT: experiences offering relatedness (patient/team contact), competence (feedback/visible progress), and autonomy (active roles/choice) were perceived as most supportive. Current classroom-centric elements showed limited impact. Strengthening experiential, hands-on components and integrating SDT-aligned features such as patient vignettes, formative practice, and structured feedback into classroom settings may enhance engagement and well-being without increasing curricular burden, though these represent single-timepoint perceptions rather than measured changes in resilience, motivation, or burnout."
+    },
+    {
+     "rotulo": "Supplementary Information",
+     "texto": "The online version contains supplementary material available at https://doi.org/10.1007/s40670-026-02910-5."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43032085/",
+   "doi": "https://doi.org/10.1007/s40670-026-02910-5",
+   "data": "2026-11-15T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43033982",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Connecting pharmacist burnout, workforce challenges and rural pharmacy access: A PRISMA-ScR scoping review",
+   "revista": "J Am Pharm Assoc (2003)",
+   "autores": "Manne N, Coustasse A, Pile T et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Evidence documents substantial pharmacist burnout and distinct workforce and pharmacy access vulnerabilities, but direct studies linking workforce conditions, pharmacy service delivery, and patient access outcomes are limited. Longitudinal, multilevel investigations are needed, particularly in rural and socially vulnerable communities.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Pharmacist burnout and workforce instability are generally studied separately from pharmacy closures, pharmacy deserts, and rural pharmacy access disparities. Integrating these domains may clarify where pharmacy workforce conditions and access vulnerabilities intersect, particularly in underserved communities."
+    },
+    {
+     "rotulo": "Objectives",
+     "texto": "To map published and policy evidence on pharmacist burnout, workforce instability, pharmacy service capacity, pharmacy deserts, and medication access in rural and socially vulnerable U.S. communities."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "This scoping review followed established scoping review guidance and was reported using PRISMA-ScR. PubMed, Scopus, Embase, CINAHL, and Web of Science were searched for sources published January 1, 2010, through March 31, 2026, with an update in June 2026. Supplemental sources were identified through reference chaining and targeted government, professional, and rural health policy resources. Two reviewers screened and charted eligible sources. Findings were mapped narratively across pharmacy workforce, service capacity, geographic and functional access, rurality, and medication access domains."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Twenty-seven sources were included. Pharmacist burnout was substantial, with reported prevalence ranging from 51% to 75% across included sources. Workforce projections identified approximately 14,200 pharmacist and 49,000 pharmacy technician openings annually through 2034. Although 88.9% of U.S. residents lived within 5 miles of a pharmacy, pharmacy desert estimates ranged from 15.8 million to 57.1 million people under different definitions. Rural residents had less proximate access than urban residents (26.9% vs 67.4% within 1 mile). No included source assessed the entire workforce-to-access pathway in one empirical study."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Evidence documents substantial pharmacist burnout and distinct workforce and pharmacy access vulnerabilities, but direct studies linking workforce conditions, pharmacy service delivery, and patient access outcomes are limited. Longitudinal, multilevel investigations are needed, particularly in rural and socially vulnerable communities."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43033982/",
+   "doi": "https://doi.org/10.1016/j.japh.2026.103587",
+   "data": "2026-11-15T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43033337",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Longitudinal associations between perceived social support and maternal depression and anxiety across the perinatal period",
+   "revista": "Arch Womens Ment Health",
+   "autores": "Choudhary M, Donkin L, Kercher A",
+   "tipo_estudo": "",
+   "destaque": "Findings suggest that perceived social support, particularly from family, is an important protective factor for maternal mental health. Screening for social support and stress in perinatal care may strengthen early identification and guide family-centred interventions.",
+   "resumo": [
+    {
+     "rotulo": "Purpose",
+     "texto": "Despite robust international evidence that social support protects maternal mental health, the role of social support across the perinatal period remains poorly understood in Aotearoa New Zealand. This study aimed to examine how perceived social support relates to maternal depression and anxiety during the perinatal period, comparing partner, family, and friend support, and testing whether stress and sleep moderate these associations."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Participants were 121 pregnant women who completed monthly surveys over 12 months, including the Edinburgh Postnatal Depression Scale, Perinatal Anxiety Screening Scale, and Multidimensional Scale of Perceived Social Support, along with measures of stress and sleep. Linear mixed models tested longitudinal associations and moderation effects."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Higher perceived social support was consistently associated with lower depression and anxiety. Family support was the most reliable protective source. Stress predicted higher distress and moderated the effect of support on anxiety, with support being more protective under high stress. Sleep problems predicted greater distress but did not moderate support effects."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Findings suggest that perceived social support, particularly from family, is an important protective factor for maternal mental health. Screening for social support and stress in perinatal care may strengthen early identification and guide family-centred interventions."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43033337/",
+   "doi": "https://doi.org/10.1007/s00737-026-01785-0",
+   "data": "2026-11-15T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43033328",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Screening for rehabilitation needs in newly diagnosed breast cancer patients: exploring psychometric properties of the National Comprehensive Cancer Network® (NCCN®) Distress Thermometer and Problem List",
+   "revista": "J Patient Rep Outcomes",
+   "autores": "Velickovic K, Bendahl PO, Olsson Möller U et al.",
+   "tipo_estudo": "",
+   "destaque": "The Distress Thermometer and the Problem List have the potential to aid screening for newly diagnosed breast cancer patients with clinically significant impaired functioning. To ensure the responses accurately reflect the patient's life, these tools should be used alongside a clinical interview when assessing dysfunction. A cut-off score on the Distress Thermometer between 4 and 5 best balances false negatives and false positives relative to impaired emotional and social functioning. However, before it is implemented in clinical practice, further validation in external and large cohorts is needed. A qualitative evaluation of the instrument would contribute to its utility.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Identifying and managing distress in breast cancer patients is a crucial element of adequate rehabilitation. Immediately after diagnosis, a brief instrument such as the Distress Thermometer has the potential to aid early assessment of distress. Similarly, the accompanying Problem List can aid identification of sources of distress. The aim of this study was to determine cut-off scores of the Distress Thermometer indicating patients with clinically significant impaired functioning which is likely to reflect distress, to investigate its validity, and explore the measurement properties of the Problem List."
+    },
+    {
+     "rotulo": "Methodology",
+     "texto": "634 Swedish patients participating in the ReScreen​ intervention study [NCT03434717] were included. ROC curve analysis was performed to explore cut-off scores of the Distress Thermometer in relation to emotional, social, cognitive functioning, and global quality of life subscales of the QLQ-C30. The factor structure of the Problem List was assessed using Confirmatory Factor Analysis. Content validity of the Distress Thermometer was assessed in relation to resilience, assessed using the Connor-Davidson Resilience Scale. Convergent validity of the Problem List was investigated in relation to resilience and relevant QLQ-C30 subscales."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The Distress Thermometer had acceptable accuracy in identifying clinically significant impaired cognitive functioning and global quality of life and excellent relative to emotional and social functioning. A cut-off on the Distress Thermometer between 4 and 5 was found to best balance sensitivity and specificity relative to impaired emotional and social functioning. The Problem List had acceptable model fit. The Distress Thermometer had good content validity and the Problem List convergent validity."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "The Distress Thermometer and the Problem List have the potential to aid screening for newly diagnosed breast cancer patients with clinically significant impaired functioning. To ensure the responses accurately reflect the patient's life, these tools should be used alongside a clinical interview when assessing dysfunction. A cut-off score on the Distress Thermometer between 4 and 5 best balances false negatives and false positives relative to impaired emotional and social functioning. However, before it is implemented in clinical practice, further validation in external and large cohorts is needed. A qualitative evaluation of the instrument would contribute to its utility."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43033328/",
+   "doi": "https://doi.org/10.1186/s41687-026-01249-0",
+   "data": "2026-11-15T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43032756",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Experience with continuous glucose monitoring in reducing diabetes management burden for older Chinese Americans with cognitive impairment",
+   "revista": "Hum Factors Health",
+   "autores": "Chen E, Wu B, Lipton RB et al.",
+   "tipo_estudo": "",
+   "destaque": "Our findings indicate that CGM was feasible in easing management burden for older Chinese Americans with CI and T2D, while also enhancing care partner involvement and supporting clinicians in individualized treatment decisions.",
+   "resumo": [
+    {
+     "rotulo": "Objective",
+     "texto": "We aimed to study the experience of using continuous glucose monitoring (CGM) among older Chinese Americans with cognitive impairment (CI) and their care partners. We also explored physicians' perspectives on using CGM in older adults with cognitive decline."
+    },
+    {
+     "rotulo": "Background",
+     "texto": "CI can heighten the challenges of managing type 2 diabetes (T2D), particularly among older Chinese Americans due to the interplays of cultural, financial, and health-related burdens and older adults with cognitive decline that add additional challenges of diabetes management. The application of CGM in such populations remains understudied."
+    },
+    {
+     "rotulo": "Method",
+     "texto": "Older Chinese American adults with CI and T2D and their care partners were recruited from the New York City (NYC) community. Clinicians who had clinical experience of the application of CGM in individuals with diabetes and cognitive decline were recruited nationally. After brief education, patients used CGM for 10 days and shared the data with their care partners. In-depth interviews were conducted among older Chinese Americans with both T2D and CI (n = 11), care partners (n = 11), and clinicians (n = 8), transcribed, and then thematically analyzed using ATLAS.ti software."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Older Chinese Americans with both T2D and CI had a mean age of 74.5 ± 5.2 years, and 63.6% were women. They reported CGM helped them assess the influence of various foods on glucose levels in order to choose appropriate foods (n = 10) and portion sizes (n = 5), gain insight on the role and impact of exercise (n = 5), enhance care partner involvement (n = 5) and communication (n = 4), and promote a positive mindset by improving management confidence or disease understanding (n = 9) in diabetes self-management. Care partners echoed similar sentiments but added that the device enhanced diabetes management as it was more persuasive in motivating behavioral changes (n = 5), and increased care partner involvement by allowing them to check in more often (n = 6) and review data with the patient at anytime and anywhere (n = 4). Clinicians emphasized that CGM provided real-time, shareable continuous data, in contrast with occasional A1C results (n = 5), improving safety, supporting individualized treatment decisions (n = 5), highlighting the importance of strong care partner support systems (n = 8), and noting that newer models with automatic data transmission (Dexcom G6/G7) are especially valuable (n = 5)."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Our findings indicate that CGM was feasible in easing management burden for older Chinese Americans with CI and T2D, while also enhancing care partner involvement and supporting clinicians in individualized treatment decisions."
+    },
+    {
+     "rotulo": "Application",
+     "texto": "Potential applications of this research include the adaptation of the CGM in older Chinese Americans with CI and T2D to better accommodate their cultural needs in diabetes management."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43032756/",
+   "doi": "https://doi.org/10.1016/j.hfh.2026.100156",
+   "data": "2026-11-15T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43032557",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Neurofilament light chain as a potential mediator of the longitudinal association between depressive symptoms and cognitive aging",
+   "revista": "Brain Behav Immun Health",
+   "autores": "Ng TKS, Dennis KR, Beck T et al.",
+   "tipo_estudo": "",
+   "destaque": "These findings provide longitudinal evidence that depressive symptoms are associated with adverse cognitive outcomes, with indirect pathways through NfL accounting for part of these associations. These temporally ordered associations suggest that NfL may index a potential neurobiological pathway linking depressive symptoms with cognitive aging NfL may represent a biologically grounded marker for early risk detection and intervention in late-life depressive symptoms with implications for cognitive decline.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Depressive symptoms have long been associated with cognitive decline (CD) and Alzheimer's disease (AD), yet the biological processes connecting affective distress to later cognitive vulnerability remain poorly understood. Serum neurofilament light chain (NfL) is a circulating marker of neuroaxonal injury. We tested whether serum neurofilament light chain (NfL), a sensitive marker of neuroaxonal degeneration and an emerging biomarker in late-life depression, mediates the prospective association between depressive symptoms and subsequent adverse cognitive outcomes. We analyzed 921 Black and White community-dwelling older adults from the Chicago Health and Aging Project (CHAP; 1993-2012) with baseline depressive symptom scores (T1), serum NfL measured at the next wave (T2), and global cognition assessed across three waves (T1-T3; mean interval 6.34 years), with cognition at T3 serving as the primary outcome in the mediation analyses. A subsample of 445 participants had clinically adjudicated incident AD at T3 (79 AD cases). Mixed-effects models examined the association between baseline depressive symptoms and CD, followed by longitudinal mediation models using a temporally ordered T1→T2→T3 framework with 1000 simulations. Sensitivity analyses excluded baseline AD to assess model robustness. In mixed-effects models, higher baseline depressive symptoms were associated with accelerated CD in Models 1-2, with similar but nonsignificant associations after full adjustment (Model 3: β = -0.0041; p = 0.0581) and additional adjustment for NfL (Model 4: β = -0.0040; p = 0.0647). Mediation analyses identified significant indirect pathways through NfL linking depressive symptoms with poorer subsequent cognitive performance (indirect effect: -0.0046; 95% CI: -0.0089 to -0.0014; p = 0.004; 18.05% mediated) and accelerated CD (indirect effect: -0.0010; 95% CI: -0.0021 to -0.0002; p = 0.008; 10.49% mediated). Findings were robust to the exclusion of baseline AD. In the subsample with clinical AD diagnoses, NfL also mediated the prospective association between depressive symptoms and incident AD (indirect effect: 0.0033; 95% CI: 0.0000 to 0.0073; p = 0.046; 16.15% mediated), with attenuated significance in fully adjusted models consistent with the smaller sample and limited number of incident AD cases. These findings provide longitudinal evidence that depressive symptoms are associated with adverse cognitive outcomes, with indirect pathways through NfL accounting for part of these associations. These temporally ordered associations suggest that NfL may index a potential neurobiological pathway linking depressive symptoms with cognitive aging NfL may represent a biologically grounded marker for early risk detection and intervention in late-life depressive symptoms with implications for cognitive decline."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43032557/",
+   "doi": "https://doi.org/10.1016/j.bbih.2026.101398",
+   "data": "2026-11-15T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43032444",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Recent positive psychosocial experiences are linked to SARS-CoV-2 IgG immune memory in adults exposed to adverse childhood experiences",
+   "revista": "Brain Behav Immun Health",
+   "autores": "Ford BN, Teague TK, Simmons WK et al.",
+   "tipo_estudo": "",
+   "destaque": "In an exploratory mediation analysis, the estimated indirect effect through C-PACEs was not statistically supported (β = -0.07, 95% bootstrap CI [-0.167, 0.004], p = 0.113). These results suggest that SARS-CoV-2 IgG immune memory may be linked to protective experiences in adulthood, which are inversely correlated with childhood ACEs.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Adverse childhood experiences (ACEs) are associated with altered immune function in adulthood including elevated susceptibility to viral infection, chronic inflammation, and poorer COVID-19 disease outcomes. Meanwhile, protective experiences have been associated with better immune profiles, although few studies have examined this in the context of high ACEs. In a community-based sample of middle-aged (35-59y) adults with high average 10-item ACE scores (mean(SD) = 4.2(2.9)) and who self-reported at least one COVID-19 vaccine dose or one COVID-19 illness (N = 72), we tested whether early life ACEs and current protective and compensatory experiences (C-PACEs) in adulthood were associated with reduced anti-SARS-CoV-2 spike protein subunit 1 receptor binding domain (S1-RBD) IgG antibody levels. In covariate-adjusted analyses, higher childhood ACE scores were associated with lower levels of log2-transformed anti-S1-RBD IgG antibodies (β = -0.17 ± 0.06 per ACE event, p = 0.005). Analyses examining adult C-PACE scores documented an elevation in anti-S1-RBD IgG (β = 0.09 ± 0.03 per C-PACE point, p = 0.001). Follow-up analyses did not detect moderation of the effect of ACEs by C-PACEs (interactive term β = 0.17, p = 0.296). In an exploratory mediation analysis, the estimated indirect effect through C-PACEs was not statistically supported (β = -0.07, 95% bootstrap CI [-0.167, 0.004], p = 0.113). These results suggest that SARS-CoV-2 IgG immune memory may be linked to protective experiences in adulthood, which are inversely correlated with childhood ACEs."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43032444/",
+   "doi": "https://doi.org/10.1016/j.bbih.2026.101399",
+   "data": "2026-11-15T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "rss-https-www-sciencedaily-com-releases-2026-11-261114202130-htm",
+   "fonte": "ScienceDaily",
+   "tipo_fonte": "noticia",
+   "titulo": "Alzheimer’s may start shrinking two brain regions years before memory loss",
+   "revista": "",
+   "autores": "",
+   "tipo_estudo": "",
+   "destaque": "Johns Hopkins scientists have uncovered hidden warning signs of Alzheimer’s disease that may appear up to a decade before memory loss begins. Brain scans revealed that two regions involved in memory and emotion start shrinking before the hippocampus, the area doctors typically examine for signs of Alzheimer’s. These early changes are linked to abnormal tau protein buildup and could provide a powerful new way to identify people at risk.",
+   "resumo": [],
+   "link": "https://www.sciencedaily.com/releases/2026/11/261114202130.htm",
+   "doi": "",
+   "data": "2026-11-14T23:31:56-05:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "rss-https-www-sciencedaily-com-releases-2026-11-261112230450-htm",
+   "fonte": "ScienceDaily",
+   "tipo_fonte": "noticia",
+   "titulo": "A new fiber supplement could help millions suffering from irritable bowel syndrome",
+   "revista": "",
+   "autores": "",
+   "tipo_estudo": "",
+   "destaque": "Scientists have developed a promising new fiber supplement that improves gut health in people with irritable bowel syndrome (IBS) without worsening bloating, pain, or other digestive symptoms. The specially designed blend also improved gut-related anxiety and produced surprisingly rapid changes in gut bacteria, potentially offering a new way to manage IBS.",
+   "resumo": [],
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112230450.htm",
+   "doi": "",
+   "data": "2026-11-14T07:35:36-05:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "rss-https-www-sciencedaily-com-releases-2026-11-261112230444-htm",
+   "fonte": "ScienceDaily",
+   "tipo_fonte": "noticia",
+   "titulo": "Stanford scientists discover hidden brain signals that predict Alzheimer’s years before symptoms",
+   "revista": "",
+   "autores": "",
+   "tipo_estudo": "",
+   "destaque": "Stanford researchers have discovered that hidden patterns of brain activity can predict Alzheimer’s risk years before memory problems appear, potentially offering an earlier warning than traditional biomarkers. The same patterns also reveal which brains are unusually resistant to aging, raising hopes for future treatments that could help protect memory.",
+   "resumo": [],
+   "link": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm",
+   "doi": "",
+   "data": "2026-11-14T07:25:05-05:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
   {
    "id": "pmid-43025465",
    "fonte": "PubMed",
@@ -75,6 +509,474 @@
     "estresse"
    ],
    "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43028224",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Engineered Microorganisms as GLP-1-Oriented Living Therapeutics for Diabetes and Obesity: Mechanisms and Translational Challenges",
+   "revista": "Int J Mol Sci",
+   "autores": "Lee AA, Khotina VA, Klychkova OO et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Proteolysis, mucus interactions, restricted epithelial permeability, and receptor localization constrain access to intestinal and systemic targets. This review critically evaluates the preclinical evidence for GLP-1-oriented engineered microorganisms, with emphasis on intestinal target accessibility, local and systemic mechanisms, microbial chassis and genetic design, and the safety, manufacturing, and regulatory requirements for clinical translation.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are established treatments for obesity and type 2 diabetes mellitus, but gastrointestinal barriers constrain oral delivery of peptide therapeutics. Genetically engineered microorganisms have been investigated as intestinal sources of GLP-1-related therapeutic molecules. These platforms produce GLP-1 or GLP-1-derived peptides, express modified GLP-1RAs or fusion proteins, or release effectors that stimulate endogenous GLP-1 secretion. Preclinical studies have reported improvements in glycemic measures and, in some models, reductions in body weight or weight gain. However, recombinant product expression and treatment-associated effects are more consistently demonstrated than exposure to intact biologically active products in vivo, receptor or pathway dependence, and the contribution of the engineered construct relative to the microbial chassis. Proteolysis, mucus interactions, restricted epithelial permeability, and receptor localization constrain access to intestinal and systemic targets. This review critically evaluates the preclinical evidence for GLP-1-oriented engineered microorganisms, with emphasis on intestinal target accessibility, local and systemic mechanisms, microbial chassis and genetic design, and the safety, manufacturing, and regulatory requirements for clinical translation."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43028224/",
+   "doi": "https://doi.org/10.3390/ijms27219977",
+   "data": "2026-11-14T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43030314",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Bacillus megaterium 1259 Limits Hepatic Lipid Accumulation in Mice with Established Diet-Induced Obesity: Paired Hepatic Transcriptomic and Metabolomic Profiling",
+   "revista": "Nutrients",
+   "autores": "An Y, Yu J, Zhang X et al.",
+   "tipo_estudo": "",
+   "destaque": "BM1259 was associated with lower obesity-related and hepatic lipid burden during continued HFD exposure and warrants further investigation as a candidate microbial intervention.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Obesity promotes ectopic lipid deposition and hepatic steatosis, a central feature of metabolic dysfunction-associated steatotic liver disease. Because microbial effects are strain- and model-specific, whether Bacillus megaterium 1259 (BM1259) affects established diet-induced obesity remains unclear. We evaluated BM1259 during continued high-fat diet (HFD) exposure and examined accompanying hepatic changes."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Male C57BL/6J mice received an HFD for 12 weeks before assignment to HFD + PBS or HFD + BM1259 groups; normal-diet mice served as controls. BM1259 (1 × 1010 CFU/mouse/day) was administered by intragastric gavage for 8 weeks during continued HFD feeding. Phenotypic, biochemical, and histopathological assessments were combined with hepatic RNA sequencing, untargeted metabolomics, and paired multi-omics analysis."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Body weight was significantly lower in the HFD + BM1259 group at the intervention endpoint. BM1259 administration was also associated with lower body-weight-normalized iWAT and liver weights, a smaller mean iWAT adipocyte area, and lower hepatic triglyceride content and Oil Red O-positive area. Serum LDL-C, ALT, and fasting blood glucose were lower, whereas the reduction in ipGTT AUC did not reach statistical significance. Hepatic transcriptomic differences involved genes related to lipid uptake, synthesis, lipoprotein handling, and fatty-acyl processing. Metabolomic differences included features related to choline-glycerophospholipid, sphingolipid, steroid-related, and acylcarnitine metabolism. Exploratory paired analysis suggested possible associations between gene expression and metabolite abundance."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "BM1259 was associated with lower obesity-related and hepatic lipid burden during continued HFD exposure and warrants further investigation as a candidate microbial intervention."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43030314/",
+   "doi": "https://doi.org/10.3390/nu18213687",
+   "data": "2026-11-14T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43030310",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Beyond Weight Loss: A Body Composition-Guided Nutrition Framework for Functional Recovery in Heart Failure with Obesity",
+   "revista": "Nutrients",
+   "autores": "Angosta AD, Meraz R, Raymond S et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "The framework is conceptual and has not yet been validated. Future studies should examine whether nutrition and weight loss interventions can reduce excess fat, preserve muscle, and improve functional and patient-centered outcomes in patients with HF and obesity.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Heart failure (HF) and obesity commonly occur together and can worsen symptoms, physical function, and quality of life. Although weight loss may benefit selected patients with HF and obesity, body weight alone does not show whether patients are losing fat, muscle, fluid, or a combination of these. This narrative review summarizes selected evidence on nutrition therapy, weight loss, body composition, and functional outcomes in adults with HF, including studies of high-protein diets, nutritional supplements, calorie restriction, Mediterranean-style diets, and obesity pharmacotherapy. Across studies, body composition and functional outcomes have not been measured consistently, making it difficult to determine whether weight loss is associated with meaningful functional improvement. Building on this evidence and findings from the Pro-HEART trial, we propose a body composition-guided nutrition framework that considers changes in fat and lean mass alongside physical function and quality of life. The framework is conceptual and has not yet been validated. Future studies should examine whether nutrition and weight loss interventions can reduce excess fat, preserve muscle, and improve functional and patient-centered outcomes in patients with HF and obesity."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43030310/",
+   "doi": "https://doi.org/10.3390/nu18213683",
+   "data": "2026-11-14T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43030302",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Changes in Eating Behavior and Food Preferences After Semaglutide or Tirzepatide Initiation: A Prospective Observational Pilot Study",
+   "revista": "Nutrients",
+   "autores": "Camajani E, Frigerio F, Quattrini C et al.",
+   "tipo_estudo": "Estudo observacional",
+   "destaque": "Over 3 months, incretin-based treatment was accompanied by weight loss and changes in self-reported eating behavior. The observational design, absence of a control group, and unvalidated questionnaire limit interpretation. Larger controlled studies using validated measures are warranted.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "This pilot study evaluated changes in eating behavior, appetite, and dietary habits during semaglutide or tirzepatide treatment in adults with obesity."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "In this prospective observational study, 38 non-diabetic adults with obesity (mean age 56.1 ± 11.3 years; 73.7% female; BMI 32.7 ± 4.5 kg/m2) initiating semaglutide (n = 21) or tirzepatide (n = 17) were assessed at baseline and after 3 months. Clinical parameters and self-reported eating behaviors were evaluated using standardized measurements and a study-specific questionnaire."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Mean body weight decreased by 7.2 ± 4.9 kg (p < 0.001), and systolic blood pressure decreased by 6.1 ± 6.3 mm Hg (p < 0.001). Cravings for sweet and savory foods, difficulty resisting hunger between meals, and daily meal frequency decreased, whereas perceived meal-induced satiety increased (all p ≤ 0.005). A substantial reduction in meal portion size was reported by 84.2% of participants. Reported food-group consumption changed, but improved overall dietary quality was not established."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Over 3 months, incretin-based treatment was accompanied by weight loss and changes in self-reported eating behavior. The observational design, absence of a control group, and unvalidated questionnaire limit interpretation. Larger controlled studies using validated measures are warranted."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43030302/",
+   "doi": "https://doi.org/10.3390/nu18213675",
+   "data": "2026-11-14T00:00:00+00:00",
+   "temas": [
+    "obesidade",
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43030294",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Dietary Capsaicin Protects Against Obesity via a Microbiome-Dependent Mechanism Independent of Host TRPV1 Signalling",
+   "revista": "Nutrients",
+   "autores": "Sundoro UA, Wang J, Luo J et al.",
+   "tipo_estudo": "",
+   "destaque": "Conclusions: Although capsaicin is well-recognised as a modulator of host appetite and metabolism via canonical host receptor signalling, our strategic use of a host knockout has enabled us to unmask a nuanced microbiome-modulatory role of this chilli pepper ingredient: capsaicin tweaks the microbiome to potentially dial down host fat absorption and protect against high-fat diet-induced obesity. We also highlight a generalisable host knockout experimental framework for distinguishing microbiome-mediated pathways versus direct host receptor mechanisms.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Background/Objectives: Dietary compounds simultaneously act on host tissue and gut microbiota, complicating efforts to distinguish direct host-receptor mechanisms from microbiome-mediated effects. Using a common food ingredient as proof-of-principle, this study aims to disentangle capsaicin host receptor signalling from capsaicin-microbiome interactions to determine the role of the gut microbiome in capsaicin-mediated metabolic protection. Methods: We employed a high-fat diet (HFD)-induced obesity model with or without capsaicin supplementation in TRPV1 knockout mice to determine the role of the host receptor. We also depleted the gut microbiota with antibiotics to determine the role of the microbiome. Host metabolic phenotypes were monitored, and microbiome 16S rRNA sequencing and metabolomics were analysed and extended with functional prediction and machine learning algorithms, followed by functional validation in vivo. Results: Capsaicin supplementation significantly protected against HFD-induced obesity, even capsaicin receptor knockout hosts. Crucially, depletion of the microbiota abolished this metabolic protection, demonstrating the microbiome's obligatory role. While capsaicin supplementation did not alter hosts' cumulative food intake, dietary preferences, or energy expenditure, it induced significant shifts in gut microbial diversity and function and triggered extensive faecal metabolomic remodelling which indicate altered nutrient processing including dampened lipid absorption. Consistent with this finding, in vivo functional validation also reveals attenuated circulating lipid response following oral fat administration, and this effect of capsaicin is abrogated without the microbiome. Conclusions: Although capsaicin is well-recognised as a modulator of host appetite and metabolism via canonical host receptor signalling, our strategic use of a host knockout has enabled us to unmask a nuanced microbiome-modulatory role of this chilli pepper ingredient: capsaicin tweaks the microbiome to potentially dial down host fat absorption and protect against high-fat diet-induced obesity. We also highlight a generalisable host knockout experimental framework for distinguishing microbiome-mediated pathways versus direct host receptor mechanisms."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43030294/",
+   "doi": "https://doi.org/10.3390/nu18213667",
+   "data": "2026-11-14T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43030289",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "The ADIPO-CARE Plan: A Comprehensive Implementation Framework for the Diagnosis and Management of People Living with Obesity-Experts' Proposal",
+   "revista": "Nutrients",
+   "autores": "Surma S, Barylski M, Bhatt DL et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "The ADIPO-CARE Plan proposes a shift from an approach focused primarily on body weight to a model focused on phenotype, risks, complications, and long-term health benefits. This framework can facilitate the systematization of clinical decisions and the integration of nutritional therapy with other elements of modern, personalized obesity therapy.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Obesity is a chronic, recurrent, and heterogeneous disease whose effective treatment requires an approach that goes beyond assessment of body mass index and short-term weight loss. Contemporary management should integrate assessment of adipose tissue distribution and function, obesity phenotype, complications, and cardiometabolic risk with individualized nutritional, behavioral, pharmacological, and-if appropriate-surgical interventions. This paper presents the ADIPO-CARE Plan, a practical, structured model for the comprehensive assessment and long-term treatment of people living with obesity. The model comprises two interconnected stages. The ADIPO defines a comprehensive clinical assessment process: A-Assess adiposity, which includes assessing the degree and distribution of excess adipose tissue; D-Define obesity phenotype, which aims to identify the clinical phenotype of obesity; I-Identify complications, which includes detecting obesity-related diseases and complications; P-Profile cardiometabolic risk, which serves to determine global cardiometabolic risk and disease severity; and O-Overall treatment goals, defining individual, realistic therapeutic goals that go beyond weight loss. The second phase, CARE, organizes the treatment and long-term follow-up strategy: C-Comprehensive lifestyle intervention, with particular emphasis on nutritional therapy, physical activity, behavioral interventions, and lifestyle modifications; A-Anti-obesity pharmacotherapy, encompassing the rational use of pharmacotherapy as a complement to lifestyle interventions; R-Response-guided treatment optimization, involving systematic assessment of response and intensification or modification of therapy; and E-Evaluate long-term effectiveness, focusing on maintenance of effects, safety, adherence, relapse prevention, and long-term disease control. The ADIPO-CARE Plan proposes a shift from an approach focused primarily on body weight to a model focused on phenotype, risks, complications, and long-term health benefits. This framework can facilitate the systematization of clinical decisions and the integration of nutritional therapy with other elements of modern, personalized obesity therapy."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43030289/",
+   "doi": "https://doi.org/10.3390/nu18213662",
+   "data": "2026-11-14T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43031457",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Efficacy of Virtual Reality Exercises in Sarcopenic Patients After Liver Transplantation: A Randomized Controlled Clinical Study",
+   "revista": "Games Health J",
+   "autores": "Abdel-Aal NM, Kablawy MAE, Mostafa AA et al.",
+   "tipo_estudo": "",
+   "destaque": "Adding VR exercise to conventional rehabilitation was more beneficial than conventional rehabilitation alone in improving HGS, pinch-grip strength, quadriceps muscle strength, respiratory function, QoL, fatigue severity, and exercise capacity in sarcopenic patients after LT. Therefore, it may be considered a potentially useful adjunct to conventional rehabilitation in this population.",
+   "resumo": [
+    {
+     "rotulo": "Objective",
+     "texto": "To investigate whether adding virtual reality (VR) exercise to conventional rehabilitation improves handgrip and pinch-grip strength, quadriceps muscle strength, respiratory function, quality of life (QoL), fatigue, and exercise capacity in sarcopenic patients after liver transplantation (LT)."
+    },
+    {
+     "rotulo": "Design",
+     "texto": "A randomized clinical trial."
+    },
+    {
+     "rotulo": "Setting",
+     "texto": "Outpatient physical therapy clinics."
+    },
+    {
+     "rotulo": "Participants",
+     "texto": "Sixty patients suffering from sarcopenia after LT, aged 18-65 years, were randomly allocated to two equal groups."
+    },
+    {
+     "rotulo": "Intervention",
+     "texto": "The study group received VR exercise plus conventional physical therapy. The control group received conventional physical therapy only. Interventions were applied three times a week for 6 weeks."
+    },
+    {
+     "rotulo": "Outcome Measures",
+     "texto": "Handgrip strength (HGS), pinch-grip strength, quadriceps muscle strength, respiratory function, fatigue severity, QoL, and exercise capacity were measured at baseline and after 6 weeks of interventions."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Between-group differences were observed for HGS, pinch-grip strength, quadriceps muscle strength, respiratory function, fatigue severity, QoL, and exercise capacity after 6 weeks, favoring the study group (P < 0.001). Mean differences (95% confidence interval) between groups were 9.55 kg (6.66, 12.44) for hand grip; 4.39 kg (2.27, 6.51) for quadriceps muscle strength; 172.31 meter (93.43, 251.19) for 6-minute walk test; -1.54 (-2.17, -0.91) for fatigue severity; and 12.70 (6.14, 19.26) for physical function after 6 weeks."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Adding VR exercise to conventional rehabilitation was more beneficial than conventional rehabilitation alone in improving HGS, pinch-grip strength, quadriceps muscle strength, respiratory function, QoL, fatigue severity, and exercise capacity in sarcopenic patients after LT. Therefore, it may be considered a potentially useful adjunct to conventional rehabilitation in this population."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43031457/",
+   "doi": "https://doi.org/10.1177/2161783X261505984",
+   "data": "2026-11-14T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43026284",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Satellite cell attrition and skeletal muscle aging",
+   "revista": "Bone Res",
+   "autores": "Teng Y, Yao Y, Zuo Z et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Emerging interventions, such as nutritional strategies, exercise, pharmacological agents, cell therapy, and gene editing, offer promising avenues for restoring SC function and rejuvenating muscle regeneration. Future efforts should focus on integrated, personalized approaches to combat sarcopenia and improve healthspan.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Skeletal muscle aging involves the progressive decline in mass and function of muscle tissue, significantly impacting mobility and quality of life in older adults. Central to this process is the functional deterioration of SCs, the primary muscle stem cells responsible for regeneration. Aging impairs SC self-renewal, activation, proliferation, and differentiation through mechanisms including telomere attrition, mitochondrial dysfunction, epigenetic dysregulation, and aberrant signaling pathways such as Notch/Wnt and TGF-β. Additionally, the aged microenvironment-marked by chronic inflammation, oxidative stress, fibro-adipogenic infiltration, immune dysregulation, and vascular decline-further suppresses SC activity. Recent advances in multidisciplinary research, encompassing single-cell genomics, epigenetics, and bioengineering, have deepened our understanding of these mechanisms. Emerging interventions, such as nutritional strategies, exercise, pharmacological agents, cell therapy, and gene editing, offer promising avenues for restoring SC function and rejuvenating muscle regeneration. Future efforts should focus on integrated, personalized approaches to combat sarcopenia and improve healthspan."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43026284/",
+   "doi": "https://doi.org/10.1038/s41413-026-00596-4",
+   "data": "2026-11-14T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43028288",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Age-Related Alterations in Human Gut Microbiota and Intestinal Aging: Microbial Signatures, Disease Associations and Intervention Strategies",
+   "revista": "Int J Mol Sci",
+   "autores": "Li S, Chen M, Yang H et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Finally, we review microbiota-targeted interventions, including fecal microbiota transplantation, probiotics, prebiotics, and dietary modulation, and discuss their potential and limitations in promoting healthy aging. By integrating mechanistic evidence with findings from human observational cohorts and clinical intervention studies, this review provides a translational framework for understanding microbiota-mediated intestinal aging and highlights future directions for precision microbiota-based strategies to promote healthy aging.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Aging is accompanied by progressive alterations in gut homeostasis, characterized by gut microbiota dysbiosis, impaired intestinal barrier function, immune dysregulation, and chronic low-grade inflammation. Increasing evidence indicates that age-related gut microbial remodeling is closely associated with the development of multiple age-associated disorders, including frailty, sarcopenia, cardiovascular diseases, and neurodegenerative diseases. However, existing reviews have primarily focused on individual aspects of gut microbiota-mediated aging, whereas a systematic framework integrating gut microbial dysbiosis, intestinal aging, and the development of multiple age-related diseases through shared pathogenic mechanisms remains lacking. This review provides a comprehensive synthesis of age-related alterations in human gut microbiota, with particular emphasis on bacterial taxa consistently associated with healthy aging and age-related diseases. We further integrate current evidence to examine the associations between age-related microbial alterations and intestinal aging, with particular attention to microbial function, barrier integrity, and host immune responses. Finally, we review microbiota-targeted interventions, including fecal microbiota transplantation, probiotics, prebiotics, and dietary modulation, and discuss their potential and limitations in promoting healthy aging. By integrating mechanistic evidence with findings from human observational cohorts and clinical intervention studies, this review provides a translational framework for understanding microbiota-mediated intestinal aging and highlights future directions for precision microbiota-based strategies to promote healthy aging."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43028288/",
+   "doi": "https://doi.org/10.3390/ijms272110043",
+   "data": "2026-11-14T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43030785",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "A Multimodal Intervention Including Tirzepatide in Women with Lipedema and Excess Body Weight: A Pilot Case Series",
+   "revista": "J Clin Med",
+   "autores": "Kędzierska-Kapuza K, Samul-Jastrzębska J, Cygler M et al.",
+   "tipo_estudo": "",
+   "destaque": "Conclusions: This ambispective pilot case series provides preliminary, hypothesis-generating observations on a multimodal intervention that included tirzepatide in four of five women with lipedema and excess body weight. The observed changes cannot be attributed to tirzepatide or interpreted as a lipedema-specific effect because all participants received concurrent dietary, exercise, and supplementation interventions, and the participant who declined pharmacotherapy was not a comparator or control.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Background: Lipedema is a chronic adipose tissue disorder characterized by disproportionate lower-limb fat accumulation, pain, and resistance to conventional weight-loss strategies. Tirzepatide produces substantial weight loss, but evidence in lipedema is limited. Methods: This single-center ambispective pilot case series described a 22-25-week routine clinical course in 2025. During the first 8-9 weeks, all participants received only a low-carbohydrate Mediterranean diet and recommendations for aerobic and resistance exercise; no participant received tirzepatide during this phase. After completion of the 8-9-week non-pharmacological phase, four participants started tirzepatide (2.5-7.5 mg once weekly) and continued it for the remaining 14-16 weeks, whereas one participant declined pharmacotherapy. After approval by the Bioethics Committee (Resolution No. 12/2026, 4 February 2026), the 2025 data were analyzed retrospectively; participants gave verbal consent to further follow-up in March-April 2026 and were followed up prospectively, and all signed written consent for publication of their data and photographs in October 2026. Anthropometric, ultrasound, biochemical, pain, and quality-of-life outcomes were summarized descriptively for each case. Where available, changes are reported separately for the diet-and-exercise phase (T1-T2) and the tirzepatide phase (T2-T3). Results: Weight loss among the five completers ranged from 7.7 to 17.1 kg. Body fat percentage decreased in four of five participants, whereas skeletal muscle mass decreased numerically in all four tirzepatide-treated participants. Lower-limb circumferences and subcutaneous adipose tissue thickness generally decreased, although the magnitude and distribution of changes differed between participants. Fasting glucose and HOMA-IR decreased in most cases, whereas lipid changes were mixed. Patient-reported SF-36 scores (assessed only at T2 and T3) generally improved among the four participants receiving tirzepatide, particularly for bodily pain, while pressure pain threshold responses (T2 to T3) were heterogeneous. No adverse events, gastrointestinal symptoms, dose reductions, treatment interruptions, discontinuations, or serious adverse events were reported by the four tirzepatide-treated participants; the study was not designed to assess safety. Conclusions: This ambispective pilot case series provides preliminary, hypothesis-generating observations on a multimodal intervention that included tirzepatide in four of five women with lipedema and excess body weight. The observed changes cannot be attributed to tirzepatide or interpreted as a lipedema-specific effect because all participants received concurrent dietary, exercise, and supplementation interventions, and the participant who declined pharmacotherapy was not a comparator or control."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43030785/",
+   "doi": "https://doi.org/10.3390/jcm15218643",
+   "data": "2026-11-14T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43031451",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "General practitioners' experiences of treatment, sick leave, and collaboration in stress-related exhaustion: a qualitative study",
+   "revista": "Scand J Prim Health Care",
+   "autores": "Pokorny K, Beno A, Jonsdottir IH et al.",
+   "tipo_estudo": "",
+   "destaque": "The care of patients with stress-related exhaustion was characterized by continuity in the GP-patient relationship, but also by fragmented collaboration and challenges related to sickness certification. Clearer coordination, structured communication between professionals, and reduced administrative burden may support a more coherent care process.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Many patients seeking care for stress-related exhaustion require sick leave due to pronounced symptoms and functional impairment. In Sweden, Exhaustion Disorder (ED) is the primary diagnosis assigned to these individuals. General practitioners (GPs) often have overall responsibility for the care of patients with ED, and this study examines their experiences of managing these patients within the context of primary care."
+    },
+    {
+     "rotulo": "Method",
+     "texto": "A qualitative study using semi-structured interviews was conducted from May to November 2019 with a purposive sample of GPs, including specialists and residents (n = 16), from 15 different primary health care centres. The interviews were transcribed and analysed using qualitative content analysis."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The analysis resulted in three main categories: The clinical Encounter, The Sick Leave Process, and Referral and Collaboration. Participants described a sense of ambivalence regarding their role in treatment while at the same time highlighting the central role of the consultation and doctor-patient relationship. Sick leave was seen as both a therapeutic instrument and a source of administrative strain. Collaboration with other professionals was frequently described as inconsistent, and access to specialist psychiatric services was reported as limited."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "The care of patients with stress-related exhaustion was characterized by continuity in the GP-patient relationship, but also by fragmented collaboration and challenges related to sickness certification. Clearer coordination, structured communication between professionals, and reduced administrative burden may support a more coherent care process."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43031451/",
+   "doi": "https://doi.org/10.1080/02813432.2026.2759987",
+   "data": "2026-11-14T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43031392",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Recent stressful life events and youth self-regulation: Environmental risk or shared genetic liability?",
+   "revista": "J Res Adolesc",
+   "autores": "Liu Q, Ostner SG, Doane LD et al.",
+   "tipo_estudo": "",
+   "destaque": "Findings highlight the multidimensional etiology of adolescent self-regulation and suggest that SLEs-self-regulation associations partly reflect gene-environment correlation processes. Importantly, genetic overlap does not imply that stressful experiences themselves are genetically determined, but rather may reflect genetically influenced person-environment transactions involved in adolescents' exposure to, appraisal of, or responses to stressful experiences.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Adolescence is a period of heightened exposure to stressful life events (SLEs) and rapid maturation of self-regulation, yet the etiology of this association remains unclear. Using a longitudinal twin design, this study examined genetic and shared environmental contributions to recent SLEs at age 13 and four self-regulation domains at age 14 (activation control, attentional focusing, inhibitory control, impulsivity). Univariate models revealed etiologic heterogeneity: recent SLEs fit a shared and nonshared environmental (CE) model, activation control, attentional focusing, and impulsivity fit additive genetic and nonshared environmental (AE) models, and inhibitory control fit comparable AE and CE models. Bivariate models consistently indicated additive genetic overlap between recent SLEs and all four self-regulation domains. Findings highlight the multidimensional etiology of adolescent self-regulation and suggest that SLEs-self-regulation associations partly reflect gene-environment correlation processes. Importantly, genetic overlap does not imply that stressful experiences themselves are genetically determined, but rather may reflect genetically influenced person-environment transactions involved in adolescents' exposure to, appraisal of, or responses to stressful experiences."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43031392/",
+   "doi": "https://doi.org/10.1111/jora.70325",
+   "data": "2026-11-14T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43031296",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Getting under the skin and into the heart: Effects of parental tone of voice on adolescents' affective, behavioral, and physiological stress responses",
+   "revista": "J Res Adolesc",
+   "autores": "Vrijders B, Giletta M, Van Gucht T et al.",
+   "tipo_estudo": "",
+   "destaque": "No robust moderation effects of perceived parenting style were observed. These findings suggest that adolescents are sensitive to tone of voice, particularly in their affective responses and behavioral intentions, with some preliminary evidence for physiological responding.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "How parents speak (their tones of voice) may matter as much as what they say. Although the role of parental control, relative to autonomy support, has been extensively studied, far less attention has been paid to whether adolescents distinguish between controlling and autonomy-supportive tones of voice and whether such differences affect their affective, behavioral, and physiological stress responses. The present research employed an experimental, multimethod approach to address these gaps. A pilot study among Dutch-speaking adolescents in Belgium (N = 42, M age = 14.69 years; 85.7% boys) established perceptual differentiation between controlling and autonomy-supportive voices, with a controlling tone of voice causing higher self-reported stress and reduced satisfaction of basic needs for autonomy and relatedness. The main study, also conducted among Dutch-speaking adolescents in Belgium (N = 103, M age = 14.27 years; 54.4% boys) replicated and extended this pattern by showing that a controlling tone of voice elicited higher stress, lower autonomy and relatedness satisfaction, greater defiance, and increased resentment toward the speaker. Physiological findings were more tentative and limited to RMSSD (the root mean square of successive differences), a broad metric of heart rate variability (HRV), for which decreases from baseline to exposure to the controlling tone were observed. However, changes in RMSSD did not differ significantly between conditions. No robust moderation effects of perceived parenting style were observed. These findings suggest that adolescents are sensitive to tone of voice, particularly in their affective responses and behavioral intentions, with some preliminary evidence for physiological responding."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43031296/",
+   "doi": "https://doi.org/10.1111/jora.70322",
+   "data": "2026-11-14T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43031515",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "A scoping review on the effectiveness and components of workplace postvention interventions",
+   "revista": "Death Stud",
+   "autores": "Howells E, Anderson BE, Lamperd A et al.",
+   "tipo_estudo": "",
+   "destaque": "Longer-term responses encompassed memorialization and support around significant milestones. Cultural sensitivity and support for managers were deemed important throughout postvention.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Experiencing the suicide of a colleague or client in the workplace has profound impacts on workers' mental health, suicide risk, workplace productivity and burnout. Postvention support can help minimize these adverse outcomes, though no comprehensive map of evidence on workplace postvention activities and outcomes is available. This scoping review addresses this gap. Systematic literature searches were performed across six databases. 32 peer-reviewed articles and 28 non-peer-reviewed sources were included, spanning diverse settings. The review identified frequently described postvention components but highlighted an absence of effectiveness evidence. The review also identified complexities in postvention terminology and practice in workplaces but offered a typology for use in future research. Frequently reported immediate workplace postvention responses included carefully planned communications and adjustment of work duties. Short-term responses included practical and emotional support for staff. Longer-term responses encompassed memorialization and support around significant milestones. Cultural sensitivity and support for managers were deemed important throughout postvention."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43031515/",
+   "doi": "https://doi.org/10.1080/07481187.2026.2756548",
+   "data": "2026-11-14T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43026569",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "An exploratory evaluation of an online course on the second victim phenomenon: effects on knowledge, perceptions, beliefs, and transfer to clinical practice",
+   "revista": "BMC Med Educ",
+   "autores": "Bexten T, Kubitz JC, Bushuven S et al.",
+   "tipo_estudo": "",
+   "destaque": "These exploratory findings suggest that an asynchronous online course may contribute to knowledge gain and early stages of perceived learning transfer regarding the Second Victim Phenomenon. However, sustainable integration of second victim support concepts appears to depend not only on individual learning but also on organizational factors such as leadership engagement and workplace support.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "The Second Victim Phenomenon describes the psychological distress experienced by healthcare professionals following adverse patient events. Despite its high prevalence and implications for staff well-being, team functioning, and patient safety, awareness and structured educational approaches addressing SVP remain limited. Moreover, empirical evidence on whether educational interventions improve knowledge, influence attitudes, and enable the transfer of learning into clinical practice is still scarce."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We conducted an exploratory multidimensional longitudinal evaluation of a 90-minute asynchronous online course on the Second Victim Phenomenon. The course was distributed through the German Interdisciplinary Association for Intensive and Emergency Medicine (DIVI) Academy. Participants completed questionnaires at three time points: before the course (T1), immediately after completion (T2), and three weeks later (T3). The survey assessed baseline characteristics, attitudes toward SVP, and case-based knowledge using vignette items. Learning transfer was examined using a validated instrument measuring training design (learning field), workplace conditions (functional field), and short- and long-term transfer success. Descriptive statistics and paired comparisons were used to evaluate changes in knowledge, perceptions and beliefs."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Ninety-seven participants completed the baseline survey, with 49 completing the postcourse assessment and 47 completing the three-week follow-up. The participants had a median age of 39.0 years (IQR 30-48), and a median professional experience of 13.5 years (IQR 6.5-22). Knowledge scores were significantly higher following course participation (8-item score after exclusion of two items with negative item-rest correlations: from 5.59 to 6.33; p = 0.041). Perceptions and beliefs toward the relevance of SVP and the value of prevention programs were already high at baseline and showed only minor changes. Participants rated the course highly for its didactic design, transfer orientation, and motivation to apply the content. At follow-up, participants reported moderate levels of perceived transfer into clinical practice. However, perceived support from supervisors was comparatively low, suggesting that organizational conditions may limit sustained implementation."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "These exploratory findings suggest that an asynchronous online course may contribute to knowledge gain and early stages of perceived learning transfer regarding the Second Victim Phenomenon. However, sustainable integration of second victim support concepts appears to depend not only on individual learning but also on organizational factors such as leadership engagement and workplace support."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43026569/",
+   "doi": "https://doi.org/10.1186/s12909-026-10825-3",
+   "data": "2026-11-14T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43026411",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "\"Aguantarse, Sacar Adelante\": A Hermeneutic Phenomenological Account of Paternal Postpartum Distress among Mexican Fathers",
+   "revista": "Cult Med Psychiatry",
+   "autores": "Sable S",
+   "tipo_estudo": "",
+   "destaque": "Three themes were identified: the cultural shape of paternal distress in fathers' own vocabulary; the script of endurance and silence organized around aguantarse (to endure silently) and sacar adelante (to push forward for the family); and the invisibility of paternal distress within clinical, familial, and structural support systems. Findings indicate that paternal postpartum distress in Mexican contexts is produced and obscured by a culturally specific masculine script that constitutes a meaningful and addressable target for clinical and policy intervention.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Paternal perinatal distress is increasingly recognized as a clinical and family-systems concern, yet remains underexamined in Mexico and across Latin America. Situated within Mexican ethnopsychology and the study of cultural idioms of distress, this hermeneutic phenomenological study explored the lived experiences of three first-time Mexican fathers navigating emotional difficulty during the first 24 months following childbirth. Interviews were conducted in Spanish and analyzed through the hermeneutic circle, with attention to the cultural-moral frameworks within which fathers' narratives became sayable. Three themes were identified: the cultural shape of paternal distress in fathers' own vocabulary; the script of endurance and silence organized around aguantarse (to endure silently) and sacar adelante (to push forward for the family); and the invisibility of paternal distress within clinical, familial, and structural support systems. Findings indicate that paternal postpartum distress in Mexican contexts is produced and obscured by a culturally specific masculine script that constitutes a meaningful and addressable target for clinical and policy intervention."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43026411/",
+   "doi": "https://doi.org/10.1007/s11013-026-10028-x",
+   "data": "2026-11-14T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43031675",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Digital Multitasking and Self-Perceived Working Memory and Attention in First-Year Medical Students",
+   "revista": "Med Sci Educ",
+   "autores": "En LQ, Shanmugavel RS, Krishnasamy N et al.",
+   "tipo_estudo": "",
+   "destaque": "These findings highlight the complex and domain-specific nature of multitasking in educational contexts and suggest that subjective cognitive effects may diverge across cognitive domains. Future work incorporating objective performance-based measures is needed to clarify the educational and cognitive implications of digital multitasking in medical training.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Digital multitasking during academic activities is increasingly common in medical education, prompting concerns about its association with core cognitive functions such as working memory and sustained attention. This study examined the relationship between digital multitasking behaviors and self-perceived cognitive performance among first-year medical students. A cross-sectional, questionnaire-based survey was administered to Year 1 students at a private medical school in Malaysia (n = 64), assessing multitasking frequency and duration, types of digital activities, self-perceived working memory, sustained attention, mindful awareness, and attitudes toward multitasking. Descriptive statistics were used to characterize multitasking habits, while correlations and regression analyses evaluated associations with cognitive outcomes. Most students reported frequent multitasking during lectures and independent study, mainly involving social media use, instant messaging, and web browsing. Multitasking frequency demonstrated a statistically significant positive association with self-perceived working memory scores (r = 0.324, p = 0.009), explaining approximately 21% of the variance in regression analysis. In contrast, no significant association was observed between multitasking frequency and sustained attention (p = 0.384). Score distributions indicated substantial variability in perceived working memory across individuals, whereas sustained attention scores were more uniformly clustered. In summary, higher multitasking frequency was associated with higher self-perceived working memory but not sustained attention among first-year medical students. These findings highlight the complex and domain-specific nature of multitasking in educational contexts and suggest that subjective cognitive effects may diverge across cognitive domains. Future work incorporating objective performance-based measures is needed to clarify the educational and cognitive implications of digital multitasking in medical training."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43031675/",
+   "doi": "https://doi.org/10.1007/s40670-026-02850-0",
+   "data": "2026-11-14T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
   },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261111005911-htm",
@@ -4152,6 +5054,29 @@
     "cognicao"
    ],
    "visto_em": "2026-11-11T10:53:59.147733+00:00"
+  },
+  {
+   "id": "pmid-43008422",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Do parental questions and gestures support executive functions in toddlers born preterm and full-term?",
+   "revista": "J Exp Child Psychol",
+   "autores": "Yılmaz B, Göksun T",
+   "tipo_estudo": "",
+   "destaque": "When accompanied by gestures, both WH and pedagogical questions were associated with PT children's working memory and cognitive flexibility skills. These results highlight the importance of specific parental input as a function of children's neonatal status in the development of EFs.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "This study examined parental questions and gestures in the development of executive functions (EF) in preterm (PT) and full-term (FT) toddlers. Sixty-four Turkish-speaking parent-child dyads (32 girls, Mage = 26.1 months, SD = 1.33, 25 PT) were observed in free-play sessions. The form (i.e., WH, yes/no) and function (i.e., pedagogical, information-seeking, rhetorical) of parental questions and gestures accompanying them were coded. Children's working memory and cognitive flexibility skills were measured using Hide the Pots and Reverse Categorization (pre- and post-switch) tasks, respectively. Results showed that PT and FT children had similar EF skills. Parental WH questions were associated with PT children's working memory skills. Parental WH questions, not pedagogical ones, were related to children's cognitive flexibility skills, regardless of neonatal status. When accompanied by gestures, both WH and pedagogical questions were associated with PT children's working memory and cognitive flexibility skills. These results highlight the importance of specific parental input as a function of children's neonatal status in the development of EFs."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43008422/",
+   "doi": "https://doi.org/10.1016/j.jecp.2026.106698",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
   },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261108233103-htm",
@@ -9217,6 +10142,49 @@
     "cognicao"
    ],
    "visto_em": "2026-11-13T10:52:53.059537+00:00"
+  },
+  {
+   "id": "pmid-42981962",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Accuracy of parent and teacher reports of early math skills",
+   "revista": "J Exp Child Psychol",
+   "autores": "King YA, Zippert EL, Ellis A et al.",
+   "tipo_estudo": "",
+   "destaque": "Future research is needed to examine how the accuracy of parents and teachers reports influences early mathematics development, and how potentially improving caregiver accuracy might support children's mathematics learning.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "It is important for parents and teachers to understand preschooler's early mathematics skills to best provide appropriate mathematics support. Comparing parents' and teachers' accuracy in reporting children's mathematics skills may help to ensure developmentally appropriate early math support in home and classroom environments."
+    },
+    {
+     "rotulo": "Aim",
+     "texto": "The present study examined the accuracy of parents' and teachers' reports of preschoolers' early mathematics skills (i.e., counting, numeral identification, and quantitative and spatial word knowledge)."
+    },
+    {
+     "rotulo": "Sample",
+     "texto": "Participants included 117 children 3 to 5 years old (M = 4.27, SD = .63, 49.6 % female) and their parent and Head Start teacher."
+    },
+    {
+     "rotulo": "Method",
+     "texto": "Parents and teachers completed surveys reporting on each child's understanding of mathematics concepts via items from different mathematics measures. Children were directly assessed on their mathematics skills via the same or similar items."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Generally, parents' and teachers' reports were positively associated with direct assessments of children's mathematics skills. Parents' and teachers' reports of children's mathematical skills ranged from 47 % to 75 % accurate, and parents were more accurate than teachers in reporting children's quantitative word knowledge. The direction of inaccuracies (over-or underestimation) varied by mathematics skill type, such that caregivers tended to overestimate children's numeracy skills and underestimate their mathematical language knowledge."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Future research is needed to examine how the accuracy of parents and teachers reports influences early mathematics development, and how potentially improving caregiver accuracy might support children's mathematics learning."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42981962/",
+   "doi": "https://doi.org/10.1016/j.jecp.2026.106694",
+   "data": "2026-11-04T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-15T10:38:28.671158+00:00"
   },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261101010549-htm",
