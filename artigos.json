@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-15T10:38:28.671158+00:00",
+ "atualizado_em": "2026-11-16T11:13:33.551000+00:00",
  "titulo": "Feed Científico Cabeça de Dona",
  "subtitulo": "Ciência nova, todo dia, sobre o que move a sua saúde",
  "temas": [
@@ -30,6 +30,474 @@
   }
  ],
  "artigos": [
+  {
+   "id": "rss-https-www-sciencedaily-com-releases-2026-11-261116014842-htm",
+   "fonte": "ScienceDaily",
+   "tipo_fonte": "noticia",
+   "titulo": "New wearable ultrasound patch boosts REM sleep without drugs or surgery",
+   "revista": "",
+   "autores": "",
+   "tipo_estudo": "",
+   "destaque": "A revolutionary new wearable patch could help people get more restorative sleep without medication or surgery. Developed by University of Texas researchers, the device uses gentle ultrasound to stimulate deep brain regions, helping participants enter REM sleep 43 minutes faster and remain there 16 minutes longer on average. The technology also showed promising effects on stress regulation and brain circuits involved in emotion.",
+   "resumo": [],
+   "link": "https://www.sciencedaily.com/releases/2026/11/261116014842.htm",
+   "doi": "",
+   "data": "2026-11-16T05:22:15-05:00",
+   "temas": [
+    "cognicao",
+    "estresse"
+   ],
+   "visto_em": "2026-11-16T11:13:33.551000+00:00"
+  },
+  {
+   "id": "pmid-43035613",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "The Underrepresentation of African Immigrants in Lifestyle Interventions for Black Adults in the US: A Systematic Review",
+   "revista": "Curr Obes Rep",
+   "autores": "Bannor R, Idiong CI, Razak SA et al.",
+   "tipo_estudo": "Revisão sistemática",
+   "destaque": "Lifestyle interventions for Black adults did not generally assess whether participants were born outside the US or take it into account in culturally tailoring interventions. Future lifestyle interventions targeting Black adults should include participants' country of birth and examine whether Black immigrants' lifestyle habits and needs are adequately addressed.",
+   "resumo": [
+    {
+     "rotulo": "Introduction",
+     "texto": "The African immigrant population in the US is growing rapidly and is disproportionately affected by obesity. Their exposure to African cultures prior to migration heavily influences their diet and physical activity behaviors, underscoring the need for culturally tailored lifestyle interventions. Lifestyle interventions have been culturally tailored for Black adults in the US, but it is unclear whether theoretical frameworks and associated cultural tailoring are relevant to African immigrants. This systematic review examined the representation of African immigrants in lifestyle interventions that target Black adults in the US, the theoretical models underpinning these interventions, and the type of cultural tailoring that was performed."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We conducted our literature search in CINAHL Plus, Cochrane Library, Medline, PsycInfo, and PubMed from January 2013 to December 2025. We examined lifestyle intervention trials targeting Black/African American adults with weight loss as an outcome."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Our search resulted in 2,320 articles, of which 43 were eligible. Only one study explicitly indicated that African immigrants were included in their sample. Most articles (65.1%) indicated that their intervention was underpinned by theoretical model(s), and the most common model was social cognitive theory. The majority of articles (58.1%) described cultural tailoring of the intervention for Black adults."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Lifestyle interventions for Black adults did not generally assess whether participants were born outside the US or take it into account in culturally tailoring interventions. Future lifestyle interventions targeting Black adults should include participants' country of birth and examine whether Black immigrants' lifestyle habits and needs are adequately addressed."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43035613/",
+   "doi": "https://doi.org/10.1007/s13679-026-00775-8",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-16T11:13:33.551000+00:00"
+  },
+  {
+   "id": "pmid-43035836",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Disordered Eating Attitudes and Behaviors in Individuals With BMI > 27 kg/m2 Treated by Semaglutide: A 60-Week Randomized Placebo-Controlled Trial",
+   "revista": "Int J Eat Disord",
+   "autores": "Allison KC, Wadden TA, DeRouen K et al.",
+   "tipo_estudo": "",
+   "destaque": "Semaglutide also increased remission in those with binge eating. Disordered eating behaviors were rare but did occur, suggesting the need for periodic monitoring in at-risk individuals. clinicaltrials.gov number NCT05548647.",
+   "resumo": [
+    {
+     "rotulo": "Objective",
+     "texto": "To examine disordered eating attitudes and behaviors in individuals treated with semaglutide 2.4 mg or placebo for 60 weeks."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Individuals seeking obesity treatment (n = 120) randomized (3:2) to semaglutide or placebo, both with lifestyle intervention, were assessed at baseline and Weeks 20, 40, and 60. At each assessment, clinicians evaluated binge eating and eating disorder psychopathology (Eating Disorder Examination), and questionnaires measured loss of control (Loss of Control Over Eating Scale), drive for thinness [Eating Disorder Inventory (EDI)], body dissatisfaction (EDI and Body Satisfaction Scale), and mood (PHQ-9). Following multiple imputation, ANCOVAs compared the groups in change at each assessment, controlling for baseline."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Mean reductions from baseline in loss of control, global eating disorder pathology, weight and shape concern, drive for thinness, and body dissatisfaction were significantly greater with semaglutide compared to placebo at several timepoints. The groups did not differ significantly in binge frequency reductions. However, participants reporting baseline binge episodes (n = 31) and those who had full or subthreshold binge-eating disorder (n = 18) were more likely to achieve abstinence with semaglutide compared to placebo. Reliable deteriorations in eating psychopathology, new onset of binge eating, and compensatory behaviors were rare, and symptom emergence did not seem higher with semaglutide."
+    },
+    {
+     "rotulo": "Discussion",
+     "texto": "Semaglutide reduced eating disorder psychopathology and improved body image relative to placebo at 20 to 60 weeks of treatment for obesity management. Semaglutide also increased remission in those with binge eating. Disordered eating behaviors were rare but did occur, suggesting the need for periodic monitoring in at-risk individuals."
+    },
+    {
+     "rotulo": "Trial Registration",
+     "texto": "clinicaltrials.gov number NCT05548647."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43035836/",
+   "doi": "https://doi.org/10.1002/eat.70253",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-16T11:13:33.551000+00:00"
+  },
+  {
+   "id": "pmid-43036224",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Effectiveness of a Nutritional Supplement With Anti-Inflammatory Compounds and Olive Oil in Malnourished Patients",
+   "revista": "J Cachexia Sarcopenia Muscle",
+   "autores": "Vidal-Casariego A, Gómez JJL, Almeida JMG et al.",
+   "tipo_estudo": "",
+   "destaque": "In this post hoc analysis, the use of an ONS enriched with EPA, DHA and EVOO, combined with physical activity and dietary counselling, was associated with greater gains in muscle mass, lower-limb strength and quality of life in patients with inflammation-associated DRM, but also with higher short-term mortality. Because residual confounding cannot be excluded, these findings are hypothesis-generating; randomized controlled trials with prespecified safety outcomes are needed.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Disease-related malnutrition (DRM) with systemic inflammation is associated with poor clinical outcomes and muscle mass loss. This study in a real-world clinical practice examined whether an oral nutritional supplement (ONS) enriched with anti-inflammatory compounds-eicosapentaenoic acid (EPA), docosahexaenoic acid (DHA) and extra-virgin olive oil (EVOO)-was associated with improvements in nutritional status, muscle mass and functional performance in patients with inflammation-related DRM."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "In this 12-week prospective multicenter cohort study, adults diagnosed with DRM and elevated C-reactive protein (CRP > 3 mg/L) received either an anti-inflammatory ONS or standard ONS, both combined with dietary counselling and a structured physical activity programme. Outcomes included anthropometry, body composition (bioimpedance and ultrasound), muscle function, inflammatory markers and quality of life."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Of 266 participants (mean age 66.6 ± 12.9 years; 61.7% male), those receiving the anti-inflammatory ONS (n = 165) achieved significantly greater increases in fat-free mass (Δ +1.20 vs. -0.85 kg; p = 0.022), skeletal muscle index (Δ +0.12 vs. -0.21 kg/m2; p = 0.022) and rectus femoris circumference by ultrasound (Δ +0.43 vs. -0.13 cm; p = 0.042) compared with controls (n = 101). Functional improvements were also superior: Chair stand repetitions increased significantly (Δ +0.90 vs. +0.03 times; p = 0.025), with a trend toward reduced Timed Up and Go time. Quality of life improved significantly across physical and mental domains in the anti-inflammatory group (e.g."
+    },
+    {
+     "rotulo": ", Vas",
+     "texto": "Δ +11.1 vs. -10.8; p < 0.001). After adjustment for baseline values, age, sex, GLIM severity, CRP and primary diagnosis, differences remained significant for SMI (0.10 kg/m2; 95% CI, 0.01-0.19), fat-free mass, muscle circumference, chair stand and EQ VAS (12.85 points; 95% CI, 5.61-20.08), but not for handgrip strength. Twelve-week mortality was higher with the anti-inflammatory ONS (11.5% vs. 4.95%; adjusted OR, 3.35; 95% CI, 1.06-13.81)."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "In this post hoc analysis, the use of an ONS enriched with EPA, DHA and EVOO, combined with physical activity and dietary counselling, was associated with greater gains in muscle mass, lower-limb strength and quality of life in patients with inflammation-associated DRM, but also with higher short-term mortality. Because residual confounding cannot be excluded, these findings are hypothesis-generating; randomized controlled trials with prespecified safety outcomes are needed."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43036224/",
+   "doi": "https://doi.org/10.1002/jcsm.70417",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-16T11:13:33.551000+00:00"
+  },
+  {
+   "id": "pmid-43035891",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "ISarcoPRM-Defined Sarcopenia in Radiographic Axial Spondyloarthritis: Beyond Disease-Specific Clinical Factors",
+   "revista": "Am J Phys Med Rehabil",
+   "autores": "Başoluk BT, Bayram KB, Şengül İ et al.",
+   "tipo_estudo": "",
+   "destaque": "ISarcoPRM-defined sarcopenia was more frequent in men with r-axSpA than in age-matched male controls. Interpretation should consider the cross-sectional design, incomplete characterization of cumulative disease burden, and the potential influence of disease-related lower-extremity limitations and BMI adjustment within the ISarcoPRM algorithm.",
+   "resumo": [
+    {
+     "rotulo": "Objective",
+     "texto": "To determine the frequency of ISarcoPRM-defined sarcopenia in men with radiographic axial spondyloarthritis (r-axSpA) versus age-matched male controls and to assess associated disease-specific clinical characteristics."
+    },
+    {
+     "rotulo": "Design",
+     "texto": "In this single-center, cross-sectional study, 108 men with r-axSpA and 108 age-matched male controls were evaluated. ISarcoPRM-defined sarcopenia required reduced handgrip strength, prolonged Chair Stand Test (CST) time, or both, together with a low sonographic thigh adjustment ratio (sTAR). Conditional logistic regression assessed the association with r-axSpA; multivariable logistic regression examined associated factors within r-axSpA."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "ISarcoPRM-defined sarcopenia was significantly more frequent in men with r-axSpA than in controls (32.4% vs. 7.4%, P <0.001). The adjusted conditional model showed an association between r-axSpA and ISarcoPRM-defined sarcopenia, although imprecisely estimated (adjusted OR 16.4; 95% CI, 2.5-108.3; P=0.004). Within the r-axSpA group, older age and higher BMI were independently associated with ISarcoPRM-defined sarcopenia, whereas BASMI-lin and ASAS-HI were not independently associated in the adjusted model."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "ISarcoPRM-defined sarcopenia was more frequent in men with r-axSpA than in age-matched male controls. Interpretation should consider the cross-sectional design, incomplete characterization of cumulative disease burden, and the potential influence of disease-related lower-extremity limitations and BMI adjustment within the ISarcoPRM algorithm."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43035891/",
+   "doi": "https://doi.org/10.1097/PHM.0000000000003201",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-16T11:13:33.551000+00:00"
+  },
+  {
+   "id": "pmid-43036522",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Mediation Analysis of Inflammatory Biomarkers in the Association Between Metabolic Dysfunction-Associated Steatotic Liver Disease and Sarcopenia Among US Adults With Type 2 Diabetes or Prediabetes",
+   "revista": "Int J Endocrinol",
+   "autores": "Long L, Shu Z, Wang W et al.",
+   "tipo_estudo": "",
+   "destaque": "MASLD was significantly associated with sarcopenia among individuals with T2DM or prediabetes. Mediation analyses suggested a potential involvement of inflammatory biomarkers in this association.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is strongly linked to metabolic disorders, including insulin resistance and obesity, yet its association with sarcopenia, particularly in individuals with type 2 diabetes (T2DM) or prediabetes, remains poorly characterized. This study examined the association between MASLD and sarcopenia in U.S. adults with T2DM or prediabetes and investigated the potential mediating role of inflammatory biomarkers."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Data were obtained from the National Health and Nutrition Examination Survey (NHANES) 1999-2006 and 2011-2018 cycles. Multivariable logistic regression and restricted cubic spline analyses were conducted to investigate the association between US FLI and sarcopenia, while mediation analysis was performed to explore the potential mediating role of inflammatory biomarkers in this association."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Among the 2093 patients (weighted 9,501,956) with T2DM or prediabetes, 452 (17.10%) had sarcopenia. MASLD remained significantly associated with sarcopenia (OR = 2.12; 95% CI: 1.56-2.86) after fully adjusting for potential confounders. Restricted cubic spline analysis showed no evidence of a nonlinear association between US FLI and sarcopenia (p for nonlinearity = 0.81). Mediation analyses yielded estimated mediation proportions of 10.35%, 9.14%, 8.98%, 6.47%, 4.28%, and 2.54% for the red cell distribution width-to-albumin ratio, white blood cell count, serum albumin, neutrophil percentage-to-albumin ratio, red blood cell distribution width, and systemic inflammation response index, respectively, in the association between MASLD and sarcopenia."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "MASLD was significantly associated with sarcopenia among individuals with T2DM or prediabetes. Mediation analyses suggested a potential involvement of inflammatory biomarkers in this association."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43036522/",
+   "doi": "https://doi.org/10.1155/ije/3157645",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-16T11:13:33.551000+00:00"
+  },
+  {
+   "id": "pmid-43036637",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Assessment of Respiratory Sarcopenia Using Diaphragmatic Ultrasound in Elderly Patients with Colorectal Cancer",
+   "revista": "Clin Interv Aging",
+   "autores": "Liu Y, Ai X, Wang Y et al.",
+   "tipo_estudo": "",
+   "destaque": "Preoperative diaphragmatic ultrasound parameters were associated with RS in elderly patients with CRC. These findings suggest that the combined Df-DTdi model yields discriminative ability for RS in this cohort and may have potential utility in preoperative risk assessment. Prospective multicenter studies are needed for validation.",
+   "resumo": [
+    {
+     "rotulo": "Purpose",
+     "texto": "Respiratory sarcopenia (RS) is a recognized comorbidity in elderly patients with colorectal cancer (CRC). This study evaluated the associations between preoperative diaphragmatic ultrasound parameters and RS in elderly patients with CRC."
+    },
+    {
+     "rotulo": "Patients And Methods",
+     "texto": "This retrospective analysis of prospectively collected data included patients aged ≥ 60 years with stage I-III CRC who underwent laparoscopic surgery between February 2023 and February 2024. All underwent preoperative pulmonary function testing, computed tomography, and diaphragmatic ultrasound. Sarcopenia was defined as low muscle strength (reduced handgrip strength) and low skeletal muscle mass (the skeletal muscle index at the third lumbar vertebra level, L3 SMI). RS was operationally defined in patients with sarcopenia by the additional presence of low peak expiratory flow rate (PEFR)."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Among 210 patients (58.1% men; median age, 69 years [IQR, 66-73]), 104 (49.5%) had no sarcopenia (NS), 42 (20.0%) had sarcopenia with preserved PEFR (SPP), and 64 (30.5%) had RS. Postoperative pulmonary complications, hospital stay, and 2-year disease-free survival worsened across the three groups (all P for trend ≤ 0.002). After adjustment for age, cancer site, and stage, diaphragm thickness at the end of deep inspiration (DTdi; OR, 0.953; 95% CI, 0.905-0.997) and diaphragm excursion during forced breathing (Df; OR, 0.941; 95% CI, 0.905-0.976) were independently associated with RS. Restricted cubic splines revealed nonlinear associations of Df, DTdi, and age with RS. The combined Df-DTdi model showed discriminative ability for RS, with an AUC of 0.811 (95% CI, 0.728-0.894) in males and 0.824 (95% CI, 0.719-0.928) in females, compared with either parameter alone."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Preoperative diaphragmatic ultrasound parameters were associated with RS in elderly patients with CRC. These findings suggest that the combined Df-DTdi model yields discriminative ability for RS in this cohort and may have potential utility in preoperative risk assessment. Prospective multicenter studies are needed for validation."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43036637/",
+   "doi": "https://doi.org/10.2147/CIA.S650967",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-16T11:13:33.551000+00:00"
+  },
+  {
+   "id": "pmid-43035096",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Tirzepatide in Adolescents With Obesity: The SURMOUNT-ADOLESCENTS Randomized Clinical Trial",
+   "revista": "JAMA",
+   "autores": "Kelly AS, Pamidipati KC, Rachmiel M et al.",
+   "tipo_estudo": "",
+   "destaque": "In adolescents with obesity or overweight with obesity-related complications, tirzepatide, in addition to healthy lifestyle intervention, led to significant reductions in percent change in BMI compared with placebo at 72 weeks.",
+   "resumo": [
+    {
+     "rotulo": "Importance",
+     "texto": "Information on the effects of tirzepatide, a once-weekly glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptor agonist approved for obesity management in adults with obesity, remains limited in adolescents."
+    },
+    {
+     "rotulo": "Objective",
+     "texto": "To evaluate the efficacy and safety of once-weekly tirzepatide in adolescents with obesity or overweight with at least 1 obesity-related complication."
+    },
+    {
+     "rotulo": "Design, Setting, And Participants",
+     "texto": "This phase 3, randomized, double-blind, 72-week clinical trial was conducted at 31 medical research centers and hospitals in Canada, the Czech Republic, Israel, Italy, Poland, and the US from October 16, 2023, to June 2, 2026, among adolescents aged 12 years to younger than 18 years with obesity or overweight with at least 1 obesity-related complication."
+    },
+    {
+     "rotulo": "Interventions",
+     "texto": "Participants were randomized 2:1 to receive once-weekly subcutaneous tirzepatide, escalated to a maximum tolerated dose (5, 10, or 15 mg), or placebo for 72 weeks, in addition to healthy lifestyle intervention."
+    },
+    {
+     "rotulo": "Main Outcomes And Measures",
+     "texto": "The primary end point was percent change in body mass index (BMI; calculated as weight in kilograms divided by height in meters squared) from baseline to week 72. Key secondary end points included percentages of participants achieving BMI reductions of at least 5%, at least 10%, at least 15%, and at least 20%; changes in BMI SD score; BMI expressed as a percentage of the 95th percentile; and body weight, waist circumference, and physical functioning from baseline to week 72. Safety outcomes included treatment-emergent adverse events, serious adverse events, and discontinuations due to adverse events."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "A total of 160 participants were randomized to receive tirzepatide (n = 109) or placebo (n = 51). Mean (SD) age at baseline was 14.6 (1.6) years, 99 participants (61.9%) were female, mean body weight was 109.7 kg, and mean BMI was 38.6. At week 72, tirzepatide was associated with 18.5% reduction in BMI, compared with 0.5% increase in BMI with placebo, demonstrating superiority over placebo (estimated treatment difference, -19.0 [95% CI, -23.9 to -14.1] percentage points; P < .001). Of 10 key secondary outcomes, all demonstrated statistically significant differences favoring tirzepatide compared with placebo. Overall, 79.6% of tirzepatide-treated participants achieved BMI reduction of at least 5% compared with 28.5% of participants in the placebo group (risk difference, 51.2 [95% CI, 36.3-66.1] percentage points; P < .001). The most common adverse events with tirzepatide treatment were gastrointestinal (mostly mild to moderate)."
+    },
+    {
+     "rotulo": "Conclusions And Relevance",
+     "texto": "In adolescents with obesity or overweight with obesity-related complications, tirzepatide, in addition to healthy lifestyle intervention, led to significant reductions in percent change in BMI compared with placebo at 72 weeks."
+    },
+    {
+     "rotulo": "Trial Registration",
+     "texto": "ClinicalTrials.gov Identifier: NCT06075667."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43035096/",
+   "doi": "https://doi.org/10.1001/jama.2026.23420",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-16T11:13:33.551000+00:00"
+  },
+  {
+   "id": "pmid-43036571",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Visceral and Ectopic Fat Remodeling with Incretin-Based Therapies in Type 2 Diabetes: Human Imaging Evidence",
+   "revista": "J Multidiscip Healthc",
+   "autores": "Zhang Q, Liu Y, Zhang T",
+   "tipo_estudo": "Revisão",
+   "destaque": "Imaging can connect these responses to the organ phenotype of interest: hepatic disease activity, cardiac structure or muscle composition. The next step is to test whether repeated depot measurements improve prediction of functional and clinical outcomes beyond routine weight and metabolic assessment.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Incretin-based therapies change the distribution of adipose tissue and ectopic lipid during weight loss. This narrative review examines human imaging evidence across abdominal, hepatic, pancreatic, cardiac and skeletal-muscle fat during treatment with selective glucagon-like peptide-1 (GLP-1) receptor agonists and dual- and triple-receptor agonists. Adults with type 2 diabetes are the primary population; findings from mixed diabetes populations and obesity-related disorders are identified separately. The central question is how depot responses relate to overall weight loss and organ outcomes. Hepatic fat has the most mature evidence, and visceral-fat reduction is supported across multiple studies. Tirzepatide provides the most extensive linked multi-depot imaging dataset, while recent survodutide findings extend GLP-1/glucagon imaging evidence to abdominal fat in obesity without diabetes. Cardiac and skeletal-muscle studies extend assessment to tissue composition and ventricular remodeling; pancreatic, renal sinus and other perivascular responses remain exploratory. Imaging modality, anatomical coverage, segmentation and endpoint definition vary across studies, and receptor comparisons are uneven in their populations, comparators and depots assessed. Remodeling is predominantly weight-associated, with selected studies identifying disproportionate hepatic or visceral responses. Imaging can connect these responses to the organ phenotype of interest: hepatic disease activity, cardiac structure or muscle composition. The next step is to test whether repeated depot measurements improve prediction of functional and clinical outcomes beyond routine weight and metabolic assessment."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43036571/",
+   "doi": "https://doi.org/10.2147/JMDH.S644860",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-16T11:13:33.551000+00:00"
+  },
+  {
+   "id": "pmid-43035110",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "How Discrimination Shapes Care-Seeking for Black Caregivers of Children With Medical Complexity",
+   "revista": "Pediatrics",
+   "autores": "Nmoh A, Fish LJ, Rodriguez J et al.",
+   "tipo_estudo": "",
+   "destaque": "Perceived racism and discrimination shaped how Black caregivers of CMC communicated with clinicians and navigated health care, underscoring the need for health care systems and clinicians to foster trusting partnerships, address structural inequities, and provide equitable, family-centered care.",
+   "resumo": [
+    {
+     "rotulo": "Objectives",
+     "texto": "Black children with medical complexity (CMC) experience a disproportionately high number of hospitalizations and emergency department (ED) visits. This disparity may reflect systemic and interpersonal racism and discrimination. Understanding Black caregivers' experiences is essential to designing programs that reduce acute care use. This study described caregivers' experiences of racism and discrimination and explored how these experiences influence care-seeking and communication among Black caregivers of CMC."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "In partnership with family advocacy organizations, we recruited Black caregivers of CMC via national advocacy groups, social media, and electronic health record messaging. Eligible caregivers had a child aged 0 to 21 years with a hospitalization or ED visit in the previous year and a score of 3 or more on the Children with Special Health Care Needs screener. Purposive sampling ensured that one-third of participants were from rural areas. Semistructured interviews, guided by Critical Race Theory, were recorded, transcribed, and analyzed thematically."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Thirty-one caregivers completed interviews. Caregivers described discrimination in health care based on race and other characteristics. Five themes emerged in caregivers' experiences of racism: dismissal, stereotyping, fear of retaliation, dehumanization, and differential access to resources. These experiences contributed to distrust, caregiver burnout, and perceived negative health outcomes. Caregivers' responses to discrimination included withholding concerns, advocating, documenting, selecting specific clinicians, managing perceptions, and staying informed."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Perceived racism and discrimination shaped how Black caregivers of CMC communicated with clinicians and navigated health care, underscoring the need for health care systems and clinicians to foster trusting partnerships, address structural inequities, and provide equitable, family-centered care."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43035110/",
+   "doi": "https://doi.org/10.1542/peds.2026-077079",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-16T11:13:33.551000+00:00"
+  },
+  {
+   "id": "pmid-43035973",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Profiles of emotion regulation difficulties in the transition to menopause: a latent profile analysis",
+   "revista": "Psychol Health Med",
+   "autores": "Brandão T",
+   "tipo_estudo": "",
+   "destaque": "These findings provide initial person-centered evidence of ER heterogeneity in the menopausal transition. The Emotional Clarity Deficit profile, which was statistically associated with attachment avoidance, represents a configuration not captured by severity-based approaches; however, its clinical significance and stability remain to be established through replication in independent samples and longitudinal research.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "The menopausal transition is associated with heightened psychological vulnerability, yet individual differences in emotion regulation (ER) during this period remain poorly understood. This study applied latent profile analysis to identify distinct ER difficulty profiles in women during menopause transition and examined attachment anxiety and avoidance as predictors of profile membership. A sample of 455 women aged 40-60 years at different stages of the menopausal transition (late reproductive, perimenopausal, and postmenopausal) participated in this cross-sectional study. Four profiles were identified: High ER Difficulties (11.2%), Moderate ER Difficulties (48.1%), Emotional Clarity Deficit (11.4%), and Low ER Difficulties (29.2%). Profiles differed significantly on depression, anxiety, stress, menopause-specific somatic and psychological symptoms, and personal burnout (all p < .001, with large effects), with one key exception: the Emotional Clarity Deficit profile did not differ from the Low ER profile on any outcome despite presenting the highest lack of emotional clarity scores in the solution. Attachment anxiety and avoidance both predicted membership in the High and Moderate ER profiles, whereas only attachment avoidance uniquely predicted the Emotional Clarity Deficit profile. These findings provide initial person-centered evidence of ER heterogeneity in the menopausal transition. The Emotional Clarity Deficit profile, which was statistically associated with attachment avoidance, represents a configuration not captured by severity-based approaches; however, its clinical significance and stability remain to be established through replication in independent samples and longitudinal research."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43035973/",
+   "doi": "https://doi.org/10.1080/13548506.2026.2765017",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-16T11:13:33.551000+00:00"
+  },
+  {
+   "id": "pmid-43035951",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Simple human pharmacokinetic models scaled-up using cytochrome P450 3A-dependent 6β-hydroxycortisol data from humanized-liver mice can account for monitoring of cortisol administered orally to treat adrenal insufficiency",
+   "revista": "Br J Clin Pharmacol",
+   "autores": "Yamazaki H, Shimizu M",
+   "tipo_estudo": "",
+   "destaque": "When using 6β-hydroxycortisol as an endogenous biomarker for clinical treatment with exogenous agents, the dosage and timing of oral cortisol should be determined considering individual variations, such as body weight and the twofold variability in baseline normal metabolic enzyme activity.",
+   "resumo": [
+    {
+     "rotulo": "Aim",
+     "texto": "Endogenous cortisol, a stress biomarker, is used as a cytochrome P450 3A-dependent biomarker for human phenotyping. Because adrenal hypofunction is characterized by low endogenous plasma cortisol levels, exogenous cortisol is therapeutically administered orally in two or three divided daily doses. Simple pharmacokinetic models were established for cortisol monitoring following oral administration."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "One set of model input parameters was based on reported plasma cortisol values in two male Japanese volunteers (designated A and B) orally administered deuterium-labelled cortisol. Simple physiologically based pharmacokinetic (PBPK) models were also extrapolated from humanized-liver mice data and used to predict human steady-state plasma concentrations of cortisol and its 6β-hydroxylated metabolite."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Four groups of humanized-liver mice were used, each with a different human donor. The cortisol clearance values varied by a factor of two across the four groups. This variability was reflected in the in silico clearance values generated as input parameters for PBPK models. Virtual human area-under-the-curve values after oral cortisol (18 mg/day total for 1 week) administered as divided doses once, twice, or thrice daily were used to calculate the mean cortisol and 6β-hydroxycortisol concentrations. For Human A, the mean cortisol level was double that of Human B under the present simulations."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "When using 6β-hydroxycortisol as an endogenous biomarker for clinical treatment with exogenous agents, the dosage and timing of oral cortisol should be determined considering individual variations, such as body weight and the twofold variability in baseline normal metabolic enzyme activity."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43035951/",
+   "doi": "https://doi.org/10.1002/bcp.70919",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-16T11:13:33.551000+00:00"
+  },
+  {
+   "id": "pmid-43035799",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Multiscale neural and endocrine control of CD8⁺ T cell fate in cancer: from systemic physiology to local immune circuits",
+   "revista": "Biomark Res",
+   "autores": "Cheng T, Li X, Yang M et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Collectively, this evidence identifies neuro-endocrine signaling as an actionable, mechanistically stratified layer of systemic immune regulation and supports its evaluation as a source of biomarkers and pharmacological targets for sensitizing tumors to ICI therapy. This framework offered here is intended to bridge cancer neuroscience, endocrine oncology, and immunotherapy, and to define the criteria by which the next generation of systems-level immune sensitizers should be evaluated.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "CD8⁺ T cells are central cytotoxic effectors of anti-tumor immunity, but tumor-infiltrating CD8⁺ populations are functionally heterogeneous and include tumor-reactive, dysfunctional, and bystander states. Although the past decade of cancer immunology has focused largely on how local interactions within the tumor microenvironment shape these states, clinical observations linking chronic stress, sleep disruption, endocrine comorbidity, and circadian timing to immune checkpoint inhibitor (ICI) outcomes indicate that CD8⁺ T cell function is also modulated far beyond the tumor itself. In this review we adopt a whole-organism perspective to examine how autonomic and sensory neural circuits and the endocrine system act across anatomical compartments to govern CD8⁺ T cell priming, trafficking, metabolism, and exhaustion. We first analyze sympathetic, parasympathetic, and sensory neural axes as systemic effectors mediated by catecholamines, acetylcholine, neuropeptides, and brainstem-driven tone. We then examine endocrine regulation through the hypothalamic-pituitary-adrenal axis, metabolic hormones, and gonadal steroids. We integrate these axes within the tumor microenvironment, where nerve-derived signals, paracrine neuropeptides, and locally amplified glucocorticoid activity form a convergent suppressive network, and at the organismal level through stress amplification loops, sex dimorphism, gut-relayed microbial signaling, and circadian timing. Collectively, this evidence identifies neuro-endocrine signaling as an actionable, mechanistically stratified layer of systemic immune regulation and supports its evaluation as a source of biomarkers and pharmacological targets for sensitizing tumors to ICI therapy. This framework offered here is intended to bridge cancer neuroscience, endocrine oncology, and immunotherapy, and to define the criteria by which the next generation of systems-level immune sensitizers should be evaluated."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43035799/",
+   "doi": "https://doi.org/10.1186/s40364-026-01040-9",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-16T11:13:33.551000+00:00"
+  },
+  {
+   "id": "pmid-43035405",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Simvastatin Alleviation of Trimethyltin-Induced Hippocampal and Behavioral Impairments via Improvement of Antioxidants, Mitochondrial Health, and Energy Homeostasis",
+   "revista": "Pharmacol Res Perspect",
+   "autores": "Salari A, Taheri M, Khalili M et al.",
+   "tipo_estudo": "",
+   "destaque": "Additionally, simvastatin improved hippocampal GSH, GPx, MMP, and AMPK and mitigated MPO activity relative to the TMT group but did not significantly affect nitrite or BACE-1 activity. Collectively, simvastatin mitigated TMT-induced neurobehavioral impairment, partly through restoration of antioxidants and mitochondrial health in association with AMPK.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Mitochondrial dysfunction and antioxidant deficiency are key contributors to the pathogenesis of Alzheimer's disease (AD). Trimethyltin (TMT) induces selective hippocampal damage associated with redox disequilibrium, neuroinflammatory responses, mitochondrial dysfunction, and impaired energy homeostasis, leading to cognitive decline. The present study evaluated whether simvastatin as a lipid-lowering and protective medicine could mitigate TMT-induced behavioral abnormalities by improving hippocampal antioxidant status, mitochondrial integrity, and energy homeostasis. Rats were assigned to control, control + simvastatin (30 mg/kg), TMT, TMT + simvastatin (10 mg/kg), and TMT + simvastatin (30 mg/kg) groups. TMT was injected IP (once, 8 mg/kg) to instigate neurotoxicity. Following three weeks of treatment, locomotor activity and conditioned learning and memory deficits were analyzed using open-field and passive avoidance tests, respectively. Besides, hippocampal levels or activity of nitrite, glutathione (GSH), glutathione peroxidase (GPx), myeloperoxidase (MPO), and β-site APP-cleaving enzyme 1 (BACE1), mitochondrial membrane potential (MMP), and AMP-activated protein kinase (AMPK) were measured. Simvastatin treatment (30 mg/kg) was associated with higher latency in the passive avoidance test and longer rearing in the open field test in TMT-intoxicated rats. Additionally, simvastatin improved hippocampal GSH, GPx, MMP, and AMPK and mitigated MPO activity relative to the TMT group but did not significantly affect nitrite or BACE-1 activity. Collectively, simvastatin mitigated TMT-induced neurobehavioral impairment, partly through restoration of antioxidants and mitochondrial health in association with AMPK."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43035405/",
+   "doi": "https://doi.org/10.1002/prp2.70352",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-16T11:13:33.551000+00:00"
+  },
+  {
+   "id": "rss-https-www-sciencedaily-com-releases-2026-11-261115085533-htm",
+   "fonte": "ScienceDaily",
+   "tipo_fonte": "noticia",
+   "titulo": "MIT scientists discover a surprising way to boost the brain’s nighttime cleaning system",
+   "revista": "",
+   "autores": "",
+   "tipo_estudo": "",
+   "destaque": "MIT scientists discovered that carefully timed bursts of gentle pink noise during sleep can strengthen the brain’s natural cleaning waves, which help flush away potentially harmful waste. The breakthrough could pave the way for new treatments aimed at improving sleep and memory while potentially reducing the buildup of proteins linked to Alzheimer’s disease.",
+   "resumo": [],
+   "link": "https://www.sciencedaily.com/releases/2026/11/261115085533.htm",
+   "doi": "",
+   "data": "2026-11-15T20:40:04-05:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-16T11:13:33.551000+00:00"
+  },
   {
    "id": "pmid-43033542",
    "fonte": "PubMed",
@@ -409,6 +877,64 @@
     "cognicao"
    ],
    "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43034948",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Circulating C-Terminal Agrin Fragment is Associated with Impaired Physical Performance in Aging and Chronic Disease: A Systematic Review and Meta-Analysis",
+   "revista": "Mol Diagn Ther",
+   "autores": "Qaisar R, Ahmad F, Karim A",
+   "tipo_estudo": "Revisão sistemática",
+   "destaque": "Elevated circulating CAF22 concentrations are consistently associated with poorer physical performance across healthy and chronic disease populations, supporting CAF22 as a promising biomarker of functional decline.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Circulating C-terminal agrin fragment (CAF22) is a biomarker of neuromuscular junction degradation and sarcopenia. However, its relationship with objective measures of physical performance has not been systematically evaluated. This systematic review and meta-analysis examined associations of circulating CAF22 concentrations with gait speed and Short Physical Performance Battery (SPPB) scores in aging and chronic disease populations."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "PubMed, Scopus, Web of Science, and Google Scholar were searched to identify studies reporting associations between circulating CAF22 concentrations and gait speed and/or SPPB scores. Correlation coefficients were extracted, transformed to Fisher's z values, and pooled using random-effects meta-analysis. Risk of bias, heterogeneity, subgroup differences, and publication bias were assessed."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Twenty-one studies met the inclusion criteria, contributing 33 cohorts for gait speed (n = 3136) and 28 cohorts for SPPB (n = 2773). Higher circulating CAF22 concentrations were significantly associated with slower gait speed in controls (r = - 0.309, 95% CI - 0.371 to - 0.244%) and disease cohorts (r = - 0.309, 95% CI - 0.361 to - 0.254%), yielding an overall pooled correlation of r = - 0.308 (95% CI - 0.346 to - 0.269%). CAF22 concentrations were also inversely associated with SPPB scores in controls (r = - 0.335, 95% CI - 0.415 to - 0.250%) and disease cohorts (r = - 0.368, 95% CI - 0.422 to - 0.312%), with an overall pooled correlation of r = - 0.353 (95% CI - 0.397 to - 0.307%). No significant subgroup differences were detected."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Elevated circulating CAF22 concentrations are consistently associated with poorer physical performance across healthy and chronic disease populations, supporting CAF22 as a promising biomarker of functional decline."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43034948/",
+   "doi": "https://doi.org/10.1007/s40291-026-00886-x",
+   "data": "2026-11-15T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-16T11:13:33.551000+00:00"
+  },
+  {
+   "id": "pmid-43034711",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Chemogenetic hyperpolarization in the entorhinal cortex during sleep facilitates delta oscillations and memory consolidation",
+   "revista": "iScience",
+   "autores": "Gunin S, Vu J, Haam J",
+   "tipo_estudo": "",
+   "destaque": "Furthermore, we show that chemogenetic depolarization during sleep following learning impairs memory consolidation, whereas chemogenetic hyperpolarization enhances it. Our study provides insights into the effects of chemogenetic manipulation on neural oscillations and identifies EC delta as a key regulator of memory consolidation efficiency.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Memory consolidation is a crucial step in long-term memory formation, during which stable memory representations are formed using recently encoded labile memories. The entorhinal cortex (EC) mediates such brain-wide memory reorganization by exhibiting delta oscillations during sleep, through hyperpolarization-activated cyclic nucleotide-gated (HCN) channels. We tested the feasibility of chemogenetically manipulating EC delta oscillations and examined whether such manipulations affect memory consolidation. We demonstrate that membrane hyperpolarization via the activation of the inhibitory chemogenetic receptor hM4Di paradoxically facilitates delta oscillations in the EC by activating HCN channels, whereas membrane depolarization via the activation of the excitatory chemogenetic receptor hM3Dq induces the opposite effect. Furthermore, we show that chemogenetic depolarization during sleep following learning impairs memory consolidation, whereas chemogenetic hyperpolarization enhances it. Our study provides insights into the effects of chemogenetic manipulation on neural oscillations and identifies EC delta as a key regulator of memory consolidation efficiency."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43034711/",
+   "doi": "https://doi.org/10.1016/j.isci.2026.118120",
+   "data": "2026-11-15T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-16T11:13:33.551000+00:00"
   },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261114202130-htm",
