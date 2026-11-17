@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-16T11:13:33.551000+00:00",
+ "atualizado_em": "2026-11-17T10:56:04.219996+00:00",
  "titulo": "Feed Científico Cabeça de Dona",
  "subtitulo": "Ciência nova, todo dia, sobre o que move a sua saúde",
  "temas": [
@@ -30,6 +30,324 @@
   }
  ],
  "artigos": [
+  {
+   "id": "pmid-43041190",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Semaglutide-Induced Weight Loss Does Not Impair Muscle Function and Improves Endurance Running Capacity in Obese Mice",
+   "revista": "J Cachexia Sarcopenia Muscle",
+   "autores": "Minderis P, Cesanelli L, Sviderskis M et al.",
+   "tipo_estudo": "",
+   "destaque": "In obese mice, semaglutide induces greater weight loss but similar muscle loss than energy-matched caloric restriction, while improving aerobic endurance without compromising skeletal muscle function.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Semaglutide, a member of the glucagon-like peptide-1 receptor agonists, induces substantial weight loss, primarily through appetite suppression and reduced energy intake. In addition to fat mass reduction, a considerable loss of lean body mass is also observed. How these effects compare to conventional caloric restriction is unclear. The aim of the current study was to compare the effects of semaglutide injections and energy-matched caloric restriction on skeletal muscle mass, function and exercise capacity."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "An 8-month-old high-fat diet-induced obese male C57BL/6J mice were pair-fed (n = 14), with one receiving semaglutide injections (SEMA; 30 μg/kg/day) and the other undergoing energy-matched caloric restriction (CR; sham PBS injections) for 28 days. A group of obese mice (n = 12) continued unrestricted high-fat feeding and served as controls (CON). Body mass and energy intake were monitored daily. During the final week, exercise capacity was assessed using a progressive treadmill test with oxygen consumption and lactate measurements. At study completion, mice were euthanized, and slow- and fast-twitch muscles (soleus [SOL] and extensor digitorum longus [EDL]) were dissected, weighed and used for ex vivo assessment of mechanical and contractile properties."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Despite similar energy intake, SEMA mice lost more body mass than CR mice (20.9 ± 4.9 vs. 14.8% ± 5.8%, p < 0.01). Both groups exhibited lower SOL muscle mass compared with CON (10.0 ± 0.7 mg; SEMA: 9.1 ± 0.8 mg, p < 0.01; CR: 9.4 ± 0.7 mg, p < 0.05), whereas EDL muscle mass was not significantly different. During the treadmill test, SEMA mice displayed higher relative VO2peak (43.4 ± 3.0 mL/min/ kg0.75) compared with CR (40.8 ± 2.6 mL/min/kg0.75, p < 0.05) and CON (38.6 ± 2.69 mL/min/kg0.75, p < 0.001), together with advantages in running distance and maximal running speed, which were largely attributable to lower body mass. SOL and EDL force, normalized to muscle mass and PCSA, did not differ between groups (SOL: 21.2 ± 2.8 N/g and 22.4 ± 3.1 N/cm2 [SEMA], 20.8 ± 2.4 N/g and 21.7 ± 2.5 N/cm2 [CR], 19.7 ± 3.5 N/g and 20.4 ± 3.7 N/cm2 [CON]; EDL: 22.8 ± 2.2 N/g and 17.0 ± 2.0 N/cm2 [SEMA], 24.5 ± 2.5 N/g and 18.2 ± 2.0 N/cm2 [CR], 22.9 ± 2.1 N/g and 16.8 ± 1.8 N/cm2 [CON]). Muscle contraction and relaxation kinetics as well as stretched induced hysteresis and relaxation were similar across groups."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "In obese mice, semaglutide induces greater weight loss but similar muscle loss than energy-matched caloric restriction, while improving aerobic endurance without compromising skeletal muscle function."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43041190/",
+   "doi": "https://doi.org/10.1002/jcsm.70427",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-17T10:56:04.219996+00:00"
+  },
+  {
+   "id": "pmid-43040080",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "High-power 450-nm blue laser-induced gastric mucosal ablation for endoscopic bariatric intervention: a proof-of-concept study in a porcine model",
+   "revista": "Lasers Med Sci",
+   "autores": "Tao R, Wang Z, Jiang D et al.",
+   "tipo_estudo": "",
+   "destaque": "High-power 450-nm blue laser-induced GMA effectively reduced body weight and suppressed ghrelin expression in a porcine model, demonstrating its technical feasibility as a step toward future fully endoscopic bariatric applications. Further studies are warranted to rigorously evaluate its translational potential prior to clinical application.",
+   "resumo": [
+    {
+     "rotulo": "Purpose",
+     "texto": "Given the worsening global obesity crisis, endoscopic bariatric and metabolic therapies have emerged as promising minimally invasive interventions. This study aimed to evaluate the safety and efficacy of gastric mucosal ablation (GMA) using high-power 450-nm blue laser as a novel endoscopic bariatric intervention in pigs."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "In vitro porcine stomach experiments were conducted to determine the optimal ablation parameters. Twelve pigs were then randomized into a GMA group, targeting approximately 70% of the gastric mucosa, and a sham group. Body weight was recorded weekly, and abdominal fat was assessed by computed tomography. Gastric tissues were collected for histological analysis. Plasma ghrelin levels were also measured."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "A power setting of 120 W at a working distance of 1.0 cm was identified as the optimal parameter combination and was subsequently employed for in vivo experiments. During the 8-week postoperative period, the GMA group showed a consistently slower body weight gain than the sham group (P < 0.001). Moreover, the GMA group exhibited significantly lower abdominal subcutaneous (P = 0.005) and visceral adipose tissue volumes (P = 0.049). Histological analysis suggested complete mucosal healing at 4 weeks after GMA, while the number of ghrelin-positive cells in the gastric fundus (P = 0.008), body (P < 0.001), and antrum (P = 0.003) remained significantly reduced at 8 weeks postoperatively. Consistently, plasma ghrelin levels tended to be lower in the GMA group than in the sham group, albeit without statistical significance (P = 0.17)."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "High-power 450-nm blue laser-induced GMA effectively reduced body weight and suppressed ghrelin expression in a porcine model, demonstrating its technical feasibility as a step toward future fully endoscopic bariatric applications. Further studies are warranted to rigorously evaluate its translational potential prior to clinical application."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43040080/",
+   "doi": "https://doi.org/10.1007/s10103-026-05103-z",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-17T10:56:04.219996+00:00"
+  },
+  {
+   "id": "pmid-43040204",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "CKMT2 Marks a Mitochondrial and Oxidative-Fiber Program in Sarcopenic Human Skeletal Muscle: An Integrative Four-Cohort Transcriptomic and Single-Nucleus Analysis",
+   "revista": "OMICS",
+   "autores": "Qi L, Li Y, Wang X et al.",
+   "tipo_estudo": "",
+   "destaque": "CKMT2 marks a coordinated mitochondrial and oxidative-fiber program rather than an independent biomarker. All analyses are computational; no experimental validation was performed.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Sarcopenia is a heterogeneous skeletal-muscle disease in which mitochondrial bioenergetic decline is recurrent. In a discovery transcriptome (GSE226151) screened by differential expression and monotonic trend within a candidate space annotated with database-derived nicotine targets, five algorithms converged on one gene, CKMT2. Across four human vastus lateralis cohorts (268 donors; three independent of discovery), CKMT2 was lower in cases (pooled Hedges' g = -0.60, p = 0.006), and between-cohort heterogeneity was explained entirely by case definition: the deficit was large and consistent in sarcopenia-defined cohorts (g = -1.01) but small and nonsignificant in frailty-defined cohorts (g = -0.27; between-subgroup p = 0.008). Its discrimination did not survive adjustment for mitochondrial content and fiber-type composition (area under the curve [AUC]: 0.77-0.49), its effect size lay at the median of 76 oxidative-phosphorylation subunits, and it was unchanged by 6 months of resistance training in 72 donors with paired biopsies. At protein-level CKMT2 was 31% lower in sarcopenic than healthy older muscle, while cytosolic CKM and CKB were unchanged. Single-nucleus analysis linked lower CKMT2 to reduced oxidative phosphorylation and attenuated contractile programs. CKMT2 marks a coordinated mitochondrial and oxidative-fiber program rather than an independent biomarker. All analyses are computational; no experimental validation was performed."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43040204/",
+   "doi": "https://doi.org/10.1177/15578100261505565",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-17T10:56:04.219996+00:00"
+  },
+  {
+   "id": "pmid-43040113",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Development and Validation of a Bedside Sarcopenia-Nutrition Score to Predict Mortality in Cirrhosis: A Prospective Cohort Study",
+   "revista": "J Gen Intern Med",
+   "autores": "Hanafy AS, Salem SM, Naguib H et al.",
+   "tipo_estudo": "",
+   "destaque": "The CSNS is a simple, radiation-free bedside tool that improves prognostic assessment beyond conventional scores and may support risk stratification in resource-limited settings.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Sarcopenia is a common but often overlooked complication of advanced liver cirrhosis and is independently associated with decompensation and mortality. Because CT-based muscle quantification is not always feasible in resource-limited settings, we developed and validated a bedside Cirrhotic Sarcopenia-Nutrition Score (CSNS) incorporating anthropometric, ultrasonographic, and metabolic variables to predict 12-month morbidity and mortality in patients with end-stage liver disease."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "This prospective observational cohort study included 350 adult patients enrolled from December 2023 to April 2026. Patient selection was sequential and prospective into a development cohort (n = 250) and an independent temporal validation cohort (n = 100). All participants met sarcopenia criteria based on gait speed and handgrip strength. Six bedside parameters: triceps skinfold thickness, mid-upper arm circumference, mid-arm muscle circumference, mid-thigh circumference, ultrasound-derived psoas muscle thickness, and nitrogen balance were combined via penalized logistic regression to generate the CSNS on a 0-100 scale. Model performance was evaluated using AUROC and compared with MELD-Na and Child-Turcotte-Pugh (CTP) scores. External validation was performed in the independent cohort."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Nitrogen balance and psoas muscle thickness contributed most strongly to the final model. At an optimal cutoff of 61.2, the CSNS showed good discrimination for 12-month mortality in both the development (AUROC 0.816) and validation (AUROC 0.803) cohorts, with higher AUROC values than MELD-Na and CTP. High CSNS remained an independent predictor of mortality (adjusted HR 1.023; p = 0.002) and was significantly associated with major cirrhosis-related complications, including hepatic encephalopathy, acute kidney injury, refractory ascites, and upper gastrointestinal bleeding (all p ≤ 0.003)."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "The CSNS is a simple, radiation-free bedside tool that improves prognostic assessment beyond conventional scores and may support risk stratification in resource-limited settings."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43040113/",
+   "doi": "https://doi.org/10.1007/s11606-026-10992-5",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-17T10:56:04.219996+00:00"
+  },
+  {
+   "id": "pmid-43040062",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Dietary nucleotides and NAD+ precursors in age-related sarcopenia",
+   "revista": "Geroscience",
+   "autores": "Gdańska A, Karaś R, Binduga UE et al.",
+   "tipo_estudo": "",
+   "destaque": "Nucleotides remain a promising but experimental nutritional strategy. Current evidence does not justify considering mixtures of AMP, CMP, GMP, and UMP, nucleoproteins, NMN, and NR as equivalent interventions or recommending their routine use in the treatment of sarcopenia.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Sarcopenia is a progressive, age-related skeletal muscle disorder characterised by reduced muscle strength, accompanied by loss of muscle mass and impaired muscle function. Growing interest in nutrition in older adults has also increased attention to nucleotides as potentially relevant dietary components that may participate in muscle regeneration, energy metabolism, and cellular responses to stress. The aim of this review was to critically evaluate evidence on conventional dietary nucleotides, nucleoproteins, and compounds related to NAD+ metabolism in the context of muscle ageing and sarcopenia. A structured literature review was conducted, with study identification and selection carried out in accordance with selected elements of PRISMA 2020. A total of 3090 records were identified in PubMed/MEDLINE, Scopus, and the Web of Science Core Collection. After removal of 1327 duplicates, 1763 unique records were screened. Of 159 publications assessed in full text, 62 were retained. Three additional clinical reports identified during revision brought the qualitative synthesis to 65 publications. The most direct evidence for conventional nucleotides comes from cellular and animal models and from several human intervention studies. These findings indicate the potential to attenuate atrophy, support myogenesis, and improve selected functional outcomes. Evidence on NAD+ precursors is considerably more extensive, but the clinical findings are heterogeneous. Nucleotides remain a promising but experimental nutritional strategy. Current evidence does not justify considering mixtures of AMP, CMP, GMP, and UMP, nucleoproteins, NMN, and NR as equivalent interventions or recommending their routine use in the treatment of sarcopenia."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43040062/",
+   "doi": "https://doi.org/10.1007/s11357-026-02659-0",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-17T10:56:04.219996+00:00"
+  },
+  {
+   "id": "pmid-43040061",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Development of treatments for sarcopenia: new challenges, opportunities and perspectives",
+   "revista": "Nat Rev Rheumatol",
+   "autores": "Westbury L, Curtis EM, Balkowiec-Iskra E et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Given advances in sarcopenia research, the continued absence of approved treatments and the need to integrate perspectives that have emerged since the 2020 ESCEO recommendations for the conduct of sarcopenia clinical trials, this Perspective provides up-to-date expert perspectives on the development of treatments for sarcopenia, informed by discussions held by a working group convened by the World Health Organization Collaborating Centre for Epidemiology of Musculoskeletal Conditions and Ageing. Developments in the definition of sarcopenia, the regulatory landscape and therapeutic approaches are presented, together with considerations for the design of pharmacological trials, including target populations, the selection and assessment of trial outcomes (including digital health measures and patient-reported outcome measures), trial duration, use of biomarkers and patient expectations of treatments.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Sarcopenia is characterized by loss of muscle mass, strength and function, and is associated with decline in physical function, falls, fractures and premature mortality. Despite increasing recognition of its clinical and societal burden, progress in translating advances in sarcopenia research into approved pharmacological therapies has remained limited. Potential barriers include heterogeneity in trial design regarding eligibility criteria, follow-up duration and outcomes, as well as limited regulatory harmonization. Given advances in sarcopenia research, the continued absence of approved treatments and the need to integrate perspectives that have emerged since the 2020 ESCEO recommendations for the conduct of sarcopenia clinical trials, this Perspective provides up-to-date expert perspectives on the development of treatments for sarcopenia, informed by discussions held by a working group convened by the World Health Organization Collaborating Centre for Epidemiology of Musculoskeletal Conditions and Ageing. Developments in the definition of sarcopenia, the regulatory landscape and therapeutic approaches are presented, together with considerations for the design of pharmacological trials, including target populations, the selection and assessment of trial outcomes (including digital health measures and patient-reported outcome measures), trial duration, use of biomarkers and patient expectations of treatments."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43040061/",
+   "doi": "https://doi.org/10.1038/s41584-026-01457-4",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-17T10:56:04.219996+00:00"
+  },
+  {
+   "id": "pmid-43041286",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Polydopamine-coated liposomes for oral delivery of tirzepatide: Overcoming gastrointestinal barriers to improve therapeutic efficacy",
+   "revista": "Int J Pharm X",
+   "autores": "Wan X, Kong W, Gao Z et al.",
+   "tipo_estudo": "",
+   "destaque": "In T2DM rats, oral TZP-Lip@PDA (8.8 mg/kg) significantly enhanced the integrated hypoglycemic response during the 12-h observation period compared with oral free TZP and TZP-Lip. In summary, TZP-Lip@PDA enhances the oral delivery of TZP by sustaining drug release, enhancing mucus penetration and promoting cellular uptake, which offers a potential strategy for peptide and protein oral delivery.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Tirzepatide (TZP), the first dual GIP/GLP-1 receptor agonist, offers substantial therapeutic benefits for type 2 diabetes mellitus (T2DM) but remains confined to subcutaneous injection. While oral delivery of peptide therapeutics improves patient compliance, it is severely hampered by enzymatic degradation and mucosal barriers in the gastrointestinal tract. Liposomes, as biocompatible nanocarriers, can protect encapsulated drugs, enhance intestinal stability, and enable controlled release. Herein, TZP-loaded liposomes (TZP-Lip) were prepared via reverse-phase evaporation and further coated with polydopamine (PDA) to obtain TZP-Lip@PDA for enhanced oral delivery. TZP-Lip@PDA exhibited an encapsulation efficiency of 95.02 ± 1.14%, a particle size of 145.9 ± 1.49 nm, and preservation of the secondary structure of TZP. The PDA coating functioned as a physical diffusion barrier that conferred sustained-release behavior in simulated gastrointestinal fluids, while enhancing mucus penetration and promoting cellular uptake in Caco-2 cells. Pharmacokinetic studies showed that oral TZP-Lip@PDA achieved measurable plasma exposure, whereas oral free TZP remained below the lower limit of quantification (LLOQ, 5 ng/mL). Despite a tenfold higher dose (8.8 vs 0.88 mg/kg), oral TZP-Lip@PDA achieved a Cmax approximately 50% of that observed after subcutaneous administration of free TZP, within the 12-h sampling window, indicating substantial progress but also the remaining quantitative gap between the two routes. In T2DM rats, oral TZP-Lip@PDA (8.8 mg/kg) significantly enhanced the integrated hypoglycemic response during the 12-h observation period compared with oral free TZP and TZP-Lip. In summary, TZP-Lip@PDA enhances the oral delivery of TZP by sustaining drug release, enhancing mucus penetration and promoting cellular uptake, which offers a potential strategy for peptide and protein oral delivery."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43041286/",
+   "doi": "https://doi.org/10.1016/j.ijpx.2026.100700",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-17T10:56:04.219996+00:00"
+  },
+  {
+   "id": "pmid-43041203",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Synergistic effects of chronic and acute stress and racial discrimination on alcohol craving across Black and White young adults in the United States",
+   "revista": "Addiction",
+   "autores": "Prakash K, Thomas ED, Kennedy TM et al.",
+   "tipo_estudo": "",
+   "destaque": "Effects of chronic and acute forms of general stress on alcohol craving appear to be consistent across Black and White young adults in the United States. Chronic and acute discrimination synergistically interact to drive alcohol craving in Black participants.",
+   "resumo": [
+    {
+     "rotulo": "Background And Aims",
+     "texto": "Alcohol craving is an important proximal predictor of alcohol use; yet little is known about how chronic and acute forms of general and discrimination-based stressors synergistically interact to influence craving. This study aimed to examine the effects of chronic and acute stress and racial discrimination on daily alcohol craving and compare these associations between Black and White young adults in the United States."
+    },
+    {
+     "rotulo": "Design",
+     "texto": "Observational study in which participants completed baseline assessments followed by a 17-day ecological momentary assessment (EMA) protocol."
+    },
+    {
+     "rotulo": "Setting",
+     "texto": "Non-treatment seeking, community sample from Western Pennsylvania, United States."
+    },
+    {
+     "rotulo": "Participants",
+     "texto": "Young adults aged 21-30 (n = 166), who reported at least weekly alcohol use and at least three occasions of consuming 4+/5 + drinks for female/male participants in the past three months. 41.57% of participants identified as Black/African American and 58.43% of participants identified as White; 68.64% were assigned female at birth."
+    },
+    {
+     "rotulo": "Measurements",
+     "texto": "Baseline assessments included sociodemographic characteristics and measures of chronic stress and racial discrimination. EMA protocol captured acute stress, discrimination, and craving."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Between-person acute stress predicted higher craving [Unstandardized fixed-effect coefficient (B) = 1.17, standard error (SE) = 0.27, P < 0.001, 95% confidence interval (CI) [0.65, 1.69]]. The effect of chronic discrimination (B = 0.51, SE = 0.18, P = 0.005, 95% CI [0.16, 0.85]) and within-person acute discrimination (B = 2.37, SE = 0.88, P = 0.007, 95% CI [0.63, 4.10]) on craving differed across race; specifically, these variables predicted higher craving among Black, but not White participants. This was qualified by a statistically significant three-way interaction showing that higher chronic discrimination weakened the association for within-person acute discrimination and alcohol craving in Black, but not White, participants."
+    },
+    {
+     "rotulo": "Summary",
+     "texto": "Effects of chronic and acute forms of general stress on alcohol craving appear to be consistent across Black and White young adults in the United States. Chronic and acute discrimination synergistically interact to drive alcohol craving in Black participants."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43041203/",
+   "doi": "https://doi.org/10.1111/add.70698",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-17T10:56:04.219996+00:00"
+  },
+  {
+   "id": "pmid-43041014",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Sustainable Caregiving: Feasibility and Preliminary Results of a Skill-Building Course for Care Partners of Patients with Cancer",
+   "revista": "J Palliat Med",
+   "autores": "Ganasi RS, Long J, Kojimoto-Hume G et al.",
+   "tipo_estudo": "",
+   "destaque": "This chaplain-led, online skill-building course demonstrated the potential for improved resilience, decreased burnout, and increased self-efficacy in care partners. Exploration of the course's potential impacts on long-term care partner outcomes in a larger study is needed.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Caregiving for patients with serious illness can increase morbidity and mortality on care partners and worsen patient outcomes. There is a vital need to support care partners."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A chaplain-led, eight-week skill-building course was conducted for 31 care partners of patients with cancer at a comprehensive cancer center. Care partner resiliency, self-efficacy, and burnout were measured before and after the course (n = 7). Postcourse satisfaction and acceptability were measured. Postcourse interviews (n = 8) were conducted to evaluate perceptions of course utility."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Participants reported increased resilience (p = 0.012), decreased burnout (p = 0.01), and improved self-efficacy (p = 0.05). In postcourse interviews, grounding, self-compassion, and mindfulness techniques were reported as beneficial practices, along with high course satisfaction."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "This chaplain-led, online skill-building course demonstrated the potential for improved resilience, decreased burnout, and increased self-efficacy in care partners. Exploration of the course's potential impacts on long-term care partner outcomes in a larger study is needed."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43041014/",
+   "doi": "https://doi.org/10.1177/10966218261506820",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-17T10:56:04.219996+00:00"
+  },
+  {
+   "id": "pmid-43040091",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "The impact of structured care versus usual care on service uptake and distress among distressed callers to a cancer telephone support service: outcomes of the START stepped wedge trial",
+   "revista": "Support Care Cancer",
+   "autores": "Fradgley EA, Lane K, Taylor J et al.",
+   "tipo_estudo": "Ensaio clínico randomizado",
+   "destaque": "Although the structured care model did not improve referral uptake or distress, these findings should be interpreted cautiously due to a lack of intervention fidelity. Recommendations for improving intervention fidelity and future co-design research strategies are discussed.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Up to 45% of people with a cancer diagnosis and 44% of caregivers experience distress. Evidence-based guidelines recommend psychosocial screening with structured referrals in all settings."
+    },
+    {
+     "rotulo": "Aim",
+     "texto": "To identify whether the implementation of a co-designed distress screening and structured referral intervention at Cancer Information and Support (CIS) telephone services resulted in increased referral uptake and reduced distress for people with cancer and caregivers versus those receiving usual care."
+    },
+    {
+     "rotulo": "Method",
+     "texto": "As part of the stepped wedge trial, caller distress was measured using the Distress Thermometer (DT) and Generalised Health Questionnaire-28 (GHQ-28) and uptake of referrals offered by the CIS were recorded. Referral uptake and GHQ-28 scores were assessed using generalised linear mixed models (GLMMs) with fixed effects for the intervention period and structured care. Subgroup analyses were also performed to assess the difference between caller type (patients vs caregivers) and previous mental health treatment."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "This study of 2348 patients and caregivers found insufficient evidence to support increased referral uptake or decreased distress in the structured care group, or a relationship between referral uptake or distress by caller type (patient/caregiver) (p > .05 for adjusted ORs in each comparison)."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Although the structured care model did not improve referral uptake or distress, these findings should be interpreted cautiously due to a lack of intervention fidelity. Recommendations for improving intervention fidelity and future co-design research strategies are discussed."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43040091/",
+   "doi": "https://doi.org/10.1007/s00520-026-11397-0",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-17T10:56:04.219996+00:00"
+  },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261116014842-htm",
    "fonte": "ScienceDaily",
@@ -479,6 +797,416 @@
     "cognicao"
    ],
    "visto_em": "2026-11-16T11:13:33.551000+00:00"
+  },
+  {
+   "id": "pmid-43039780",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Early response to incretin-based obesity pharmacotherapy",
+   "revista": "Trends Endocrinol Metab",
+   "autores": "Patoulias D, Conte C",
+   "tipo_estudo": "",
+   "destaque": "Early weight loss achieved with incretin-based obesity pharmacotherapy provides prognostic information, but it should not define treatment response. We propose a multidimensional framework that integrates the pattern and magnitude of weight reduction achieved with treatment and its impact on anthropometric and cardiometabolic indices, tolerability, and adherence to phenotype the treatment response to obesity pharmacotherapy.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Early weight loss achieved with incretin-based obesity pharmacotherapy provides prognostic information, but it should not define treatment response. We propose a multidimensional framework that integrates the pattern and magnitude of weight reduction achieved with treatment and its impact on anthropometric and cardiometabolic indices, tolerability, and adherence to phenotype the treatment response to obesity pharmacotherapy."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43039780/",
+   "doi": "https://doi.org/10.1016/j.tem.2026.10.011",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-17T10:56:04.219996+00:00"
+  },
+  {
+   "id": "pmid-43039358",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Peptides and Obesity: Evaluating Intranasal Administration of Peptides for Therapeutic Potential",
+   "revista": "Obes Rev",
+   "autores": "Duraisamy K, Dlimi O, Bourzam A et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Furthermore, it evaluates the prospects of intranasal peptide therapeutics as an innovative strategy in obesity treatment, addressing both the opportunities and limitations in the context of clinical and preclinical evidence. Continued research and technological advancements are essential to optimize peptide formulations and delivery systems, ensuring efficacy, safety, and patient compliance in combating the obesity epidemic.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Obesity is a complex global health issue characterized by an imbalance in energy homeostasis and associated with significant health risks, including cardiovascular diseases, diabetes, and cancer. While various therapeutic approaches exist, peptide-based treatments have emerged as promising candidates due to their specificity and reduced side effects. Because many of the mechanisms are centrally regulated in the brain, effective intervention requires peptides with good brain penetration or alternative delivery strategies. In this context, this review explores the potential of intranasal delivery of therapeutic peptide candidates for obesity management, highlighting its advantages in bypassing the blood-brain barrier, targeting central pathways regulating appetite and energy expenditure, and minimizing systemic exposure, while also considering the translational limitations of this delivery route. The review analyses established and emerging peptides, including leptin, GLP-1 analogs, and oxytocin, focusing on their central mechanisms of action, specifically their ability to target the brain. It highlights how these peptides regulate energy homeostasis, appetite, and metabolism through direct activation of neural circuits in the hypothalamus, brainstem, and other key regions involved in obesity management. Furthermore, it evaluates the prospects of intranasal peptide therapeutics as an innovative strategy in obesity treatment, addressing both the opportunities and limitations in the context of clinical and preclinical evidence. Continued research and technological advancements are essential to optimize peptide formulations and delivery systems, ensuring efficacy, safety, and patient compliance in combating the obesity epidemic."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43039358/",
+   "doi": "https://doi.org/10.1111/obr.70259",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-17T10:56:04.219996+00:00"
+  },
+  {
+   "id": "pmid-43037562",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Semaglutide for the Treatment of Obesity in Children 6 to <12 Years of Age",
+   "revista": "N Engl J Med",
+   "autores": "Jastreboff AM, Harder-Lauridsen NM, Van Name M et al.",
+   "tipo_estudo": "",
+   "destaque": "Among children (6 to <12 years of age) with obesity, treatment with semaglutide for 68 weeks resulted in a significantly greater mean percent reduction in BMI than placebo. (Funded by Novo Nordisk; STEP Young ClinicalTrials.gov number, NCT05726227.).",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Childhood obesity is a chronic, neurometabolic disease with limited options for medical treatments that are efficacious and durable. Once-weekly subcutaneous semaglutide is approved for the treatment of obesity in adolescents and adults, but data for its use in young children are lacking."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We conducted a phase 3, double-blind, randomized, placebo-controlled trial involving children (6 to <12 years of age) with obesity. Participants were randomly assigned in a 2:1 ratio to receive once-weekly subcutaneous semaglutide or placebo for a period of 104 weeks, after which participants stopped taking semaglutide or placebo for a 7-week washout period. Both groups received counseling for lifestyle modification. The primary end point was the percent change in the body-mass index (BMI; the weight in kilograms divided by the square of the height in meters) from baseline to week 68. The confirmatory secondary end point was a reduction in BMI category at week 68."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Among 167 children who underwent randomization, 112 were assigned to receive semaglutide and 55 to receive placebo. At week 68, the mean percent change in BMI was -13.5% with semaglutide and 2.7% with placebo (estimated between-group difference, -16.2 percentage points; 95% confidence interval [CI], -19.4 to -12.9; P<0.001). The percent change in BMI at week 104 was -9.4% with semaglutide and 8.4% with placebo (between-group difference, -17.8 percentage points; 95% CI, -22.2 to -13.3). At week 68, a reduction in BMI category had occurred in 79% of the participants in the semaglutide group and in 23% of those in the placebo group (odds ratio, 7.8; 95% CI, 3.5 to 17.6; P<0.001), with the BMI below the threshold for obesity (the 95th percentile for age and sex) in 38% of the participants who received semaglutide and in 2% of those who received placebo. Adverse events occurred in 96% of the participants receiving semaglutide and in 93% of those receiving placebo. Gastrointestinal adverse events were the most common, occurred more frequently with semaglutide than with placebo, and led to discontinuation in 1 participant in the semaglutide group."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Among children (6 to <12 years of age) with obesity, treatment with semaglutide for 68 weeks resulted in a significantly greater mean percent reduction in BMI than placebo. (Funded by Novo Nordisk; STEP Young ClinicalTrials.gov number, NCT05726227.)."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43037562/",
+   "doi": "https://doi.org/10.1056/NEJMoa2604058",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-17T10:56:04.219996+00:00"
+  },
+  {
+   "id": "pmid-43039816",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Automatic Multiparametric Quantitative Ultrasound Framework for Segmentation and Characterization of Layered Soft Tissues",
+   "revista": "Ultrasound Med Biol",
+   "autores": "Gachouch O, Kim H, Park DW",
+   "tipo_estudo": "",
+   "destaque": "In ex vivo experiments, the estimated fat and muscle thicknesses also matched actual measurements within 4.8% and 1.3%, respectively, and fat and muscle regions showed distinct QUS parameter values. These preliminary results support the feasibility of automatically characterizing tissue characteristics by combining multiple QUS parameters into a single integrated segmentation framework, and lay the groundwork for further validation studies using diverse samples for future body composition assessment.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "To diagnose diseases associated with changes in body composition, such as sarcopenia or muscle wasting due to cancer, it is necessary to accurately evaluate muscle and fat layers. However, conventional B-mode ultrasound has limitations due to its high dependence on the ultrasound examiner and subjective interpretation. In this study, we propose a multiparametric quantitative ultrasound (QUS) framework that automatically detects tissue boundaries and segments laminar tissues by combining attenuation images estimated using the Regularized Spectral Log Difference (RSLD) method with midband fit, spectral intercepts, Nakagami images and echogenicity mapping. Boundaries were identified through 2-D connectivity component analysis on the integrated QUS map, which allowed for the detection of discontinuous or stepped boundaries without assuming lateral continuity, followed by refinement using a Chan-Vese active contour model. This framework was evaluated using a homogeneous reference phantom, a customized lateral heterogeneous staircase phantom, and an ex vivo swine shoulder specimen. The results of the staircase phantom experiment showed that the segmented block thickness matched actual physical measurements within 2.3%-5.0% across all four regions, despite the stepped boundary geometry. In ex vivo experiments, the estimated fat and muscle thicknesses also matched actual measurements within 4.8% and 1.3%, respectively, and fat and muscle regions showed distinct QUS parameter values. These preliminary results support the feasibility of automatically characterizing tissue characteristics by combining multiple QUS parameters into a single integrated segmentation framework, and lay the groundwork for further validation studies using diverse samples for future body composition assessment."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43039816/",
+   "doi": "https://doi.org/10.1016/j.ultrasmedbio.2026.10.022",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-17T10:56:04.219996+00:00"
+  },
+  {
+   "id": "pmid-43038853",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Nutritional and lifestyle strategies in obesity management during incretin-based therapy: a narrative review with practical recommendations",
+   "revista": "Nutrition",
+   "autores": "Carlin Cambi MP, Monaco-Ferreira DV",
+   "tipo_estudo": "Revisão",
+   "destaque": "Individualized, systematized nutritional care may maximize the benefits of incretin-based therapies while reducing nutritional and functional risks. Prospective studies are needed to validate the proposed models and to establish standardized monitoring and supplementation protocols.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "The growing use of glucagon-like peptide 1 receptor agonists and dual glucagon-like peptide 1/gastric inhibitory polypeptide receptor agonists in obesity management has highlighted the need for structured nutritional care alongside pharmacotherapy. This narrative review describes the main nutritional pillars in the care of patients receiving incretin-based therapies and proposes a practical framework for nutritional follow-up. PubMed, Embase, and the Cochrane Library were searched from inception to May 2026. We independently selected studies on dietary intake, body composition, lean mass, sarcopenia, micronutrient inadequacies, gastrointestinal symptoms, and nutritional strategies and graded the evidence using the Oxford Centre for Evidence-Based Medicine 2011 levels. Specialized nutritional therapy, ideally delivered by a registered dietitian/nutritionist within a multidisciplinary team, is central to preserving muscle mass, preventing nutritional inadequacies, improving gastrointestinal tolerability, and sustaining weight loss. Adequate protein intake (1.2-1.6 g/kg/d), body composition monitoring, resistance exercise, hydration, and micronutrient surveillance are particularly relevant. We propose the preservation of muscle mass, routine screening for deficiencies, adequate hydration, tailored nutritional therapy, and observation of gastrointestinal symptoms framework; the Incretin Plate Model; and the Metabolic Hourglass Model. These expert-derived tools have not yet been validated. Individualized, systematized nutritional care may maximize the benefits of incretin-based therapies while reducing nutritional and functional risks. Prospective studies are needed to validate the proposed models and to establish standardized monitoring and supplementation protocols."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43038853/",
+   "doi": "https://doi.org/10.1016/j.nut.2026.113452",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-17T10:56:04.219996+00:00"
+  },
+  {
+   "id": "pmid-43038368",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Malnutrition and Sarcopenia in Chronic Pancreatitis: A Prospective Evaluation Using GLIM, EWGSOP, and AWGS Criteria",
+   "revista": "Pancreas",
+   "autores": "Patlori S, Marikanty A, Bajaj A et al.",
+   "tipo_estudo": "",
+   "destaque": "Malnutrition was noted in more than two-thirds of patients with CP. Sarcopenia affects a minority of patients and co-exists with malnutrition. Severity of CP is a key independent predictor of malnutrition and sarcopenia, while lower dietary protein intake independently predicts sarcopenia.",
+   "resumo": [
+    {
+     "rotulo": "Background And Aims",
+     "texto": "Malnutrition and sarcopenia are common yet under-recognised complications of chronic pancreatitis (CP). Data on their prevalence and determinants using contemporary consensus definitions remain limited. We aimed to determine the proportion of adult outpatients with CP who have malnutrition using Global Leadership Initiative on Malnutrition (GLIM) criteria and sarcopenia using Asian Working Group for Sarcopenia (AWGS) 2019 and European Working Group on Sarcopenia in Older People (EWGSOP2)criteria and to identify associated clinical, nutritional and disease related risk factors."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "This was a prospective, observational study conducted at a tertiary referral centre in India. Malnutrition was diagnosed GLIM criteria, and sarcopenia was assessed in accordance to AWGS 2019 and the EWGSOP2 criteria. Severity of pancreatitis was assessed using Chronic Pancreatitis Prognosis Score (COPPS). Dietary intake was assessed using a 24-hour dietary recall."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "A total of 100 patients with CP were included (mean age 38.1±11 y; 63% male). Malnutrition was identified in 70(70%) patients. Malnutrition was observed across all categories of BMI, including patients who were obese. A high COPPS emerged as an independent predictor of malnutrition (P=0.021). Sarcopenia was identified in 20% and 16% patients using AWGS 2019 and EGWSOP2 criteria respectively. Sarcopenia was also observed across BMI categories, including patients with normal BMI. A high COPPS score and greater protein deficit were independent predictors of sarcopenia (P<0.05 for all)."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Malnutrition was noted in more than two-thirds of patients with CP. Sarcopenia affects a minority of patients and co-exists with malnutrition. Severity of CP is a key independent predictor of malnutrition and sarcopenia, while lower dietary protein intake independently predicts sarcopenia."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43038368/",
+   "doi": "https://doi.org/10.1097/MPA.0000000000002742",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-17T10:56:04.219996+00:00"
+  },
+  {
+   "id": "pmid-43037355",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Sarcopenia Beyond the Clinic: A Community-Based Pilot Screening Study Among Elderly Kuwaitis",
+   "revista": "Med Princ Pract",
+   "autores": "Azizieh F, Al Jarallah K, Al-Shehab D et al.",
+   "tipo_estudo": "",
+   "destaque": "This pilot study provides the first community-based evidence of a high possible-sarcopenia burden among elderly Kuwaitis, with muscle-mass confirmation in nearly one-third of screen-positive cases and marked age and gender gradients. These findings warrant a larger, nationally representative validation study and support two-step sarcopenia screening in routine geriatric care. .",
+   "resumo": [
+    {
+     "rotulo": "Objective",
+     "texto": "This pilot study screened community-dwelling elderly Kuwaitis for sarcopenia using Asian Working Group for Sarcopenia (AWGS) 2019 criteria to inform public health strategy."
+    },
+    {
+     "rotulo": "Material And Methods",
+     "texto": "In this unfunded cross-sectional pilot study, 61 Kuwaiti nationals aged ≥60 years were recruited in Al Asimah Governorate. Handgrip strength and physical performance (Short Physical Performance Battery [SPPB]) were assessed in all participants. Possible sarcopenia was defined as low handgrip strength or impaired physical performance; screen-positive participants underwent multi-frequency bioelectrical impedance analysis (BIA) to confirm sarcopenia by muscle mass. Groups were compared with chi-square/Fisher's exact and t-/Mann-Whitney tests; 95% confidence intervals (CI) used the Wilson score method."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Possible sarcopenia was identified in 33 of 61 participants (54.1%, CI 41.7-66.0%), rising from 21.4% (CI 7.6-47.6%) at 60-69 years to 90.9% (CI 72.2-97.5%) at ≥80 years (p < 0.001), and was higher in women than men (71.4% vs. 39.4%; p = 0.012). Muscle-mass data were available for 32 screen-positive participants (one could not complete BIA); 10 (31.3%) met the AWGS 2019 low-muscle-mass criterion, confirming sarcopenia. Participants with possible sarcopenia had markedly lower handgrip strength (14.7±5.4 vs. 30.2±10.6 kg) and SPPB scores (median 1 vs. 12; both p < 0.001)."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "This pilot study provides the first community-based evidence of a high possible-sarcopenia burden among elderly Kuwaitis, with muscle-mass confirmation in nearly one-third of screen-positive cases and marked age and gender gradients. These findings warrant a larger, nationally representative validation study and support two-step sarcopenia screening in routine geriatric care. ."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43037355/",
+   "doi": "https://doi.org/10.1159/mpp/adpag045",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-17T10:56:04.219996+00:00"
+  },
+  {
+   "id": "pmid-43037004",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "The Oral-Systemic Interface in Healthy Longevity: A Narrative Review of Inflammaging and Functional Resilience",
+   "revista": "J Am Geriatr Soc",
+   "autores": "Tobias G, Zini A, Vered Y et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Integrating objective oral functional assessments into the Comprehensive Geriatric Assessment (CGA) is essential for early identification of frailty. Moving toward a \"preservation-first\" clinical model supported by AI-assisted diagnostics offers a cost-effective pathway to enhance systemic resilience and extend healthspan in aging populations.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "While the global burden of oral diseases remains high, their role in the biological and functional trajectories of aging is often underrepresented in geriatric clinical practice. This narrative review explores the shift from viewing oral health as an isolated dental concern to an integrated pillar of geroscience and longevity. This aim of this study was to synthesize recent evidence linking oral inflammation and functional decline to systemic frailty, emphasizing the necessity of objective clinical metrics over traditional self-reported data."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A comprehensive review of biological, epidemiological, and clinical literature was conducted, focusing on the mechanisms of \"inflammaging,\" the oral-gut axis, and the predictive value of oral frailty."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Traditional markers, such as tooth count and subjective chewing difficulty, are frequently confounded by cognitive status and compensatory behaviors. Observational evidence links oral frailty and impaired oral function with sarcopenia, disability, and mortality, supporting the clinical relevance of assessing oral function alongside tooth counts. Furthermore, chronic periodontal inflammation acts as a systemic stimulus, contributing to endothelial dysfunction and multimorbidity through pro-inflammatory signaling pathways."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Integrating objective oral functional assessments into the Comprehensive Geriatric Assessment (CGA) is essential for early identification of frailty. Moving toward a \"preservation-first\" clinical model supported by AI-assisted diagnostics offers a cost-effective pathway to enhance systemic resilience and extend healthspan in aging populations."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43037004/",
+   "doi": "https://doi.org/10.1111/jgs.70837",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-17T10:56:04.219996+00:00"
+  },
+  {
+   "id": "pmid-43038093",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "The development of a trauma-informed care training and coaching series tailored to Ryan White HIV clinics using an iterative, stakeholder-led approach",
+   "revista": "HIV Res Clin Pract",
+   "autores": "Kalokhe AS, Brown TS, Hansoti SA et al.",
+   "tipo_estudo": "",
+   "destaque": "Iterative stakeholder-led development of the TIC training and facilitation process enabled relevance and fit for implementation within RWCs. Next steps involve piloting the training and coaching in RWCs to explore acceptance, feasibility, and preliminary efficacy in impacting staff burnout and patient support and care engagement.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Trauma is common among people with HIV and associated with poor health outcomes, thus Ryan White HIV Clinics (RWCs) should be equipped to provide trauma-informed care (TIC). There exists a gap in TIC training tailored to RWC settings and facilitation support for the clinics."
+    },
+    {
+     "rotulo": "Objective",
+     "texto": "To develop and refine a TIC training and implementation facilitation program for RWCs."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "From September 2022 to August 2024, we followed a collaborative process, guided by Interactive Systems Framework: 1) consultation of a needs assessment of 46 southeastern US RWCs and review of existing TIC trainings developed for other settings to extract relevant themes, 2) development of training content relevant to RWCs, 3) theatre testing of sessions and facilitation program with two RWCs in Atlanta, Georgia, 4) confirmation of appropriateness of training content, dose, intensity, and delivery through surveys with 88 southeastern RWCs, and 5) feedback from RWCs across the country at the National RW Conference."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Six training sessions on healing-centred TIC and the facilitation process (Coach and Change Team) emerged. RWC stakeholders' feedback included adjustments to session activities to enhance relevance, omission of heavily theoretical content, expanding the facilitation guide to foster safe space for training delivery, and need for RWC administrators to protect time for staff participation. Conference feedback highlighted the need to regularly integrate TIC vision statements throughout the clinic, ensuring safe space for discussion, leadership engagement around systems-level changes, and patient engagement around changes related to fostering physical/emotional safety."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Iterative stakeholder-led development of the TIC training and facilitation process enabled relevance and fit for implementation within RWCs. Next steps involve piloting the training and coaching in RWCs to explore acceptance, feasibility, and preliminary efficacy in impacting staff burnout and patient support and care engagement."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43038093/",
+   "doi": "https://doi.org/10.1080/25787489.2026.2761681",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-17T10:56:04.219996+00:00"
+  },
+  {
+   "id": "pmid-43039649",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Work satisfaction, burnout, work engagement, and working conditions of creative practitioners working in arts and disability: cognitive differability contexts",
+   "revista": "Arts Health",
+   "autores": "Rose TJ, Scanlan JN, Busby S et al.",
+   "tipo_estudo": "",
+   "destaque": "This study extends workplace wellbeing and labour research by offering preliminary insights into the distinctive labour and wellbeing experiences of an under-examined workforce of creative practitioners operating at the intersection of intellectual disability and cognitive differability, arts practice, and embodied interpersonal work.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Globally, creative practice and disability are increasingly intersecting, yet little is known about the professionals who facilitate arts-for-art's-sake creative endeavours with and for people with cognitive disability. This paper presents findings from an Australian survey of creative arts practitioners facilitating these kinds of arts activities."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "An exploratory survey was used to map workforce characteristics, working conditions, and workplace experiences of creative practitioners in this sector. The survey included specific measures of work satisfaction, burnout (Oldenburg Burnout Inventory), work engagement (Utrecht Work Engagement Scale), and job demands and job resources. Quantitative data were analysed descriptively, and inductive qualitative content analysis with category frequencies used for open-text responses to summarise and quantify theme distribution across the sample."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Twenty-five creative practitioners completed the survey. Respondents reported relatively high work satisfaction with work engagement positively associated with work satisfaction. Value-congruent, pro-social, and creativity-based motivations appeared to support both entry and sustained satisfaction, while disability-related experience was an important secondary influence. In this small exploratory sample, work satisfaction was not significantly associated with burnout, and the individual components of burnout (disengagement and exhaustion) were not significantly correlated."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "This study extends workplace wellbeing and labour research by offering preliminary insights into the distinctive labour and wellbeing experiences of an under-examined workforce of creative practitioners operating at the intersection of intellectual disability and cognitive differability, arts practice, and embodied interpersonal work."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43039649/",
+   "doi": "https://doi.org/10.1080/17533015.2026.2762105",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-17T10:56:04.219996+00:00"
+  },
+  {
+   "id": "pmid-43039428",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Psychometric Evidence of the Brief ProQOL Scale's Reliability",
+   "revista": "J Nurs Meas",
+   "autores": "Gois C, Tiete J, Fantini-Hauwel C",
+   "tipo_estudo": "",
+   "destaque": "This shorter version showed good model fit and satisfactory concurrent validity, supporting the scale's reliability for both research and clinical applications. Conclusion: This shorter version showed good model fit and satisfactory concurrent validity, supporting the scale's reliability for both research and clinical applications.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Background and Purpose: Mental health represents a major public health concern among nurses, a population particularly exposed to variations in professional quality of life. The Professional Quality of Life scale is the most commonly used tool to assess compassion satisfaction, burnout, and secondary traumatic stress. However, its psychometric robustness has been repeatedly challenged in the literature. More recently, a revised and shortened version of the scale has been introduced. The present study sought to examine the psychometric properties of the Brief Professional Quality of Life Scale (Brief ProQOL) in a sample of French-speaking nurses. Methods: A cross-sectional study was conducted with 261 nurses who completed the Brief ProQOL, the Maslach Burnout Inventory, and the Secondary Traumatic Stress Scale. Results: Confirmatory factor analysis indicated an acceptable fit for the Brief ProQOL model. However, relatively low average variance extracted values for certain dimensions led to the development of a refined nine-item version. This shorter version showed good model fit and satisfactory concurrent validity, supporting the scale's reliability for both research and clinical applications. Conclusion: This shorter version showed good model fit and satisfactory concurrent validity, supporting the scale's reliability for both research and clinical applications."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43039428/",
+   "doi": "https://doi.org/10.1891/JNM-2026-0067",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-17T10:56:04.219996+00:00"
+  },
+  {
+   "id": "pmid-43039101",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Chronic stress drives gastric cancer cachexia via cGAS-STING/NLRP3 signaling through a feedforward CGRP-NGF axis-mediated NETosis",
+   "revista": "Cancer Lett",
+   "autores": "Liu P, Lin C, Zhang Z et al.",
+   "tipo_estudo": "",
+   "destaque": "Importantly, combined inhibition of the CGRP/RAMP1 axis and the cGAS-STING/NLRP3 pathway produces synergistic suppression of GC growth and cachectic phenotypes. Collectively, these findings identify a stress-neuro-immune circuit that drives GC progression and cachexia, and highlight the CGRP/RAMP1 and cGAS-STING/NLRP3 axes as potential therapeutic targets.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Cancer cachexia is a multifactorial metabolic syndrome driven by advanced malignancies and is closely linked to poor treatment tolerance and unfavorable prognosis. The neural-tumor-immune crosstalk within the tumor microenvironment is increasingly recognized as a key determinant of cachexia progression. Here, we show that gastric cancer (GC) patients with chronic stress (CS) exhibit poor outcomes that are closely associated with advanced N stage, perineural invasion, and cachexia. In vivo, CS accelerates GC growth and induces cachectic phenotypes, including gastrocnemius loosening, myofiber atrophy, and epididymal white adipose atrophy with browning. Mechanistically, CS enhances neutrophil extracellular traps (NETs) formation and promotes sustained release of NETs-derived DNA, which drives both tumor progression and systemic metabolic wasting. NETs-DNA acts as a damage-associated molecular pattern (DAMP) that persistently activates the cGAS-STING/NLRP3 inflammasome signaling axis in macrophages in a time-dependent manner, leading to amplified inflammatory responses that promote myocyte atrophy and impair lipid droplet formation. In parallel, CS strengthens neuro-tumor communication; nociceptive neurons sustain NETs formation via a feedforward CGRP-NGF signaling loop, whereas gastric vagotomy attenuates CS-induced NETs formation and consequently suppresses both tumor progression and cachexia. Importantly, combined inhibition of the CGRP/RAMP1 axis and the cGAS-STING/NLRP3 pathway produces synergistic suppression of GC growth and cachectic phenotypes. Collectively, these findings identify a stress-neuro-immune circuit that drives GC progression and cachexia, and highlight the CGRP/RAMP1 and cGAS-STING/NLRP3 axes as potential therapeutic targets."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43039101/",
+   "doi": "https://doi.org/10.1016/j.canlet.2026.218978",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-17T10:56:04.219996+00:00"
+  },
+  {
+   "id": "pmid-43039049",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Quantifying the Electronic Medical Record In-basket Notification Burden on Surgeons Who Perform Total Joint Arthroplasty",
+   "revista": "J Arthroplasty",
+   "autores": "Stach C, Yarden JA, Schilling PL et al.",
+   "tipo_estudo": "",
+   "destaque": "Arthroplasty surgeons face a clerical burden due to EMR in-basket notifications during the perioperative period. Revision procedures had higher notification volumes than primary procedures, reaching statistical significance for THA. In-basket notification volume may serve as a quantifiable framework for assessing the perioperative workload associated with the care of TJA patients and measuring the efficacy of interventions to alleviate EMR burden.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Total joint arthroplasty (TJA) requires extensive coordination between care teams and patients, largely facilitated by electronic medical records (EMRs). The EMR-associated clerical burden is well-documented as a contributor to physician workload and burnout. For arthroplasty surgeons, the volume of notifications delivered to the EMR in-basket represents an understudied component of this workload that is uncompensated by traditional reimbursement strategies. This study quantified the number of in-basket notifications generated per surgical case during the perioperative period and compared volumes across primary and revision TJA."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Data were collected from an EMR at an academic medical center. For surgeons performing total hip arthroplasty (THA) or total knee arthroplasty (TKA), in-basket notifications linked to surgical encounters from January 1, 2021, to October 2, 2023, were reviewed. All notifications from initial consultation through the 90-day post-op period, including system-generated alerts and patient-initiated messages, were analyzed. A total of 2,997 procedures and 79,084 in-basket notifications among six arthroplasty surgeons were analyzed. Counts and averages were calculated, and procedure groups were compared using two-tailed t-tests, with P < 0.05 considered significant."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The mean number of notifications per case was 26.4, with surgeon averages ranging from 18.4 to 29.7. Revision THA averaged the most notifications with 36.5 per case, significantly higher than primary THA (P = 0.007). The primary TKAs had the fewest mean notifications with 23.7 per case. The most frequent notification types were chart completions, inpatient cosign notes, and results."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Arthroplasty surgeons face a clerical burden due to EMR in-basket notifications during the perioperative period. Revision procedures had higher notification volumes than primary procedures, reaching statistical significance for THA. In-basket notification volume may serve as a quantifiable framework for assessing the perioperative workload associated with the care of TJA patients and measuring the efficacy of interventions to alleviate EMR burden."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43039049/",
+   "doi": "https://doi.org/10.1016/j.arth.2026.11.065",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-17T10:56:04.219996+00:00"
+  },
+  {
+   "id": "pmid-43038463",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Music illuminates sociocultural dimensions of autobiographical memory",
+   "revista": "Proc Natl Acad Sci U S A",
+   "autores": "Turnbull C, Kubit BM, Jakubowski K et al.",
+   "tipo_estudo": "",
+   "destaque": "Instead, we suggest that the intersubjective structure of music-evoked autobiographical memories reflects socioculturally-defined scripts tied to song characteristics such as genre and release date. Thus, while memories may feel idiosyncratic and personal, there are also substantial similarities in life experiences between individuals with broadly similar backgrounds, and these shared experiences can be spontaneously called to mind through the seemingly innocuous act of turning on the radio.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Researchers have long theorized that autobiographical memory relies on sociocultural structures, such as life scripts and event schemas. The potency of music as a marker of social and personal identity, combined with its ubiquity in everyday life, allows us to connect these everyday scripts to larger patterns of socially and culturally shaped behavior. We collected free-response descriptions of autobiographical memories evoked by short clips of familiar songs from university undergraduates (n = 233). The songs spanned three popular genres and aligned with two significant periods of listeners' lives. We analyzed the similarities and differences in the content of memories for particular songs using natural language processing. Memories cued by songs from the same category displayed striking similarities, suggesting that particular types of music cue memories that are similar between listeners but that vary according to characteristics such as music genre and release date. Two control conditions, in which a new set of participants reported memories evoked by key words from the lyrics (n = 121) and short narrative summaries of the lyrics (n = 129), indicate that these results cannot be explained by within-category similarities in the songs' lyrical content. Instead, we suggest that the intersubjective structure of music-evoked autobiographical memories reflects socioculturally-defined scripts tied to song characteristics such as genre and release date. Thus, while memories may feel idiosyncratic and personal, there are also substantial similarities in life experiences between individuals with broadly similar backgrounds, and these shared experiences can be spontaneously called to mind through the seemingly innocuous act of turning on the radio."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43038463/",
+   "doi": "https://doi.org/10.1073/pnas.2536885123",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-17T10:56:04.219996+00:00"
   },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261115085533-htm",
@@ -1503,6 +2231,29 @@
     "cognicao"
    ],
    "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-43027942",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Prometheus's Fire, Part III: The Forge of Hephaestus-Non-Pharmacological and Pharmacological Interventions Targeting Adipose Tissue Immunometabolism in Obesity",
+   "revista": "Int J Mol Sci",
+   "autores": "Grudniewska A, Mrozikiewicz-Rakowska B, Wiszniewski K et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Weight loss remains an important clinical goal, but it may not fully reflect the extent or durability of immunometabolic recovery. The therapeutic convergence framework therefore offers a way to understand how mechanistically distinct interventions can produce overlapping systemic benefits and may help identify treatment strategies that more effectively restore adipose tissue function while disrupting the inflammatory processes that sustain metabolic disease.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "There is a growing recognition of obesity as a chronic immunometabolic disease in which impaired adipose tissue expandability contributes to a self-amplifying inflammatory network that extends across multiple organs. This state-of-the-art narrative review, the third and final part of the Prometheus's Fire series, considers how lifestyle interventions, bariatric surgery and pharmacological therapies may disrupt this network and support the restoration of immunometabolic homeostasis. We introduce the concept of therapeutic convergence, describing how interventions with different primary mechanisms can influence shared processes, including NOD-, LRR- and pyrin domain-containing protein 3 (NLRP3) inflammasome activity, adipokine dysregulation, adipose tissue remodelling, mitochondrial stress and inter-organ inflammatory signalling. Evidence from randomised controlled trials, meta-analyses and mechanistic studies shows that these interventions differ considerably in the extent and breadth of their effects. Bariatric surgery, glucagon-like peptide-1 (GLP-1) receptor agonists and double GLP-1/glucose-dependent insulinotropic polypeptide (GIP) receptor agonists (tirzepatide) have the most consistent evidence for coordinated effects on adipose tissue inflammation, metabolic dysfunction and inter-organ signalling. Other interventions appear to influence more selected components of the network and may therefore have greater value as complementary rather than comprehensive approaches. This perspective also highlights a limitation of relying on body weight as the primary measure of therapeutic success. Weight loss remains an important clinical goal, but it may not fully reflect the extent or durability of immunometabolic recovery. The therapeutic convergence framework therefore offers a way to understand how mechanistically distinct interventions can produce overlapping systemic benefits and may help identify treatment strategies that more effectively restore adipose tissue function while disrupting the inflammatory processes that sustain metabolic disease."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43027942/",
+   "doi": "https://doi.org/10.3390/ijms27219692",
+   "data": "2026-11-14T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-17T10:56:04.219996+00:00"
   },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261111005911-htm",
@@ -10711,6 +11462,45 @@
     "cognicao"
    ],
    "visto_em": "2026-11-15T10:38:28.671158+00:00"
+  },
+  {
+   "id": "pmid-42981754",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Inhalation of Gardenia jasminoides flower essential oil attenuates stress-associated neurobehavioral abnormalities in mice",
+   "revista": "Phytomedicine",
+   "autores": "Bian X, Liu J, Zhao X et al.",
+   "tipo_estudo": "",
+   "destaque": "GEO inhalation attenuated chronic stress-associated neurobehavioral abnormalities in mice and was accompanied by changes in hippocampal neuroimmune and synaptic plasticity-related markers, together with broader systemic metabolic and microbial responses.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Gardenia jasminoides Ellis is a traditional medicinal and aromatic plant, but the neurobehavioral potential of its flower-derived essential oil remains insufficiently understood."
+    },
+    {
+     "rotulo": "Purpose",
+     "texto": "This study aimed to evaluate whether G. jasminoides flower essential oil (GEO) inhalation attenuates chronic stress-associated neurobehavioral abnormalities and to characterize the accompanying hippocampal, metabolic, and gut microbial responses."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "GEO was chemically profiled by headspace solid-phase microextraction coupled with gas chromatography-mass spectrometry and evaluated in a chronic unpredictable mild stress (CUMS) mouse model. Mice were exposed to GEO by inhalation during the final 2 weeks of the 6-week CUMS procedure. Behavioral performance was assessed using the open field test, elevated plus maze, tail suspension test, forced swim test, and sucrose preference test. Hippocampal morphology, inflammatory and oxidative stress-related indices, neurochemical markers, serum corticosterone, serum metabolomics, hippocampal transcriptomics, gut microbiota composition, and hippocampal neuroimmune/synaptic signaling markers were further analyzed."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Chemical profiling tentatively annotated 59 volatile constituents in GEO, with linalool and linalyl acetate identified as the predominant constituents. GEO inhalation attenuated CUMS-associated behavioral abnormalities, with significant changes observed most consistently in the GEO-20 group. GEO exposure was also associated with increased hippocampal dendritic spine density relative to the CUMS group, lower inflammatory and oxidative stress-related indices, higher hippocampal brain-derived neurotrophic factor, γ-aminobutyric acid, and 5-hydroxytryptamine levels, and lower serum corticosterone. Serum metabolomics identified GEO-20-associated changes in metabolic features and pathways involving nucleotide/purine metabolism, arachidonic acid-related lipid mediator pathways, bile acid-related metabolism, and neuroactive metabolic processes. Hippocampal transcriptomics identified GEO-20-associated changes in neuroimmune-, neuroactive ligand-receptor-, and γ-aminobutyric acid synapse-related transcriptional profiles. Gut microbiota analysis revealed GEO-20-associated changes in microbial richness, community composition, discriminatory taxa, and genus-level co-occurrence patterns. Targeted molecular assays showed lower hippocampal glial reactivity and inflammatory signaling-related markers after GEO exposure, whereas GEO-20 was associated with higher levels of mitochondrial regulatory and synaptic plasticity markers."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "GEO inhalation attenuated chronic stress-associated neurobehavioral abnormalities in mice and was accompanied by changes in hippocampal neuroimmune and synaptic plasticity-related markers, together with broader systemic metabolic and microbial responses."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42981754/",
+   "doi": "https://doi.org/10.1016/j.phymed.2026.158906",
+   "data": "2026-11-04T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-17T10:56:04.219996+00:00"
   },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261101010549-htm",
