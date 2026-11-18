@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-17T10:56:04.219996+00:00",
+ "atualizado_em": "2026-11-18T10:56:34.917001+00:00",
  "titulo": "Feed Científico Cabeça de Dona",
  "subtitulo": "Ciência nova, todo dia, sobre o que move a sua saúde",
  "temas": [
@@ -30,6 +30,123 @@
   }
  ],
  "artigos": [
+  {
+   "id": "pmid-43046732",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Heart and Skeletal Muscle Contributions to Exercise Intolerance in Type 2 Diabetes: An Integrated Physiological Perspective",
+   "revista": "Am J Physiol Heart Circ Physiol",
+   "autores": "Hong AS, Brady EM, Watson EL et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Preclinical studies are also considered where they provide mechanistic insight. Finally, we identify priorities for future research, including integrated cardiac and skeletal muscle phenotyping, to better define the mechanisms of exercise intolerance in T2DM and inform targeted therapeutic interventions in T2DM.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Exercise intolerance is a hallmark of type 2 diabetes mellitus (T2DM). It is typically characterised by a reduction in peak oxygen uptake (V̇O2peak), which is a strong independent predictor of cardiovascular and all-cause mortality. Reduced V̇O2peak in T2DM has traditionally been attributed to central cardiovascular abnormalities which ultimately limit oxygen delivery to the exercising muscles. However, these abnormalities do not always fully account for the observed reduction. Increasing evidence suggests more peripheral involvement affecting oxygen transport through the skeletal muscle microvascular networks to the mitochondria, as well as mitochondrial oxygen extraction and utilisation. At the same time, the diabetic skeletal muscle exhibits intrinsic abnormalities such as insulin resistance, chronic inflammation, metabolic inflexibility, and endothelial dysfunction, all of which may further compromise exercise capacity. Sarcopenia is another clinically relevant manifestation of skeletal muscle dysfunction in T2DM that may play a role in exercise limitation. In particular, muscle quality may be more functionally relevant than muscle mass or strength alone. Emerging evidence also suggests that cardiac and skeletal muscle abnormalities interact through inter-organ crosstalk, potentially exacerbating dysfunction in both tissues and compounding exercise intolerance. This review examines the independent and interacting contributions of cardiac and skeletal muscle dysfunction to reduced V̇O2peak in T2DM, with particular emphasis on evidence from multivariable analyses. Preclinical studies are also considered where they provide mechanistic insight. Finally, we identify priorities for future research, including integrated cardiac and skeletal muscle phenotyping, to better define the mechanisms of exercise intolerance in T2DM and inform targeted therapeutic interventions in T2DM."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43046732/",
+   "doi": "https://doi.org/10.1152/ajpheart.90331.2026",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43046651",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Painful Non-Diabetic Lumbosacral Radiculoplexus Neuropathy Following Tirzepatide Exposure: A Case Report",
+   "revista": "J Peripher Nerv Syst",
+   "autores": "Stabile L, Poli L, Leggio U et al.",
+   "tipo_estudo": "",
+   "destaque": "This case highlights a severe non-diabetic lumbosacral radiculoplexus neuropathy following a period of rapid metabolic shift during GLP-1RA therapy. Although causality cannot be established, the temporal association and clinical context raise the hypothesis that abrupt metabolic changes may act as a permissive factor for immune-mediated lumbosacral plexus injury in susceptible individuals.",
+   "resumo": [
+    {
+     "rotulo": "Background And Purpose",
+     "texto": "Lumbosacral radiculoplexus neuropathy (LRPN) is an uncommon neuropathic syndrome occurring predominantly in patients with diabetes mellitus, although non-diabetic forms are increasingly recognized. Rare peripheral neuropathies have been reported during glucagon-like peptide-1 receptor agonist (GLP-1 receptor agonist [GLP-1RA]) therapy; however, LRPN has not previously been described in this clinical context, particularly in non-diabetic individuals. We describe a well-characterized case of painful non-diabetic LRPN developing following a period of rapid metabolic shift during tirzepatide therapy."
+    },
+    {
+     "rotulo": "Case Presentation",
+     "texto": "A 62-year-old man previously treated with tirzepatide for weight loss developed, approximately 8 weeks after discontinuation, acute left-sided low back pain, rapidly progressing to severe neuropathic pain, distal weakness, and sensory loss. MR neurography demonstrated enlargement and contrast enhancement of the left L5 nerve root and sciatic nerve, associated with denervation edema. Electrophysiological studies demonstrated an axonal process consistent with lumbosacral radiculoplexus neuropathy, while cerebrospinal fluid analysis showed albuminocytological dissociation. Classical diabetic-related plexopathy was excluded by normal glucose values; an extensive work-up excluded infectious, neoplastic, paraneoplastic, and systemic inflammatory causes."
+    },
+    {
+     "rotulo": "Treatment And Outcome",
+     "texto": "The patient was treated with intravenous methylprednisolone followed by an oral corticosteroid taper and intensive rehabilitation. At 8-month follow-up, neuropathic pain had completely resolved and plantar flexion had recovered, whereas severe foot dorsiflexion weakness persisted, and the patient walked with a single crutch and an ankle-foot orthosis, consistent with the expected outcome of severe axonal lumbosacral radiculoplexus neuropathy."
+    },
+    {
+     "rotulo": "Discussion And Conclusions",
+     "texto": "Tirzepatide exposure was associated with rapid weight loss in a normoglycaemic individual. This case highlights a severe non-diabetic lumbosacral radiculoplexus neuropathy following a period of rapid metabolic shift during GLP-1RA therapy. Although causality cannot be established, the temporal association and clinical context raise the hypothesis that abrupt metabolic changes may act as a permissive factor for immune-mediated lumbosacral plexus injury in susceptible individuals."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43046651/",
+   "doi": "https://doi.org/10.1111/jns.70188",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43046576",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "When minimal assistance is not enough: A transitional approach for critical errors of older adults during instrumental activities of daily living: A mixed-methods study",
+   "revista": "Aust Occup Ther J",
+   "autores": "Yaddaden A, Bier N, Pelletier J et al.",
+   "tipo_estudo": "",
+   "destaque": "Identifying and understanding critical errors highlights moments of vulnerability in daily life. Tailored verbal cognitive assistance helps manage these situations, enabling continued engagement, autonomy, and support for ageing in place even amid cognitive decline.",
+   "resumo": [
+    {
+     "rotulo": "Introduction",
+     "texto": "Older adults often experience neurocognitive challenges that threaten their independence. Instrumental activities of daily living (IADLs) are vital indicators of home safety, as even a single critical error, such as task failure, can affect the ability to live independently. A clearer understanding of which errors are critical and how verbal cognitive assistance from clinicians or caregivers can reduce such errors is needed."
+    },
+    {
+     "rotulo": "Objectives",
+     "texto": "This study aims to (1) describe the critical errors committed by older adults from the continuum of cognitive functioning during multiple IADLs; (2) identify the types of verbal cognitive assistance provided to address these errors and facilitate independence and security; and (3) identify the transition points at which occupational therapists shift to more direct assistance."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We analysed video-recorded IADL assessments of 40 older adults at home, 19 of whom had a formal diagnosis of Alzheimer's disease or mild cognitive impairment and 21 of whom had no official diagnosis (NOD). Standardised assessments based on ecological observations of four IADL tasks were used. Videos were transcribed to capture all errors and assistance provided. Deductive qualitative and descriptive statistical analyses (mean, proportion, etc.) were used to identify the main difficulties and assistance types."
+    },
+    {
+     "rotulo": "Consumer And Community Involvement",
+     "texto": "None RESULTS: Twenty-eight participants, including 11 with NOD, made at least one critical error (e.g., turning the stove to high before cooking, crossing a road without looking); 19 made more than two, including four with NOD. Thirty-one participants received verbal assistance at least once, and 22 received assistance multiple times (six with NOD). Thirteen participants, including six with NOD, reached a transition point requiring maximal compensatory intervention."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Identifying and understanding critical errors highlights moments of vulnerability in daily life. Tailored verbal cognitive assistance helps manage these situations, enabling continued engagement, autonomy, and support for ageing in place even amid cognitive decline."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43046576/",
+   "doi": "https://doi.org/10.1111/1440-1630.70136",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "rss-https-www-sciencedaily-com-releases-2026-11-261116023401-htm",
+   "fonte": "ScienceDaily",
+   "tipo_fonte": "noticia",
+   "titulo": "Ozempic and Mounjaro may have a surprising effect on your brain",
+   "revista": "",
+   "autores": "",
+   "tipo_estudo": "",
+   "destaque": "Blockbuster weight loss drugs like Ozempic and Mounjaro may do more than help people shed pounds, with growing evidence suggesting they could also influence brain health. Although studies have linked GLP-1 medications to a lower risk of dementia, major trials found that semaglutide did not slow Alzheimer's disease. Scientists suspect these drugs may be more effective at preserving memory and thinking abilities in people with obesity or diabetes, especially before cognitive problems appear.",
+   "resumo": [],
+   "link": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm",
+   "doi": "",
+   "data": "2026-11-17T06:39:45-05:00",
+   "temas": [
+    "cognicao",
+    "obesidade",
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
   {
    "id": "pmid-43041190",
    "fonte": "PubMed",
@@ -347,6 +464,762 @@
     "estresse"
    ],
    "visto_em": "2026-11-17T10:56:04.219996+00:00"
+  },
+  {
+   "id": "pmid-43043580",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Insufficient Sleep, Circadian Targets, Weight Management, and Cardiometabolic Health",
+   "revista": "Curr Obes Rep",
+   "autores": "Zimmerman GA, Stegman AP, Bhutani S et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Optimizing the temporal organization of daily behaviors represents a promising complementary approach to obesity prevention and management, especially when increasing sleep duration may not be feasible. However, rigorous trials assessing target engagement, changes in sleep-related outcomes, and clinically meaningful metabolic outcomes are needed.",
+   "resumo": [
+    {
+     "rotulo": "Purpose Of Review",
+     "texto": "Insufficient sleep is a potentially modifiable contributor to obesity and cardiometabolic risk, yet sustained sleep extension may be difficult for individuals facing occupational, caregiving, and social constraints. We review emerging literature informing potential timing- and circadian-based strategies that could mitigate obesity risk, even without necessitating an increase in sleep duration."
+    },
+    {
+     "rotulo": "Recent Findings",
+     "texto": "Emerging evidence suggests that the timing of light exposure, food intake, sleep-wake regularity, and physical activity can influence circadian physiology and metabolic health. Insufficient sleep may disrupt these temporal patterns, providing plausible pathways linking insufficient sleep with positive energy balance, weight gain, and metabolic dysfunction. However, few fully powered randomized trials have directly tested the efficacy of interventions targeting these timing-based pathways to mitigate risk of obesity in adults with habitual insufficient sleep. Optimizing the temporal organization of daily behaviors represents a promising complementary approach to obesity prevention and management, especially when increasing sleep duration may not be feasible. However, rigorous trials assessing target engagement, changes in sleep-related outcomes, and clinically meaningful metabolic outcomes are needed."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43043580/",
+   "doi": "https://doi.org/10.1007/s13679-026-00777-6",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43043523",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Nutrition in the Era of Incretin-Based Therapies: Clinical Strategies for Optimizing Care",
+   "revista": "Curr Gastroenterol Rep",
+   "autores": "Gold SL, Pearlman M, Pandey A et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Nutrition care is a critical component of treatment with incretin-based therapies. Individualized dietary strategies may help preserve lean body mass, optimize nutrient intake, reduce gastrointestinal side effects, and support long-term adherence and clinical outcomes.",
+   "resumo": [
+    {
+     "rotulo": "Purpose Of Review",
+     "texto": "To review current evidence and practical nutrition strategies for patients receiving incretin-based therapies, including glucagon-like peptide-1 receptor agonists (GLP-1RAs) and dual glucose-dependent insulinotropic polypeptide (GIP)/GLP-1 receptor agonists, with a focus on nutritional adequacy, body composition, gastrointestinal tolerance, and long-term adherence."
+    },
+    {
+     "rotulo": "Recent Findings",
+     "texto": "Incretin-based therapies have transformed obesity treatment by producing substantial weight loss and cardiometabolic improvement. However, these therapies are also associated with reduced oral intake, gastrointestinal adverse effects, lean mass loss, and potential micronutrient inadequacy, highlighting the need for comprehensive nutritional management. Emerging evidence supports individualized dietary strategies to improve tolerance and maintain nutritional status, including targeted approaches for constipation, diarrhea, nausea, and reflux, as well as considerations for special populations such as pati​ents with inflammatory bowel disease, short bowel syndrome, gastroesophageal reflux disease, and pediatric obesity. Nutrition care is a critical component of treatment with incretin-based therapies. Individualized dietary strategies may help preserve lean body mass, optimize nutrient intake, reduce gastrointestinal side effects, and support long-term adherence and clinical outcomes."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43043523/",
+   "doi": "https://doi.org/10.1007/s11894-026-01070-1",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "obesidade",
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43042892",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Toward a Healthier Future Through Obesity Prevention and Care: The JAMA Summit Report on Obesity",
+   "revista": "JAMA",
+   "autores": "Cappola AR, Angus DC, Ahima RS et al.",
+   "tipo_estudo": "",
+   "destaque": "The emergence of effective obesity management medications offers a significant opportunity to curb the prevalence of obesity. However, no single intervention will be enough. Sustained improvement will require addressing the underlying structural and environmental drivers of obesity, along with person-centered, multilevel strategies that simultaneously improve prevention, reduce stigma, and expand equitable access to evidence-based treatment. Coordinated action across government, health care systems, clinicians, payers, industry, schools, communities, and researchers will be essential to achieving long-term improvement.",
+   "resumo": [
+    {
+     "rotulo": "Importance",
+     "texto": "Obesity is one of the most difficult challenges of the modern era, affecting more than 1 billion people worldwide. Nearly half of US adults and 1 in 5 US children meet the medical definition of having obesity, with major consequences for cardiometabolic, kidney, hepatic, pulmonary, musculoskeletal, reproductive, oncologic, and mental health. Obesity also carries social and economic harms through stigma, discrimination, and bias."
+    },
+    {
+     "rotulo": "Observations",
+     "texto": "Drivers of the obesity epidemic include changes in food production and consumption accompanied by social, economic, and technological shifts that reduce food preparation, disrupt sleep, and decrease physical activity. The burden of these changes is not equally distributed, with higher obesity prevalence among socioeconomically disadvantaged populations. Current prevention measures include nutrition standards, food and menu labeling, school meal policies, sugar-sweetened beverage taxes, community-based lifestyle programs, and public assistance efforts. The impact of these approaches has been inadequate. Contemporary clinical management recognizes obesity as a chronic disease characterized by genetic, biological, and behavioral susceptibilities. Access, affordability, tolerability, and the chronicity of use remain major challenges for all available obesity management strategies, including new glucagon-like peptide-1 receptor agonist therapies. Potential solutions require a coordinated, multisector response and include efforts to prevent obesity at the societal level, improve care of individuals with obesity, and strengthen research and innovation. Priority areas include improving the food and physical activity environment; strengthening communication and education; strengthening childhood obesity prevention; addressing health inequities; reducing stigma and bias; modernizing obesity care delivery; expanding access to lifestyle, healthy food, medication, and surgical interventions; and supporting long-term treatment adherence and maintenance. Proposed actions include new government policies on food production, labeling, marketing, and school nutrition; modernization of drug evaluation; payment reform to support comprehensive obesity treatment; development of multidisciplinary care models; incentives to promote cross-sector partnerships; and research to advance personalized prevention and treatment strategies."
+    },
+    {
+     "rotulo": "Conclusions And Relevance",
+     "texto": "The emergence of effective obesity management medications offers a significant opportunity to curb the prevalence of obesity. However, no single intervention will be enough. Sustained improvement will require addressing the underlying structural and environmental drivers of obesity, along with person-centered, multilevel strategies that simultaneously improve prevention, reduce stigma, and expand equitable access to evidence-based treatment. Coordinated action across government, health care systems, clinicians, payers, industry, schools, communities, and researchers will be essential to achieving long-term improvement."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43042892/",
+   "doi": "https://doi.org/10.1001/jama.2026.19759",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43045304",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Invasive Procedures and Surgery in Patients with Cirrhosis",
+   "revista": "Clin Liver Dis",
+   "autores": "Gips JR, Woreta TA",
+   "tipo_estudo": "Revisão",
+   "destaque": "Active hepatic decompensations or even the presence of clinically significant portal hypertension alone substantially increase operative risk. Careful preoperative evaluation is therefore essential and requires identification and management of decompensations, assessment of portal hypertension, and an understanding of surgical risk.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Patients with cirrhosis are at increased risk of perioperative complications due to the systemic consequences of portal hypertension, altered hemostasis, ascites, malnutrition, sarcopenia, and immune dysfunction. These abnormalities predispose patients to bleeding, infection, impaired wound healing, and postoperative hepatic decompensation, even after otherwise routine surgical procedures. Active hepatic decompensations or even the presence of clinically significant portal hypertension alone substantially increase operative risk. Careful preoperative evaluation is therefore essential and requires identification and management of decompensations, assessment of portal hypertension, and an understanding of surgical risk."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43045304/",
+   "doi": "https://doi.org/10.1016/j.cld.2026.08.014",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43045248",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Obesity in Aging",
+   "revista": "Clin Geriatr Med",
+   "autores": "Mora JC, Valencia WM",
+   "tipo_estudo": "Revisão",
+   "destaque": "Weight loss medications offer significant weight loss but risk accelerating muscle loss if used without structured support. Social determinants, including food access, income, and isolation, must be addressed for treatment to be truly effective.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Obesity in older adults is a complex, multifactorial condition requiring a comprehensive approach. Standard body mass index thresholds are less reliable in this population due to the obesity paradox, where moderate overweight may be protective. The coexistence of obesity and sarcopenia worsens frailty and mortality, making lean mass preservation essential. Lifestyle interventions like quality nutrition, resistance exercise, sleep, and stress management remain the foundation of care. Weight loss medications offer significant weight loss but risk accelerating muscle loss if used without structured support. Social determinants, including food access, income, and isolation, must be addressed for treatment to be truly effective."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43045248/",
+   "doi": "https://doi.org/10.1016/j.cger.2026.09.001",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43043360",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Associations of cumulative pulse pressure and pulse pressure trajectories with sarcopenia in two ageing cohorts",
+   "revista": "Aging Male",
+   "autores": "Sun A, Du Y, Zeng R et al.",
+   "tipo_estudo": "",
+   "destaque": "Cumulative PP and specific PP trajectories were associated with sarcopenia, especially with pre-existing heart disease, supporting PP monitoring for targeted prevention in older adults.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "The relationship between long-term pulse pressure (PP) and sarcopenia remains poorly understood."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We analyzed 7,159 participants from the China Health and Retirement Longitudinal Study (CHARLS) and 728 from the U.S. Health and Retirement Study (HRS) to examine the association between cumulative PP and trajectories with incident sarcopenia in middle-aged and older adults, using area under the curve (AUC) and latent class trajectory modeling (LCTM). Multivariable logistic regression models were applied to estimate odds ratios (ORs) and 95% confidence intervals (CIs). Potential interactions between PP and chronic conditions, particularly heart disease, were assessed using multiplicative and additive models."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Higher cumulative PP was associated with increased sarcopenia risk (per 10 mmHg: CHARLS OR = 1.10, 95% CI: 1.05-1.15; HRS OR = 1.30, 95% CI: 1.13-1.50). Participants in high-stable PP trajectories had the highest risk (CHARLS OR = 2.06, 95% CI: 1.44-2.93; HRS OR = 1.93, 95% CI: 1.34-2.77). In HRS, the association was significant only among those with heart disease, with multiplicative and additive interactions indicating synergistic effects. Sensitivity and Mendelian randomization analyses supported robustness and potential causality."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Cumulative PP and specific PP trajectories were associated with sarcopenia, especially with pre-existing heart disease, supporting PP monitoring for targeted prevention in older adults."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43043360/",
+   "doi": "https://doi.org/10.1080/13685538.2026.2763289",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43044975",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "From Obesity to Cancer Cachexia: PI3K/AKT/MTOR Signaling Across the Energy Balance Spectrum - A Scoping Review of Body Size, Composition, and Cancer Outcomes",
+   "revista": "Adv Nutr",
+   "autores": "Talal Akasheh RL, Mahenge CM, Kalam F et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Findings reveal heterogeneity in study designs and highlight research gaps, including the need for more consistent measurement of body composition and incorporating host metabolic context, such as insulin resistance and metabolic dysfunction. These efforts could harmonize results, improve comparability across studies, and advance nutritional and precision oncology.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "The PI3K/AKT/MTOR signaling pathway is overactivated in cancer. Obesity is an established risk factor for several cancers, also variably associated with prognosis. Cancer cachexia is at the opposite end of the energy balance spectrum and is similarly linked to poor prognosis. Preclinical studies link obesity to activation of this pathway, whereas cachexia is associated with its suppression in skeletal muscle. However, human findings are inconsistent and often ignore the metabolic influence of body composition on MTOR activity. This scoping review summarizes how body size and composition-spanning obesity to cachexia-relate to PI3K/AKT/MTOR signaling in cancer risk and outcomes. A systematic search in Web of Science, Embase, and PubMed through January 19, 2023, identified 6,285 studies; 139 met the inclusion criteria across 15 cancer types: gastrointestinal (n=48); gynecological (n=34); breast (n=30); male reproductive (n=7); lung (n=6); thyroid (n=6); renal (n=2); and skin (n=1) cancers, plus cachexia (n=5). Body size was associated with components and effectors of the PI3K/AKT/MTOR pathway, but findings were inconsistent, reflecting heterogeneity in cancer type, subtype, exposure and biomarker measurement, and unmeasured host factors. Insulin resistance and diabetes were more consistently associated with pathway markers than BMI. Across six studies, obesity and pathway markers often interacted, modifying each other's associations with cancer outcomes. Interventional studies of weight loss, metformin, and bariatric surgery reported changes in some tumor biomarkers, but none assessed cancer outcomes, limiting weight management guidance for patients with obesity. In cachexia, pathway analysis suggested increased catabolic and decreased anabolic muscle signaling, though findings varied by muscle site, and the effects of dietary interventions remain untested. Evidence predominantly relied on BMI rather than body composition components, leaving their relationship to PI3K/AKT/MTOR signaling understudied. Standardized and longitudinal designs, body composition measurement, and assessment of metabolic status, diet, and physical activity are needed to advance precision nutritional oncology. REVIEW REGISTRATION: INPLASY202450036 https://doi.org/10.37766/inplasy2024.5.0036 STATEMENT OF SIGNIFICANCE: This scoping review is the first to comprehensively examine the associations between alterations in body size and composition-including both obesity and cancer-associated cachexia-and PI3K/AKT/MTOR signaling in tumors, adipose tissue, and skeletal muscle across cancer types in relation to clinical outcomes and patient survival. Findings reveal heterogeneity in study designs and highlight research gaps, including the need for more consistent measurement of body composition and incorporating host metabolic context, such as insulin resistance and metabolic dysfunction. These efforts could harmonize results, improve comparability across studies, and advance nutritional and precision oncology."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43044975/",
+   "doi": "https://doi.org/10.1016/j.advnut.2026.100772",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43044894",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Circulating brain-derived neurotrophic factor as a biomarker of sarcopenia: A systematic review of clinical evidence",
+   "revista": "Exp Gerontol",
+   "autores": "Wielińska J, Brzeszczyński F, Stawińska H et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Overall, BDNF appears to be a biologically plausible biomarker reflecting neuromuscular integrity, but is unlikely to function as a standalone diagnostic tool. It may have clinical utility as part of a multi-biomarker approach to sarcopenia assessment, particularly in settings where functional testing is limited.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Sarcopenia is a major contributor to frailty, disability and adverse clinical outcomes in older adults, yet its diagnosis remains challenging in routine practice, particularly in acutely unwell or immobile patients. Circulating biomarkers may provide an objective adjunct to current assessment strategies. Among these, brain-derived neurotrophic factor (BDNF) has attracted interest because of its role in neuromuscular function and muscle maintenance. This systematic review evaluates the association between BDNF and sarcopenia. A systematic search of MEDLINE and EMBASE was conducted up to July 2025 in accordance with PRISMA guidelines. Seven studies comprising 886 participants were included. Circulating BDNF levels demonstrated associations with key sarcopenia parameters, including muscle strength, physical performance and muscle mass. Diagnostic performance was moderate, with area under the curve values ranging from 0.70 to 0.76. However, the direction of association varied across populations, with both increased and decreased BDNF levels reported in sarcopenic individuals, likely reflecting differences in disease context, metabolic status and methodological approaches. Overall, BDNF appears to be a biologically plausible biomarker reflecting neuromuscular integrity, but is unlikely to function as a standalone diagnostic tool. It may have clinical utility as part of a multi-biomarker approach to sarcopenia assessment, particularly in settings where functional testing is limited."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43044894/",
+   "doi": "https://doi.org/10.1016/j.exger.2026.113388",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43044251",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Caregivers' understanding and responses to sarcopenia in post-stroke care: A qualitative study",
+   "revista": "Geriatr Nurs",
+   "autores": "Kuo WY, Shen CJ, Chen CY",
+   "tipo_estudo": "",
+   "destaque": "Educational strategies should address this gap by offering clear, practical, and context-sensitive guidance tailored to post-stroke caregiving. These findings are relevant to geriatric nursing practice, as geriatric nurses can incorporate brief, step-by-step sarcopenia-prevention education into bedside teaching, discharge planning, and caregiver support, using accessible formats such as short videos.",
+   "resumo": [
+    {
+     "rotulo": "Aim",
+     "texto": "To explore how family caregivers of stroke survivors understand sarcopenia and how these understandings influence their caregiving practices."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "This qualitative descriptive study recruited 30 family caregivers (mean age = 52.2 years; range: 26-73) of stroke survivors (mean age = 65.83 years; range: 35-88) from a medical center in northern Taiwan using purposive sampling with convenience-based recruitment. In-depth, semi-structured interviews were conducted between August 2024 and May 2025. Data were analyzed using inductive content analysis through the preparation, organization, and reporting phases."
+    },
+    {
+     "rotulo": "Findings",
+     "texto": "Four categories were identified. (1) Caregivers understood sarcopenia through everyday language, such as \"skin wrapped around bones,\" and through visual and tactile observations rather than biomedical terminology. (2) Preventive actions were intuitive but fragmented, often reflecting general beliefs about stroke recovery rather than structured knowledge of sarcopenia prevention. (3) Contextual constraints, including limited information and survivors' low motivation, hindered consistent preventive practices. (4) Caregivers expressed a need for practical, professionally guided education in accessible formats, such as short videos and step-by-step instruction."
+    },
+    {
+     "rotulo": "Conclusions/Implications",
+     "texto": "Caregivers' understanding of sarcopenia was grounded in experiential observation rather than structured medical knowledge, leading to intuitive and fragmented preventive practices. Educational strategies should address this gap by offering clear, practical, and context-sensitive guidance tailored to post-stroke caregiving. These findings are relevant to geriatric nursing practice, as geriatric nurses can incorporate brief, step-by-step sarcopenia-prevention education into bedside teaching, discharge planning, and caregiver support, using accessible formats such as short videos."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43044251/",
+   "doi": "https://doi.org/10.1016/j.gerinurse.2026.104444",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43044201",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Sarcopenia, a proteomics-derived sarcopenia score, and risk of incident liver outcomes: a prospective cohort study",
+   "revista": "J Nutr Health Aging",
+   "autores": "Liang K, Liu Y, Zu N et al.",
+   "tipo_estudo": "",
+   "destaque": "Sarcopenia was prospectively associated with higher risks of multiple liver outcomes. ProSS provided incremental prognostic information beyond clinical factors and sarcopenia status, particularly for cirrhosis, while the associated circulating proteins may provide biological context for these associations.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Sarcopenia is associated with adverse outcomes in established liver disease, but its prospective associations with subsequent liver outcomes and the associated circulating proteomic features remain incompletely characterized."
+    },
+    {
+     "rotulo": "Aims",
+     "texto": "To examine the prospective associations of sarcopenia with incident liver outcomes, develop a proteomics-derived sarcopenia score (ProSS), evaluate its predictive value, and explore associated biological pathways."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A two-phase analysis was conducted in the UK Biobank. In 492,305 participants, multivariable Cox models assessed the associations of sarcopenia with incident liver outcomes. In a proteomic subcohort of 51,637 participants, ProSS development and internal validation were conducted within a nested five-fold cross-validation framework incorporating multivariable screening, bootstrap-based LASSO, and elastic-net modelling. The incremental prognostic value of ProSS for MASLD and cirrhosis was evaluated using pooled out-of-fold predictions from six Cox models. Functional enrichment and exploratory single-protein indirect-effect analyses were also performed."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "During a median follow-up of approximately 14 years, sarcopenia was associated with higher risks of incident MASLD (HR 1.37, 95% CI 1.26-1.48), cirrhosis (HR 1.58, 95% CI 1.39-1.79), liver cancer (HR 1.86, 95% CI 1.37-2.52), and liver-related mortality (HR 1.91, 95% CI 1.53-2.38). In cross-validation analyses, fold-specific out-of-fold ProSS values were associated with incident MASLD (HR 1.49 per 1-SD increase, 95% CI 1.38-1.61) and cirrhosis (HR 2.39, 95% CI 2.15-2.65). Adding ProSS to a clinical model containing sarcopenia status increased the 10-year AUC from 0.765 to 0.788 for MASLD (ΔAUC 0.023, 95% CI 0.014-0.033; P<0.001) and from 0.780 to 0.846 for cirrhosis (ΔAUC 0.067, 95% CI 0.043-0.091; P<0.001). Enrichment analyses highlighted immune and inflammatory signalling, extracellular matrix organization, and cytokine/receptor-related pathways. Exploratory indirect-effect analyses highlighted GDF15, IGFBPL1, and BST2 as the leading protein signals for both MASLD and cirrhosis."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Sarcopenia was prospectively associated with higher risks of multiple liver outcomes. ProSS provided incremental prognostic information beyond clinical factors and sarcopenia status, particularly for cirrhosis, while the associated circulating proteins may provide biological context for these associations."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43044201/",
+   "doi": "https://doi.org/10.1016/j.jnha.2026.101029",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43043894",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Prevalence of sarcopenia among community-dwelling older adults in an urban district in Penang, Malaysia and its associated factors",
+   "revista": "PLoS One",
+   "autores": "Low SW, See ZH, Abdul Hamid N et al.",
+   "tipo_estudo": "",
+   "destaque": "Sarcopenia was identified in nearly one-third of participants among community-dwelling older adults in Seberang Perai Utara, Penang. Compared with HEPA active participants, minimally active participants were associated with higher odds of sarcopenia. Whereas higher BMI was associated with lower odds of the condition. These findings highlight key cross-sectional correlates of sarcopenia in community, emphasizing the importance of monitoring body weight, muscle health, and physical activity engagement among community-dwelling older adults.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Sarcopenia refers to a progressive decline in skeletal muscle mass, strength, and physical performance that commonly occurs with ageing, and is associated with adverse outcomes such as frailty, disability, and mortality. Despite its growing public health importance in ageing populations, limited data are available on the prevalence of sarcopenia in Penang, Malaysia. This study aimed to determine the prevalence of sarcopenia and its associated factors among community-dwelling older adults in an urban district in Penang."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A cross-sectional study was conducted among community-dwelling adults aged 60 years and above in the Seberang Perai Utara district, Penang. Participants were recruited using convenience sampling. Sarcopenia was diagnosed using the Asian Working Group for Sarcopenia (AWGS) 2019 criteria based on muscle mass, muscle strength, and physical performance. Data on sociodemographic characteristics, comorbidities, and physical activity levels were collected using a structured questionnaire and the International Physical Activity Questionnaire (IPAQ) short form. Logistic regression analysis was performed to identify factors associated with sarcopenia."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "A total of 226 participants were included in the study. The overall prevalence of sarcopenia was 32.7%, including 15.0% with severe sarcopenia and 17.7% with sarcopenia. In multivariate analysis, higher body mass index (adjusted OR 0.794, 95% CI 0.723-0.873, p < 0.001) was associated with lower odds of sarcopenia. Physical activity level was also significantly associated with sarcopenia (p = 0.013). Participants who were minimally active had higher odds of sarcopenia (adjusted OR = 4.393, 95% CI: 1.583-12.193, p = 0.004) compared with HEPA active participants."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Sarcopenia was identified in nearly one-third of participants among community-dwelling older adults in Seberang Perai Utara, Penang. Compared with HEPA active participants, minimally active participants were associated with higher odds of sarcopenia. Whereas higher BMI was associated with lower odds of the condition. These findings highlight key cross-sectional correlates of sarcopenia in community, emphasizing the importance of monitoring body weight, muscle health, and physical activity engagement among community-dwelling older adults."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43043894/",
+   "doi": "https://doi.org/10.1371/journal.pone.0362968",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43043666",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Associations of body roundness index and its trajectories with sarcopenia in middle-aged and older adults: a prospective cohort study",
+   "revista": "Postgrad Med J",
+   "autores": "Xu K, Wang K, Peng J et al.",
+   "tipo_estudo": "",
+   "destaque": "Lower baseline BRI and persistently low BRI trajectories were associated with greater sarcopenia vulnerability, possibly reflecting a low-reserve body habitus. These findings suggest that BRI warrants further investigation as a potential marker of sarcopenia vulnerability in population-based research.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Body roundness index (BRI) describes abdominal body shape, yet evidence linking its longitudinal patterns to sarcopenia remains limited. We examined associations of baseline levels and trajectories with prevalent and incident sarcopenia."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We analyzed China Health and Retirement Longitudinal Study data from 2011 to 2015. The cross-sectional analysis included 12 671 middle-aged and older Chinese adults, and the longitudinal analysis included 5688 participants without baseline sarcopenia. Sarcopenia assessment combined anthropometrically estimated muscle mass with strength and physical performance, using the Asian Working Group for Sarcopenia 2019 framework. Multivariable logistic regression assessed associations, restricted cubic splines evaluated nonlinearity, and group-based trajectory modelling identified longitudinal patterns."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "At baseline, 2104 participants had sarcopenia. Higher BRI was inversely associated with prevalent sarcopenia in the fully adjusted model (OR = 0.25, 95% CI: 0.23-0.27). The association was nonlinear, with elevated odds concentrated at lower values. During follow-up, 490 participants developed sarcopenia. Three BRI trajectories were identified: low-stable, moderate-stable, and high-rising. Compared with low-stable, adjusted odds ratios (95% confidence intervals) for incident sarcopenia were 0.12 (0.09-0.16) for moderate-stable and 0.04 (0.02-0.07) for high-rising."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Lower baseline BRI and persistently low BRI trajectories were associated with greater sarcopenia vulnerability, possibly reflecting a low-reserve body habitus. These findings suggest that BRI warrants further investigation as a potential marker of sarcopenia vulnerability in population-based research."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43043666/",
+   "doi": "https://doi.org/10.1093/postmj/qgag157",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43043495",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Impact of preoperative skeletal muscle mass and body mass index on the prognosis of patients with oral squamous cell carcinoma",
+   "revista": "Clin Oral Investig",
+   "autores": "Yamasaki E, Yamasaki S, Asada Y et al.",
+   "tipo_estudo": "",
+   "destaque": "Preoperative low SMM was independently associated with poorer OS in patients with OSCC and may provide additional prognostic information when assessed alongside BMI.",
+   "resumo": [
+    {
+     "rotulo": "Objectives",
+     "texto": "Skeletal muscle mass (SMM) and nutritional status influence cancer prognosis. Cancer-related systemic inflammation may drive muscle atrophy and loss of SMM. In this retrospective study, we evaluated the prognostic impact of preoperative SMM and body mass index (BMI) in patients with oral squamous cell carcinoma (OSCC)."
+    },
+    {
+     "rotulo": "Materials And Methods",
+     "texto": "Overall, 150 patients with OSCC (excluding carcinoma in situ) who underwent curative surgery at our department between 2010 and 2019 were included. SMM was quantified by the sternocleidomastoid muscle cross-sectional area at the third cervical vertebra (C3), using sex-specific cutoff values. BMI was categorized as underweight (<18.5), normal (18.5-<25), or obese (≥25). General condition was evaluated using the Geriatric Nutritional Risk Index (GNRI) and HALP score (Hemoglobin, Albumin, Lymphocyte, and Platelet), and their associations with overall survival (OS) were analyzed."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Overall, 32.6% of patients had low SMM. SMM was significantly correlated with BMI, GNRI, and HALP. SMM, reconstruction (present/absent), and a combined index of SMM and BMI were significantly associated with OS. Patients with low SMM and high BMI showed poorer survival. However, this subgroup comprised only five patients, and this finding should therefore be interpreted with caution. In univariable analysis, clinical stage, reconstruction, and SMM were significantly associated with OS. In multivariable analysis, SMM remained an independent prognostic factor."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Preoperative low SMM was independently associated with poorer OS in patients with OSCC and may provide additional prognostic information when assessed alongside BMI."
+    },
+    {
+     "rotulo": "Clinical Relevance",
+     "texto": "Preoperative assessment of SMM using routine computed tomography may improve risk stratification in patients with OSCC and help identify low SMM that may not be apparent from BMI alone."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43043495/",
+   "doi": "https://doi.org/10.1007/s00784-026-07271-2",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43042601",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Dietary inflammatory index and sarcopenia: a systematic review and meta-analysis",
+   "revista": "Crit Rev Food Sci Nutr",
+   "autores": "Vázquez-Lorente H, Gil-Vidal H, Calabuig-Montroy F et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Greater dietary inflammatory potential was associated with confirmed sarcopenia, but predominantly cross-sectional evidence, heterogeneous longitudinal findings, and potential small-study effects limit causal interpretation. Clinical application is premature; prospective cohorts with repeated dietary assessment and standardized outcomes, and intervention trials, are needed.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Dietary inflammatory potential may be associated with sarcopenia, but evidence is heterogeneous. We systematically reviewed associations of the Dietary Inflammatory Index (DII) and energy-adjusted DII (E-DII) with sarcopenia-related outcomes in adults. PubMed, Embase, and Web of Science were searched through 31 August 2026. Random-effects meta-analyses prioritized confirmed sarcopenia. Forty-seven eligible studies were included; 16 contributed to quantitative syntheses and six were prospective. In eight cross-sectional studies, the highest versus lowest DII/E-DII category was associated with greater odds of confirmed sarcopenia (OR = 1.75, 95% CI 1.37-2.24; I2=38.5%; 95% prediction interval 1.03-2.99). Four studies contributed to per-unit analysis (OR = 1.37, 95% CI 1.25-1.51; I2=0%; prediction interval 1.12-1.68). Component-specific evidence extended to muscle strength and physical performance. Exploratory Egger regression indicated funnel-plot asymmetry; trim-and-fill attenuated the primary categorical OR to 1.48 (95% CI 1.24-1.77) and the broad categorical OR to 1.53 (95% CI 1.34-1.76). Certainty was very low. Greater dietary inflammatory potential was associated with confirmed sarcopenia, but predominantly cross-sectional evidence, heterogeneous longitudinal findings, and potential small-study effects limit causal interpretation. Clinical application is premature; prospective cohorts with repeated dietary assessment and standardized outcomes, and intervention trials, are needed."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43042601/",
+   "doi": "https://doi.org/10.1080/10408398.2026.2763295",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43042482",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "When feeling active is not enough: the gap between perceived and real-world physical activity in axial spondyloarthritis",
+   "revista": "Reumatismo",
+   "autores": "Lukovic S, Tomonjic N, Vujovic Sestakov M et al.",
+   "tipo_estudo": "",
+   "destaque": "A substantial proportion of patients with axSpA in remission or low disease activity demonstrated discordance between self-reported PA and objectively recorded ambulatory activity. The history of peripheral arthritis and psychobehavioral factors were associated with reduced real-world movement despite inflammatory control.",
+   "resumo": [
+    {
+     "rotulo": "Objective",
+     "texto": "To assess physical activity (PA) in patients with axial spondyloarthritis (axSpA) using both self-reported and objectively measured parameters, quantify discordance between these measures, and identify factors associated with discrepant activity patterns."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "In this exploratory cross-sectional study, 63 patients with axSpA in remission or low disease activity according to ASDAS criteria were included. Self-reported PA was assessed using the International Physical Activity Questionnaire (IPAQ), while objectively recorded ambulatory activity was assessed using daily step count over seven consecutive days. A threshold of 7000 steps/day was applied. Patients reporting moderate-to-high IPAQ levels were stratified into concordant (≥7000 steps/day) and discordant (<7000 steps/day) activity patterns. Fatigue (FACIT-F), depressive symptoms, kinesiophobia (Tampa Scale), and sarcopenia risk (SARC-F) were assessed. Multivariable logistic regression was used to identify factors independently associated with discordance."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The cohort included 40 men (63.5%) and 23 women (36.5%), with a median age of 46 years [interquartile range (IQR) 37-53]. Median daily step count was 5924 steps/day (IQR 4138-8112), and 41 patients (65.1%) performed <7000 steps/day despite most reporting moderate-to-high PA by IPAQ. Lower objectively recorded ambulatory activity was associated with older age, longer disease duration, greater fatigue, depressive symptoms, and higher SARC-F scores (all p<0.05). Step count correlated positively with FACIT-F and inversely with SARC-F. Among patients reporting moderate-to-high PA (n=56), 35 (62.5%) demonstrated a discordant activity pattern. Peripheral arthritis was independently associated with discordance after adjustment for age and disease duration (odds ratio 8.98, 95% confidence interval 1.99-40.58; p=0.004)."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "A substantial proportion of patients with axSpA in remission or low disease activity demonstrated discordance between self-reported PA and objectively recorded ambulatory activity. The history of peripheral arthritis and psychobehavioral factors were associated with reduced real-world movement despite inflammatory control."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43042482/",
+   "doi": "https://doi.org/10.4081/reumatismo.2026.2414",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43044527",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Mechanisms linking sarcopenia to adverse outcomes following pancreatic cancer resection: A systematic review",
+   "revista": "Eur J Surg Oncol",
+   "autores": "Miążek A, Zmysłowska N, Frańczak P et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Sarcopenia is associated with poor postoperative outcomes through multiple, potentially interrelated pathways. However, mechanistic hypotheses are often inferred rather than directly investigated, and data on complications specific to pancreatic resection remain limited. Further research is needed to clarify causal pathways and inform targeted perioperative interventions.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Sarcopenia, a progressive loss of skeletal muscle mass and function, is particularly common in patients with pancreatic cancer. Its negative impact on the postoperative course is well known. However, the underlying mechanisms are heterogeneous and inconsistently reported across studies. We aimed to systematically synthesize and critically evaluate the current literature on the proposed mechanisms linking sarcopenia to adverse outcomes following pancreatic cancer resection."
+    },
+    {
+     "rotulo": "Materials And Methods",
+     "texto": "We followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. We searched Embase, Scopus, PubMed, Cochrane Library, Web of Science, and ClinicalTrials.gov from their inception through August 2025. We included English-language observational and interventional studies involving surgically treated patients with pancreatic cancer that not only reported associations between sarcopenia and surgical outcomes, but also discussed possible explanations."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The search identified 3944 records (3886 from databases and registers and 58 through citation searching), of which 38 studies met the inclusion criteria. We identified eight main categories of mechanisms: chronic systemic inflammation (23% of all reported mechanisms), association with aggressive tumor biology or advanced disease stage (17%), immune dysfunction (17%), metabolic dysregulation and hypercatabolism (14%), reduced functional reserve (11%), altered muscle-derived endocrine signaling (7%), malnutrition (6%), and impaired tissue healing (6%). Most studies reported survival outcomes, while relatively few examined postoperative complications."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Sarcopenia is associated with poor postoperative outcomes through multiple, potentially interrelated pathways. However, mechanistic hypotheses are often inferred rather than directly investigated, and data on complications specific to pancreatic resection remain limited. Further research is needed to clarify causal pathways and inform targeted perioperative interventions."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43044527/",
+   "doi": "https://doi.org/10.1016/j.ejso.2026.112380",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43045435",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Innovative Treatments for Obstructive Sleep Apnea",
+   "revista": "Neurol Clin",
+   "autores": "Khosla S, Sidorski K, Glinka S",
+   "tipo_estudo": "Revisão",
+   "destaque": "Implantable hypoglossal nerve stimulation systems, including Inspire and Food and Drug Administration-approved devices, offer effective treatment of patients with moderate-to-severe OSA. Together, these expanding options support a more personalized approach to OSA management.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "This article reviews current and emerging treatment options for obstructive sleep apnea (OSA), emphasizing alternatives for patients who cannot tolerate continuous positive airway pressure. Established therapies include mandibular advancement devices, which mechanically enlarge the airway and weight-loss interventions that address a major modifiable risk factor. Newer approaches include daytime tongue stimulation, intraoral negative pressure therapy, nasal expiratory positive airway pressure devices, positional therapy, and orofacial myofunctional therapy. Implantable hypoglossal nerve stimulation systems, including Inspire and Food and Drug Administration-approved devices, offer effective treatment of patients with moderate-to-severe OSA. Together, these expanding options support a more personalized approach to OSA management."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43045435/",
+   "doi": "https://doi.org/10.1016/j.ncl.2026.08.008",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43044770",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Tirzepatide and risk of nutritional deficiency anemia compared with GLP-1 receptor agonists in adults with type 2 diabetes and overweight or obesity",
+   "revista": "Diabetes Res Clin Pract",
+   "autores": "Tu KC, Huang KH, Liu MY et al.",
+   "tipo_estudo": "",
+   "destaque": "Tirzepatide initiation was associated with a modestly lower hazard of diagnosed NDA, predominantly iron deficiency anemia, than GLP-1RA initiation. Residual confounding and differences in follow-up and ascertainment limit causal interpretation.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Nutritional deficiency anemia (NDA) is a potential concern during incretin-based treatment, but its comparative occurrence with tirzepatide and glucagon-like peptide-1 receptor agonists (GLP-1RAs) remains uncertain."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We conducted a retrospective cohort study using the TriNetX database. Adults with type 2 diabetes and overweight or obesity who initiated tirzepatide or a GLP-1RA between January 1, 2022, and August 31, 2026, were identified. Patients with prior use of either treatment, NDA, type 1 diabetes, or bariatric surgery were excluded. After 1:1 propensity score matching, outcomes were assessed from day 1 through day 365. The primary outcome was a composite of iron, vitamin B12, or folate deficiency anemia."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The matched cohorts included 67,608 patients each. NDA occurred in 1,440 tirzepatide users (2.13%) and 1,917 GLP-1RA users (2.84%; hazard ratio [HR], 0.88; 95% confidence interval [CI], 0.83-0.95). Tirzepatide was associated with less iron deficiency anemia (HR, 0.87; 95% CI, 0.81-0.93), whereas estimates for vitamin B12 deficiency anemia (1.07; 0.83-1.38) and folate deficiency anemia (0.98; 0.56-1.71) were inconclusive."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Tirzepatide initiation was associated with a modestly lower hazard of diagnosed NDA, predominantly iron deficiency anemia, than GLP-1RA initiation. Residual confounding and differences in follow-up and ascertainment limit causal interpretation."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43044770/",
+   "doi": "https://doi.org/10.1016/j.diabres.2026.113675",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43045439",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Sleep Health and Well-being for the Neurologist",
+   "revista": "Neurol Clin",
+   "autores": "Dewey JJ, Miller-Kuhlmann RK, Molano JRV",
+   "tipo_estudo": "Revisão",
+   "destaque": "Cultural, occupational, and personal barriers frequently prevent the prioritization of sleep health. Improving sleep health through organizational support, healthy sleep habits, evaluation of sleep conditions, education and peer support can enhance clinician well-being, performance, resilience, and patient care.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Burnout is highly prevalent in neurologists and may be linked to challenges with sleep health. Poor sleep quality, insufficient sleep, and undiagnosed sleep conditions may also contribute to reduced empathy, depression, and medical errors. Evidence from medical students, residents and practicing physicians shows that challenges with sleep often begin during training and may persist throughout a clinician's career. Cultural, occupational, and personal barriers frequently prevent the prioritization of sleep health. Improving sleep health through organizational support, healthy sleep habits, evaluation of sleep conditions, education and peer support can enhance clinician well-being, performance, resilience, and patient care."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43045439/",
+   "doi": "https://doi.org/10.1016/j.ncl.2026.08.002",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43044498",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Co-combustion of digestate-derived hydrochar and pyrochar with anthracite: Combustion, emission, and ash behavior",
+   "revista": "J Environ Manage",
+   "autores": "Li J, Wen H, Tang L et al.",
+   "tipo_estudo": "",
+   "destaque": "Hydrochar blends also exhibited a 17.8%-35.7% reduction in the empirical slagging propensity index relative to the raw digestate blend, indicating a lower predicted slagging tendency. Overall, this study highlights the complementary advantages of hydrochar and pyrochar and establishes a \"carbonization-combustion-emission-ash\" framework for coal-biomass energy conversion.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "In line with China's biomass valorization strategy, this study compares hydrothermal carbonization (HTC) and pyrolysis of digestate for co-combustion with anthracite using TG-FTIR-MS, focusing on combustion performance, gaseous emissions, and ash behavior. Hydrochar enhanced initial-stage reactivity and reduced the ignition temperature of anthracite to approximately 300 °C, with the comprehensive combustion characteristic index (S), combustion stability index (Fi), and combustibility index (Ci) increasing by 0.4%-64.1%, 89.2%-201.6%, and 91.0%-198.8%, respectively. In contrast, pyrochar reduced the burnout temperature by 10.6%-12.8%, indicating a distinct combustion enhancement pathway. The theoretical-experimental differences in integrated CO2 ion-current responses were greater for hydrochar-anthracite blends (2.15-4.36 × 105 nA °C·mg-1) than for pyrochar blends (0.66-2.09 × 105 nA °C·mg-1). Relative to corresponding theoretical additive responses, hydrochar blends showed SO2 and NO signal suppression of 6.9%-11.1% and 5.4%-6.7%, respectively, whereas pyrochar blends exhibited lower experimental integrated SO2 and NO responses. These differences reflect distinct gas-release pathways associated with fuel composition and carbon structure. Two-dimensional correlation spectroscopy clarified gas-release sequences, while solid-state 13C NMR of representative chars supported the structural interpretation. ANN modeling showed good predictive performance for TG behavior within the experimental domain (R2 = 0.99526). Hydrochar blends also exhibited a 17.8%-35.7% reduction in the empirical slagging propensity index relative to the raw digestate blend, indicating a lower predicted slagging tendency. Overall, this study highlights the complementary advantages of hydrochar and pyrochar and establishes a \"carbonization-combustion-emission-ash\" framework for coal-biomass energy conversion."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43044498/",
+   "doi": "https://doi.org/10.1016/j.jenvman.2026.131391",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43044111",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Repeated Online Surveillance of Stress and Stress Management Effectiveness in Australian Adults (FocUS-R): Mixed Methods Pilot Study",
+   "revista": "JMIR Public Health Surveill",
+   "autores": "Hinwood M, Ditton E, Bowden S et al.",
+   "tipo_estudo": "",
+   "destaque": "Brief, repeated stress surveillance is feasible and can generate equity-informative signals. Pilot findings support a model in which adaptive skills are widely available, but their effective expression is shaped by structural conditions. The FocUS-R (Focus on Understanding Stress, Resilience, and Adaptability) platform may provide a scalable approach for monitoring population stress processes and identifying contexts where structural constraints may limit the effectiveness of behavioral strategies.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Trials of stress management interventions have shown modest and inconsistent effects. Emerging evidence suggests that structural constraints may limit the real-world effectiveness of behavioral strategies, yet this process has rarely been examined empirically. Population-level tools for monitoring stress and stress management processes over time remain limited."
+    },
+    {
+     "rotulo": "Objective",
+     "texto": "This study aimed to develop and pilot a mixed methods surveillance platform for repeated measurement of stress and stress management effectiveness in real-world contexts and to assess its feasibility, validity, and ability to detect equity-relevant patterns."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Adults living in Australia completed baseline assessments including sociodemographics, perceived stress (Perceived Stress Scale, 10-item version), psychological flexibility (Multidimensional Psychological Flexibility Inventory), social resources, and health measures. Participants then completed brief fortnightly surveillance surveys for up to 12 months, comprising 0 to 10 Visual Analogue Scale (VAS) ratings of stress and perceived stress management effectiveness, a stress-related symptom checklist, and open-ended reporting of stressors and coping strategies. We assessed feasibility, convergent validity of early VAS indicators, and preliminary equity patterning."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Seventy-seven participants completed baseline measures, and 1195 fortnightly check-ins were recorded as of June 2025. Early VAS stress demonstrated strong convergent validity with baseline perceived stress and stress symptoms. Despite the pilot recruitment skewing toward higher socioeconomic status, clear gradients were observed in both stress and stress management. Lower-income participants reported higher stress, lower perceived stress management, and fewer good stress management check-ins. Psychological flexibility was positively associated with stress management overall, but showed weaker associations among lower-income participants."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Brief, repeated stress surveillance is feasible and can generate equity-informative signals. Pilot findings support a model in which adaptive skills are widely available, but their effective expression is shaped by structural conditions. The FocUS-R (Focus on Understanding Stress, Resilience, and Adaptability) platform may provide a scalable approach for monitoring population stress processes and identifying contexts where structural constraints may limit the effectiveness of behavioral strategies."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43044111/",
+   "doi": "https://doi.org/10.2196/95505",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43043570",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Interactions Between Cancer and the Nervous System: a Review of Mechanisms and Therapeutic Opportunities in Cancer Neuroscience",
+   "revista": "Curr Neurol Neurosci Rep",
+   "autores": "Isakadze M, Sharma P, Garcia CR et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Beyond gliomas, sympathetic and parasympathetic inputs, as well as chronic stress-induced HPA axis activation, modulate angiogenesis, immune evasion, and metastasis. Neural regulation of cancer encompasses neurotrophic signaling, neurotransmitter pathways, ion channel activity, and stress-mediated neuroendocrine responses, collectively shaping tumor biology and revealing novel therapeutic targets.",
+   "resumo": [
+    {
+     "rotulo": "Purpose Of Review",
+     "texto": "The emerging field of cancer neuroscience investigates how neural activity shapes tumor initiation, progression, and therapeutic response. Recent research aims to define the bidirectional communication between neurons, glial cells, and tumor cells, and to clarify how neural signals influence the tumor microenvironment (TME)."
+    },
+    {
+     "rotulo": "Recent Findings",
+     "texto": "Neuronal activity promotes glioma growth via paracrine mediators such as neuroligin-3 (NLGN3), BDNF, TSP-1 and IGF-1, activating PI3K-mTOR signaling and supporting tumor proliferation. Cancer cells also exploit glutamatergic synapses, with AMPA and NMDA receptor activity driving survival and invasion, suggesting opportunities for repurposing antiseizure drugs such as perampanel. Ionic signaling through K⁺ and Ca²⁺ channels further facilitate tumor-neuron coupling. Beyond gliomas, sympathetic and parasympathetic inputs, as well as chronic stress-induced HPA axis activation, modulate angiogenesis, immune evasion, and metastasis. Neural regulation of cancer encompasses neurotrophic signaling, neurotransmitter pathways, ion channel activity, and stress-mediated neuroendocrine responses, collectively shaping tumor biology and revealing novel therapeutic targets."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43043570/",
+   "doi": "https://doi.org/10.1007/s11910-026-01540-z",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43041805",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Impact of Cognitive Remediation Combined With Transcranial Direct Current Stimulation on Gray Matter Macrostructure and Microstructure in Older Adults at Risk for Alzheimer's Dementia",
+   "revista": "Biol Psychiatry Glob Open Sci",
+   "autores": "Chen Y, Rajji TK, Zhukovsky P et al.",
+   "tipo_estudo": "",
+   "destaque": "CR+tDCS does not produce uniform structural changes but interacts with baseline macro- and microstructure to shape longitudinal trajectories. Findings support the potential for precision approaches in preventive interventions for older adults at risk for AD.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Older adults with remitted major depressive disorder or mild cognitive impairment (MCI) are at an increased risk for Alzheimer's dementia (AD). Cognitive remediation (CR) plus transcranial direct current stimulation (tDCS) slows cognitive decline in this population; however, its effects on gray matter macro- and microstructure have not been characterized. We investigated whether CR+tDCS alters cortical structure and whether baseline factors such as brain structure moderate potential changes."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Participants from the PACt-MD (Prevention of Alzheimer's Dementia with CR plus tDCS in Mild Cognitive Impairment and Depression) trial received active or sham CR+sham tDCS for 8 weeks and were followed for 2 to 7 years. Gray matter macrostructure (cortical thickness and surface area) was measured via T1-weighted magnetic resonance imaging at baseline, after acute treatment (N = 181), and at study completion (n = 102). Microstructure was assessed using neurite orientation dispersion and density imaging (NODDI). Mixed-effects models examined treatment effects and moderation by baseline factors across brain regions."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "No effects of CR+tDCS were observed on gray matter macro- or microstructure. Baseline cortical thickness moderated temporal lobe thickness changes, strongest in the entorhinal cortex over follow-up (p FDR = .010). Baseline NODDI measures moderated microstructural changes, strongest in the rostral middle frontal orientation dispersion index after acute treatment (p FDR < .001). There were no moderation effects of diagnosis or APOE status."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "CR+tDCS does not produce uniform structural changes but interacts with baseline macro- and microstructure to shape longitudinal trajectories. Findings support the potential for precision approaches in preventive interventions for older adults at risk for AD."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43041805/",
+   "doi": "https://doi.org/10.1016/j.bpsgos.2026.100834",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43041759",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Social prescribing interventions for pre-frail or frail older adults: a scoping review",
+   "revista": "Int J Nurs Stud Adv",
+   "autores": "Chen X, Zhan M, Li X et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "This appears to be the first scoping review to systematically map and synthesize the existing evidence on social prescribing interventions specifically targeting pre-frail and frail older adults. The findings suggest that social prescribing holds promise as a feasible, acceptable, and potentially beneficial approach across multiple domains. Future efforts necessitate more rigorous, theory-driven, and co-designed research that deliberately integrates nursing roles, person-centered frameworks, and behavior change techniques to better support this vulnerable population.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Frailty contributes to adverse health outcomes and substantial healthcare burden, and social prescribing, as an innovative health-promoting approach, holds promise for addressing the complex needs of frail older adults; however, evidence in this population remains scarce."
+    },
+    {
+     "rotulo": "Objectives",
+     "texto": "To systematically map and synthesize evidence on social prescribing interventions for pre-frail or frail older adults."
+    },
+    {
+     "rotulo": "Method",
+     "texto": "This scoping review followed the Arksey and O'Malley framework and Joanna Briggs Institute guidance and was prospectively registered on the Open Science Framework (https://osf.io/apjq7). Eight electronic databases were searched from inception to August 17, 2025, and updated on March 4, 2026, supplemented by reference-list searching. Findings were synthesized narratively."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Eighteen reports (corresponding to 11 unique studies conducted across seven countries) were included. Referrals were driven by physical/functional decline, psychosocial needs, healthcare system gaps, and risk prevention via clinical pathways, proactive community outreach, and self-referrals. Identifiers included clinical professionals, community administrators, and nursing academic personnel. Connectors comprised medical professionals, community/lay personnel, and nursing academic personnel. Interventions involved lifestyle, psychosocial, and material support delivered face-to-face or remotely. Quantitative findings suggested potential feasibility and acceptability, moderate costs, and reported decreases in emergency visits and healthcare expenditure. Preliminary evidence indicated potential attenuation of frailty, improvements in physical function, reductions in falls and fear of falling, enhanced daily functional capacity, and stabilization of inflammatory markers. Available studies also reported improvements in mental health, cognitive function, nutritional status, chronic disease self-management, and perceived social support. Qualitative findings identified hybrid delivery modes with digital guidance, person-centered professional support, and social engagement as key facilitators of participation, adherence, and sustained behavior change, with enhanced self-efficacy further consolidating outcomes. Geographical and social barriers, lack of social support, new health challenges, and low intrinsic motivation hindered behavior maintenance; participants coped through adaptive strategies including use of assistive devices, activity pacing, lowering goal expectations, and temporarily reducing activity during pain or fatigue."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "This appears to be the first scoping review to systematically map and synthesize the existing evidence on social prescribing interventions specifically targeting pre-frail and frail older adults. The findings suggest that social prescribing holds promise as a feasible, acceptable, and potentially beneficial approach across multiple domains. Future efforts necessitate more rigorous, theory-driven, and co-designed research that deliberately integrates nursing roles, person-centered frameworks, and behavior change techniques to better support this vulnerable population."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43041759/",
+   "doi": "https://doi.org/10.1016/j.ijnsa.2026.100728",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43043697",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Intranasal delivery of a ROS-activatable myeloperoxidase inhibitor alleviates Alzheimer's-like symptoms and pathology",
+   "revista": "Proc Natl Acad Sci U S A",
+   "autores": "Wang J, Cong P, Feng E et al.",
+   "tipo_estudo": "",
+   "destaque": "RNA sequencing revealed a robust hippocampal transcriptomic reprogramming, with upregulation of pathways critical for synaptic plasticity, calcium signaling, axon guidance, and neuroprotection, along with downregulation of inflammatory and immune response pathways. These findings demonstrate that targeted ROS-activatable MPO inhibition with LERAMI represents a promising therapeutic strategy for AD and potentially other neuroinflammatory diseases, offering a unique approach to mitigate neuroinflammation, preserve synaptic integrity, and restore cognitive function.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Chronic neuroinflammation and oxidative stress are important contributors to Alzheimer's disease (AD). Myeloperoxidase (MPO), a key driver of oxidative inflammation released mainly by activated microglia in the neurodegenerative brain, is a potential therapeutic target to inhibit the neuroinflammatory cascade and oxidative damage in AD, but the underlying mechanisms remain unexplored, and achieving targeted brain delivery of an MPO inhibitor and minimizing systemic effects remain significant challenges. We addressed these limitations by first establishing that genetic deletion of MPO in the 5XFAD mouse model improved memory performance and reduced amyloid deposition, validating MPO as a therapeutic target. We then developed a liposome-encapsulated reactive oxygen species (ROS)-activatable MPO inhibitor (LERAMI). LERAMI uniquely combines targeted delivery with on-demand drug release, utilizing a ROS-sensitive linker to selectively release MPO inhibitors in ROS-rich regions within the AD microenvironment, minimizing off-target effects and systemic toxicity. In the 5XFAD mouse model. By reducing MPO expression and activity, LERAMI significantly improved cognitive performance, accompanied by decreased microglial activation, attenuated oxidative DNA damage, improved synaptic and neuronal density, and reduced amyloid burden. RNA sequencing revealed a robust hippocampal transcriptomic reprogramming, with upregulation of pathways critical for synaptic plasticity, calcium signaling, axon guidance, and neuroprotection, along with downregulation of inflammatory and immune response pathways. These findings demonstrate that targeted ROS-activatable MPO inhibition with LERAMI represents a promising therapeutic strategy for AD and potentially other neuroinflammatory diseases, offering a unique approach to mitigate neuroinflammation, preserve synaptic integrity, and restore cognitive function."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43043697/",
+   "doi": "https://doi.org/10.1073/pnas.2603280123",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
   },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261116014842-htm",
@@ -2256,6 +3129,52 @@
    "visto_em": "2026-11-17T10:56:04.219996+00:00"
   },
   {
+   "id": "pmid-43030521",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Early Body-Composition Trajectory During Tirzepatide Treatment for Obesity: A Real-World Bioimpedance Cohort Study",
+   "revista": "J Clin Med",
+   "autores": "Zafer E, Çekiç D, Genç AB et al.",
+   "tipo_estudo": "",
+   "destaque": "Conclusions: Early weight loss during tirzepatide treatment was predominantly fat mass, with a BIA-derived FFM fraction numerically close to the commonly cited one-fourth. Because device-FFM equaled TBW divided by a fixed coefficient of 0.731 at every visit, it cannot separate water from lean tissue and is best read as an upper bound on lean tissue loss rather than a measure of muscle.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Background/Objectives: Whether the loss of fat-free mass (FFM) during tirzepatide treatment exceeds the proportion expected in negative energy balance is debated, and the earliest weeks of treatment are the least characterized. We described the body-composition trajectory over the first 12 weeks of treatment in routine care. Methods: In this retrospective cohort of adults with obesity starting tirzepatide monotherapy, body weight, fat mass, FFM, total body water (TBW), and waist circumference were measured by single-frequency, foot-to-foot bioelectrical impedance analysis (BIA) at baseline and at approximately 4, 8, and 12 weeks, and were analyzed with linear mixed-effects models; follow-up values are available-data, on-treatment estimates. Results: Of 476 patients (mean age 40 years, 66% female, mean body-mass index 38.7 kg/m2), 268 had follow-up data and 111 were measured at 12 weeks. Estimated marginal body weight fell by 11.22 kg (10.4%), fat mass by 7.90 kg (16.8%), and BIA-derived FFM by 3.35 kg (5.4%) at 12 weeks (all p < 0.001); assuming 5-kg-less loss in patients without a 12-week measurement, the mean loss remained 7.4 kg. Of patients measured at 12 weeks, 89.2% had lost at least 5% and 57.7% at least 10% of body weight. In patients with complete data at baseline and 12 weeks (n = 85), fat mass accounted for 68.3% (95% CI 56.1 to 80.8) of the weight lost. Conclusions: Early weight loss during tirzepatide treatment was predominantly fat mass, with a BIA-derived FFM fraction numerically close to the commonly cited one-fourth. Because device-FFM equaled TBW divided by a fixed coefficient of 0.731 at every visit, it cannot separate water from lean tissue and is best read as an upper bound on lean tissue loss rather than a measure of muscle."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43030521/",
+   "doi": "https://doi.org/10.3390/jcm15218377",
+   "data": "2026-11-14T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43030438",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Practical Challenges of Switching and Cross-Titration Between Incretin-Based Therapies in Type 2 Diabetes and Obesity: A Narrative Review",
+   "revista": "J Clin Med",
+   "autores": "Makuc J, Janić M",
+   "tipo_estudo": "Revisão",
+   "destaque": "Special populations, persistence, discontinuation, weight regain, and the emerging pipeline of multi-agonists and oral small molecules are addressed where they modify switching decisions. Until the evidence matures, individualized reason-specific transitions that preserve the continuity of incretin-based therapy offer the most defensible framework for practice.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Glucagon-like peptide-1 (GLP-1) receptor agonists and the dual glucose-dependent insulinotropic polypeptide (GIP)/GLP-1 receptor agonist tirzepatide have transformed the treatment of type 2 diabetes mellitus (T2DM) and obesity. Although these agents share an incretin-based mode of action, they differ in structure, receptor pharmacology, pharmacokinetics, formulation, and titration schedule, and the individual treatment response is highly heterogeneous. Switching between agents occurs in roughly one in four to one in three patients in real-world practice, yet no standardized protocol exists: recommendations rest largely on expert consensus, and no official dose-equivalence chart has been issued. This narrative review critically evaluates evidence for switching and cross-titration between incretin-based therapies; summarizes, insofar as they inform switching decisions, the pharmacological diversity and response heterogeneity that motivate switching; and translates the evaluated evidence into a stepwise practical switching algorithm, developed by the authors as an evidence-informed expert synthesis that has not been formally validated. Special populations, persistence, discontinuation, weight regain, and the emerging pipeline of multi-agonists and oral small molecules are addressed where they modify switching decisions. Until the evidence matures, individualized reason-specific transitions that preserve the continuity of incretin-based therapy offer the most defensible framework for practice."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43030438/",
+   "doi": "https://doi.org/10.3390/jcm15218295",
+   "data": "2026-11-14T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261111005911-htm",
    "fonte": "ScienceDaily",
    "tipo_fonte": "noticia",
@@ -3772,7 +4691,7 @@
     },
     {
      "rotulo": "Results",
-     "texto": "Ob participants (n=210, 74.8% female) were younger, had higher BMI, better glycemic control, and less previous GLP-1RA exposure than ObT2D participants (n=378, 49.7% female) (45.7% vs 79.3%; p<0.001). Weight loss was greater in Ob than ObT2D at all follow-ups (-5.0% vs -2.8%, -10.1% vs -3.3%, and -14.2% vs -4.7%; all p≤0.011), with mixed-effects models confirming different trajectories. This difference was attenuated and no longer statistically significant when analyses were restricted to treatment-naïve participants. Prior GLP-1RA exposure was independently associated with lower weight loss, while an interaction between prior GLP-1RA exposure and T2D status emerged at longer follow-up. No effect modification by sex or age was clearly detectable in this cohort. Discontinuation was more frequent in Ob, with adverse events, and financial barriers among the main reported reasons. Adverse events occurred in 16.9%, were mainly mild, transient gastrointestinal events, more frequent in Ob than ObT2D (26.9% vs 11.1%; p<0.001)."
+     "texto": "Ob participants (n = 210, 74.8% female) were younger, had higher BMI, better glycemic control, and less previous GLP-1RA exposure than ObT2D participants (n = 378, 49.7% female) (45.7%vs 79.3%; p < 0.001). Weight loss was greater in Ob than ObT2D at all follow-ups (-5.0% vs -2.8%, -10.1% vs -3.3%, and -14.2% vs -4.7%; all p ≤ 0.011), with mixed-effects models confirming different trajectories. This difference was attenuated and no longer statistically significant when analyses were restricted to treatment-naïve participants. Prior GLP-1RA exposure was independently associated with lower weight loss, while an interaction between prior GLP-1RA exposure and T2D status emerged at longer follow-up. No effect modification by sex or age was clearly detectable in this cohort. Discontinuation was more frequent in Ob, with adverse events, and financial barriers among the main reported reasons. Adverse events occurred in 16.9%, were mainly mild, transient gastrointestinal events, more frequent in Ob than ObT2D (26.9%vs 11.1%; p < 0.001)."
     },
     {
      "rotulo": "Conclusions",
@@ -9422,6 +10341,52 @@
    "visto_em": "2026-11-09T13:49:58.995883+00:00"
   },
   {
+   "id": "pmid-42994432",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Effects of dietary carbohydrate-to-fat ratio on the gut microbiome following weight loss",
+   "revista": "Cell Rep Med",
+   "autores": "Kohli A, Hron BM, Ebbeling CB et al.",
+   "tipo_estudo": "Ensaio clínico randomizado",
+   "destaque": "We do not detect compositional changes in the microbiome when diets vary carbohydrate-to-fat ratio, while controlling for other potentially confounding dietary factors. Changes in Shuttleworthia abundance correlate positively with maintenance of total energy expenditure following weight loss, suggesting a link between the gut microbiome and energy metabolism.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Reducing dietary carbohydrates can improve metabolic health, yet the precise influence of carbohydrate restriction on the gut microbiome remains uncertain. Here, we report an ancillary study to the Framingham State Food Study, or FS(2), a controlled, randomized feeding trial involving adults with overweight and obesity. After a calorie-restriction phase to induce weight loss, we randomized participants to diets varying in energy from carbohydrate and fat (low-carb: 20% carb, 60% fat; moderate-carb: 40% carb, 40% fat; high-carb: 60% carb, 20% fat) for weight-loss maintenance for 20 weeks. Weight loss results in significant microbiome shifts, mirroring known associations. We do not detect compositional changes in the microbiome when diets vary carbohydrate-to-fat ratio, while controlling for other potentially confounding dietary factors. Changes in Shuttleworthia abundance correlate positively with maintenance of total energy expenditure following weight loss, suggesting a link between the gut microbiome and energy metabolism."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42994432/",
+   "doi": "https://doi.org/10.1016/j.xcrm.2026.103137",
+   "data": "2026-11-06T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-42994049",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Gene-environment interaction in the link between relationship conflict and hair cortisol concentration in adolescence",
+   "revista": "Psychoneuroendocrinology",
+   "autores": "Rocoma J, Brendgen M, Ouellet-Morin I et al.",
+   "tipo_estudo": "",
+   "destaque": "Similar moderating effects were not detected for conflict with the mother or best friend. These findings suggest that, in adolescents experiencing higher levels of current father-youth conflict, the stress-regulatory mechanisms of the HPA axis may be especially susceptible to additional-either protective or aggravatingsources of environmental influence.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Adolescence is marked by an increased frequency of conflict with parents and friends. Although conflict within these relationships has been linked to dysregulated hair cortisol concentration (HCC), the genetic and environmental mechanisms contributing to this association remain poorly understood. This study examined whether conflict with parents and friends during adolescence is associated with HCC and whether current conflicts interact with genetic and environmental contributions to cortisol levels, independently of past conflict. Participants were 158 Monozygotic and 248 Dizygotic twin pairs (54% girls; 86% Whites, 6% Blacks, 6% Asians, 0.3% Native North Americans). Relationship conflict with the mother, father, and best friend was measured through adolescents' self-reports from ages 13-19 years (4 assessments), and hair samples were collected for cortisol measurement at age 19. Biometric modeling revealed no association between current or past conflict with either social agent and HCC. However, current conflict with the father reduced the strength of genetic influences on HCC, coinciding with a relative increase of environmental influences. Similar moderating effects were not detected for conflict with the mother or best friend. These findings suggest that, in adolescents experiencing higher levels of current father-youth conflict, the stress-regulatory mechanisms of the HPA axis may be especially susceptible to additional-either protective or aggravatingsources of environmental influence."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42994049/",
+   "doi": "https://doi.org/10.1016/j.psyneuen.2026.108070",
+   "data": "2026-11-06T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261104084017-htm",
    "fonte": "ScienceDaily",
    "tipo_fonte": "noticia",
@@ -11501,6 +12466,80 @@
     "estresse"
    ],
    "visto_em": "2026-11-17T10:56:04.219996+00:00"
+  },
+  {
+   "id": "pmid-42981748",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "ZeXieYin formula attenuates trimethylamine N-oxide- induced atherosclerosis and cognitive impairment by regulating microglial-neuronal signaling and autophagy",
+   "revista": "J Ethnopharmacol",
+   "autores": "Wu W, He Y, Zhang X et al.",
+   "tipo_estudo": "",
+   "destaque": "ZXYF ameliorates AS-CI by reducing TMAO levels, inhibiting microglial activation and the release of CCL3/4/5, thereby blocking the neuronal CCR5-mTOR signaling axis, restoring autophagic function and alleviating neuroinflammation.",
+   "resumo": [
+    {
+     "rotulo": "Ethnopharmacological Relevance",
+     "texto": "ZeXieYin Formula (ZXYF), a classic traditional Chinese medicine decoction first documented in the Huangdi Neijing (an ancient Chinese medical text), traditionally used to treat patterns of internal accumulation of phlegm turbidity and deficiency of healthy qi-a pathogenesis closely associated with atherosclerosis and cognitive impairment, and which is composed of three medicinal herbs-Alisma plantago-aquatica L. (Zexie, Water Plantain Rhizome, dried tuber), Atractylodis macrocephala Koidz. (Baizhu, Largehead Atractylodes Rhizome, dried rhizome), and Pyrola calliantha Andres. (Luxiancao, Chinese Pyrola Herb, whole herb)-in a 2:2:1 ratio. For the preparation of ZXYF decoction, Zexie (200 g), Baizhu (200 g), and Luxiancao (100 g) were accurately weighed. ZXYF has been observed in our previous studies to reduce trimethylamine N-oxide (TMAO) levels, exert anti-inflammatory and lipid-lowering effects and alleviate atherosclerosis (AS) while improving cognitive function."
+    },
+    {
+     "rotulo": "Aim Of The Study",
+     "texto": "To investigate whether ZXYF ameliorates TMAO-induced AS with concurrent cognitive impairment (AS-CI) by modulating microglia-mediated paracrine signaling and subsequent neuroinflammation."
+    },
+    {
+     "rotulo": "Materials And Methods",
+     "texto": "To create an AS-CI model in vivo, Apolipoprotein E-deficient mice(ApoE-/- mice) were given a high-fat diet (containing the TMAO precursor choline) for 8 weeks. ZXYF (6.5, 13 g/kg) was administered via gavage. Aortic plaques were evaluated by Oil Red O staining, cognitive function was detected by behavioral tests (Y-maze, Morris water maze, and novel object recognition), and TMAO levels in brain tissue and serum were examined by Ultra-performance liquid chromatography-electrospray ionization tandem mass spectrometry (UPLC-ESI-MS/MS). Immunofluorescence, immunohistochemistry, and transmission electron microscopy (TEM) were used to evaluate microglial activation, C-C chemokine receptor type 5 (CCR5) expression, microtubule-associated protein 1 light chain 3 (LC3) expression, toxic proteins deposition, and autophagic ultrastructure in the hippocampus. Enzyme-linked immunosorbent assay (ELISA) and Western blot were performed to detect the protein expression of chemokines, factors that promote inflammation, and related signaling pathways. In vitro, a paracrine model of BV2 microglia and HT22 neurons was established, and autophagic flux was detected by transfection with green fluorescent protein-red fluorescent protein-LC3 (GFP-RFP-LC3) lentivirus. CCR5 antagonist maraviroc, mTOR inhibitor rapamycin, and ZXYF-containing serum were used for intervention to verify the signaling pathway mechanism."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "ZXYF treatment significantly reduced aortic plaque area, enhanced working, spatial, and recognition memory (p < 0.05), and concurrently lowered TMAO levels in both brain tissue and serum. ZXYF prevented hippocampus microglial activation and the MAPK/NF-κB inflammatory cascade, and downregulated the release of proinflammatory factors. Mechanistic studies showed that ZXYF markedly reduced the expression of chemokines C-C motif chemokine ligand 3 (CCL3), C-C motif chemokine ligand 4 (CCL4) and C-C motif chemokine ligand 5 (CCL5) in the brain, inhibited the expression of their receptor CCR5 and downstream mTOR phosphorylation, thereby restoring neuronal autophagy (increasing the number of autophagosomes, upregulating LC3-II and Beclin1, and downregulating sequestosome 1 (p62)) and reducing the deposition of amyloid-beta (Aβ) and phosphorylated Tau (p-Tau) proteins. In vitro experiments supported that the conditioned medium of activated microglia induced autophagy inhibition and neuroinflammation through the CCL3/4/5-CCR5-mTOR axis, while maraviroc, rapamycin and ZXYF-containing serum could block this effect and restore autophagic flux."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "ZXYF ameliorates AS-CI by reducing TMAO levels, inhibiting microglial activation and the release of CCL3/4/5, thereby blocking the neuronal CCR5-mTOR signaling axis, restoring autophagic function and alleviating neuroinflammation."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42981748/",
+   "doi": "https://doi.org/10.1016/j.jep.2026.122572",
+   "data": "2026-11-04T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-42980671",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "White-matter microstructural alterations and cross-sectional thyroid hormone-cognition associations in hypothyroidism",
+   "revista": "Eur Thyroid J",
+   "autores": "Cao J, Zhang H, Zou Q et al.",
+   "tipo_estudo": "",
+   "destaque": "In this cohort, OH was associated with more extensive differences in DTI-derived WM measures than SCH. The exploratory indirect associations through left PTR FA do not establish a temporal or causal pathway.",
+   "resumo": [
+    {
+     "rotulo": "Purpose",
+     "texto": "Hypothyroidism is associated with cognitive and emotional dysfunction, which may be accompanied by alterations in white-matter (WM) microstructure. However, few studies have compared diffusion tensor imaging (DTI) measures and clinical correlates across overt hypothyroidism (OH), subclinical hypothyroidism (SCH), and healthy controls (HCs). We investigated DTI-derived WM microstructural measures and their associations with thyroid function and neuropsychiatric performance in adult-onset hypothyroidism."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We enrolled 44 patients with OH, 41 with SCH, and 53 HCs. Thyroid function, neuropsychiatric assessments, and DTI data were collected. Age, sex, and years of education were entered simultaneously as covariates in all inferential group-comparison models, exploratory two-sided partial Spearman correlations, and exploratory cross-sectional indirect-effect models, except when these covariates themselves were the descriptive variables being compared."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Both the OH and SCH groups had lower Montreal Cognitive Assessment (MoCA) scores and higher depression scores than HCs. Compared with the SCH and HC groups, the OH group showed more extensive between-group differences in DTI-derived metrics; no SCH-HC differences survived family-wise error correction. Within the OH group, DTI measures showed nominal, covariate-adjusted exploratory associations with thyroid hormone concentrations and neuropsychiatric scores. Exploratory covariate-adjusted models identified indirect associations of total triiodothyronine (TT3) and total thyroxine (TT4) with MoCA through fractional anisotropy (FA) of the left posterior thalamic radiation (PTR). The corresponding total and direct associations were not statistically significant."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "In this cohort, OH was associated with more extensive differences in DTI-derived WM measures than SCH. The exploratory indirect associations through left PTR FA do not establish a temporal or causal pathway."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42980671/",
+   "doi": "https://doi.org/10.1530/ETJ-25-0397",
+   "data": "2026-11-04T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-18T10:56:34.917001+00:00"
   },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261101010549-htm",
