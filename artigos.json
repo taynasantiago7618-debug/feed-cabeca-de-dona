@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-18T10:56:34.917001+00:00",
+ "atualizado_em": "2026-11-19T10:55:25.099930+00:00",
  "titulo": "Feed Científico Cabeça de Dona",
  "subtitulo": "Ciência nova, todo dia, sobre o que move a sua saúde",
  "temas": [
@@ -30,6 +30,123 @@
   }
  ],
  "artigos": [
+  {
+   "id": "pmid-43053641",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Stress Related to Individual Life Circumstances and Worry About Global Issues as Distinct but Related Predictors of Psychological Health in Canadian Young Adults",
+   "revista": "Stress Health",
+   "autores": "Gilbert WA, Kotiuga J",
+   "tipo_estudo": "",
+   "destaque": "In addition to revealing an interplay between individual and collective issues, these findings highlight the relevance of global-issue-related worry to young adults' psychological health, with statistically significant associations observed across both concurrent and prospective assessments. Efforts to promote young Canadians' mental health may therefore benefit from considering and addressing both their individual life circumstances and broader societal conditions.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Young adults' psychological health has deteriorated in many developed countries over the past decade, including Canada. To further understand this negative trend, this study documented stress related to individual life circumstances (e.g., finances, housing) and worry about global issues (e.g., climate change, world conflicts) and investigated their cross-sectional and prospective associations with psychological health. A sample of 1149 individuals from Canada (Mage = 24.84, SDage = 2.75) completed an online questionnaire in Winter 2025. Of these, 517 participants completed a six-month follow-up. Between 25% and 64% of participants reported being moderately to highly stressed about their life circumstances. Similarly, 32%-43% reported being frequently to constantly worried about global issues. Individual stressors were associated with greater distress (anxiety, depression) and lower well-being at T1, but not at T2, whereas global-issue-related worry was associated with greater distress at T1, and with higher anxiety and lower well-being at T2. Moderation analyses revealed that global-issue-related worry at T1 was positively associated with well-being, but only at high levels of individual stress whereas the negative association between individual stressors and well-being was weaker among participants who reported worrying more frequently about global issues. In addition to revealing an interplay between individual and collective issues, these findings highlight the relevance of global-issue-related worry to young adults' psychological health, with statistically significant associations observed across both concurrent and prospective assessments. Efforts to promote young Canadians' mental health may therefore benefit from considering and addressing both their individual life circumstances and broader societal conditions."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43053641/",
+   "doi": "https://doi.org/10.1002/smi.70242",
+   "data": "2026-11-19T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43052605",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Support needs and psychosocial stress among LGBTQ+ cancer caregivers: implications for supportive care across the continuum",
+   "revista": "Support Care Cancer",
+   "autores": "Valenti K, Xiao C, Billings R et al.",
+   "tipo_estudo": "Revisão sistemática",
+   "destaque": "LGBTQ + cancer caregivers face psychosocial and structural challenges, demanding equity-focused interventions. Findings underscore the need for affirming communication, inclusive caregiving policies, and culturally responsive supportive care, particularly during palliative and end-of-life care and bereavement. Future research should prioritize intersectionality, caregiver mental health, and legal recognition to advance supportive care practice and policy.",
+   "resumo": [
+    {
+     "rotulo": "Purpose",
+     "texto": "LGBTQ + caregivers of individuals with cancer experience heightened psychosocial stress due to minority stress, social exclusion, and discrimination in healthcare settings. Despite increasing attention to LGBTQ + health, caregiver-specific needs across the cancer care continuum remain insufficiently synthesized in relation to supportive care policy and practice. This review synthesizes empirical evidence on the experiences, challenges, and support needs of LGBTQ + cancer caregivers."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A mixed-methods systematic review was conducted in accordance with PRISMA guidelines. Studies published between January 2010 and June 2025 were identified through searches of 12 databases, including CINAHL, Cochrane CENTRAL, Embase, PubMed, PsycINFO, and Web of Science. Eligible studies employed qualitative, quantitative, or mixed-methods designs and explicitly examined LGBTQ + caregivers of individuals with cancer."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Fourteen studies met inclusion criteria. Caregivers reported high levels of psychological distress, minority stress, medical mistrust, and fears of discrimination. Structural challenges included financial hardship, limited legal recognition, and lack of tailored resources. Dyadic and chosen family relationships shaped caregiving dynamics, while social support networks provided partial buffering effects. Intersectional inequities (e.g., race, gender identity, and income) compounded caregiving burdens, with implications for supportive care access and delivery. Few studies examined bereavement in depth, highlighting a critical gap."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "LGBTQ + cancer caregivers face psychosocial and structural challenges, demanding equity-focused interventions. Findings underscore the need for affirming communication, inclusive caregiving policies, and culturally responsive supportive care, particularly during palliative and end-of-life care and bereavement. Future research should prioritize intersectionality, caregiver mental health, and legal recognition to advance supportive care practice and policy."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43052605/",
+   "doi": "https://doi.org/10.1007/s00520-026-11478-0",
+   "data": "2026-11-19T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43052627",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Astrocytic Gq Signaling in Mice Enhances Glial Engagement With Amyloid Plaques and Promotes Plaque Clearance In Vivo",
+   "revista": "Glia",
+   "autores": "Crooks AM, Hogan-Cann AE, Schmidt SD et al.",
+   "tipo_estudo": "",
+   "destaque": "Together, these findings demonstrate that astrocytic Gq signaling is sufficient to reprogram plaque-associated glial interactions toward a clearance-associated phenotype in vivo. Our results identify astrocytic Gq signaling as an important regulator of the multicellular plaque environment and a potential pathway for modulating glial responses in Alzheimer's disease.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Alzheimer's disease (AD) is characterized by the progressive accumulation of extracellular amyloid-β (Aβ) plaques, aberrant tau phosphorylation and aggregation, neuroinflammation, and cognitive decline, with growing evidence implicating glial dysfunction as a key driver of disease progression. While astrocytes and microglia accumulate around Aβ plaques and influence their clearance, the intracellular signaling pathways that regulate these glial responses in vivo remain poorly defined. We investigated whether sustained activation of Gq-coupled signaling in astrocytes or microglia modulates amyloid pathology in humanized amyloid precursor protein (App) knock-in mouse models of AD. Amyloid mouse models were crossed with tamoxifen-inducible transgenic lines expressing the hM3Dq designer receptor in either astrocytes or microglia to enable cell-type-specific activation of Gq signaling, to avoid the confound of viral expression in glial cells. Sustained astrocytic Gq signaling significantly increased astrocyte accumulation around plaques and reduced plaque burden in both the cortex and hippocampus. Astrocytic Gq signaling was further associated with Aβ reactivity within both astrocytic and microglial compartments, along with enhanced microglial recruitment and elevated expression of lysosomal/phagocytic markers. In contrast, chronic activation of microglial Gq signaling alone did not measurably alter Aβ plaque burden under the experimental conditions tested. Together, these findings demonstrate that astrocytic Gq signaling is sufficient to reprogram plaque-associated glial interactions toward a clearance-associated phenotype in vivo. Our results identify astrocytic Gq signaling as an important regulator of the multicellular plaque environment and a potential pathway for modulating glial responses in Alzheimer's disease."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43052627/",
+   "doi": "https://doi.org/10.1002/glia.70253",
+   "data": "2026-11-19T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "rss-https-www-sciencedaily-com-releases-2026-11-261114202137-htm",
+   "fonte": "ScienceDaily",
+   "tipo_fonte": "noticia",
+   "titulo": "MIT discovers that aging weakens the brain’s nighttime cleaning system",
+   "revista": "",
+   "autores": "",
+   "tipo_estudo": "",
+   "destaque": "MIT researchers have discovered that the brain’s natural waste-removal system becomes significantly less effective during sleep as people age. The decline is linked to weaker deep-sleep brain waves and changes in blood flow, potentially offering new clues about why aging increases the risk of Alzheimer's disease and dementia. Surprisingly, some older adults retain the same powerful cleansing waves seen in younger people.",
+   "resumo": [],
+   "link": "https://www.sciencedaily.com/releases/2026/11/261114202137.htm",
+   "doi": "",
+   "data": "2026-11-18T07:06:44-05:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "rss-https-www-sciencedaily-com-releases-2026-11-261114202233-htm",
+   "fonte": "ScienceDaily",
+   "tipo_fonte": "noticia",
+   "titulo": "A little-known protein could be a powerful weapon against Alzheimer’s",
+   "revista": "",
+   "autores": "",
+   "tipo_estudo": "",
+   "destaque": "Scientists have uncovered a powerful natural defense against Alzheimer’s disease that could open the door to new treatments. By boosting a protein called SORLA, researchers significantly reduced toxic tau tangles, protected connections between brain cells, and prevented some of the brain shrinkage associated with neurodegeneration in mice. Removing the protein made the damage worse, highlighting its critical protective role.",
+   "resumo": [],
+   "link": "https://www.sciencedaily.com/releases/2026/11/261114202233.htm",
+   "doi": "",
+   "data": "2026-11-18T06:53:30-05:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
   {
    "id": "pmid-43046732",
    "fonte": "PubMed",
@@ -126,6 +243,811 @@
     "cognicao"
    ],
    "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43051839",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Matcha leaf extract-loaded whey protein Nanofibrils: A potential dairy-based strategy for modulation of lipid metabolism and mitigating obesity in rats",
+   "revista": "Food Res Int",
+   "autores": "Magouz O, Soliman TN, El-Rhmany AS et al.",
+   "tipo_estudo": "",
+   "destaque": "In conclusion, nanofibrillation-based encapsulation of MLE appears to be a highly effective strategy for alleviating obesity symptoms and increasing antioxidant capacity. It also demonstrates strong potential for incorporation into dairy formulations as a functional dietary tool for managing obesity.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Matcha (Camellia sinensis) leaves contain a diverse range of bioactive molecules, especially epigallocatechin gallate (EGCG), which exhibits metabolic modulation and antioxidant activities. However, the application of these bioactives remains limited, in part, due to their poor stability, low bioavailability, and potential for cytotoxicity when ingested in concentrated forms. In this study, whey protein nanofibrils were employed as a natural encapsulant for matcha leaf extract (MLE) to improve stability and enable controlled delivery of unstable bioactives. Using an experimental model involving 36 rats, various nutritional and biochemical markers were evaluated to assess the efficacy of matcha leaf extract-loaded whey protein nanofibrils (WPNFs-300 MLE), administered either independently or as a yogurt-fortified formulation. The results demonstrated that this specialized delivery system significantly bolstered liver health and improved protein profiles, while simultaneously lowering blood glucose and leptin concentrations. Furthermore, the treatment effectively suppressed inflammatory cytokines and enhanced essential liver biomarkers. In conclusion, nanofibrillation-based encapsulation of MLE appears to be a highly effective strategy for alleviating obesity symptoms and increasing antioxidant capacity. It also demonstrates strong potential for incorporation into dairy formulations as a functional dietary tool for managing obesity."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43051839/",
+   "doi": "https://doi.org/10.1016/j.foodres.2026.121093",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43051775",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Teadenol A, a key EGCG cleavage product in dark tea, alleviates HFD-induced obesity through gut microbiota remodeling and associated changes in short-chain fatty acid and bile acid metabolism",
+   "revista": "Food Res Int",
+   "autores": "Li Y, Chen C, Shang B et al.",
+   "tipo_estudo": "",
+   "destaque": "Collectively, teadenol A alleviated HFD-induced obesity in rats, with transferable microbiota remodeling and associated changes in fecal SCFAs and bile acids contributing in part to its effects. These findings provide compound-level evidence for understanding the health effects of dark tea fermentation products.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Obesity is a major global public health concern, creating an urgent need for dietary bioactives that can safely alleviate it. Dark tea, a traditional Chinese post-fermented tea, ameliorates high-fat diet (HFD)-induced obesity, but the key constituents underlying this effect remain unclear. During fermentation, epigallocatechin gallate (EGCG) is converted through B-ring cleavage and molecular rearrangement into teadenol A and related products, which may contribute to the anti-obesity effects of dark tea. We combined oral administration of teadenol A to HFD-fed donor rats with fecal microbiota transplantation (FMT) from these donors into antibiotic-pretreated, HFD-fed recipient rats. Without altering food intake, teadenol A reduced body-weight gain, adipose accumulation, dyslipidemia, hepatic lipid deposition, inflammation, oxidative stress and colonic injury. It also increased colonic ZO-1, Occludin and Claudin-1 expression, partially restored gut microbial α-diversity, and established a microbial configuration distinct from those of both HFD and normal-diet controls, accompanied by altered fecal short-chain fatty acid (SCFA) and bile acid profiles. Recipients of microbiota from teadenol A-treated donors reproduced some of these metabolic and intestinal improvements, together with microbiota remodeling and recovery of several fecal SCFAs and secondary bile acids, although some host responses were not fully reproduced. Collectively, teadenol A alleviated HFD-induced obesity in rats, with transferable microbiota remodeling and associated changes in fecal SCFAs and bile acids contributing in part to its effects. These findings provide compound-level evidence for understanding the health effects of dark tea fermentation products."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43051775/",
+   "doi": "https://doi.org/10.1016/j.foodres.2026.121073",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43050021",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "State and trait anxiety following prenatal moderate- versus light-intensity exercise: a secondary analysis of a randomized trial",
+   "revista": "Arch Womens Ment Health",
+   "autores": "Hicks L, Crandell J, Williams E et al.",
+   "tipo_estudo": "Ensaio clínico randomizado",
+   "destaque": "State and trait anxiety remained stable across late pregnancy among pregnant individuals with obesity participating in either moderate-intensity walking or light-intensity stretching, with no significant differences in anxiety outcomes between intervention groups. The stability of both situational and dispositional dimensions of anxiety across the third trimester adds to limited longitudinal evidence on prenatal anxiety during structured exercise participation. Because both groups received active exercise interventions and baseline anxiety was relatively low, the observed stability cannot be attributed to exercise. Studies including non-exercise comparison groups and participants with greater baseline anxiety are needed to determine whether exercise modality or intensity contributes to the maintenance of psychological well-being during late pregnancy.",
+   "resumo": [
+    {
+     "rotulo": "Purpose",
+     "texto": "Prenatal anxiety may increase as pregnancy progresses, yet little is known about longitudinal patterns of state and trait anxiety among pregnant individuals participating in exercise interventions of differing intensities. This study examined state and trait anxiety across late pregnancy among pregnant individuals with obesity randomized to moderate-intensity walking or light-intensity stretching and explored associations between changes in anxiety and gestational hypertension."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "This secondary analysis used data from the Prenatal Heart Smart randomized trial. Seventy-six pregnant individuals with obesity completed the State-Trait Anxiety Inventory (STAI) at approximately 28, 32, and 37 weeks' gestation after randomization to moderate-intensity walking (n = 42) or light-intensity stretching (n = 34). Linear mixed-effects models compared state and trait anxiety between intervention groups at the two follow-up assessments, accounting for baseline anxiety and repeated measurements. Because no significant intervention-group differences were observed, groups were combined to examine changes in anxiety across late pregnancy using paired t-tests. Exploratory analyses examined associations between anxiety change scores and gestational hypertension."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "State and trait anxiety did not differ significantly between the walking and stretching groups at either follow-up assessment (all p ≥ .38). Despite previous evidence that anxiety may increase during late pregnancy, both state and trait anxiety remained relatively stable from approximately 28 to 37 weeks' gestation. Mean state anxiety scores were 30.0, 29.6, and 29.6 across the three assessments, respectively, while mean trait anxiety scores were 31.1, 32.1, and 30.4; neither measure changed significantly over time (all p ≥ .19). Exploratory analyses identified no significant associations between changes in anxiety and gestational hypertension after covariate adjustment. The small number of preeclampsia cases precluded analysis."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "State and trait anxiety remained stable across late pregnancy among pregnant individuals with obesity participating in either moderate-intensity walking or light-intensity stretching, with no significant differences in anxiety outcomes between intervention groups. The stability of both situational and dispositional dimensions of anxiety across the third trimester adds to limited longitudinal evidence on prenatal anxiety during structured exercise participation. Because both groups received active exercise interventions and baseline anxiety was relatively low, the observed stability cannot be attributed to exercise. Studies including non-exercise comparison groups and participants with greater baseline anxiety are needed to determine whether exercise modality or intensity contributes to the maintenance of psychological well-being during late pregnancy."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43050021/",
+   "doi": "https://doi.org/10.1007/s00737-026-01786-z",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43049799",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Dietary oat protein hydrolysate and B-glucan improve glycemic control in diet-induced obese male mice",
+   "revista": "Eur J Nutr",
+   "autores": "Mojibi N, Makarowski A, Tollenaar S et al.",
+   "tipo_estudo": "",
+   "destaque": "Despite OPH being associated with reduced body weight gain in both non-obese and obese mice, it did not improve glucose metabolism. Findings suggest that the combination of OPH and BG improved glucose tolerance in obese male mice.",
+   "resumo": [
+    {
+     "rotulo": "Purpose",
+     "texto": "Oat protein hydrolysate (OPH) has been shown to inhibit dipeptidyl peptidase-4 (DPP-4) in vitro, thereby potentially enhancing the effect of glucagon like peptide-1 (GLP-1) to improve glucose metabolism. However, its physiological effect in vivo has not been tested. This study aimed to investigate the preventive and therapeutic effects of OPH on glucose regulation in non-obese and obese male mice, respectively."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Two different animal trials were conducted; trial-1 using non-obese mice and trial-2 using diet-induced obese mice. In both trials, mice were randomized into one of five dietary groups: a high-fat (HF) diet as control, HF with 25% protein replaced by oat protein (OP), HF with 25% protein replaced by OPH (OPH), HF with 10% fiber replaced by β-glucan (BG), and HF combining OPH and BG (OPH+BG). Glucose tolerance and insulin sensitivity were assessed, along with plasma insulin and active GLP-1 levels. At week 5 of intervention, a subset of control obese mice underwent a meal tolerance test (MTT) following an oral dose of dextrose combined with OP, OPH, or casein."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "OPH reduced body weight gain in both non-obese and obese mice, while food intake was similar across the groups. Improvement in glucose tolerance was observed in obese mice receiving OPH+BG, whereas no significant differences were seen in insulin sensitivity, plasma insulin, or GLP-1 levels. The MTT revealed no differences in glucose tolerance or insulin responses across the diets."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Despite OPH being associated with reduced body weight gain in both non-obese and obese mice, it did not improve glucose metabolism. Findings suggest that the combination of OPH and BG improved glucose tolerance in obese male mice."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43049799/",
+   "doi": "https://doi.org/10.1007/s00394-026-04147-9",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43046538",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Effects of a Probiotic Combination Containing Lacticaseibacillus paracasei BEPC22 and Lactiplantibacillus plantarum BELP53 on Body Fat Reduction: A Randomized, Double-Blind, Placebo-Controlled Study in Adults with Overweight",
+   "revista": "J Microbiol Biotechnol",
+   "autores": "Yoon Y, Chai H, Shin KJ et al.",
+   "tipo_estudo": "Ensaio clínico randomizado",
+   "destaque": "HH202-LB was well tolerated, with no adverse events reported in the HH202-LB group during the study period. These findings suggest that HH202-LB supplementation may help reduce body fat in adults with overweight, supporting its potential as a functional ingredient for body fat reduction.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Obesity is a major global health concern associated with increased risks of metabolic disorders, cardiovascular diseases, and reduced quality of life. Although lifestyle modification remains the cornerstone of obesity management, there is growing interest in safe and effective nutritional interventions that can support body fat reduction. This study evaluated the efficacy and safety of HH202-LB (formerly BN-202M), a probiotic combination containing Lacticaseibacillus paracasei BEPC22 and Lactiplantibacillus plantarum BELP53, in adults with overweight. In a randomized, double-blind, placebo-controlled trial, 90 participants with a body mass index of 25.0-29.9 kg/m² were assigned to receive either HH202-LB (5 × 1010 colony-forming units/day) or placebo for 12 weeks. Body composition was assessed using dual-energy X-ray absorptiometry, and abdominal fat distribution was evaluated by computed tomography. Anthropometric measurements, obesity-related biomarkers, lipid profiles, and safety parameters were also analyzed. After 12 weeks, HH202-LB supplementation significantly reduced total, arm, and trunk fat mass compared with placebo. Visceral fat area, hip circumference, and low-density lipoprotein cholesterol also differed significantly between groups. The between-group differences in total body fat mass (the primary endpoint) and arm fat mass remained significant in the modified intention-to-treat analysis. HH202-LB was well tolerated, with no adverse events reported in the HH202-LB group during the study period. These findings suggest that HH202-LB supplementation may help reduce body fat in adults with overweight, supporting its potential as a functional ingredient for body fat reduction."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43046538/",
+   "doi": "https://doi.org/10.4014/jmb.2608.08005",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43050273",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Multi-Trait Integration of Sarcopenia-Related Phenotypes Identifies Genetic Loci and Biological Pathways Linked to Muscle Aging",
+   "revista": "FASEB J",
+   "autores": "Liao B, Mu Y, Deng Z et al.",
+   "tipo_estudo": "",
+   "destaque": "Machine-learning analyses based on prioritized genes captured age-associated skeletal muscle expression patterns, while drug repurposing analyses nominated candidate compounds for further experimental evaluation. Collectively, our findings characterize shared genetic variation across sarcopenia-related traits and provide loci, genes, cellular contexts, and candidate compounds relevant to muscle aging.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Sarcopenia is an age-related syndrome characterized by progressive declines in muscle mass, strength, and physical performance. To investigate the shared genetic architecture of quantitative traits relevant to sarcopenia, we integrated genome-wide association study (GWAS) summary statistics for appendicular lean mass, hand grip strength, and walking pace from the UK Biobank. Significant genetic correlations among these traits supported multi-trait integration, resulting in an integrated GWAS termed mtMuscleAging. A total of 405 associated loci were identified, including 78 loci with enhanced significance and 33 loci that did not reach genome-wide significance in any individual trait GWAS. Fine-mapping prioritized 538 candidate variants, while integrative post-GWAS analyses identified prioritized genes and highlighted conserved coding regions and biological pathways related to muscle, heart, pancreas, fibroblasts, and aging. Single-cell and single-nucleus transcriptomic analyses further contextualized these genetic findings in aging skeletal muscle and identified alterations in midkine and pleiotrophin signaling and intercellular communication. Phenome-wide association analyses identified genetic relationships between mtMuscleAging and multiple health phenotypes, including cardiovascular disorders. Machine-learning analyses based on prioritized genes captured age-associated skeletal muscle expression patterns, while drug repurposing analyses nominated candidate compounds for further experimental evaluation. Collectively, our findings characterize shared genetic variation across sarcopenia-related traits and provide loci, genes, cellular contexts, and candidate compounds relevant to muscle aging."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43050273/",
+   "doi": "https://doi.org/10.1096/fj.202602625RR",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43050930",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Baseline sarcopenia and subsequent dementia after incident atrial fibrillation or flutter in the UK Biobank",
+   "revista": "J Nutr Health Aging",
+   "autores": "Yu Y, Ling T, Li X et al.",
+   "tipo_estudo": "",
+   "destaque": "Sarcopenia assessed at recruitment was associated with all-cause dementia after incident AF/flutter. Prospective studies should assess the clinical value of muscle measurements near AF/flutter diagnosis.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "The association between sarcopenia and dementia after incident atrial fibrillation or flutter (AF/flutter) remains uncertain."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We studied 30,743 UK Biobank participants free of AF/flutter at recruitment who subsequently had a first recorded AF/flutter event. Sarcopenia was assessed at recruitment; dementia follow-up began at that event. Analyses used Cox and Fine-Gray models, propensity-score matching and restricted cubic splines. Exploratory analyses tested interactions with AF/flutter, heart failure and coronary artery disease status at entry."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Sarcopenia was present in 2,279 participants (7.4%). Over a median 4.27 years after AF/flutter entry, 1,155 developed dementia. Recruitment preceded entry by a median 8.50 years. Fully adjusted analyses included 26,430 participants and 998 all-cause dementia events. Sarcopenia was associated with all-cause dementia in Cox (hazard ratio [HR], 1.41; 95% confidence interval [CI], 1.16-1.72) and Fine-Gray models (subdistribution HR, 1.31; 95% CI, 1.08-1.59). The matched Cox HR was 1.35 (95% CI, 1.09-1.66). Fully adjusted Cox HRs were 1.64 (95% CI, 1.15-2.35) for vascular dementia and 1.34 (95% CI, 0.92-1.93) for Alzheimer's disease. No interactions with cardiovascular condition status were detected."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Sarcopenia assessed at recruitment was associated with all-cause dementia after incident AF/flutter. Prospective studies should assess the clinical value of muscle measurements near AF/flutter diagnosis."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43050930/",
+   "doi": "https://doi.org/10.1016/j.jnha.2026.101036",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43050024",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Prevalence and Clinical Determinants of Frailty in Older Adults with Type 2 Diabetes Mellitus Attending a Diabetes Centre in India",
+   "revista": "Diabetes Ther",
+   "autores": "Subash Chandra Bose U, Subashini R, Nitin S et al.",
+   "tipo_estudo": "",
+   "destaque": "Among older Indian adults with T2DM attending a diabetes centre, 59.0-76.4% were classified as having frailty depending on criteria used. Increasing age, physical inactivity, inadequate protein intake and uncontrolled diabetes were significantly associated with frailty. Implementing routine screening along with targeted, comprehensive interventions and appropriate medications are essential to manage frailty in elderly patients with T2DM in India.",
+   "resumo": [
+    {
+     "rotulo": "Introduction",
+     "texto": "Diabetes and frailty are both increasing in prevalence due to population ageing. However, data on these comorbid occurrences and real-world outcomes are scarce. This study aimed to assess the prevalence of frailty and its metabolic, nutritional and clinical associations in older adults with type 2 diabetes mellitus (T2DM) attending a diabetes centre in India."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A total of 1171 individuals aged 65 years and above with T2DM were assessed for frailty using the validated Frailty Assessment and Screening Tool (FAST) questionnaire. Dominant-hand grip strength (HGS) was measured using a Jamar dynamometer, utilizing the American Society of Hand Therapists (ASHT) criteria. Additionally, sensitivity analysis was done using the Sarcopenia-Chandigarh Urban Bone Epidemiological Study (Sarco-CUBES) criteria. Standardized definitions were employed to evaluate microvascular complications associated with diabetes."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Individuals with T2DM had a mean age of 71.5 ± 5.4 years, and male participants constituted 65.3% of the study population. The overall prevalence of frailty was 59.0% (691/1171). Among the 691 individuals, FAST-defined frailty alone identified only 6.2% (43/691) individuals, whereas HGS-defined low muscle strength alone identified 80.7% (558/691), and 13.0% (90/691) met the FAST/HGS composite classification. Using Sarco-CUBES-derived cut-offs, the prevalence was 76.4% (895/1171). Logistic regression analysis showed that physical inactivity along with uncontrolled diabetes was associated with higher odds of frailty (adjusted odds ratio: 2.12, 95% CI: 1.48-3.03; p<0.001). Multivariable models identified advanced age,physical inactivity, lower protein intake, sulfonylurea use and uncontrolled diabetes as independently associated with frailty. The prevalence of diabetic retinopathy was higher in the cohort with frailty compared to those without (74.3% vs. 65.6%; p = 0.032),even after adjusting for age, sex, HbA1c, and diabetes duration."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Among older Indian adults with T2DM attending a diabetes centre, 59.0-76.4% were classified as having frailty depending on criteria used. Increasing age, physical inactivity, inadequate protein intake and uncontrolled diabetes were significantly associated with frailty. Implementing routine screening along with targeted, comprehensive interventions and appropriate medications are essential to manage frailty in elderly patients with T2DM in India."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43050024/",
+   "doi": "https://doi.org/10.1007/s13300-026-01940-x",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43051077",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Harnessing the Gutorgan axis: The potential of probiotics for healthy aging",
+   "revista": "Microbiol Res",
+   "autores": "Miao L, Wu J, Gu Q et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "This review synthesizes current knowledge on aging mechanisms, gut microbiota dynamics, and probiotic applications. We analyze microbial shifts during aging, elucidate bidirectional hostmicrobe interactions, define the roles of gutorgan axes in aging networks, and propose a framework for advancing the use of probiotics as potential interventions for healthy aging.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Aging is characterized by a progressive decline in physiological function that affects multiple organs and increases susceptibility to chronic diseases. During aging, gut microbiota dysbiosis, characterized by reduced microbial diversity, impaired intestinal barrier function, and altered microbial metabolites, can both result from and accelerate age-related inflammation and systemic dysfunction. Molecular alterations such as genomic instability and telomere erosion reduce tissue repair capacity, disrupt metabolic homeostasis, and increase the risk of chronic conditions, including cardiovascular and neurodegenerative diseases, thus posing a critical global health challenge in aging societies. As a key host-environment interface, the gut microbiota develops structural and functional imbalances during aging. These changes, characterized by reduced diversity and compromised barrier function, engage in bidirectional interactions with aging through metabolic crosstalk, immune regulation, and barrier maintenance. Importantly, such imbalances are modifiable through intervention, offering pivotal targets for antiaging strategies. Probiotics (live microorganisms that confer benefits on the host) hold potential benefits in aging-related conditions, as they can specifically modulate the gut microbiota. These probiotics further regulate systemic aging phenotypes via gut-organ communication networks, such as the gut-brain, gut-skin, gut-muscle, gut-bone, and gut-liver axes, thus counteracting neurodegenerative decline, skin aging, sarcopenia, and osteoporosis. This review synthesizes current knowledge on aging mechanisms, gut microbiota dynamics, and probiotic applications. We analyze microbial shifts during aging, elucidate bidirectional hostmicrobe interactions, define the roles of gutorgan axes in aging networks, and propose a framework for advancing the use of probiotics as potential interventions for healthy aging."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43051077/",
+   "doi": "https://doi.org/10.1016/j.micres.2026.128828",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43049829",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Incretin-Based Therapies and the Gut-Brain Axis in Neurodegenerative Diseases",
+   "revista": "Mol Neurobiol",
+   "autores": "Lázaro Á, Mohammed V, Bridgeman L et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "However, microbiota responses are heterogeneous and context-dependent, and no included study used causal designs such as germ-free models or fecal microbiota transplantation. Whether neuroprotective effects arise from direct central receptor engagement, from peripheral metabolic effects, or from microbiota remodeling therefore remains unresolved, and microbiota changes may be a secondary consequence of metabolic improvement rather than a mediator of therapeutic effect.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs), originally developed for metabolic disorders, remain under active investigation as potential therapeutic candidates for neurodegenerative diseases, including Alzheimer's and Parkinson's disease, with clinical trials to date reporting both positive and negative findings. This scoping review critically synthesizes evidence from preclinical and clinical studies (n = 99), with a focus on the molecular pharmacodynamics of semaglutide, liraglutide, exenatide, dulaglutide, and lixisenatide, together with tirzepatide, a dual GLP-1/GIP receptor agonist (GLP-1/GIP RA) discussed separately given its distinct receptor pharmacology. In preclinical models, GLP-1 receptor activation has been associated with engagement of intracellular signaling pathways, including PI3K/Akt/GSK-3β, cAMP/PKA/CREB, and AMPK/SIRT1, and several studies report reduced neuroinflammation, oxidative stress, and amyloid-β or α-synuclein accumulation. These findings are not uniform: recent studies in preventive and established Alzheimer's disease mouse models found no benefit of semaglutide or tirzepatide, and the phase 3 EVOKE/EVOKE+ trials of oral semaglutide in early Alzheimer's disease did not slow clinical progression. GLP-1 RAs are also frequently associated with shifts in gut microbiota composition, including enrichment of short-chain fatty acid-producing taxa, which supports a biologically plausible gut-brain axis interaction. However, microbiota responses are heterogeneous and context-dependent, and no included study used causal designs such as germ-free models or fecal microbiota transplantation. Whether neuroprotective effects arise from direct central receptor engagement, from peripheral metabolic effects, or from microbiota remodeling therefore remains unresolved, and microbiota changes may be a secondary consequence of metabolic improvement rather than a mediator of therapeutic effect."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43049829/",
+   "doi": "https://doi.org/10.1007/s12035-026-06334-5",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43047647",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Case Report: Resolution of severe hypertriglyceridemia and cessation of exogenous insulin during ketogenic-range therapeutic carbohydrate reduction, insulin deprescribing, and tirzepatide",
+   "revista": "Front Nutr",
+   "autores": "Calkins M, Buchanan L, Dudzinski A et al.",
+   "tipo_estudo": "",
+   "destaque": "The first-month triglyceride reduction occurred during ketogenic-range TCR with concurrent insulin reduction; later improvements occurred during continued TCR, insulin cessation, weight loss, and tirzepatide, and the contributions of these components cannot be separated. In selected patients with probable MCS and insulin-resistant T2DM, supervised ketogenic-range TCR may be considered when low-fat counseling has not achieved sustained control and may permit reconsideration of therapies deferred by individualized judgment for pancreatitis risk.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Severe hypertriglyceridemia [sHTG; triglycerides ≥500 mg/dL (SI: ≥5.65 mmol/L)] is conventionally managed with dietary fat restriction, but in insulin-resistant type 2 diabetes mellitus (T2DM) low-fat diets may increase carbohydrate intake and worsen dysglycemia. A 51-year-old woman with persistent sHTG, five episodes of pancreatitis, T2DM requiring 210 units of insulin daily, and a body mass index of 27.5 kg/m2 was evaluated. Despite two decades of low-fat counseling and multidrug therapy, fasting triglycerides were 860 mg/dL (SI: 9.71 mmol/L), hemoglobin A1c 7.1% (SI: 54 mmol/mol), glucose management indicator (GMI) 8.3%, and continuous glucose monitoring (CGM) time in range (TIR) 35%. She was prescribed therapeutic carbohydrate reduction (TCR), a whole-food eating pattern delivered as a written food list designed to provide fewer than 20 g/day of carbohydrate (approximately 5% of energy, within the ketogenic range); intake was not quantified and ketones were not measured. A chylomicronemia gene panel identified no pathogenic variants, consistent with probable multifactorial chylomicronemia syndrome (MCS). At 1 month, after initiation of carbohydrate reduction with concurrent CGM-guided reduction of insulin from 210 to 20 units/day, with no other medication change and before tirzepatide, triglycerides had fallen 49.5% to 434 mg/dL (SI: 4.90 mmol/L), GMI to 7.1%, and TIR had risen to 74%. This brought triglycerides below the level at which endocrinology, cardiology, and the treating clinician had, by individualized judgment, deferred incretin therapy, and tirzepatide 2.5 mg was initiated. At 5 months triglycerides were 162 mg/dL (SI: 1.83 mmol/L), hemoglobin A1c 6.1% (SI: 43 mmol/mol), body weight had fallen 18%, and exogenous insulin had been discontinued. At 9 months she remained free of exogenous insulin, with triglycerides 172 mg/dL (SI: 1.94 mmol/L) and hemoglobin A1c 6.1% (SI: 43 mmol/mol). The first-month triglyceride reduction occurred during ketogenic-range TCR with concurrent insulin reduction; later improvements occurred during continued TCR, insulin cessation, weight loss, and tirzepatide, and the contributions of these components cannot be separated. In selected patients with probable MCS and insulin-resistant T2DM, supervised ketogenic-range TCR may be considered when low-fat counseling has not achieved sustained control and may permit reconsideration of therapies deferred by individualized judgment for pancreatitis risk."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43047647/",
+   "doi": "https://doi.org/10.3389/fnut.2026.1960774",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43047309",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Semaglutide and optic neuritis in the FDA adverse event reporting system: a comparator-based, time-calibrated pharmacovigilance analysis",
+   "revista": "Front Immunol",
+   "autores": "Xu F, Luo W, Liu Z et al.",
+   "tipo_estudo": "",
+   "destaque": "FAERS data support a semaglutide-optic neuritis reporting association that persists after calendar-time calibration and comparator expansion, but the magnitude is sensitive to reporting era and unmeasured clinical heterogeneity. The finding is hypothesis-generating, cannot establish incidence, relative risk, or causality, and should not be interpreted as complete separation from ischemic optic neuropathy/NAION. The sparse TTO subset was descriptive only and did not support an early-failure or temporal causal interpretation.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Glucagon-like peptide-1 receptor agonists and dual glucose-dependent insulinotropic polypeptide/glucagon-like peptide-1 receptor agonists are increasingly used for glycemic control, obesity management, cardiovascular risk reduction, and kidney protection. Ocular safety research has focused mainly on diabetic retinopathy and nonarteritic anterior ischemic optic neuropathy. Whether inflammatory neuro-ophthalmic events, particularly optic neuritis, show a reproducible postmarketing reporting association remains uncertain."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We performed a case/non-case pharmacovigilance study using FAERS reports from 2004Q1 to 2026Q1. Reports were deduplicated by CASEID/CASEVERSION. Primary-suspect GLP-1/GIP exposures were linked to MedDRA-defined inflammatory neuro-ophthalmic outcomes. The primary comparison was semaglutide versus SGLT2 inhibitors/metformin, with secondary DPP-4 inhibitor, strict non-GLP-1 weight-loss, separate SGLT2 inhibitor, separate metformin, and indication-restricted analyses. We used ROR, PRR, transparently labeled approximate shrinkage proxies, BH-FDR adjustment, exact report-year stratification, exact-year frequency matching, reporter-channel sensitivity, and Firth-type adjusted logistic regression."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "After latest-version deduplication, 59,790 semaglutide and 178,670 pooled SGLT2 inhibitor/metformin reports were included. The crude semaglutide-optic neuritis ROR was 11.67 (60 vs 15 events; 95% CI 6.68-20.40; BH q=1.99e-27). Given the different report-year distributions (semaglutide: 62.7% in 2024-2026; pooled comparator: 17.5%), the principal calendar-time-calibrated estimate was the exact report-year Mantel-Haenszel common OR of 5.06 (95% CI 2.64-9.72), supported by exact-year 1:1 frequency matching (OR 4.64, 95% CI 2.42-8.90). Separate comparator analyses remained positive for SGLT2 inhibitors (ROR 15.68, 95% CI 6.55-37.53) and metformin (ROR 8.53, 95% CI 4.43-16.42), whereas the obesity/weight-management restriction was sparse and not supported. Estimates were positive in health-professional and consumer/legal reports. The Firth-type adjusted OR was 16.76 (95% CI 8.51-33.00). Among 12 reports with valid TTO, the median was 62.5 days; TTO was analyzed descriptively without hazard modeling and did not support an early-failure or temporal causal inference."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "FAERS data support a semaglutide-optic neuritis reporting association that persists after calendar-time calibration and comparator expansion, but the magnitude is sensitive to reporting era and unmeasured clinical heterogeneity. The finding is hypothesis-generating, cannot establish incidence, relative risk, or causality, and should not be interpreted as complete separation from ischemic optic neuropathy/NAION. The sparse TTO subset was descriptive only and did not support an early-failure or temporal causal interpretation."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43047309/",
+   "doi": "https://doi.org/10.3389/fimmu.2026.1933845",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43050589",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Stress enhanced fear learning (SEFL) is independent of lateral periaqueductal gray, dissociating the circuits driving SEFL from those involved in associative fear learning",
+   "revista": "Stress",
+   "autores": "Markowitz S, Leake J, Sharpe MJ",
+   "tipo_estudo": "",
+   "destaque": "This explicitly dissociates the neural circuits involved in SEFL from those involved in associative fear learning. This is important as it suggests targeting the neural circuits involved in associative fear memories may not impact the non-associative components of fear that drive PTSD.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "The stress-enhanced fear learning (SEFL) effect refers to the phenomenon whereby prior exposure to a severe stressor sensitizes fear learning, such that subsequently mild or ambiguous experiences that are usually insufficient to produce fear in unstressed individuals become capable of forming strong fear memories. As such, SEFL is argued to result from a non-associative state of fear sensitization produced by stress that resembles some of the characteristics of post-traumatic stress disorder (PTSD). Here, we were interested in testing whether the SEFL effect requires activity within the lateral periaqueductal gray (lPAG), a region we know is important for the development of associative fear memories. Specifically, we optogenetically inhibited activity within the lPAG during the stressor that drives the SEFL effect. We found that this did not impact on SEFL, demonstrating that the neural circuits involved in allowing stress to sensitize fear learning are dissociable from those involved in the development of associative fear memories. To confirm that our optogenetic approach was effective, we subsequently tested whether the same optogenetic inhibition would impact on the development of associative fear memories. In line with previous research, we found that manipulation significantly enhanced associative fear memories. This explicitly dissociates the neural circuits involved in SEFL from those involved in associative fear learning. This is important as it suggests targeting the neural circuits involved in associative fear memories may not impact the non-associative components of fear that drive PTSD."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43050589/",
+   "doi": "https://doi.org/10.1080/10253890.2026.2762624",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43049315",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Mental Health Support for Residents and Fellows: A Layered Safety Net",
+   "revista": "NEJM Catal Innov Care Deliv",
+   "autores": "Hartman-Hall H, Marchalik D",
+   "tipo_estudo": "",
+   "destaque": "Concurrent improvements in burnout may reflect overall improvement in GME well-being. The program's architecture is described in sufficient detail to support adaptation at other large GME programs.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "The Accreditation Council for Graduate Medical Education requires access to mental health support in training programs, yet the gap between requirement and reality has not closed, with continued structural barriers for house staff to access mental health services. This includes schedules that preclude weekly therapy, confidentiality fears that are not unfounded, and a professional culture that has long treated psychological distress as a disqualifying condition rather than an occupational reality. Unwillingness to seek professional help for serious emotional concerns and low utilization of employer-provided mental health services persist among some physicians and trainees. MedStar Health's Graduate Medical Education (GME) program includes 1150 residents and fellows across a heterogeneous consortium of specialties and training sites. Beginning in 2018 with a single part-time position and formalized in 2021 as the MedStar Health Center for Wellbeing, MedStar built a layered mental health program organized around the Stress First Aid Continuum framework, which maps interventions to four stress zones: thriving, surviving, struggling, and in crisis. The guiding logic was redundancy: a trainee who is unwilling or unable to connect with mental health support through one channel or modality should be able to find another entry point for support that meets their needs. The program is built on multiple layers: leadership and culture change to normalize help-seeking before distress occurs; licensed clinicians acting as mental health coaches who remain available within 2 business days without a formal referral; an expedited psychiatry program built around resident schedules rather than standard outpatient assumptions; and an anonymous online screening platform (the American Foundation for Suicide Prevention's Interactive Screening Program) for individuals in distress who may be reluctant to reach out in other ways. Not everything worked. Coaching introduced at a resident onboarding station produced surface-level contact that was deemed not worth the time investment. Drop-in office hours underperformed in sustained utilization. Both were discontinued. Other hurdles shaped the program as it grew. Psychiatry trainees could not use an expedited program staffed by their own teaching faculty, so a separate pathway was built for them. A small subset of house staff was concerned about mental health documentation in the electronic health record; for them, mental health coaching offers a nontreatment option when appropriate, and referral to treatment outside our system remains available. MedStar continues to extend services to evenings and weekends to address schedule conflicts. Utilization data over 4 years indicate that, although representing only 3% of the MedStar workforce, house staff account for 25% of all mental health coaching sessions, 44% of coaching participants, and 23.5% of expedited psychiatry appointments. Eighty-three percent of house staff said that they would seek help for a serious emotional problem on a 2024 survey. The same survey showed that resident burnout was lower than the Professional Well-Being Academic Consortium national benchmark (30.9% vs. 46.7%) and had improved from prior years' data collected before full program implementation. Although causal claims cannot be made because of the naturalistic data collection for program evaluation, the authors' results provide early support that a multimodal, layered approach to GME mental health designed around the specific barriers trainees face may support increased willingness to seek help and service utilization. Concurrent improvements in burnout may reflect overall improvement in GME well-being. The program's architecture is described in sufficient detail to support adaptation at other large GME programs."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43049315/",
+   "doi": "https://doi.org/10.1056/CAT.26.0176",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43051921",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "The role of the gut microbiome in stress responses of dogs: gut-brain axis and microbiome-targeted interventions",
+   "revista": "J Vet Med Sci",
+   "autores": "Song H, Lee MJ",
+   "tipo_estudo": "",
+   "destaque": "Collectively, the available evidence suggests modulation of the gut microbiome may provide a practical, non-invasive approach to supporting stress management and psychological well-being in dogs. A better understanding of host-microbiome interactions may contribute to the development of evidence-based nutritional and microbial interventions to improve canine stress management and welfare.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Stress poses a significant threat to canine welfare and adoptability, particularly in animal shelters where dogs are exposed to multiple environmental and social stressors. Growing evidence suggests that the gut-brain axis (GBA), a bidirectional communication network linking the gastrointestinal tract and the central nervous system, plays a critical role in regulating stress responses. This review summarizes the mechanisms through which the gut microbiome influences canine behavior and physiology via neural, endocrine, immune, and metabolic pathways. We further examine current evidence showing that acute and chronic stress can disrupt the canine gut microbiome, leading to reduced microbial diversity and shifts toward pro-inflammatory bacterial communities. In addition, we discuss microbiome-targeted interventions, including probiotics, prebiotics, dietary modulation, and fecal microbiota transplantation, as potential strategies for improving stress resilience and gastrointestinal health. Collectively, the available evidence suggests modulation of the gut microbiome may provide a practical, non-invasive approach to supporting stress management and psychological well-being in dogs. A better understanding of host-microbiome interactions may contribute to the development of evidence-based nutritional and microbial interventions to improve canine stress management and welfare."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43051921/",
+   "doi": "https://doi.org/10.1292/jvms.26-0301",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43052051",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Chronic Stress Associated Indoxyl Sulfate Upregulation Exhausts CD8+ T Cells to Decrease the Efficiency of Anti-PD-1 in Hepatocellular Carcinoma",
+   "revista": "Adv Sci (Weinh)",
+   "autores": "Wang M, Zeng R, Liu P et al.",
+   "tipo_estudo": "",
+   "destaque": "Depletion or inhibition of HDAC8 significantly restores the antitumor efficacy of PD-1 therapy under chronic stress. Collectively, these findings support a chronic stress-SULT1A1-IS-AHR-RNF115-HDAC8 axis that drives immunotherapy resistance in HCC, suggesting a mechanistic link between emotional disturbance and tumor immune microenvironment remodeling.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Depressive symptoms are highly prevalent among patients with hepatocellular carcinoma (HCC), yet whether they influence the efficacy of immunotherapy and the underlying mechanisms remain unclear. Integrated analyses of a clinical cohort and murine models demonstrate that chronic stress-induced depressive-like states markedly attenuate the antitumor efficacy of anti-programmed cell death protein 1 (PD-1) antibodies in HCC, accompanied by enhanced Tcell exhaustion. Mechanistically, chronic stress upregulates hepatic sulfotransferase 1A1 (SULT1A1) expression, thereby promoting the production of the tryptophan metabolite indoxyl sulfate (IS). IS does not directly act on CD8+ T cells but activates the transcription factor aryl hydrocarbon receptor (AHR) in HCC cells, upregulating the E3 ubiquitin ligase ring finger protein 115 (RNF115). RNF115 mediates lysine 27 (K27)-linked ubiquitination of histone deacetylase 8 (HDAC8) to inhibit its autophagic degradation. Stabilized HDAC8 enhances secretion of the immunosuppressive factor angiopoietin-like protein 4 (ANGPTL4), thereby contributing to CD8+ Tcell exhaustion and reducing sensitivity to PD-1 inhibitors. Depletion or inhibition of HDAC8 significantly restores the antitumor efficacy of PD-1 therapy under chronic stress. Collectively, these findings support a chronic stress-SULT1A1-IS-AHR-RNF115-HDAC8 axis that drives immunotherapy resistance in HCC, suggesting a mechanistic link between emotional disturbance and tumor immune microenvironment remodeling."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43052051/",
+   "doi": "https://doi.org/10.1002/advs.78733",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43052044",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Allostatic load is not associated with augmented vasoconstrictive response to cold pressor test or functional sympatholysis in Black emerging adults",
+   "revista": "Exp Physiol",
+   "autores": "Blake EF, Eagan LE, Weiner CM et al.",
+   "tipo_estudo": "",
+   "destaque": "AL was not correlated with CPT-FBF, -FVC or with functional sympatholysis magnitude (%); however, blunted diurnal cortisol slope correlated with larger reductions in CPT-FBF (r = -0.55, P = 0.00328), and increased FBF- (r = 0.49, P = 0.00957) and FVC- (r = 0.43, P = 0.0283) lysis. These findings suggest hypothalamic-pituitary-adrenal axis dysregulation in Black emerging adults may elicit exaggerated vasoreactivity to sympathoexcitatory stress.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Black individuals are disproportionately affected by hypertension (HTN), even after controlling for conventional risk factors (i.e., obesity, smoking, physical fitness). Emerging evidence implicates chronic psychosocial stress, including discrimination/race-related events, in HTN development. Allostatic load (AL) reflects the cumulative adverse impact of repeated activation of compensatory physiological responses to psychosocial stressors. We assessed the associations between AL and disruptions in vascular parameters that may indicate heightened HTN risk in Black emerging adults. Forearm blood flow (FBF) and vascular conductance (FVC) were measured during sympathoexcitation (cold pressor test; CPT), alone and with handgrip exercise, (EX + CPT) in 35 Black undergraduate students (24F/11M, 20 ± 1 years). AL was determined using both clinical cutoffs (AL-CC) and individual z-scores (AL-z) from nine biomarkers (heart rate, systolic blood pressure (BP), diastolic BP, C-reactive protein, glucose, creatinine, total cholesterol/HDL-C ratio, cortisol, %body fat). Higher scores reflected greater AL burden. AL scores were overall low (AL-z: 0.003 ± 3.9; AL-CC: 1.6 ± 1.2). Reductions in FBF and FVC during EX + CPT (∆FBF: -3.58% ± 3.14%; ∆FVC: -12.56% ± 6.77%) were significantly attenuated (P < 0.001) as compared to CPT alone (∆FBF: -24.15% ± 7.95%; ∆FVC: -35.54% ± 9.20%). AL was not correlated with CPT-FBF, -FVC or with functional sympatholysis magnitude (%); however, blunted diurnal cortisol slope correlated with larger reductions in CPT-FBF (r = -0.55, P = 0.00328), and increased FBF- (r = 0.49, P = 0.00957) and FVC- (r = 0.43, P = 0.0283) lysis. These findings suggest hypothalamic-pituitary-adrenal axis dysregulation in Black emerging adults may elicit exaggerated vasoreactivity to sympathoexcitatory stress."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43052044/",
+   "doi": "https://doi.org/10.1113/EP093867",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43051609",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Tired of Thinking? Think Again! A Longitudinal Experience-Sampling Study of Bidirectional Dynamics Between Rumination and Mental Fatigue in Athletes",
+   "revista": "Psychol Sport Exerc",
+   "autores": "Aleixo A, Malisse F, Vandenhaute L et al.",
+   "tipo_estudo": "",
+   "destaque": "These findings advance a process-oriented understanding of psychological recovery in athletes and may inform future research on how short-term rumination-fatigue dynamics contribute to longer-term maladaptive recovery patterns, including burnout risk. Interventions targeting repetitive negative thinking, such as mindfulness-, cognitive-behavioral-, or acceptance-based approaches, may help athletes preserve psychological recovery under performance demands.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Recovery days are intended to support psychological and physical recovery, yet repetitive sport-related thinking may interfere with this process. This four-week experience-sampling study examined the dynamic interplay between rumination and mental fatigue during rest days in competitive athletes, as well as the moderating roles of perfectionistic concerns and perfectionistic strivings. A total of 134 athletes completed repeated rest-day assessments of rumination and mental fatigue, with perfectionism measured at baseline using a sport-adapted version of the FMPS-Brief. Continuous-time structural equation modelling revealed significant bidirectional coupling between rumination and mental fatigue, supporting a self-reinforcing dynamic in which rumination fuels fatigue, and accumulated fatigue heightens the likelihood of further rumination, creating a 'vicious cycle'. The rumination → mental fatigue pathway was stronger than the reverse, underscoring the critical importance of mental rest and psychological recovery in sport. Perfectionistic concerns significantly moderated this association, suggesting that athletes high in evaluative self-criticism may be more vulnerable to the rumination-fatigue cycle, whereas perfectionistic strivings did not exert a moderating effect. These findings advance a process-oriented understanding of psychological recovery in athletes and may inform future research on how short-term rumination-fatigue dynamics contribute to longer-term maladaptive recovery patterns, including burnout risk. Interventions targeting repetitive negative thinking, such as mindfulness-, cognitive-behavioral-, or acceptance-based approaches, may help athletes preserve psychological recovery under performance demands."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43051609/",
+   "doi": "https://doi.org/10.1016/j.psychsport.2026.103282",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43051352",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Cortical astrocytes bidirectionally control stress adaptability",
+   "revista": "Biol Psychiatry",
+   "autores": "Kondev V, Holt LM, Kipp B et al.",
+   "tipo_estudo": "",
+   "destaque": "Together, these data reveal potential molecular mechanisms within PFC astrocytes that contribute to the development of depressive-like behaviors, implicate astrocyte calcium dynamics in modulating stress adaptivity, and support astrocytes as therapeutic targets following stress exposure.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Chronic stress is a risk factor for several psychiatric disorders, including major depression (MDD), with the prefrontal cortex (PFC) playing a key role in mediating this stress susceptibility. However, most individuals exposed to chronic stress are resilient and do not develop psychopathology. Recent evidence suggests that glial cells, especially astrocytes, play an important role in controlling stress-induced anxiety- and depression-like behavior, yet their role in contributing to stress resilience is not well understood."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Here, we use RNA-sequencing, fiber photometry, and chemogenetics to assess the role of PFC astrocytes in modulating stress adaptability following chronic social defeat stress (CSDS)."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Bioinformatic analyses reveal robust transcriptional differences between susceptible and resilient mice in PFC astrocytes after CSDS. Comparison with human RNA-sequencing data indicates that molecular changes observed in PFC astrocytes from susceptible mice converge with gene expression observed in MDD patients, and gene-network analyses identified a calcium-enriched module differentially enriched between resilient and susceptible mice. Indeed, fiber photometry revealed distinct patterns of astrocyte calcium dynamics during stress and social interaction testing between resilience and susceptible mice; furthermore, calcium responsivity during stress predicts subsequent stress-induced social avoidance. We causally link astrocytic calcium to stress-induced behavioral adaptations, demonstrating that enhanced calcium tone promotes resilience. Finally, we observe a potential sex-specific calcium response in PFC astrocytes."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Together, these data reveal potential molecular mechanisms within PFC astrocytes that contribute to the development of depressive-like behaviors, implicate astrocyte calcium dynamics in modulating stress adaptivity, and support astrocytes as therapeutic targets following stress exposure."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43051352/",
+   "doi": "https://doi.org/10.1016/j.biopsych.2026.10.034",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43050441",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Behavioural sleep quality and quantity and their associations with age, salivary cortisol and abnormal behaviours: A preliminary field study in racing thoroughbreds",
+   "revista": "PLoS One",
+   "autores": "Hennes N, Greening L, McBride S et al.",
+   "tipo_estudo": "",
+   "destaque": "These findings suggest that, whilst the type and duration of equine behavioural-related sleep may be mainly affected by age, sleep quality is associated with both cortisol levels and the expression of abnormal behaviours, indicating that poor sleep quality may be linked to poor welfare in this population of horses. Overall, these findings highlight behavioural sleep quality as a potential component of racehorse welfare assessment and warrant further investigation into the factors influencing sleep in athletic horses.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Sleep plays a key role in both physical recovery and welfare. However, sleep patterns remain poorly documented in animals, particularly in athletic horses. This study aimed to provide a detailed description of sleep quantity and quality in training Thoroughbred racehorses and to investigate their relationships with age, abnormal behaviours, and cortisol. Thirteen Thoroughbreds (2-7 years old) were continuously monitored in their home environment for 48 hours. An ethogram was used to quantify sleep-related behaviours associated with the two main behavioural sleep states: non-rapid eye movement (NREM-like) and rapid eye movement (REM-like), as well as sleep interruptions (from day 1 at 12:00 to day 3 at 12:00). Sleep Quality Indices (SQIs), reflecting the relationship between sleep duration and sleep interruptions (SIs), were then calculated. Behavioural observations of four indicators of poor welfare (alertness, stereotypies, inactivity, aggressiveness towards humans) were performed using scan sampling, and salivary cortisol was measured each morning. Linear mixed-effects models were used to assess the links between sleep quantity and quality, age, mean cortisol, and abnormal behaviours. Age was significantly associated with behavioural sleep quantity, being positively associated with total behavioural NREM-related sleep (Wald test: χ2 = 5.40, p = 0.02), and negatively associated with total behavioural REM-related sleep (Wald test: χ2 = 4.36, p = 0.04) and total recumbency duration (Wald test: χ2 = 5.68, p = 0.02). Morning cortisol concentrations were negatively associated with Total SQI (Wald test: χ2 = 5.26, p = 0.02) and Combined SQI (Wald test: χ2 = 5.60, p = 0.02). Likewise, horses displaying abnormal behaviours more frequently had lower Total SQI (Wald test: χ2 = 4.07, p = 0.04), pointing to a potential link between stress or altered welfare and poorer sleep quality. These findings suggest that, whilst the type and duration of equine behavioural-related sleep may be mainly affected by age, sleep quality is associated with both cortisol levels and the expression of abnormal behaviours, indicating that poor sleep quality may be linked to poor welfare in this population of horses. Overall, these findings highlight behavioural sleep quality as a potential component of racehorse welfare assessment and warrant further investigation into the factors influencing sleep in athletic horses."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43050441/",
+   "doi": "https://doi.org/10.1371/journal.pone.0342874",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43049205",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Toward a Multi-Component Framework of Grammar Development: Links With Rhythm Processing and Executive Functions",
+   "revista": "Dev Sci",
+   "autores": "Ladányi E, Schipke C, Hearder A et al.",
+   "tipo_estudo": "",
+   "destaque": "However, the association with rhythm discrimination was substantially attenuated after controlling for short-term memory (digit-span). Together, these findings support a multicomponent account of grammar development in which nonlinguistic abilities, particularly inhibition, rhythm processing, and short-term memory, are linked with individual differences in grammar development.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Grammar acquisition is central to language development, yet its interplay with nonlinguistic abilities such as executive functions (EFs) and rhythm processing remains unclear. Clarifying these relations is important for understanding the mechanisms underlying grammar development. In a preregistered individual-differences study, we examined whether EF and rhythm measures were uniquely associated with sentence comprehension in German-speaking children aged 6-8 years. Children completed three sentence-picture matching tasks targeting comprehension of atypical structures (object-initial declarative sentences and object-relative clauses), along with nonverbal EF tasks assessing inhibition (Flanker) and working memory updating (n-back), and with rhythm tasks assessing rhythm discrimination and rhythm synchronization tapping. Sentence comprehension was associated with both rhythm discrimination and inhibition when accounting for other nonlinguistic abilities and covariates. However, the association with rhythm discrimination was substantially attenuated after controlling for short-term memory (digit-span). Together, these findings support a multicomponent account of grammar development in which nonlinguistic abilities, particularly inhibition, rhythm processing, and short-term memory, are linked with individual differences in grammar development."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43049205/",
+   "doi": "https://doi.org/10.1111/desc.70310",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43049732",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "EOMES high PD-1 high CD103 + effector memory CD8 T cells in malignant pleural effusion: a distinct subset implicated in anti-tumor immunity and immunotherapeutic response",
+   "revista": "Oncoimmunology",
+   "autores": "Kim DK, Han HS, Sun P et al.",
+   "tipo_estudo": "",
+   "destaque": "Among patients receiving ICIs, this population was more abundant in those showing improvement in malignant pleural effusion, whose overall responses ranged from stable disease to partial response, whereas patients without pleural effusion improvement had progressive disease. These findings identify a tissue residency-associated, HLA-II-expressing CD8⁺ EM T-cell population with effector-associated features in MPE and suggest its potential clinical relevance during ICI therapy.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Malignant pleural effusion (MPE) is a frequent complication of advanced cancers and is associated with poor prognosis, including in patients receiving immune checkpoint inhibitors (ICIs). We characterized T-cell populations in pleural effusion samples from patients with malignant (n = 34) and benign (n = 11) conditions using multiparametric flow cytometry and cytokine analysis, complemented by reanalysis of publicly available single-cell RNA sequencing datasets. MPE was characterized by enrichment of CD8⁺ effector memory (EM) T cells, including a distinct EOMEShighPD-1highCD103+ population. This subset exhibited increased expression of tissue residency-associated markers, including CD69 and CXCR6, together with increased granzyme B and Ki-67 expression and enhanced IFN-γ production following CD3/CD28 stimulation. Despite high PD-1 expression, it did not exhibit a coordinated increase in exhaustion-associated markers. Single-cell transcriptomic analyzes of breast cancer- and lung adenocarcinoma-associated MPE datasets identified related HLA-II⁺ CD8⁺ T-cell states with effector-associated features, and increased HLA-DR protein expression was confirmed by flow cytometry. Among patients receiving ICIs, this population was more abundant in those showing improvement in malignant pleural effusion, whose overall responses ranged from stable disease to partial response, whereas patients without pleural effusion improvement had progressive disease. These findings identify a tissue residency-associated, HLA-II-expressing CD8⁺ EM T-cell population with effector-associated features in MPE and suggest its potential clinical relevance during ICI therapy."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43049732/",
+   "doi": "https://doi.org/10.1080/2162402X.2026.2764481",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43050637",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Neuropathologic Correlates of Cognitive Functions in Patients With Essential Tremor Without Dementia: Beyond the Cerebellum",
+   "revista": "Neurology",
+   "autores": "Cosentino SA, Chapman S, Guy TO et al.",
+   "tipo_estudo": "",
+   "destaque": "Ongoing work is examining the molecular basis of these processes. Limitations include a highly educated, demographically homogeneous, and relatively small sample, as well as a lack of a control group.",
+   "resumo": [
+    {
+     "rotulo": "Background And Objectives",
+     "texto": "Essential tremor (ET) is characterized not only by motor disturbances but also, in many cases, by a wide array of cognitive symptoms. Accumulating evidence implicates pathways beyond the cerebellum by which cognitive changes emerge. However, the extracerebellar neuropathologic correlates of specific cognitive symptoms have not been examined. This study evaluated these potential clinicopathologic associations in older adults with ET."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Participants were adults ≥55 years with ET who were followed prospectively and longitudinally and donated their brains for neuropathologic evaluation as part of the Clinical-Pathological Study of Cognitive Impairment in Essential Tremor study. Cognitive outcomes included attention, executive function, language, memory, and visuospatial function. Postmortem neuropathologic assessment included Consortium to Establish a Registry for Alzheimer's Disease (CERAD) neuritic plaque scores, Thal β-amyloid A score, Braak and Braak neurofibrillary tangle (NFT) stage, and Braak Lewy pathology stage. Regional cerebral cortical atrophy ratings (neocortical and hippocampal), cerebral amyloid angiopathy, and markers of cerebrovascular health were also rated. Regression models examined neuropathologic correlates of cognitive function, adjusting for numerous confounders. Sensitivity analyses examined robustness of findings."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The sample consisted of 57 individuals with ET and without dementia (mean age = 88.6 ± 5.4 years; 54.4% female, 71.9% cognitively normal, 28.1% with mild cognitive impairment). Higher amyloid burden was associated with lower attention (CERAD β = -0.48, p < 0.001; Thal β = -0.37, p < 0.01) and lower executive function (CERAD β = -0.40, p 0.01; Thal β = -0.33, p = 0.01). CERAD score was associated with lower language (β = -0.31, p = 0.04). Braak NFT stage was associated with lower attention (β = -0.26, p = 0.04) and lower executive function (β = -0.28, p = 0.03). Hippocampal atrophy was associated with lower memory performance (β = -0.29, p = 0.04)."
+    },
+    {
+     "rotulo": "Discussion",
+     "texto": "Core pathologies of AD, amyloid and tau, are associated with decrements in attention and executive function in older adults with ET and without dementia, while hippocampal atrophy is associated with lower memory performance. These results, consistent with a growing literature on extracerebellar pathologies in ET, suggest that multidomain cognitive symptoms among older adults with ET and without dementia may be driven in large part by AD-related cortical degenerative processes. Ongoing work is examining the molecular basis of these processes. Limitations include a highly educated, demographically homogeneous, and relatively small sample, as well as a lack of a control group."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43050637/",
+   "doi": "https://doi.org/10.1212/WNL.0000000000218764",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43051999",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Time-Efficient Reactive Agility Training Improves Motor and Cognitive Components of Reactive Agility in Open- and Closed-Skill Athletes: A 6-Week Intervention Study",
+   "revista": "Eur J Sport Sci",
+   "autores": "Laukhardt F, Engeroff T, Banzer W et al.",
+   "tipo_estudo": "",
+   "destaque": "One weekly 20-min training session is sufficient to improve RA, and selected motor and cognitive performance parameters. Prior experience, based on regular participation in open-skill sports, seems to be associated with higher RA performance but does not moderate training adaptations, as both groups improved similarly in RA and the underlying motor and cognitive functions.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Reactive agility (RA), the ability to respond to external stimuli with whole-body movements as quickly and precisely as possible, is crucial for many sports, particularly open-skill sports, and is influenced by both motor and cognitive abilities. This study aims to investigate which of the underlying components of RA is most improved through RA training, whether prior experience with RA movements influences the rate of improvement, and whether a time-ecological approach also leads to improvements. Assessments included 19 open-skill and 26 closed-skill athletes with different competitive backgrounds. RA training was carried out once a week for six weeks with each session lasting 20 minutes. Pre- and post-assessments were conducted for RA (Random Star Run), change-of-direction (t-Test), and cognitive performance (Stroop test). Baseline differences between open- and closed-skill athletes and performance level were evaluated using 2 × 2 ANOVA. Intervention effects were calculated using repeated measures ANOVA. Open-skill athletes were significantly faster within the RA task than closed-skill athletes (p = 0.017; F = 6.247; η2 p = 0.132). Both groups improved significantly across all outcome measures (p < 0.05; RA and both underlying properties) with no interaction effects of group × time (p > 0.05). One weekly 20-min training session is sufficient to improve RA, and selected motor and cognitive performance parameters. Prior experience, based on regular participation in open-skill sports, seems to be associated with higher RA performance but does not moderate training adaptations, as both groups improved similarly in RA and the underlying motor and cognitive functions."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43051999/",
+   "doi": "https://doi.org/10.1002/ejsc.70297",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43049552",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Neurotransmitter and Transcriptomic Basis of Gray Matter Volume Abnormalities in Alzheimer's Disease: A Meta-Analysis",
+   "revista": "Hum Brain Mapp",
+   "autores": "Jian K, Zhang P, Xu H et al.",
+   "tipo_estudo": "Meta-análise",
+   "destaque": "Genes associated with the lower-GMV regions were enriched mainly in cytoplasmic translation, ribosomal subunits, cadherin-mediated cell adhesion, and ligand-gated ion channel activity. These findings suggest that GMV alterations in AD predominantly affect temporal regions within specific functional networks and are associated with neurotransmitter systems and molecular pathways.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Alzheimer's disease (AD), the commonest neurodegenerative disorder, is characterized by progressive cognitive decline. However, much remains unclear about brain morphological alterations in AD and the underlying molecular mechanisms. We conducted a whole-brain voxel-wise meta-analysis using Seed-based d Mapping with Permutation of Subject Images to identify consistent gray matter volume (GMV) alterations in AD. Significant clusters were assigned to AAL regions and Yeo 7 functional networks and further annotated via Neurosynth. Spatial correspondence between the meta-analysis results and 29 neurotransmitter maps was assessed with JuSpace. Transcriptional associations were assessed using Allen Human Brain Atlas data with partial least squares regression and gene enrichment analysis. The meta-analysis included 70 voxel-based morphometry studies, reporting 2628 AD patients and 2508 healthy controls. AD patients had lower GMV than controls in the bilateral hippocampus, bilateral parahippocampal gyrus and bilateral amygdala (p < 0.05, FWE corrected), regions mainly involved in the default mode network, ventral attention network and the limbic network. Sensitivity analyses indicated high robustness, with low heterogeneity. Neurosynth decoding found the regions of lower GMV to be related to emotional processing and facial expression recognition. Neurotransmitter mapping revealed multiple spatial correlations, notably with the dopaminergic and serotonergic systems (p < 0.001, FDR corrected). Genes associated with the lower-GMV regions were enriched mainly in cytoplasmic translation, ribosomal subunits, cadherin-mediated cell adhesion, and ligand-gated ion channel activity. These findings suggest that GMV alterations in AD predominantly affect temporal regions within specific functional networks and are associated with neurotransmitter systems and molecular pathways."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43049552/",
+   "doi": "https://doi.org/10.1002/hbm.70691",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43048654",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Life-Course Clinical Obesity and Midlife White Matter Hyperintensity Burden: The Bogalusa Heart Study",
+   "revista": "Neurol Open Access",
+   "autores": "Corsten CP, Anda-Duran I, Epps FM et al.",
+   "tipo_estudo": "",
+   "destaque": "Higher cumulative clinical obesity during early adulthood is associated with greater midlife WMH burden but not gray matter volume, supporting a link between life-course obesity with cardiometabolic dysfunction and subclinical cerebrovascular brain injury. Findings should be interpreted in the context of a modest sample size and unclear generalizability to broader populations.",
+   "resumo": [
+    {
+     "rotulo": "Background And Objective",
+     "texto": "Obesity is associated with adverse cardiometabolic outcomes and white matter hyperintensities (WMH), a marker of cerebral small vessel disease linked to cognitive decline. Most prior studies rely on cross-sectional, BMI-based measures that fail to capture cumulative exposure or metabolic severity. The Lancet Commission has proposed a clinical obesity framework distinguishing excess adiposity with cardiometabolic dysfunction from preclinical obesity. This study examines whether cumulative clinical obesity across early adulthood is associated with midlife brain MRI markers of small vessel disease and brain atrophy."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Participants were drawn from the Bogalusa Heart Study, a community-based longitudinal cohort. Obesity status was assessed at up to six examinations between 1985 and 2010 (ages ~23-43 years) and classified as non-obese, preclinically obese, or clinically obese per Lancet Commission criteria. Cumulative obesity burden was quantified as the time-weighted area under the obesity category-age curve (AUC). Brain MRI was obtained in midlife (2017-2025) to quantify WMH volume and gray matter volume normalized to total intracranial volume (GMV/TIV). Associations were evaluated using ordinary least squares regression with heteroskedasticity-consistent standard errors, adjusting for age at MRI, sex, and race."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Among 190 participants (mean age (SD) 56.5 (5.0) years; 66% female; 81% White American), 70% reached the threshold for clinical obesity at least once during early adulthood. Greater cumulative clinical obesity burden was associated with higher midlife WMH burden; each 1-SD increase corresponded to a 0.19-SD higher WMH volume (β = 0.186, SE = 0.072, 95% CI [0.044, 0.327], p = 0.010). Results were robust across multiple sensitivity analyses. Cumulative obesity burden was not significantly associated with GMV/TIV."
+    },
+    {
+     "rotulo": "Discussion",
+     "texto": "Higher cumulative clinical obesity during early adulthood is associated with greater midlife WMH burden but not gray matter volume, supporting a link between life-course obesity with cardiometabolic dysfunction and subclinical cerebrovascular brain injury. Findings should be interpreted in the context of a modest sample size and unclear generalizability to broader populations."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43048654/",
+   "doi": "https://doi.org/10.1212/wn9.0000000000000188",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43047567",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Preoperative predictors of postoperative cognitive outcomes following neurosurgery for primary brain tumors: A systematic review",
+   "revista": "Neurooncol Pract",
+   "autores": "Reed SV, Cauchi G, Oxenham V et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "The review emphasizes the importance of incorporating baseline cognitive assessments into routine clinical care to help identify patients most vulnerable to cognitive decline. Future research should focus on identifying modifiable factors to prevent cognitive decline, and until then, developing interventions to reduce the impact of cognitive decline on recovery and quality of life is crucial.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Cognitive impairment is common among patients with primary brain tumors and significantly impacts quality of life. Surgical resection can affect cognition, but postoperative outcomes vary widely across individuals. Identifying presurgical factors that predict cognitive outcomes could help clinicians stratify risk, guide preoperative counseling, and inform interventions to reduce the risk of postoperative cognitive decline. This systematic review aimed to identify, synthesize, and critically evaluate research on presurgical predictors of cognitive outcomes following brain tumor resection."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Five databases were searched from inception to April 2025. Studies were included if they examined presurgical predictors of postoperative cognitive outcomes in adults undergoing surgery to remove a primary brain tumor, using multivariate analysis. Risk of bias was assessed using the Quality In Prognosis Studies tool."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Fifteen studies met the inclusion criteria. Higher baseline preoperative cognitive performance consistently predicted better postoperative outcomes, including stability or improvement in processing speed, executive function, memory, and visuospatial skills. In comparison, sociodemographic factors and tumor-related characteristics were less reliable predictors. Modifiable presurgical predictors were largely unexplored. Methodological heterogeneity limited direct comparisons across studies, underscoring the need for standardized approaches to assessing cognition in neuro-oncology research."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "The review emphasizes the importance of incorporating baseline cognitive assessments into routine clinical care to help identify patients most vulnerable to cognitive decline. Future research should focus on identifying modifiable factors to prevent cognitive decline, and until then, developing interventions to reduce the impact of cognitive decline on recovery and quality of life is crucial."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43047567/",
+   "doi": "https://doi.org/10.1093/nop/npag046",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43046925",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Neurocognitive functioning and psychological outcomes in advanced cancer survivors treated with immune checkpoint blockade: A prospective longitudinal study",
+   "revista": "Cancer",
+   "autores": "Vanlaer N, Dirven I, Bertels C et al.",
+   "tipo_estudo": "",
+   "destaque": "Survivors who received treatment with ICB demonstrated poorer neurocognitive test performance than healthy matched controls, particularly in learning and memory, but showed gradual improvement over time. In contrast, psychological symptoms, especially fear of cancer recurrence, persisted. These findings support routine survivorship screening, timely referral to interventions for fear of cancer recurrence, and integrative management of cognitive and psychological symptoms.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Immune checkpoint blockade (ICB) has led to a growing population of long-term advanced cancer survivors. However, data on neurocognitive functioning (NCF) and psychological outcomes after ICB remain limited, particularly from longitudinal studies incorporating control groups."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "In this prospective longitudinal study, cancer survivors who had ICB-treated, unresectable, stage III-IV disease completed neuropsychological testing and patient-reported outcome measures (PROMs) at baseline and at 6-month and 18-month follow-up. Objective NCF was compared with healthy matched controls. Linear mixed models evaluated longitudinal changes, and correlation analyses examined associations between NCF and PROMs."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Of the 112 eligible patients, 79 were included. The median time since ICB initiation was 5.3 years. Compared with matched controls, survivors demonstrated poorer performance in learning and long-term memory. Objective neurocognitive test performance improved over time, with the prevalence of neurocognitive impairment decreasing from 49% to 27%. Subjective cognitive complaints affected 20% of survivors, remained stable, and were strongly associated with anxiety, depressive symptoms, fatigue, post-traumatic stress disorder, fear of cancer recurrence, and poorer quality of life, but not with objective NCF. Significant fear of cancer recurrence affected 53% of survivors, including 22% with pathologic levels, and persisted over time. Fatigue, anxiety, depressive symptoms, and post-traumatic stress disorder symptoms were also prevalent and stable throughout follow-up."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Survivors who received treatment with ICB demonstrated poorer neurocognitive test performance than healthy matched controls, particularly in learning and memory, but showed gradual improvement over time. In contrast, psychological symptoms, especially fear of cancer recurrence, persisted. These findings support routine survivorship screening, timely referral to interventions for fear of cancer recurrence, and integrative management of cognitive and psychological symptoms."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43046925/",
+   "doi": "https://doi.org/10.1002/cncr.70668",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43046600",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Understanding Posttraumatic Growth Following Lifetime Trauma: Longitudinal Latent Class Analysis Including Cognitive Processes",
+   "revista": "Stress Health",
+   "autores": "Gendre E, Soubelet A, Gérain P et al.",
+   "tipo_estudo": "",
+   "destaque": "These findings highlight the heterogeneity of trajectories following lifetime trauma and the role of coping and cognitive engagement processes in the evolution of PTG over time. By integrating multiple processes within a longitudinal, person-centred framework, this study contributes to a more nuanced understanding of the perceived PTG.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "The nature of posttraumatic growth (PTG), defined as positive changes that can occur after a traumatic event (TE), is debated due to its complex and dynamic relationship with psychological adjustment. Although heterogeneous PTG trajectories have been identified, the processes underlying their development over time remain insufficiently understood. This study, adopting a person-centred approach, seeks to identify latent classes with distinct multivariate trajectories (PTG, PTSD, positive thinking, deliberate rumination) over 1 year and their sociodemographic, event-related, and psychosocial determinants. A sample of 244 adults exposed to a TE completed, at three points spaced 6 months apart, online questionnaires assessing PTG and psychosocial variables. Sociodemographic and event-related characteristics were collected at baseline. Latent classes with distinct multivariate trajectories were identified. Analyses of variance, chi-square tests, and multinomial logistic regression tested differences between classes and their predictors. Three classes emerged: Constructive PTG (25%), Struggling PTG (45.5%), and No PTG (29.5%). Differences between classes were observed in age, coping, challenge to core beliefs, positive illusions, depression, and social support. Lower baseline adaptive coping predicted membership in the Struggling and No PTG groups, whereas lower challenge to core beliefs predicted the No PTG class. These findings highlight the heterogeneity of trajectories following lifetime trauma and the role of coping and cognitive engagement processes in the evolution of PTG over time. By integrating multiple processes within a longitudinal, person-centred framework, this study contributes to a more nuanced understanding of the perceived PTG."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43046600/",
+   "doi": "https://doi.org/10.1002/smi.70241",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "rss-https-www-sciencedaily-com-releases-2026-11-261117033907-htm",
+   "fonte": "ScienceDaily",
+   "tipo_fonte": "noticia",
+   "titulo": "Why obesity affects men and women differently may be hiding in their fat",
+   "revista": "",
+   "autores": "",
+   "tipo_estudo": "",
+   "destaque": "Scientists at the University of California, Riverside have uncovered a surprising reason why males and females may respond differently to obesity. In a study involving mice, researchers discovered that immune cells traditionally associated with allergies and asthma can either protect against obesity-related inflammation or contribute to harmful metabolic changes, depending on their type and biological sex.",
+   "resumo": [],
+   "link": "https://www.sciencedaily.com/releases/2026/11/261117033907.htm",
+   "doi": "",
+   "data": "2026-11-17T18:04:12-05:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
   },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261116023401-htm",
@@ -593,6 +1515,7 @@
    "doi": "https://doi.org/10.1016/j.cger.2026.09.001",
    "data": "2026-11-17T00:00:00+00:00",
    "temas": [
+    "obesidade",
     "sarcopenia"
    ],
    "visto_em": "2026-11-18T10:56:34.917001+00:00"
@@ -2080,6 +3003,42 @@
     "cognicao"
    ],
    "visto_em": "2026-11-17T10:56:04.219996+00:00"
+  },
+  {
+   "id": "pmid-43039709",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Tirzepatide Titration to Reduce side Effects (TiTRE) in individuals with obesity: a protocol for a randomised controlled trial",
+   "revista": "BMJ Open",
+   "autores": "AlOzairi E, Alawadhi A, Alawadhi A et al.",
+   "tipo_estudo": "",
+   "destaque": "Findings will be disseminated through peer-reviewed publications and scientific conferences, with the potential to inform patient-centred dosing strategies and improve long-term outcomes in obesity pharmacotherapy. NCT07574723.",
+   "resumo": [
+    {
+     "rotulo": "Introduction",
+     "texto": "The epidemic of obesity contributes substantially to non-communicable disease burden and mortality. While nutritional and exercise therapies remain effective for some, the majority of patients may need effective pharmacotherapy and surgical options. Tirzepatide, a dual glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptor agonist, achieved more than 20% weight loss and improved metabolic outcomes. However, gastrointestinal (GI) adverse events, particularly nausea and vomiting during dose escalation, frequently limit adherence, affecting 65%–84% of patients and leading to discontinuation in some cases. Standard fixed titration schedules fail to account for inter-individual variability in tolerability. Symptom-guided titration may improve adherence by individualising dose escalation but this approach has not been evaluated in randomised trials."
+    },
+    {
+     "rotulo": "Methods And Analysis",
+     "texto": "This 76-week, open-label, randomised controlled trial will enrol 68 adults with obesity without diabetes. Participants will be randomised (1:1) to either standard per-label tirzepatide titration or a symptom-guided titration strategy allowing dose adjustments based on tolerability. The primary outcome is time to discontinuation of tirzepatide regimen because of adverse effects over 76 weeks, which captures the cumulative impact of all adverse effects. Secondary outcomes include vomiting frequency, the incidence and severity of individual GI and non-GI adverse effects, discontinuation for any reason, adherence and percentage weight change at 76 weeks. Additional exploratory endpoints include cardiometabolic markers and patient-reported outcomes. Analyses will follow the intention-to-treat principle using appropriate comparative statistical methods."
+    },
+    {
+     "rotulo": "Ethics And Dissemination",
+     "texto": "The study has received ethical approval from the Ethical Review Committee, Dasman Diabetes Institute (RA HM-2026-06), and will adhere to Good Clinical Practice guidelines. Written informed consent will be obtained from all participants. Findings will be disseminated through peer-reviewed publications and scientific conferences, with the potential to inform patient-centred dosing strategies and improve long-term outcomes in obesity pharmacotherapy."
+    },
+    {
+     "rotulo": "Trial Registration Number",
+     "texto": "NCT07574723."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43039709/",
+   "doi": "https://doi.org/10.1136/bmjopen-2026-125338",
+   "data": "2026-11-16T00:00:00+00:00",
+   "temas": [
+    "obesidade",
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
   },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261115085533-htm",
@@ -11278,6 +12237,45 @@
     "estresse"
    ],
    "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-42987555",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Digital-like contamination in the Clock Drawing Test: Norms across six scoring systems",
+   "revista": "J Neurol Sci",
+   "autores": "Ilardi CR, Osiurak F, Gamboz N et al.",
+   "tipo_estudo": "",
+   "destaque": "The clinical validity of CDT may be deteriorating. This study provides updated norms with optional DL adjustments. Their effectiveness in decreasing misclassifications requires diagnostic studies involving clinical samples.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "In an era in which time is increasingly read from digital devices, the Clock Drawing Test (CDT) may capture not only cognitive impairment but also construct-irrelevant variance associated with reduced analog clock usage."
+    },
+    {
+     "rotulo": "Objective",
+     "texto": "We aimed to derive updated normative data for CDT while modeling the impact of digital-like (DL) contamination on score interpretation."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "This cross-sectional study enrolled cognitively healthy adults aged 18-94 years. Clock drawings were scored using six established methods. DL patterns were identified, including five-minute sequencing (e.g., 5-55) and post-meridiem mapping (e.g., 13-23). We then examined whether the frequency of digital timekeeping was associated with CDT performance and the probability of relying on DL strategies. Psychometric rules for score adjustment and interpretation were computed."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The sample included 560 participants (357 women). The scoring methods showed moderate-to-strong intercorrelations (ρ = 0.45-0.79), with good-to-excellent inter-rater reliability (ICC = 0.78-0.95). DL patterns occurred in 45 individuals (8%) and were not associated with cognitive functioning. As participants' age increased, the more frequent the use of digital devices for time-checking, the poorer the CDT performance (b = -0.051, 95% CI [-0.086, -0.017]) and the greater the likelihood of producing DL patterns (b = 0.052, 95% CI [0.017, 0.087], OR = 1.053, 95% CI [1.017, 1.091]). Both age and DL contamination emerged as consistent predictors of CDT performance."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "The clinical validity of CDT may be deteriorating. This study provides updated norms with optional DL adjustments. Their effectiveness in decreasing misclassifications requires diagnostic studies involving clinical samples."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42987555/",
+   "doi": "https://doi.org/10.1016/j.jns.2026.126239",
+   "data": "2026-11-05T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-19T10:55:25.099930+00:00"
   },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261104005226-htm",
