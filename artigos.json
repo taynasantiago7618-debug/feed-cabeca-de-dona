@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-19T10:55:25.099930+00:00",
+ "atualizado_em": "2026-11-20T10:55:17.573979+00:00",
  "titulo": "Feed Científico Cabeça de Dona",
  "subtitulo": "Ciência nova, todo dia, sobre o que move a sua saúde",
  "temas": [
@@ -30,6 +30,249 @@
   }
  ],
  "artigos": [
+  {
+   "id": "pmid-43059349",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Real-World Weight Changes of Prescribed Semaglutide Medications and Application of a Novel Cognitive-Behavioral Protocol: A Nonrandomized 12-Month Retrospective Assessment of Women With Obesity",
+   "revista": "Perm J",
+   "autores": "Annesi JJ, Post PG, Bakhshi M",
+   "tipo_estudo": "",
+   "destaque": "Given their presumed divergent mechanisms of change, this exploratory retrospective inquiry suggests the need for more comprehensive studies to better characterize how medical and behavioral obesity treatments might be effectively integrated in complementary ways.",
+   "resumo": [
+    {
+     "rotulo": "Introduction",
+     "texto": "A plethora of data are available on the unsatisfactory outcomes of obesity treatments focused on controlling eating and increasing exercise/physical activity. As a result, there has been an increase in the prescription of semaglutide medications for weight loss. Although 12-month weight reductions associated with such pharmacologic treatments are reported to range from 12% to 18% within controlled settings, lesser reductions are indicated under \"real-word\" conditions, where treatment compliance is, overall, less favorable. Prior research has also indicated that an evolving cognitive-behavioral obesity treatment that focuses on exercise-related psychological changes carrying over to changes in eating behaviors within real-world settings might improve the weight-loss effects associated with previous behavioral means."
+    },
+    {
+     "rotulo": "Objective",
+     "texto": "The aims of this work were to position future research and generate hypotheses relating to such treatment modalities, especially under randomized conditions."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Real-world weight-change data from women with obesity associated with treatments using semaglutide (n = 314) or theory-based cognitive-behavioral processes focused on enhancing self-regulation, initially through increased exercise (n = 95), were measured from baseline to month 12."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Under the present nonrandomized conditions, the novel cognitive-behavioral treatment was associated with significantly greater weight loss (mean = -6.63 kg, standard deviation = 4.97; -7.0%) than with semaglutide use (mean = -5.10 kg, standard deviation = 8.36; -5.0%). The cognitive-behavioral approach was also associated with greater frequencies of 12-month weight losses of at least 5% and at least 10%."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Given their presumed divergent mechanisms of change, this exploratory retrospective inquiry suggests the need for more comprehensive studies to better characterize how medical and behavioral obesity treatments might be effectively integrated in complementary ways."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43059349/",
+   "doi": "https://doi.org/10.7812/TPP/26.126",
+   "data": "2026-11-20T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
+  },
+  {
+   "id": "pmid-43058133",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Impacts of medications for obesity on global health and the environment",
+   "revista": "Nat Commun",
+   "autores": "Henry RC, Jaacks LM, Waxenberg K et al.",
+   "tipo_estudo": "",
+   "destaque": "Combining GLP-1 use with EAT-Lancet dietary shifts increases these estimates to 7.7 million avoided deaths and 46 Mha more natural land. Lower food prices increase food consumption among untreated populations, including unhealthy foods, partially offsetting these gains.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "A new generation of medications for obesity could transform the global food system. While research has explored their health impacts, their implications for global food demand and land use remain unquantified. We apply a global food system model to project the impact of glucagon-like peptide-1 receptor agonist (GLP-1) uptake to 2050 among people with obesity under two scenarios: reduced calorie intake while maintaining dietary composition, and reduced calorie intake combined with shifts towards the EAT-Lancet diet. Compared with the Reference scenario, GLP-1-mediated calorie reduction alone results in up to 6.6 million avoided deaths globally in 2050 and 32 Mha more natural land area, reflecting reductions in cropland, pasture and managed forest. Combining GLP-1 use with EAT-Lancet dietary shifts increases these estimates to 7.7 million avoided deaths and 46 Mha more natural land. Lower food prices increase food consumption among untreated populations, including unhealthy foods, partially offsetting these gains."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43058133/",
+   "doi": "https://doi.org/10.1038/s41467-026-79412-w",
+   "data": "2026-11-20T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
+  },
+  {
+   "id": "pmid-43058395",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Mitochondrial-ER contact sites in skeletal muscle: a central hub in anabolic resistance and sarcopenia",
+   "revista": "Geroscience",
+   "autores": "Ganesh M, Mukunda SG, Venkhatesh P et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Finally, we explore potential emerging countermeasures aimed at stabilizing ER-mitochondrial coupling, spanning exercise, dietary compounds, and pharmacological stabilizers alongside translational perspectives across species, muscle types. Collectively, muscle MERCs emerge as a unifying mechanistic node in sarcopenia, linking nanoscale architecture to cellular energetic, anabolic resistance, and muscle longevity.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Mitochondria-endoplasmic reticulum contact sites (MERCs) are critical structural hubs that integrate cellular signaling, bioenergetics and proteostasis. In skeletal muscle, a tissue exceptionally vulnerable to age-related decline, MERCs physically and functionally link mitochondria with the sarcoplasmic reticulum (SR), with mitochondria to govern excitation-contraction coupling, coordinating calcium (Ca2+) homeostasis and metabolic homeostasis. While Sarcopenia (age-related muscle loss) and anabolic resistance-the blunted hypertrophic response to nutrition or contractile stimuli, have traditionally been attributed to factors such as mitochondrial dysfunction, hormonal shifts, and chronic low-grade inflammation, growing evidence positions MERCs as a spatial nexus where these pathogenic processes converge. This review examines fundamental biology of muscle MERCs, detailing their specialized molecular architecture, tethering complexes, and physiological roles in Ca2+ dynamics, bioenergetics, and proteostasis. We then evaluate how aging perturbs MERC ultrastructure characterized by the loss of structural tethers and progressive widening of SR-mitochondrial gaps and discuss how these changes are not merely correlative but are potentially mechanistically linked to impaired anabolic signaling. Specifically, we synthesize structural and molecular evidence illustrating how age-associated contact deterioration uncouples excitation-metabolism signaling, tipping myofibers into local energetic shortfalls and blunting translational control. Furthermore, we connect this loss of organellar coordination to quantifiable functional deficits, including slowed relaxation kinetics, impaired metabolic flexibility, and suppressed hypertrophic responsiveness. Finally, we explore potential emerging countermeasures aimed at stabilizing ER-mitochondrial coupling, spanning exercise, dietary compounds, and pharmacological stabilizers alongside translational perspectives across species, muscle types. Collectively, muscle MERCs emerge as a unifying mechanistic node in sarcopenia, linking nanoscale architecture to cellular energetic, anabolic resistance, and muscle longevity."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43058395/",
+   "doi": "https://doi.org/10.1007/s11357-026-02653-6",
+   "data": "2026-11-20T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
+  },
+  {
+   "id": "pmid-43058082",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Testosterone Added to Incretin Therapy in Men With Overweight or Obesity: A Systematic Review of Body Composition Evidence and Gaps",
+   "revista": "Diabetes Obes Metab",
+   "autores": "Bruna-Mejías A, Valenzuela-Fuenzalida JJ, Oyanedel G et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Available evidence does not establish incremental TRT benefit for body composition or muscle outcomes. Missing functional and safety evidence remains a central gap. TRT solely for lean-tissue preservation is unsupported.",
+   "resumo": [
+    {
+     "rotulo": "Aims",
+     "texto": "To characterize body-composition evidence and muscle and safety gaps for testosterone replacement therapy (TRT) added to incretin treatment in men with overweight or obesity and hypogonadism."
+    },
+    {
+     "rotulo": "Materials And Methods",
+     "texto": "PROSPERO CRD420261489220. Seven databases and two registries were searched through 4 September 2026; citations were checked on 10 September. Eligible studies compared concurrent TRT with a comparable incretin regimen without TRT or examined baseline androgen status longitudinally. The original eight reports underwent independent assessment. Following joint initial screening, 300 randomly sampled units were independently rescreened. ROBINS-I, RoB 2 and GRADE informed synthesis by design and outcome."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Two reports provided non-equivalent body-composition outcomes with very low certainty. Neither established incremental TRT benefit. In a nonrandomized pilot (five men per group), the final DXA lean-mass difference was +2.70 kg (exploratory, unadjusted 95% CI -1.75 to +7.15); the descriptive difference in changes was +2.1 kg, with change-score dispersion unavailable. A randomized conference report (266 men across five arms; comparison-arm sizes unavailable) attributed 26% versus 38% of weight loss to fat-free mass with versus without TRT. These observations do not corroborate a common biological effect. No usable TRT-specific strength, function or safety comparisons or eligible baseline-androgen analyses were identified. Two unclassified registry entries limit completeness."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Available evidence does not establish incremental TRT benefit for body composition or muscle outcomes. Missing functional and safety evidence remains a central gap. TRT solely for lean-tissue preservation is unsupported."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43058082/",
+   "doi": "https://doi.org/10.1111/dom.71565",
+   "data": "2026-11-20T00:00:00+00:00",
+   "temas": [
+    "sarcopenia",
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
+  },
+  {
+   "id": "pmid-43059008",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Glucagon-Like Peptide-1 Agonists or Tezepelumab for Obesity-Associated Asthma: A Cohort Study",
+   "revista": "Am J Respir Crit Care Med",
+   "autores": "Staggers KA, Minard C, McCormack MC et al.",
+   "tipo_estudo": "",
+   "destaque": "GLP-1-based medications, and in particular dual-incretin GLP-1/GIP receptor agonists, may have comparable effectiveness to biologic therapy among patients with associated obesity without diabetes. Clinical trials are necessary to validate findings in this observational study.",
+   "resumo": [
+    {
+     "rotulo": "Rationale",
+     "texto": "Obesity is associated with poor asthma outcomes. GLP-1 and dual GLP-1/GIP receptor agonists induce weight loss and dampen airway inflammation independent of pathways currently targeted by biologics."
+    },
+    {
+     "rotulo": "Objective",
+     "texto": "To compare differences in respiratory outcomes and weight loss between GLP-1-based medications and tezepelumab in asthma patients without diabetes."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A retrospective study was performed in a multi-institutional electronic health record database. Patients with specialist-treated, obesity-associated, moderate-to-severe asthma with at least one severe exacerbation in the prior year who initiated liraglutide, semaglutide, tirzepatide, or tezepelumab between January 1, 2022 and December 31, 2025 were identified. Prevalent diabetes was excluded. Patients were followed for subsequent exacerbations, rescue inhaler prescriptions, respiratory-related healthcare encounters, and time to greater than 10% loss in body mass index. Overlap weighting accounted for imbalance in baseline asthma and obesity characteristics."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "2779 patients were identified, of whom 133 initiated liraglutide, 1770 semaglutide, 472 tirzepatide, and 404 tezepelumab. In weighted estimates, patients starting tirzepatide experienced a lower hazard of severe exacerbation compared to tezepelumab (weighted hazard ratio [wHR] 0.41; 95% confidence interval [CI] 0.24-0.70); those starting semaglutide had a similar hazard (wHR 0.99; 95% CI 0.70-1.39). Tirzepatide and semaglutide initiators attained >10% reduction in BMI sooner, had less need for rescue inhalers, and had fewer subsequent respiratory-related encounters compared to tezepelumab."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "GLP-1-based medications, and in particular dual-incretin GLP-1/GIP receptor agonists, may have comparable effectiveness to biologic therapy among patients with associated obesity without diabetes. Clinical trials are necessary to validate findings in this observational study."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43059008/",
+   "doi": "https://doi.org/10.1093/ajrccm/aamag613",
+   "data": "2026-11-20T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
+  },
+  {
+   "id": "pmid-43058312",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Managing post-bariatric weight recurrence with new obesity management medications",
+   "revista": "Nat Rev Endocrinol",
+   "autores": "Masi D, De Domenico F, Zanghi Buffi V et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "This Review discusses the factors that contribute to RWG after MBS, considerations for clinical management of RWG, and questions that future research should aim to address to improve and maintain weight loss and other clinical outcomes after MBS. The Review also discusses clinical approaches to insufficient weight loss and suboptimal clinical response after MBS.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Recurrent weight gain (RWG) following metabolic and bariatric surgery (MBS) represents a major challenge in the long-term management of obesity and is distinct from insufficient weight loss and suboptimal clinical response, which reflect a primary inadequate response. RWG is defined as regain of ≥25% of the maximum weight lost, assessed ≥24 months after surgery. It affects approximately 35% of patients within 5 years of sleeve gastrectomy and approximately 15% within 5 years after Roux-en-Y gastric bypass. With longer follow-up, the number of affected patients rises to about one-third. RWG is multifactorial: genetic predisposition, preoperative metabolic phenotype, inadequate or failed surgical anatomy, and neurohormonal and adipose tissue adaptations interact over time to cause it, and no single variable accounts for it. Randomized evidence indicates that the operation itself is a determinant of long-term response: Roux-en-Y gastric bypass elicits greater postprandial GLP1 secretion, more durable weight loss and higher rates of type 2 diabetes mellitus remission than sleeve gastrectomy, so procedure selection warrants as much attention as postoperative management. Treatment should therefore be specific to phenotype and procedure, escalating from lifestyle optimization to obesity management medications, endoscopic revision and revisional surgery, if needed. Randomized data now support semaglutide after MBS, whereas evidence for tirzepatide, combined endoscopic-pharmacological strategies, or treatment sequencing remains observational and real-world adherence is a major constraint. Multimodal, integrated approaches combining behavioural, pharmacological and surgical strategies could help to improve treatment strategies for patients who experience RWG. This Review discusses the factors that contribute to RWG after MBS, considerations for clinical management of RWG, and questions that future research should aim to address to improve and maintain weight loss and other clinical outcomes after MBS. The Review also discusses clinical approaches to insufficient weight loss and suboptimal clinical response after MBS."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43058312/",
+   "doi": "https://doi.org/10.1038/s41574-026-01324-y",
+   "data": "2026-11-20T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
+  },
+  {
+   "id": "pmid-43059287",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Network Analysis of the Relationship Between Adolescents' Active Health Behaviors, Academic Stress, and Academic Burnout Across Different Latent Profiles",
+   "revista": "Scand J Psychol",
+   "autores": "Wang T, Nie Y, Gu Z et al.",
+   "tipo_estudo": "",
+   "destaque": "Academic Detachment showed the highest strength centrality, whereas Low Achievement showed the lowest expected influence and lower net signed connectivity with other nodes. These exploratory cross-sectional findings describe conditional association patterns and may inform hypotheses for future longitudinal and intervention studies; they do not identify causal mechanisms or established intervention targets.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Academic burnout in adolescence is associated with academic stress and active health behaviors. Prior research has often emphasized bivariate associations without considering heterogeneity in active health behavior profiles or profile-specific conditional associations among these constructs. We conducted a cross-sectional study of 933 adolescents in China. Participants completed the Adolescent Active Health Behavior Scale, the Middle School Student Academic Stress Scale, and the Adolescent Academic Burnout Scale. Latent profile analysis (LPA) identified active health behavior profiles, and network analysis estimated conditional associations and compared network characteristics across profiles. Bootstrap procedures were used to assess stability and accuracy. Three profiles were identified: the Moderate Active Health Behavior Group (55.30%), Low Active Health Behavior Group (15.01%), and High Active Health Behavior Group (29.69%). Academic Detachment showed the highest strength centrality in the estimated overall and subgroup networks, and academic burnout nodes showed higher bridge strength across communities. Low Achievement had the lowest expected influence, indicating lower net signed connectivity with other nodes. The node with the highest expected influence varied across networks (overall network: Health Responsibility; Moderate group: Social Pressure; Low group: Physical and Mental Exhaustion; High group: Parental Pressure). The High group had the densest estimated network and the largest average edge weight, whereas the Low group had the sparsest network. Network structure also differed by gender. The three active health behavior profiles differed in their estimated network characteristics. Academic Detachment showed the highest strength centrality, whereas Low Achievement showed the lowest expected influence and lower net signed connectivity with other nodes. These exploratory cross-sectional findings describe conditional association patterns and may inform hypotheses for future longitudinal and intervention studies; they do not identify causal mechanisms or established intervention targets."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43059287/",
+   "doi": "https://doi.org/10.1111/sjop.70155",
+   "data": "2026-11-20T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
+  },
+  {
+   "id": "rss-https-www-sciencedaily-com-releases-2026-11-261118073918-htm",
+   "fonte": "ScienceDaily",
+   "tipo_fonte": "noticia",
+   "titulo": "Experimental compound burns fat without sacrificing muscle",
+   "revista": "",
+   "autores": "",
+   "tipo_estudo": "",
+   "destaque": "Researchers at UC Berkeley have identified a compound that could transform weight-loss treatment by helping the body burn more energy instead of suppressing appetite like Ozempic and Wegovy. In mice, the compound boosted energy expenditure by up to 18%, improved blood sugar control, reduced liver fat, and promoted weight loss without significant muscle loss. Even more promising, combining it with existing GLP-1 medications produced greater benefits than either treatment alone.",
+   "resumo": [],
+   "link": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm",
+   "doi": "",
+   "data": "2026-11-19T19:19:49-05:00",
+   "temas": [
+    "obesidade",
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
+  },
+  {
+   "id": "rss-https-www-sciencedaily-com-releases-2026-11-261118065518-htm",
+   "fonte": "ScienceDaily",
+   "tipo_fonte": "noticia",
+   "titulo": "Why don't weight-loss drugs like Ozempic and Wegovy work for everyone?",
+   "revista": "",
+   "autores": "",
+   "tipo_estudo": "",
+   "destaque": "Why do Ozempic and Wegovy produce dramatic weight loss for some people but disappointing results for others? Scientists are investigating whether the body's hidden energy-saving response could help explain the difference and unlock more effective, personalized weight-loss treatments.",
+   "resumo": [],
+   "link": "https://www.sciencedaily.com/releases/2026/11/261118065518.htm",
+   "doi": "",
+   "data": "2026-11-19T03:43:56-05:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
+  },
   {
    "id": "pmid-43053641",
    "fonte": "PubMed",
@@ -110,6 +353,487 @@
     "cognicao"
    ],
    "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43056712",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Comprehensive Clinical Decision-Support Framework for Obesity Prevention Using Large-Scale Health Checkup Data: Development and Evaluation Study",
+   "revista": "J Med Internet Res",
+   "autores": "Jang S, Kim YJ, Bae YS et al.",
+   "tipo_estudo": "",
+   "destaque": "Large-scale health checkup data supported an integrated framework for single-visit triage, temporal risk context, risk-domain explanation, and exploratory repeated-measurement updating, providing a basis for prevention-oriented risk communication and follow-up prioritization. The overall gain in discrimination beyond BMI was modest, and the effects on clinical decisions and obesity prevention require prospective evaluation.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Obesity prevention requires identifying nonobese adults at risk of developing obesity. Routine health checkups collect anthropometric, laboratory, medical history, and lifestyle information, but screening primarily describes current anthropometric status and does not directly provide individualized estimates of future risk for preventive counseling."
+    },
+    {
+     "rotulo": "Objective",
+     "texto": "This study aimed to develop and evaluate a comprehensive clinical decision-support framework for obesity prevention using large-scale health checkup data."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "This retrospective cohort study used repeated examination data from the Kangbuk Samsung Health Study. Adults with BMI less than 25 kg/m², at least 3 health checkup visits, a 2-year obesity-free washout period, and postindex follow-up were included. Incident obesity was defined as the first follow-up BMI of 25 kg/m² or higher. The framework integrated a single-visit prediction tier (which we termed lite), a survival component for time-to-transition context, a repeated-measurement updating tier (which we termed plus), and an explainability layer. The primary lite-tier and survival analyses used training-set-only imputation. A previously exported lite-tier Extreme Gradient Boosting (XGBoost) component was externally evaluated in 328,268 National Health Insurance Service (NHIS) participants."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Among 231,683 initially nonobese participants, 38,094 developed incident obesity. In the aligned 5-year visit-1 test cohort, 4088 of 21,783 (18.8%) participants developed obesity. The lite-tier ensemble achieved an area under the receiver operating characteristic curve (AUROC) of 0.918, an area under the precision-recall curve (AUPRC) of 0.693, a Brier score of 0.087, and an expected calibration error of 0.005. AUPRC was approximately 3.7 times the no-information reference. AUROCs were 0.913 for BMI-only and 0.914 for BMI+age+sex. Observed 5-year incidence ranged from 0.1% (6/4357) to 64.7% (2821/4357) across accelerated failure time (AFT) risk quintiles. The plus tier achieved a landmark-row AUROC of 0.899 with less favorable calibration. The previously exported lite-tier XGBoost component achieved an external AUROC of 0.857, AUPRC of 0.575, and Brier score of 0.132."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Large-scale health checkup data supported an integrated framework for single-visit triage, temporal risk context, risk-domain explanation, and exploratory repeated-measurement updating, providing a basis for prevention-oriented risk communication and follow-up prioritization. The overall gain in discrimination beyond BMI was modest, and the effects on clinical decisions and obesity prevention require prospective evaluation."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43056712/",
+   "doi": "https://doi.org/10.2196/107821",
+   "data": "2026-11-19T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
+  },
+  {
+   "id": "pmid-43056601",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Muscle strength and physical activity are independent determinants of quality of life in MASLD",
+   "revista": "Hepatol Commun",
+   "autores": "Iorra FQ, Yee M, Olayiwola M et al.",
+   "tipo_estudo": "",
+   "destaque": "Although fibrosis and metabolic traits remain central therapeutic targets in MASLD, reduced muscle strength and physical inactivity are independently associated with reduced QoL, underscoring the importance of routine functional assessments and holistic management strategies in patient-centered care.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Quality of life (QoL) impairment in metabolic dysfunction-associated steatotic liver disease (MASLD) is often attributed to liver disease severity and metabolic comorbidities; however, the impact of muscle strength and physical activity remains uncertain. This study aims to examine associations between hepatic, metabolic, and functional factors and QoL in patients with MASLD."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "This cross-sectional study included adults with MASLD evaluated between 2014 and 2026. QoL was measured using the 36‑Item Short Form Health Survey (SF‑36) physical and mental component summary scores. Muscle strength was assessed using handgrip strength and the 5-times sit-to-stand test. Physical activity was evaluated using IPAQ-SF. Liver stiffness measurement (LSM) was performed using elastography. Group comparisons were performed using the Mann-Whitney test, and multivariable linear regression was used to examine associations with physical and mental QoL scores, adjusting for age, sex, ethnicity, and socioeconomic status."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Among 215 participants (56% male; mean age 55.4±15.2 y), LSM ≥8 kPa (51%), diabetes (65%), obesity (72%), physical inactivity (35%), and low muscle strength (29%) were common. Lower physical QoL scores were observed in individuals with diabetes, obesity, low muscle strength, and physical inactivity. Lower mental QoL scores were observed in individuals with low muscle strength and physical inactivity. In the adjusted models, higher BMI (β=-0.41; p<0.001), diabetes (β=-3.14; p=0.036), low muscle strength (β=-5.00; p=0.003), and physical inactivity (β=-4.74; p=0.003) were independently associated with lower physical QoL. Low strength was also independently associated with lower mental QoL (β=-6.62; p=0.002)."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Although fibrosis and metabolic traits remain central therapeutic targets in MASLD, reduced muscle strength and physical inactivity are independently associated with reduced QoL, underscoring the importance of routine functional assessments and holistic management strategies in patient-centered care."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43056601/",
+   "doi": "https://doi.org/10.1097/HC9.0000000000001078",
+   "data": "2026-11-19T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
+  },
+  {
+   "id": "pmid-43057203",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Beyond BMI categories in psoriatic arthritis: multidimensional characterisation of the normal-weight population",
+   "revista": "Expert Rev Clin Immunol",
+   "autores": "Caso F, Cascone M, Carleo A et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Current evidence does not define a distinct normal-weight PsA phenotype; normal BMI should instead be regarded as an anthropometric entry category within which heterogeneity may occur across body composition, metabolic and organ health, inflammatory and structural burden, symptoms, function, physiological reserve, and weight trajectory. Prospective studies should test whether multidimensional and longitudinal characterization adds prognostic information beyond BMI; separate comparative studies are required to evaluate heterogeneity in relative treatment effects.",
+   "resumo": [
+    {
+     "rotulo": "Introduction",
+     "texto": "Research on bodyweight in psoriatic arthritis (PsA) has appropriately focused on overweight and obesity, whereas patients within the normal body mass index (BMI) range have generally been used as a reference category rather than characterized directly. This review examines what is known about this population, what cannot be inferred from obesity-centered evidence, and what information assessment beyond BMI might provide."
+    },
+    {
+     "rotulo": "Areas Covered",
+     "texto": "This narrative, non-systematic review was informed by a PubMed search from database inception to 15 July 2026, with targeted additions described in the Methods. We examined bodyweight, body composition, metabolic health, disease characteristics and treatment outcomes in PsA. Interpretation distinguished BMI-category resolution from methodological quality and applicability, and prognostic associations from evidence of treatment-effect modification. A multidimensional framework is proposed for future investigation."
+    },
+    {
+     "rotulo": "Expert Opinion",
+     "texto": "Current evidence does not define a distinct normal-weight PsA phenotype; normal BMI should instead be regarded as an anthropometric entry category within which heterogeneity may occur across body composition, metabolic and organ health, inflammatory and structural burden, symptoms, function, physiological reserve, and weight trajectory. Prospective studies should test whether multidimensional and longitudinal characterization adds prognostic information beyond BMI; separate comparative studies are required to evaluate heterogeneity in relative treatment effects."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43057203/",
+   "doi": "https://doi.org/10.1080/1744666X.2026.2766463",
+   "data": "2026-11-19T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
+  },
+  {
+   "id": "pmid-43058048",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Effects of a Prebiotic Functional Soda on Gastrointestinal Symptoms in Adults Receiving GLP-1-Based Therapy for Weight Management: A Randomized Controlled Pilot Trial",
+   "revista": "Diabetes Obes Metab",
+   "autores": "Grant AD, McCormick C, Bolster D et al.",
+   "tipo_estudo": "",
+   "destaque": "Four weeks of daily prebiotic functional soda consumption was associated with greater reductions in participant-reported GSRS scores compared with usual fluid intake among adults receiving GLP-1-based therapy for weight management. These preliminary findings warrant confirmation in larger, blinded trials using a matched beverage control.",
+   "resumo": [
+    {
+     "rotulo": "Aims",
+     "texto": "Gastrointestinal (GI) adverse effects are common during glucagon-like peptide-1 (GLP-1)-based therapy and may negatively affect quality of life (QOL) and treatment persistence. This pilot evaluated the effects of daily consumption of a prebiotic functional soda on GI symptom burden in adults who recently initiated GLP-1-based therapy for weight management."
+    },
+    {
+     "rotulo": "Materials And Methods",
+     "texto": "In this open-label, randomized controlled pilot, 80 adults receiving semaglutide or tirzepatide for weight management and experiencing at least one GI symptom were randomized 1:1 to consume a prebiotic functional soda (OLIPOP; 1 can/day, with the option of 2 cans/day) for 4 weeks or continue their usual free-living fluid intake. The primary outcome was change in Gastrointestinal Symptom Rating Scale (GSRS) total score. Secondary outcomes included GSRS subscales, health-related QOL (SF-36), stool characteristics and frequency, appetite and cravings, dietary intake and GI rescue medication use."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Sixty-eight participants completed the study (intervention, n = 36; control, n = 32). GSRS total score decreased significantly more with the prebiotic functional soda than control (adjusted least-squares [LS] mean change, -0.931 vs. -0.405; between-group difference, -0.526 [95% CI: -0.713 to -0.339]; p < 0.001). Greater reductions were observed for constipation, abdominal pain and indigestion relative to control. The group difference in overall SF-36 scores was also significant (p = 0.037)."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Four weeks of daily prebiotic functional soda consumption was associated with greater reductions in participant-reported GSRS scores compared with usual fluid intake among adults receiving GLP-1-based therapy for weight management. These preliminary findings warrant confirmation in larger, blinded trials using a matched beverage control."
+    },
+    {
+     "rotulo": "Trial Registration",
+     "texto": "ClinicalTrials.gov Identifier: NCT07744360."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43058048/",
+   "doi": "https://doi.org/10.1111/dom.71538",
+   "data": "2026-11-19T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
+  },
+  {
+   "id": "pmid-43055718",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Optimizing the management of obstructive sleep apnea with pharmacotherapy",
+   "revista": "Expert Rev Clin Pharmacol",
+   "autores": "Bird EM, Schmickl CN, Lam MTY et al.",
+   "tipo_estudo": "",
+   "destaque": "Further evaluation is required before many of these pharmacologic agents are officially approved for use with or without CPAP. Agents addressing specific endotypes will pave the way for more personalized OSA treatment.",
+   "resumo": [
+    {
+     "rotulo": "Introduction",
+     "texto": "Obstructive sleep apnea (OSA) affects up to 1 billion people worldwide. Despite availability of continuous positive airway pressure (CPAP) therapy as the main treatment modality, a need for additional pharmacologic agents remains. Pharmacologic therapies can help improve patient symptoms of sleepiness and address the underlying mechanisms (endotypes) of disordered breathing in patients with OSA."
+    },
+    {
+     "rotulo": "Areas Covered",
+     "texto": "Potential pharmacologic target therapy of the four main OSA endotypes, airway collapsibility, poor upper airway muscle dilation, high loop gain, and low arousal threshold, are reviewed. Medications to help with daytime sleepiness are also discussed. Both original research and review articles spanning 2000 to 2026 are included in this review. Published articles were identified through PubMed and in-progress studies were identified through field experts."
+    },
+    {
+     "rotulo": "Expert Opinion",
+     "texto": "The current landscape of pharmacologic options for OSA is very exciting, especially with the expansion in number of agents addressing obesity that also help improve airway collapsibility. However, many of these therapies (apart from anti-obesity medications and medications for daytime sleepiness) are still experimental. Further evaluation is required before many of these pharmacologic agents are officially approved for use with or without CPAP. Agents addressing specific endotypes will pave the way for more personalized OSA treatment."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43055718/",
+   "doi": "https://doi.org/10.1080/17512433.2026.2764156",
+   "data": "2026-11-19T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
+  },
+  {
+   "id": "pmid-43056626",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Psychological distress and mental health service use among Asian New Zealanders: evidence from linked national survey and administrative data",
+   "revista": "N Z Med J",
+   "autores": "AlGhareeb FA, van Tonder K, D'Souza S",
+   "tipo_estudo": "",
+   "destaque": "Asian New Zealanders are not homogeneous in mental health service use. Inequities exist despite comparable psychological distress, highlighting structural and cultural barriers. Disaggregated analyses and improved access to culturally responsive primary care are critical for mental health equity.",
+   "resumo": [
+    {
+     "rotulo": "Aim",
+     "texto": "This study examined psychological distress and mental health service use among Asian New Zealanders, disaggregated into Chinese, Indian, and Other Asian sub-groups, compared with sole Europeans. We also assessed socio-demographic factors and unmet health needs as predictors."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We used linked New Zealand Health Survey (2011/2012-2018/2019 pooled) and administrative data from the Integrated Data Infrastructure. Psychological distress was measured using the Kessler Psychological Distress Scale. Mental health service use was identified via publicly funded hospitalisations for mood and anxiety disorders and dispensing of antidepressants and anxiolytics. Weighted Poisson regression estimated relative risks (RRs) comparing Asian sub-groups with sole Europeans and examined predictors within sub-groups."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "There were no meaningful differences in risk of high psychological distress across groups. All Asian sub-groups were less likely to use mental health services compared with sole Europeans (adjusted RRs [aRRs] 0.32-0.59). Unmet need for primary care predicted higher psychological distress (aRRs 2.24-4.53) and greater service use across all sub-groups (aRRs 1.99-2.37). Gender and New Zealand -born patterns varied by sub-group and were obscured in aggregated analyses."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Asian New Zealanders are not homogeneous in mental health service use. Inequities exist despite comparable psychological distress, highlighting structural and cultural barriers. Disaggregated analyses and improved access to culturally responsive primary care are critical for mental health equity."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43056626/",
+   "doi": "https://doi.org/10.26635/6965.7492",
+   "data": "2026-11-19T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
+  },
+  {
+   "id": "pmid-43057062",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Reconsidering the \"Sink or Swim\" Approach: A First-Year Surgical Resident Resilience Training Needs Assessment",
+   "revista": "J Surg Educ",
+   "autores": "Ferguson CC, Yavner J, Bellomo TR et al.",
+   "tipo_estudo": "",
+   "destaque": "First-year surgical residents value structured resilience training to support adaptation to the surgical workplace environment. Participants describe key characteristics of the desired resilience program, including content, structure, and anticipated outcomes. These findings provide a framework for a resilience training curriculum tailored to first-year surgical residents. Future work may evaluate the feasibility and efficacy of these interventions.",
+   "resumo": [
+    {
+     "rotulo": "Objective",
+     "texto": "Surgical residents report higher rates of burnout and stress compared to the general population. While resilience training may mitigate these outcomes, few studies have assessed the specific resilience training needs of first-year surgical residents. Therefore, the aim of this study was to describe first-year general surgery resident attitudes towards formal resilience training and identify learner priorities for curricular content and format."
+    },
+    {
+     "rotulo": "Design Setting, And Participants",
+     "texto": "A qualitative needs assessment for formal first-year surgical resident resilience training was conducted using semi-structured interviews with categorical and preliminary first-year general surgery residents at 2 academic institutions. Residents were purposively recruited to obtain a diverse participant sample. De-identified interview transcripts were inductively coded by 2 investigators and prominent themes were identified using thematic analysis. Themes were iteratively reviewed and refined with a multidisciplinary team of surgical education experts."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Fifteen first-year surgical residents participated (participation rate 39%, 15/38). Participants were 53% women, 27% Asian, 27% Black, 53% White, and 20% identified as Hispanic ethnicity, with a mean age of 30.2 years. We identified 6 prominent themes: 1) A need for resilience training to navigate the steep learning curve and workplace environment, 2) Current use of both adaptive and maladaptive coping strategies, 3) Resilience training priorities included communication, emotional regulation, self-awareness, and self-compassion, 4) Preference for small-group, discussion-based sessions grounded in surgical scenarios, 5) Perceived barriers included time constraints and stigma, 6) Anticipated outcomes included protected time for reflection and improved capacity for learning, well-being, and patient care."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "First-year surgical residents value structured resilience training to support adaptation to the surgical workplace environment. Participants describe key characteristics of the desired resilience program, including content, structure, and anticipated outcomes. These findings provide a framework for a resilience training curriculum tailored to first-year surgical residents. Future work may evaluate the feasibility and efficacy of these interventions."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43057062/",
+   "doi": "https://doi.org/10.1016/j.jsurg.2026.104259",
+   "data": "2026-11-19T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
+  },
+  {
+   "id": "pmid-43057033",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Experiences of adverse prenatal ultrasound findings and their communication: A systematic review of expectant parent and ultrasound Practitioner perspectives",
+   "revista": "Radiography (Lond)",
+   "autores": "Tanzeal I, Scragg B, Spacey A",
+   "tipo_estudo": "Revisão",
+   "destaque": "Identification and communication of adverse prenatal findings have significant psychological impacts on patients and practitioners, influenced by communication quality. Ongoing gaps in training, emotional support, and role clarity contribute to inconsistent practice and increased distress, highlighting the need for structured frameworks and strengthened organisational support. Future research should evaluate communication interventions and include more diverse populations to improve psychological outcomes and consistency of care.",
+   "resumo": [
+    {
+     "rotulo": "Introduction",
+     "texto": "Current evidence suggests that the identification and communication of adverse prenatal findings are associated with negative psychological outcomes for both patients and ultrasound practitioners. There remains a need to synthesise and better understand this evidence to assess the extent and nature of the problem. This study therefore aimed to explore the experiences, views and preferences of ultrasound practitioners and expectant parents regarding the identification and communication of adverse prenatal ultrasound findings."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Systematic review and narrative synthesis of studies reporting qualitative and quantitative data. The databases MEDLINE, CINAHL and Web-of-Science were searched between January-2010 and May-2026."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Twelve studies were included. Findings highlight a lack of formal communication training and limited emotional support for practitioners when identifying and communicating adverse prenatal findings, contributing to anxiety, burnout, and role-related uncertainty. For patients, inadequate explanations, inconsistent communication, and insufficient time to process information were associated with immediate shock and longer-term psychological burden. Additionally, environmental and organisational factors, such as time pressures, workload, and suboptimal clinical settings, further influenced communication quality and exacerbated distress for both patients and practitioners."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Identification and communication of adverse prenatal findings have significant psychological impacts on patients and practitioners, influenced by communication quality. Ongoing gaps in training, emotional support, and role clarity contribute to inconsistent practice and increased distress, highlighting the need for structured frameworks and strengthened organisational support. Future research should evaluate communication interventions and include more diverse populations to improve psychological outcomes and consistency of care."
+    },
+    {
+     "rotulo": "Implications For Practice",
+     "texto": "Structured, empathetic communication of adverse findings should be supported by targeted training, clear role delineation, and organisational support to reduce psychological burden and improve consistency of care."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43057033/",
+   "doi": "https://doi.org/10.1016/j.radi.2026.103640",
+   "data": "2026-11-19T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
+  },
+  {
+   "id": "pmid-43056928",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "What are the relations between medical professionalism and burnout, empathy, personality traits, and socio-educational measures? A network perspective",
+   "revista": "Acta Psychol (Amst)",
+   "autores": "Castañeda-Vozmediano R, Monge-Martín D, Álvarez-Montero S et al.",
+   "tipo_estudo": "",
+   "destaque": "Network structure was invariant across gender and specialty groups. These findings position MP as a structurally central component within a broader psychosocial system, with implications for both physician well-being and the quality of patient care.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Medical professionalism (MP) is a multidimensional construct that underpins physicians' ethical conduct, responsibility, and relationships with patients and colleagues. No study to date has conceptualized MP and related psychosocial constructs as an interconnected relational system. This study applied network analysis to examine the complex interrelations operating simultaneously among MP, burnout, empathy, personality traits, and socio-educational variables in 325 Spanish medical residents (mean age = 29.24 years; 70.8% female). Partial correlation networks were estimated using regularization techniques that shrink small coefficients toward zero, with accuracy assessed through bootstrap resampling. MP-comprising Professional Responsibility, Ethical Commitment, and Fellowship-emerged as the most central construct, with Ethical Commitment showing particularly strong connectivity. Personal Accomplishment and Taking the Patient's Perspective were the most central non-MP nodes. Professional Responsibility was positively associated with Personal Accomplishment and Conscientiousness; Ethical Commitment was positively linked to Taking the Patient's Perspective and negatively to Depersonalization; and Fellowship was associated with Extraversion. Network structure was invariant across gender and specialty groups. These findings position MP as a structurally central component within a broader psychosocial system, with implications for both physician well-being and the quality of patient care."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43056928/",
+   "doi": "https://doi.org/10.1016/j.actpsy.2026.108157",
+   "data": "2026-11-19T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
+  },
+  {
+   "id": "pmid-43056837",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Perfectionism and burnout among pediatric intensive care unit nurses: The mediation role of workaholism",
+   "revista": "J Pediatr Nurs",
+   "autores": "Hussien RM, Almegewly W, Hendy A",
+   "tipo_estudo": "",
+   "destaque": "Perfectionism, workaholism, and burnout were significantly interrelated among pediatric intensive care unit nurses. Workaholism showed a partial statistical mediating role in the association between perfectionism and burnout, suggesting that compulsive work behaviors may represent a relevant behavioral pathway linking these psychological characteristics. The findings highlight the importance of addressing both individual and organizational factors through strategies targeting maladaptive perfectionism, excessive work involvement, staffing adequacy, and psychological support. Longitudinal research is needed to establish temporal relationships and evaluate interventions aimed at reducing burnout.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Pediatric intensive care unit (PICU) nurses work in high-acuity environments characterized by complex clinical demands, repeated exposure to critically ill children, parental distress, and pediatric death, placing them at increased risk of burnout. Perfectionistic tendencies may promote excessive and compulsive work patterns, or workaholism, that further deplete nurses' psychological resources. However, the pathways linking perfectionism, workaholism, and burnout remain insufficiently understood in pediatric critical care nursing."
+    },
+    {
+     "rotulo": "Aim",
+     "texto": "This study examined the relationships among perfectionism, workaholism, and burnout among PICU nurses and investigated the mediating role of workaholism in the perfectionism-burnout relationship."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A cross-sectional descriptive study was conducted among 431 PICU nurses recruited from eight hospitals across five Egyptian governorates. Data were collected using a web-based questionnaire including the Short Almost Perfect Scale, Maslach Burnout Inventory-Human Services Survey, and Dutch Work Addiction Scale. Data were analyzed using Pearson correlation, hierarchical multiple regression, and mediation path analysis."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Burnout was positively associated with workaholism (r = 0.218, p < 0.01) and perfectionism (r = 0.247, p < 0.01). A significant positive correlation was also observed between perfectionism and workaholism (r = 0.334, p < 0.01). Mediation analysis revealed a significant indirect association between perfectionism and burnout through workaholism (standardized indirect effect = 0.051, bootstrap 95% CI [0.016, 0.089]), accounting for approximately 20.6% of the total association and supporting partial statistical mediation. Hierarchical regression analysis identified alternating shifts, perceived insufficient income, a nurse-to-patient ratio of 1:3, workaholism, and perfectionism as significant predictors of burnout."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Perfectionism, workaholism, and burnout were significantly interrelated among pediatric intensive care unit nurses. Workaholism showed a partial statistical mediating role in the association between perfectionism and burnout, suggesting that compulsive work behaviors may represent a relevant behavioral pathway linking these psychological characteristics. The findings highlight the importance of addressing both individual and organizational factors through strategies targeting maladaptive perfectionism, excessive work involvement, staffing adequacy, and psychological support. Longitudinal research is needed to establish temporal relationships and evaluate interventions aimed at reducing burnout."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43056837/",
+   "doi": "https://doi.org/10.1016/j.pedn.2026.10.036",
+   "data": "2026-11-19T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
+  },
+  {
+   "id": "pmid-43056454",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "A thalamo-amygdalar circuit drives female vulnerability to chronic pain after early-life stress",
+   "revista": "Science",
+   "autores": "Borruto AM, Kohlund T, Rettig L et al.",
+   "tipo_estudo": "",
+   "destaque": "Chemogenetic pathway inhibition selectively rescued these behaviors when stress and injury co-occurred, whereas sustained and phasic pathway activation triggered mechanical hypersensitivity and avoidance, respectively. Together, these findings uncovered a latent thalamo-amygdalar synaptic gain state that is unmasked by a subsequent injury and transforms early-life stress into female-specific vulnerability to chronic pain and anxiety-like avoidance.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Childhood adversity increases the risk of chronic pain and anxiety later in life, particularly in women, yet the neural mechanisms linking early-life stress to adult vulnerability remain elusive. Here, we show that social isolation and nerve injury interact to amplify activity-dependent synaptic gain and anticipatory recruitment of the paraventricular thalamus-to-central amygdala pathway in female, but not male, mice. This female-specific circuit sensitization enhances mechanical hypersensitivity and avoidance behaviors in adulthood. Chemogenetic pathway inhibition selectively rescued these behaviors when stress and injury co-occurred, whereas sustained and phasic pathway activation triggered mechanical hypersensitivity and avoidance, respectively. Together, these findings uncovered a latent thalamo-amygdalar synaptic gain state that is unmasked by a subsequent injury and transforms early-life stress into female-specific vulnerability to chronic pain and anxiety-like avoidance."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43056454/",
+   "doi": "https://doi.org/10.1126/science.adx5757",
+   "data": "2026-11-19T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
+  },
+  {
+   "id": "pmid-43056406",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Maintaining integrity amidst turmoil: A qualitative exploration of parental coping process during hematopoietic stem cell transplantation for pediatric cancer",
+   "revista": "PLoS One",
+   "autores": "Pouraboli B, Maleki M, Nayeri ND et al.",
+   "tipo_estudo": "",
+   "destaque": "Tailored support systems that address systemic gaps and cultural beliefs are essential for fostering adaptive coping. Strengthening health-seeking and emotional-cognitive strategies can promote functional stability and personal growth among parents.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Childhood cancer, particularly pediatric hematopoietic stem cell transplantation (HSCT), imposes profound psychosocial and socioeconomic challenges on parents. This study aimed to develop a grounded theory explaining the dynamic coping process experienced by parents during their child's HSCT journey."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "This qualitative study used Corbin and Strauss's (2015) grounded theory approach to develop an explanatory account of the parental coping process during pediatric HSCT. Twenty Persian-speaking parents of children undergoing HSCT at a tertiary care center in Iran were recruited through purposive and theoretical sampling. Data collection began with unstructured interviews and progressed to in-depth semi-structured interviews. Data were analyzed through constant comparative analysis, including open, axial, and selective coding."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Parental coping during pediatric HSCT was a multifaceted, non-linear process shaped by evolving stressors and adaptive responses. The analysis generated a grounded theory centered on the core category, \"maintaining integrity amidst turmoil,\" which reflected parents' efforts to manage their central concern, \"entrapment in adversity,\" arising from perceived threats and trapped in suffering. Coping was mediated through two key strategies: \"health-seeking behaviors\" and \"emotional and cognitive coping efforts\". Contextual factors, including a \"continuum of support systems\" (ranging from empowering healthcare interactions to systemic inadequacies) and \"beliefs and individual situation\" (cultural, spiritual, and personal values), significantly influenced coping trajectories. Outcomes included \"relative adaptation\" and \"self-actualization\"."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Tailored support systems that address systemic gaps and cultural beliefs are essential for fostering adaptive coping. Strengthening health-seeking and emotional-cognitive strategies can promote functional stability and personal growth among parents."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43056406/",
+   "doi": "https://doi.org/10.1371/journal.pone.0362656",
+   "data": "2026-11-19T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
+  },
+  {
+   "id": "pmid-43057789",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "The illusion of outsourcing learning: A learner-centered perspective on AI in education",
+   "revista": "Trends Neurosci Educ",
+   "autores": "Hefter MH",
+   "tipo_estudo": "Revisão",
+   "destaque": "Educational psychology is uniquely positioned to determine which cognitive operations learners need to perform themselves and which may be delegated to genAI. It can also help identify what may be lost when such operations are outsourced.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Generative artificial intelligence (genAI) is rapidly transforming education, but not the cognitive mechanisms through which humans learn. However, genAI's effects on learning are often discussed in terms of technological capabilities rather than the cognitive processes through which learning occurs. In this paper, I build on learner-centered accounts for evaluating genAI in education. Through an educational psychology and cognitive science lens, I argue that technologies can influence learning only insofar as they support or interfere with learners' active cognitive processing. This perspective is particularly important because genAI can increasingly perform cognitive operations on learners' behalf, such as generating explanations, organizing information, and solving problems. Such capabilities may indeed increase efficiency, but they may also deprive learners of cognitive activities essential for learning. Therefore, the key question for genAI in education is not whether genAI improves learning, but whether the cognitive operations delegated to genAI are operations that learners need to perform themselves for the intended learning to occur. The same genAI function may therefore support learning under one learning objective and undermine it under another. Thus, performing better with genAI support should not be mistaken for learning that remains once the support is removed. Moreover, explicit learning objectives do not capture all cognitive, metacognitive, motivational, social, or developmental opportunities afforded by an activity. Educational psychology is uniquely positioned to determine which cognitive operations learners need to perform themselves and which may be delegated to genAI. It can also help identify what may be lost when such operations are outsourced."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43057789/",
+   "doi": "https://doi.org/10.1016/j.tine.2026.100302",
+   "data": "2026-11-19T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
+  },
+  {
+   "id": "pmid-43054826",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "The Natural History of Spinocerebellar Ataxia Types 7 and 8",
+   "revista": "Neurol Genet",
+   "autores": "Lin YC, Amokrane N, Worley S et al.",
+   "tipo_estudo": "",
+   "destaque": "In contrast, CCAS and PHQ-9 scores remained stable over approximately 5 years of follow-up, with no significant longitudinal changes detected. These findings demonstrate distinct disease trajectories between SCA7 and SCA8 to inform future longitudinal studies and therapeutic trials.",
+   "resumo": [
+    {
+     "rotulo": "Background And Objectives",
+     "texto": "Spinocerebellar ataxias are genetically heterogeneous neurodegenerative disorders characterized by progressive cerebellar degeneration. Among them, SCA7 and SCA8 are particularly rare, and their longitudinal natural history has not been well defined. Using data from the Clinical Research Consortium for the Study of Cerebellar Ataxias, we examined disease progression in genetically confirmed SCA7 and SCA8 patients in North America."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Longitudinal changes in motor severity were assessed using the Scale for the Assessment and Rating of Ataxia (SARA), alongside cognitive function (Cerebellar Cognitive Affective Syndrome scale [CCAS]) and depressive symptoms (Patient Health Questionnaire-9 (PHQ-9)), applying linear mixed-effects models with genetic and clinical covariates. Our cohort included 27 individuals with SCA7 and 51 with SCA8 with baseline data, among which 22 individuals with SCA7 and 42 with SCA8 have longitudinal follow-up."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Age at onset in SCA7 was inversely associated with pathologic repeat length (β = -1.43, p < 0.01), whereas no significant correlation was observed in SCA8 (β = -0.08, p = 0.28). Longitudinal analyses demonstrated that SCA7 progressed relatively rapidly, with SARA scores worsening by 1.68 points per year, while SCA8 showed substantially slower progression at 0.47 points per year. In both disorders, progression was predominantly driven by deterioration in the axial SARA domain, particularly gait and stance. In contrast, CCAS and PHQ-9 scores remained stable over approximately 5 years of follow-up, with no significant longitudinal changes detected."
+    },
+    {
+     "rotulo": "Discussion",
+     "texto": "These findings demonstrate distinct disease trajectories between SCA7 and SCA8 to inform future longitudinal studies and therapeutic trials."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43054826/",
+   "doi": "https://doi.org/10.1212/NXG.0000000000200452",
+   "data": "2026-11-19T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
+  },
+  {
+   "id": "rss-https-www-sciencedaily-com-releases-2026-11-261117033923-htm",
+   "fonte": "ScienceDaily",
+   "tipo_fonte": "noticia",
+   "titulo": "Too much exercise could leave your brain stuck in overdrive",
+   "revista": "",
+   "autores": "",
+   "tipo_estudo": "",
+   "destaque": "Exercising too much without adequate recovery may disrupt brain chemistry in surprising ways. Scientists found that mice subjected to prolonged, intense training had elevated dopamine levels in a brain region linked to memory and emotions, even 48 hours after exercising. The discovery could help explain why overtrained athletes sometimes struggle with insomnia, anxiety, and persistent fatigue, although these symptoms were not directly measured.",
+   "resumo": [],
+   "link": "https://www.sciencedaily.com/releases/2026/11/261117033923.htm",
+   "doi": "",
+   "data": "2026-11-18T16:28:29-05:00",
+   "temas": [
+    "cognicao",
+    "estresse"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
   },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261114202137-htm",
@@ -1030,6 +1754,41 @@
     "cognicao"
    ],
    "visto_em": "2026-11-19T10:55:25.099930+00:00"
+  },
+  {
+   "id": "pmid-43049101",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Aortic stiffness and brain perfusion: a population-based study",
+   "revista": "Scand Cardiovasc J",
+   "autores": "Gardarsdottir M, Sigurdsson S, Forsberg L et al.",
+   "tipo_estudo": "",
+   "destaque": "These findings indicate that aortic stiffness and aging represent related but distinct contributors to brain health. Aortic stiffness was independently associated with reduced brain perfusion, whereas age was the dominant determinant of structural brain changes.",
+   "resumo": [
+    {
+     "rotulo": "Objectives",
+     "texto": "The objective was to examine the association of aortic stiffness and age with brain perfusion, brain structure, and cognitive function in a population-based sample."
+    },
+    {
+     "rotulo": "Design",
+     "texto": "The sample included randomly selected descendants from a large community study. Aortic stiffness was assessed using carotid-femoral pulse wave velocity (CFPWV) measured by applanation tonometry. Brain perfusion and structural brain measures were obtained using magnetic resonance imaging, and cognitive performance was evaluated using standardized neuropsychological tests. Participants were stratified by the median CFPWV (≤ or >8.6 m/s) for comparison and associations were examined in multivariable regression analyses adjusted for age, sex, heart rate, mean arterial pressure, use of antihypertensive medication and CFPWV."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The study included 269 subjects, average age 62 years. Participants with higher aortic stiffness (>8.6 m/s) were older, had higher heart rate, blood pressure, and more frequently used antihypertensive medication. Total brain, grey matter, and white matter perfusion were significantly lower in those with higher aortic stiffness. Relative brain volume was lower, and white matter hyperintensity (WMH) burden higher in unadjusted analyses, whereas cognitive performance did not differ. In multivariable models, increased aortic stiffness was independently associated with lower total brain perfusion, while chronological age was independently associated with lower brain volumes and greater WMH burden."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "These findings indicate that aortic stiffness and aging represent related but distinct contributors to brain health. Aortic stiffness was independently associated with reduced brain perfusion, whereas age was the dominant determinant of structural brain changes."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43049101/",
+   "doi": "https://doi.org/10.1080/14017431.2026.2760087",
+   "data": "2026-11-18T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
   },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261117033907-htm",
@@ -7028,7 +7787,7 @@
    "resumo": [
     {
      "rotulo": "",
-     "texto": "Early identification and staging of Alzheimer's disease (AD) require integrated assessment of amyloid deposition, tau pathology, and neurodegeneration. PET provides spatially resolved in vivo imaging biomarkers, but its routine use is constrained by cost, tracer availability, and radiation exposure, limiting access to complete A/T/N imaging profiles. We propose a conditional flow matching-based framework that estimates SUV-space PET-derived phenotypes related to 18F-FDG, 18F-florbetapir and 18F-flortaucipir from a single T1-weighted MRI scan. To address limitations in SUV-level quantitative fidelity, single-tracer applicability, and external generalization, the framework combines a PET prior network with a time-conditioned velocity network and uses multi-constraint losses to preserve SUV accuracy, regional uptake consistency, and anatomical boundaries. The model was developed using 1,978 paired ADNI MRI-PET records from 991 participants and evaluated in a predefined ADNI test set and an independent hospital PET/MR cohort of 514 participants. In ADNI, voxel-level MAEs were 0.012, 0.034, and 0.021 SUV, with representative ROI Pearson correlations of 0.978, 0.842, and 0.781. In the hospital cohort, corresponding MAEs were 0.014, 0.037, and 0.024 SUV, with ROI correlations of 0.952, 0.803, and 0.834. In OASIS, generated PET-derived features improved CDR stratification and future cognitive decline prediction, increasing AUCs from 0.662 to 0.739 and from 0.569 to 0.643. These findings suggest that the method can provide PET-derived phenotypes related to A/T/N analysis from structural MRI when PET is unavailable, but should not be interpreted as a replacement for molecular PET assessment."
+     "texto": "Early identification and staging of Alzheimer's disease (AD) require integrated assessment of amyloid deposition, tau pathology, and neurodegeneration. PET provides spatially resolved in vivo imaging biomarkers, but its routine use is constrained by cost, tracer availability, and radiation exposure, limiting access to complete A/T/N imaging profiles. We propose a conditional flow matching-based framework that estimates SUV-space PET-derived phenotypes related to 18F-FDG, 18F-florbetapir and 18F-flortaucipir from a single T1-weighted MRI scan. To address limitations in SUV-level quantitative fidelity, single-tracer applicability, and external generalization, the framework combines a PET prior network with a time-conditioned velocity network and uses multi-constraint losses to preserve SUV accuracy, regional uptake consistency, and anatomical boundaries. The model was developed using 1978 paired ADNI MRI-PET records from 991 participants and evaluated in a predefined ADNI test set and an independent hospital PET/MR cohort of 514 participants. In ADNI, voxel-level MAEs were 0.012, 0.034, and 0.021 SUV, with representative ROI Pearson correlations of 0.978, 0.842, and 0.781. In the hospital cohort, corresponding MAEs were 0.014, 0.037, and 0.024 SUV, with ROI correlations of 0.952, 0.803, and 0.834. In OASIS, generated PET-derived features improved CDR stratification and future cognitive decline prediction, increasing AUCs from 0.662 to 0.739 and from 0.569 to 0.643. These findings suggest that the method can provide PET-derived phenotypes related to A/T/N analysis from structural MRI when PET is unavailable, but should not be interpreted as a replacement for molecular PET assessment."
     }
    ],
    "link": "https://pubmed.ncbi.nlm.nih.gov/43014489/",
@@ -8234,6 +8993,29 @@
    "visto_em": "2026-11-15T10:38:28.671158+00:00"
   },
   {
+   "id": "pmid-43008880",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Audio large language models align with human neural responses during spoken-language comprehension",
+   "revista": "Neuroimage",
+   "autores": "Zhu S, Chen A, Xie Y",
+   "tipo_estudo": "",
+   "destaque": "This pattern was relatively stable in Qwen2-Audio and Qwen2.5-Omni and directionally consistent, although statistically weaker, in Kimi-Audio. These findings provide component-level evidence that audio-conditioned model representations correspond to human neural responses during spoken-language comprehension, without implying mechanistic equivalence.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Audio large language models (audio LLMs) process continuous speech directly and transform it into progressively more abstract representations, providing a useful computational point of comparison with human spoken-language comprehension. Previous studies have reported model-brain correspondence for pretrained speech models and text-based language models, but it remains unclear which internal representations of audio LLMs are most closely associated with neural responses during online listening. We compared EEG responses from 41 native Mandarin listeners with internal representations from Qwen2-Audio, Qwen2.5-Omni, and Kimi-Audio in a Mandarin auditory semantic-violation paradigm that controlled sentence structure and event boundaries. We extracted speech-related and word-level semantic-update representations and quantified their incremental contributions to held-out EEG prediction beyond lower-level controls. Audio LLM representations improved EEG prediction beyond the acoustic envelope, phoneme onsets, and word onsets (Δr = 0.012, corrected P = 0.028). Prediction-score partitioning indicated that semantic violation primarily increased the overlap in EEG-predictive information between speech-related and semantic-update representations, rather than the unique contribution of either representation class. This pattern was relatively stable in Qwen2-Audio and Qwen2.5-Omni and directionally consistent, although statistically weaker, in Kimi-Audio. These findings provide component-level evidence that audio-conditioned model representations correspond to human neural responses during spoken-language comprehension, without implying mechanistic equivalence."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43008880/",
+   "doi": "https://doi.org/10.1016/j.neuroimage.2026.122343",
+   "data": "2026-11-10T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
+  },
+  {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261108233103-htm",
    "fonte": "ScienceDaily",
    "tipo_fonte": "noticia",
@@ -9197,6 +9979,45 @@
     "obesidade"
    ],
    "visto_em": "2026-11-14T10:36:06.033586+00:00"
+  },
+  {
+   "id": "pmid-43002914",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Psychometric evaluation of the emergency department stressors scale and the Utrecht work engagement scale: From the Danish DE-STRESS survey",
+   "revista": "Int Emerg Nurs",
+   "autores": "Hummel S, Østervang C, Abrahamsen C et al.",
+   "tipo_estudo": "",
+   "destaque": "The EDSS requires further cultural adaptation before use in Danish EDs. UWES-9 appears valid and reliable for assessing work engagement in research and clinical practice.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Emergency Department (ED) clinicians experience high occupational stress, which may negatively affect well-being and retention. The DE-STRESS survey was developed in Australia to assess ED stressors, coping, and turnover intentions. The ten independent scales in the Danish version (DE-STRESS DK) have been culturally adapted but not yet psychometrically evaluated."
+    },
+    {
+     "rotulo": "Aim",
+     "texto": "To evaluate construct validity and reliability of two DE-STRESS DK subscales: the Emergency Department Stressors Scale (EDSS) and the Utrecht Work Engagement Scale (UWES-9), among ED clinicians in Denmark."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A cross-sectional methodological study was conducted in three Danish EDs. Construct validity was assessed through hypothesis testing. Test-retest reliability was evaluated using weighted Cohen's kappa and intraclass correlation coefficients (ICC). For UWES-9, internal consistency was assessed using Cronbach's alpha and measurement error using a Bland-Altman plot."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The EDSS showed limited construct validity (1/12 hypotheses supported) and moderate test-retest reliability (κ = 0.30-0.45). UWES-9 demonstrated acceptable construct validity (3/6 hypotheses supported), excellent internal consistency (α = 0.94), good test-retest reliability (ICC = 0.75), with minimal systematic bias."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "The EDSS requires further cultural adaptation before use in Danish EDs. UWES-9 appears valid and reliable for assessing work engagement in research and clinical practice."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43002914/",
+   "doi": "https://doi.org/10.1016/j.ienj.2026.101928",
+   "data": "2026-11-09T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
   },
   {
    "id": "pmid-42996849",
