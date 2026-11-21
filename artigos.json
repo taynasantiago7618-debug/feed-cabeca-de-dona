@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-20T10:55:17.573979+00:00",
+ "atualizado_em": "2026-11-21T10:42:38.243378+00:00",
  "titulo": "Feed Científico Cabeça de Dona",
  "subtitulo": "Ciência nova, todo dia, sobre o que move a sua saúde",
  "temas": [
@@ -30,6 +30,25 @@
   }
  ],
  "artigos": [
+  {
+   "id": "rss-https-www-sciencedaily-com-releases-2026-11-261118065536-htm",
+   "fonte": "ScienceDaily",
+   "tipo_fonte": "noticia",
+   "titulo": "This simple habit is linked to a 33% lower risk of Alzheimer's",
+   "revista": "",
+   "autores": "",
+   "tipo_estudo": "",
+   "destaque": "Reading for pleasure may have surprisingly powerful benefits for the brain, with studies linking it to better memory, reduced stress, improved mental health, and a lower risk of dementia. Researchers highlight findings that just five minutes of fiction can reduce stress by up to 20%, while reading has also been associated with a 33% lower risk of Alzheimer's disease.",
+   "resumo": [],
+   "link": "https://www.sciencedaily.com/releases/2026/11/261118065536.htm",
+   "doi": "",
+   "data": "2026-11-20T07:06:07-05:00",
+   "temas": [
+    "cognicao",
+    "estresse"
+   ],
+   "visto_em": "2026-11-21T10:42:38.243378+00:00"
+  },
   {
    "id": "pmid-43059349",
    "fonte": "PubMed",
@@ -235,6 +254,496 @@
     "estresse"
    ],
    "visto_em": "2026-11-20T10:55:17.573979+00:00"
+  },
+  {
+   "id": "pmid-43062068",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Esketamine-Remimazolam Anesthesia, Recovery and Vital Signs in Obese Bariatric Surgery Patients: A Retrospective Cohort Study",
+   "revista": "J Vis Exp",
+   "autores": "Zhao H, Li X, Yang D et al.",
+   "tipo_estudo": "",
+   "destaque": "The unadjusted risk difference (observation minus control) was -31.20 percentage points (95% CI, -49.6 to -8.7). The esketamine-remimazolam regimen was associated with favorable recorded perioperative outcomes, but the small cohort, nonrandomized treatment selection, unadjusted analysis, and differences in both drug components prevent causal attribution or conclusions of superior efficacy or safety.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Patients with obesity undergoing laparoscopic bariatric surgery present challenges for anesthetic recovery, hemodynamic management, and respiratory monitoring. This single-center, retrospective, nonrandomized cohort study compared esketamine-remimazolam anesthesia with sufentanil-propofol anesthesia in 72 patients treated between July 2023 and March 2025. Groups were defined from the regimen administered: 37 controls and 35 observation-group patients. Awakening time was designated retrospectively as the primary reporting outcome; other recovery intervals, vital signs, postoperative pain, stress indicators, and adverse events were secondary and exploratory. Heart rate, mean arterial pressure, and peripheral oxygen saturation were assessed before induction, 5 min after intubation, at the end of surgery, and at extubation. Resting visual analog scale scores were recorded at 6, 12, and 24 h after surgery. The observation group had shorter induction, awakening, extubation, and spontaneous-breathing recovery intervals. Awakening time differed by -5.73 min (95% confidence interval, -7.30 to -4.16; observation minus control). Repeated-measures analyses identified group and temporal differences in vital signs and pain; pain scores were lower at 12 and 24 h in the observation group. At least one specified adverse event was reported in 20/37 controls (54.05%) and 8/35 observation-group patients (22.86%). The unadjusted risk difference (observation minus control) was -31.20 percentage points (95% CI, -49.6 to -8.7). The esketamine-remimazolam regimen was associated with favorable recorded perioperative outcomes, but the small cohort, nonrandomized treatment selection, unadjusted analysis, and differences in both drug components prevent causal attribution or conclusions of superior efficacy or safety."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43062068/",
+   "doi": "https://doi.org/10.3791/74361",
+   "data": "2026-11-20T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-21T10:42:38.243378+00:00"
+  },
+  {
+   "id": "pmid-43063219",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Bioelectrical impedance analysis versus dual-energy X-ray absorptiometry for sarcopenia assessment in type 2 diabetes mellitus: A systematic review and meta-analysis",
+   "revista": "PLoS One",
+   "autores": "Raj S, Shetty S, Suvarna R et al.",
+   "tipo_estudo": "Meta-análise",
+   "destaque": "In adults with T2DM, BIA and DXA showed no clear average difference, but individual estimates and classifications differed too much for interchangeable use. Where DXA is unavailable, standardised BIA may support initial assessment, but results that would change management, particularly near diagnostic thresholds, should be confirmed with DXA.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Sarcopenia is common in type 2 diabetes mellitus (T2DM). Bioelectrical impedance analysis (BIA) is cheaper and more accessible than dual-energy X-ray absorptiometry (DXA). We assessed whether BIA can replace DXA for measuring muscle mass and classifying low muscle mass in adults with T2DM."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "PubMed/MEDLINE, Embase, Scopus, Web of Science and CINAHL were searched to March 2026 (updated 7 October 2026) for studies measuring muscle mass with both methods in adults with T2DM. Risk of bias was assessed with QUADAS-C. The primary outcome was Bland-Altman agreement (bias, DXA - BIA; population limits of agreement); classification, diagnostic accuracy and correlation (association only) were secondary. Random-effects models used restricted maximum likelihood with Hartung-Knapp intervals; certainty was rated with GRADE."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Seven studies (646 participants, six countries) were included. For whole-body fat-free mass (three studies), the pooled bias was +0.82 kg (95% CI -0.69 to +2.34; population limits of agreement -6.4 to +8.0 kg). For appendicular lean-mass indices (three studies), the bias was -0.13 kg/m2 (95% CI -1.32 to +1.06; I2 = 98%; limits -1.8 to +1.5 kg/m2). In three studies classifying low muscle mass by both methods, the pooled difference in proportions (BIA - DXA) was +3.6 percentage points (95% CI -8.6 to +15.7). With the same thresholds for both methods (two studies), BIA sensitivity was 71% and 91% and specificity 94% and 64%. Estimates were strongly correlated (r = 0.90), reflecting association, not agreement. Certainty of evidence was low or very low."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "In adults with T2DM, BIA and DXA showed no clear average difference, but individual estimates and classifications differed too much for interchangeable use. Where DXA is unavailable, standardised BIA may support initial assessment, but results that would change management, particularly near diagnostic thresholds, should be confirmed with DXA."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43063219/",
+   "doi": "https://doi.org/10.1371/journal.pone.0353604",
+   "data": "2026-11-20T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-21T10:42:38.243378+00:00"
+  },
+  {
+   "id": "pmid-43063120",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Sit-to-stand performance and gait symmetry in older adults with sarcopenia and sarcopenic obesity: A cross-sectional comparative study of lower limb motor function",
+   "revista": "Medicine (Baltimore)",
+   "autores": "Li Z, Liu Y, Liu N",
+   "tipo_estudo": "",
+   "destaque": "Sarcopenic obesity was associated with poorer sit-to-stand performance and greater gait asymmetry in older adults compared with sarcopenia alone. Body composition assessment and gait analysis may provide complementary information for functional evaluation.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Sarcopenic obesity (SO), characterized by the concurrent presence of diminished muscle mass and excessive adiposity, poses an increased risk to physical function, balance, and fall susceptibility in older adults. Although sarcopenia alone has been linked to mobility impairments, the specific effects of elevated body fat on sit-to-stand (STS) performance and gait symmetry have not been thoroughly investigated. This study sought to compare STS ability and gait symmetry between older adults with sarcopenia alone (SP group) and the SO group, and to analyze the biomechanical and neuromuscular differences associated with varying levels of body fat. A cohort of 60 elderly individuals diagnosed with sarcopenia was stratified into SP and SO groups according to the Chinese diagnostic criteria for sarcopenia and obesity. Functional performance was assessed using the Berg Balance Scale (BBS), the Five Times Sit-to-Stand Test, the Timed Up and Go Test, and phase-specific STS timing. Gait and plantar pressure symmetry indices were evaluated utilizing motion capture and pedobarographic systems. The SO group demonstrated significantly lower BBS scores, extended durations for the Five Times Sit-to-Stand Test and Timed Up and Go Test, and prolonged STS phase times (P < .05). Additionally, this group exhibited reduced knee joint angular velocities and increased asymmetry in the stance phase, swing phase, single-limb support, and foot rotation (P < .05). No significant differences were observed in the symmetry indices for step length and step time. Sarcopenic obesity was associated with poorer sit-to-stand performance and greater gait asymmetry in older adults compared with sarcopenia alone. Body composition assessment and gait analysis may provide complementary information for functional evaluation."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43063120/",
+   "doi": "https://doi.org/10.1097/MD.0000000000051677",
+   "data": "2026-11-20T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-21T10:42:38.243378+00:00"
+  },
+  {
+   "id": "pmid-43063088",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Clinical characteristics across graded frailty status in older public hospital outpatients: An exploratory cross-sectional study",
+   "revista": "Medicine (Baltimore)",
+   "autores": "Jeong E, Park H",
+   "tipo_estudo": "",
+   "destaque": "Simple clinical measures, including gait performance, anthropometric measures, and depressive symptom burden, may provide descriptive information on multidimensional vulnerability across graded frailty status in older public hospital outpatients. However, these exploratory findings do not establish independent associations or demonstrate the clinical superiority of the 3-category classification.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Frailty is a multidimensional geriatric syndrome, but practical clinical indicators that reflect vulnerability across graded frailty status in routine outpatient care remain insufficiently characterized. This exploratory cross-sectional study included 28 community-dwelling adults aged 65 years or older who attended outpatient clinics at a public hospital in Seoul, Republic of Korea. Frailty status was classified as robust, pre-frail, or frail using a modified Fried frailty phenotype. Physical performance, anthropometric measures, sarcopenia-related indicators, nutritional status, depressive symptoms, and cognitive function were compared across frailty status, and trends across ordered categories were examined. Multiplicity was assessed in exploratory sensitivity analyses. Pre-frail status was the most common category, with 21 pre-frail, 4 robust, and 3 frail participants. Median calf circumference was 35.4, 34.5, and 30.5 cm in the robust, pre-frail, and frail groups, respectively (unadjusted P = .038). The overall difference did not remain significant after false discovery rate adjustment (q = 0.215). Gait speed and depressive symptom scores showed descriptive variation across frailty status (unadjusted P = .065 and P = .069, respectively). Gait speed contributed directly to frailty classification, while depressive symptoms may overlap conceptually with the exhaustion criterion. Simple clinical measures, including gait performance, anthropometric measures, and depressive symptom burden, may provide descriptive information on multidimensional vulnerability across graded frailty status in older public hospital outpatients. However, these exploratory findings do not establish independent associations or demonstrate the clinical superiority of the 3-category classification."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43063088/",
+   "doi": "https://doi.org/10.1097/MD.0000000000051634",
+   "data": "2026-11-20T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-21T10:42:38.243378+00:00"
+  },
+  {
+   "id": "pmid-43062701",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Nutrition, metabolism, and cardiovascular longevity-what is established, what is hypothesis?",
+   "revista": "Herz",
+   "autores": "Rossmeißl A, Timper K",
+   "tipo_estudo": "Revisão",
+   "destaque": "Nutrition acts on cardiovascular longevity mainly through established risk factors rather than through demonstrated extension of maximum lifespan. Nutritional recommendations should make this distinction explicit, and longevity research requires endpoint-driven trials rather than surrogate markers only.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Cardiovascular aging is the rate-limiting process for human life expectancy and healthspan. Nutrition and metabolism are the most widely available geroprotective targets, yet the underlying evidence is markedly uneven."
+    },
+    {
+     "rotulo": "Objective",
+     "texto": "To define which nutritional and metabolic interventions are established for cardiovascular longevity, or better healthy aging, and which remain hypothetical."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Narrative review of randomized trials, cohort studies, and mechanistic work on dietary patterns, energy balance, meal timing, food quality, supplements, and biomarkers of biological aging."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Whole dietary patterns (Mediterranean, \"Dietary Approaches to Stop Hypertension\" [DASH], sodium reduction) reduce hard cardiovascular endpoints, and the causal roles of apolipoprotein B (apoB)-containing lipoproteins, blood pressure, and adiposity are firmly established. Pharmacologically induced weight loss via glucagon-like peptide‑1 (GLP-1)-based drugs reduces cardiovascular events to a degree not achieved by lifestyle programs, shifting clinical nutrition toward preservation of lean mass and micronutrient adequacy. By contrast, isolated nutrients and supplements, a specific geroprotective effect of intermittent fasting, and the clinical utility of epigenetic aging clocks remain unproven. Randomized caloric restriction slows the epigenetic pace of aging only modestly and has so far not demonstrated mortality benefit in humans."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Nutrition acts on cardiovascular longevity mainly through established risk factors rather than through demonstrated extension of maximum lifespan. Nutritional recommendations should make this distinction explicit, and longevity research requires endpoint-driven trials rather than surrogate markers only."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43062701/",
+   "doi": "https://doi.org/10.1007/s00059-026-05400-x",
+   "data": "2026-11-20T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-21T10:42:38.243378+00:00"
+  },
+  {
+   "id": "pmid-43062517",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Age is Just a Number: Treatment Considerations for Older Adults with Inflammatory Bowel Disease",
+   "revista": "Curr Gastroenterol Rep",
+   "autores": "Drittel D, Chung B, Faye AS",
+   "tipo_estudo": "Revisão",
+   "destaque": "Treatment of older adults with IBD is complex and multidimensional. Management paradigms should shift away from therapeutic hesitancy on the basis of chronological age alone and towards an individualized approach that prioritizes effective disease control and symptom relief, thereby preserving function, independence, and promoting healthy aging for older adults with IBD.",
+   "resumo": [
+    {
+     "rotulo": "Purpose Of Review",
+     "texto": "The purpose of this review is to synthesize the recent evidence regarding efficacy and safety of advanced therapies and surgical interventions in older adults with IBD, as well as examine how geriatric factors (frailty, multimorbidity, polypharmacy, and patient priorities) should influence the selection of therapies in this population."
+    },
+    {
+     "rotulo": "Findings",
+     "texto": "Ongoing inflammation is often a key driver of adverse outcomes in older adults with IBD, and the efficacy of biologics and small molecules is generally preserved in this population. Treatment selection should therefore prioritize efficacy while also accounting for comorbidities, infection and malignancy risk, and potential drug interactions; chronological age alone should not limit their use. Early surgery may also benefit appropriately selected patients, while functional assessment can identify those suitable for immediate intervention and those who may benefit from preoperative optimization. Across treatment decisions, the geriatric 5Ms, multicomplexity, medications, mobility, mind, and what matters most, can help guide individualized care. Treatment of older adults with IBD is complex and multidimensional. Management paradigms should shift away from therapeutic hesitancy on the basis of chronological age alone and towards an individualized approach that prioritizes effective disease control and symptom relief, thereby preserving function, independence, and promoting healthy aging for older adults with IBD."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43062517/",
+   "doi": "https://doi.org/10.1007/s11894-026-01073-y",
+   "data": "2026-11-20T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-21T10:42:38.243378+00:00"
+  },
+  {
+   "id": "pmid-43063527",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Cancer risk with glucagon-like peptide-1 receptor agonists: An umbrella review of meta-analyses",
+   "revista": "Cancer Epidemiol",
+   "autores": "Petrelli F, Meregalli G, Berzi D et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Randomised evidence shows no evidence of a material increase in overall or site-specific cancer risk over currently observed trial durations (median about 70 weeks, maximum about 5 years), and cancer concerns alone do not justify withholding indicated GLP-1RA treatment. Small, rare, long-latency, dose-specific, or agent-specific effects cannot be excluded, and the evidence cannot address exposure beyond approximately five years, well short of the 8-10 years generally required to evaluate cancer incidence. Observational protective associations should not support causal or cancer-prevention claims.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Use of glucagon-like peptide-1 receptor agonists (GLP-1RAs) for diabetes and obesity is increasing, but effects on uncommon or long-latency cancers are uncertain. We synthesised meta-analytic evidence for overall and site-specific cancer risk and assessed methodological quality, overlap, outcome-level certainty, and credibility."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We searched PubMed, Embase, and the Cochrane Library from inception to 30 June 2026 for meta-analyses of GLP-1RAs or the dual GIP/GLP-1 receptor agonist tirzepatide and incident cancer. Randomised and observational evidence was considered separately; review-level estimates were not recombined. We assessed methodological confidence with AMSTAR 2, overlap with corrected covered area (CCA), outcome-level certainty with a GRADE-informed algorithm, and association credibility with Ioannidis criteria."
+    },
+    {
+     "rotulo": "Findings",
+     "texto": "We included 38 meta-analyses from 2012 to 2026. The most comprehensive placebo-controlled randomised evidence (48 trials, 94 245 participants, median follow-up 70 weeks) showed no statistically significant association with thyroid cancer (odds ratio [OR] 1·37, 95% CI 0·82-2·31; 1 fewer to 9 more cases per 10 000 treated), pancreatic cancer (0·84, 0·53-1·35), colorectal cancer (1·11, 0·75-1·65), or breast cancer (0·95, 0·60-1·49), and no overall cancer increase (OR 1·05, 0·98-1·13 across 50 trials). Thyroid and agent-specific haematological signals were inconsistent or based on sparse events; between-review discordance for thyroid and colorectal cancer was largely attributable to comparator restriction, choice of estimator, and handling of zero-event trials rather than to differences in cancer ascertainment. Observational syntheses suggested lower hepatocellular carcinoma risk (hazard ratio 0·60, 95% CI 0·41-0·88), but four reviews had very high overlap (CCA 50·0%). Outcome-level certainty was moderate for five outcomes, low for 11, and very low for five; none was high. No association met class I or II credibility criteria."
+    },
+    {
+     "rotulo": "Interpretation",
+     "texto": "Randomised evidence shows no evidence of a material increase in overall or site-specific cancer risk over currently observed trial durations (median about 70 weeks, maximum about 5 years), and cancer concerns alone do not justify withholding indicated GLP-1RA treatment. Small, rare, long-latency, dose-specific, or agent-specific effects cannot be excluded, and the evidence cannot address exposure beyond approximately five years, well short of the 8-10 years generally required to evaluate cancer incidence. Observational protective associations should not support causal or cancer-prevention claims."
+    },
+    {
+     "rotulo": "Funding",
+     "texto": "None."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43063527/",
+   "doi": "https://doi.org/10.1016/j.canep.2026.103273",
+   "data": "2026-11-20T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-21T10:42:38.243378+00:00"
+  },
+  {
+   "id": "pmid-43063617",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Beyond weight loss: GLP-1-based therapies and the reversal of type 2 diabetes pathophysiology",
+   "revista": "J Diabetes Complications",
+   "autores": "Rossatto T, de Andrade Oliveira R, Manica A et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "We propose that the potential for disease modification may depend on the interaction between the magnitude of metabolic unloading and residual β-cell functional reserve. Prospective withdrawal studies incorporating detailed assessments of β-cell function, insulin sensitivity, and ectopic adiposity are needed to determine whether early and profound incretin-based intervention can translate metabolic normalization into durable, medication-independent remission of T2D.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Glucagon-like peptide-1 (GLP-1)-based therapies have transformed the treatment of type 2 diabetes (T2D), producing substantial improvements in glycemic control and, with newer agents, unprecedented reductions in body weight. However, their effects extend beyond these conventional outcomes and include reductions in visceral and hepatic fat, improved insulin sensitivity, attenuation of glucolipotoxicity, and enhancement of β-cell function. These actions overlap with mechanisms implicated in the reversal of T2D following substantial weight loss, raising the possibility that GLP-1-based therapies may modify the underlying pathophysiology of the disease rather than simply control its metabolic manifestations. In this review, we integrate evidence linking ectopic fat accumulation, hepatic insulin resistance, altered lipid trafficking, oxidative and inflammatory stress, and β-cell dysfunction with the development and reversibility of T2D. We then examine how GLP-1 receptor agonists and dual GIP/GLP-1 receptor agonism remodel these metabolic and cellular abnormalities and discuss whether such changes may facilitate β-cell functional recovery. Particular attention is given to the distinction between treatment-induced normoglycemia and medication-free remission. Although current evidence indicates that GLP-1-based therapies can profoundly modify the diabetic metabolic phenotype, durability after treatment withdrawal remains uncertain. We propose that the potential for disease modification may depend on the interaction between the magnitude of metabolic unloading and residual β-cell functional reserve. Prospective withdrawal studies incorporating detailed assessments of β-cell function, insulin sensitivity, and ectopic adiposity are needed to determine whether early and profound incretin-based intervention can translate metabolic normalization into durable, medication-independent remission of T2D."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43063617/",
+   "doi": "https://doi.org/10.1016/j.jdiacomp.2026.109453",
+   "data": "2026-11-20T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-21T10:42:38.243378+00:00"
+  },
+  {
+   "id": "pmid-43064599",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Servant Leadership in Academic Radiology: From Greenleaf's \"Best Test\" to Monday-Morning Practice",
+   "revista": "Acad Radiol",
+   "autores": "Hochhegger B, Zhang JMF, Gaultier T et al.",
+   "tipo_estudo": "",
+   "destaque": "Servant leadership, as articulated by Robert Greenleaf, holds that a leader's first obligation is the growth of those led; the model has a growing, largely observational evidence base in healthcare and aligns closely with the collaborative, expertise-distributed nature of radiology. In this perspective, we briefly review the concept and the evidence behind it, explain why it fits academic radiology, and offer practical, experience-based guidance for applying Greenleaf's ten characteristics in reading rooms, residency programs, and departmental administration, together with its limitations and the failure modes that can defeat well-intentioned servant leaders.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Academic radiology departments are being asked to interpret more imaging with a radiologist workforce that is growing more slowly than imaging volume, to teach and innovate, and to absorb rapid technological change, while burnout and moral distress erode the people who do the work. Leadership behavior is one of the modifiable factors that influence how faculty, trainees, and staff fare under these conditions. Servant leadership, as articulated by Robert Greenleaf, holds that a leader's first obligation is the growth of those led; the model has a growing, largely observational evidence base in healthcare and aligns closely with the collaborative, expertise-distributed nature of radiology. In this perspective, we briefly review the concept and the evidence behind it, explain why it fits academic radiology, and offer practical, experience-based guidance for applying Greenleaf's ten characteristics in reading rooms, residency programs, and departmental administration, together with its limitations and the failure modes that can defeat well-intentioned servant leaders."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43064599/",
+   "doi": "https://doi.org/10.1016/j.acra.2026.10.045",
+   "data": "2026-11-20T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-21T10:42:38.243378+00:00"
+  },
+  {
+   "id": "pmid-43064324",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Predictors of Clinician Success, Quality, and Resilience in Outpatient Pediatric Palliative Care",
+   "revista": "J Pain Symptom Manage",
+   "autores": "Autrey AK, James C, Mothi SS et al.",
+   "tipo_estudo": "",
+   "destaque": "OPPC program design and workflow impacts clinician perception of success, provision of high-quality care, and team resilience. Quality metrics specific to OPPC models are needed to guide programs in successful expansion of PPC into the outpatient clinic setting.",
+   "resumo": [
+    {
+     "rotulo": "Context",
+     "texto": "Many inpatient PPC programs are growing into the outpatient setting, heeding the call of national organizations to offer pediatric palliative care (PPC) across the care continuum. In this context, expanding PPC programs face high volumes with limited resources."
+    },
+    {
+     "rotulo": "Objectives",
+     "texto": "To improve sustainability, we aimed to assess associations between outpatient pediatric palliative care (OPPC) clinic operationalization and clinician perception of programmatic success, quality of care and team resilience."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "In a national cross-sectional study, 48 freestanding children's hospitals with established inpatient PPC programs were surveyed about their OPPC program's success, quality of care, and team resilience in Spring 2021; participants were asked to base responses on pre- March 2020 experiences."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Of the 28 programs with OPPC, 89% (25/28) responded to items on programmatic success, quality of care, and team resilience. Most reported that OPPC program design and workflow allowed for high-quality care (76%). Half felt their design and workflow were successful (52%) and promoted team resilience (48%). Across different clinical care models, OPPC programs with a dedicated clinic space reported increased programmatic success. Use of a free-standing clinic model was significantly associated with increased perception of success and high-quality care compared to floating and embedded clinic models. Perception that OPPC design and workflow promoted team resilience was associated with perception of high-quality care."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "OPPC program design and workflow impacts clinician perception of success, provision of high-quality care, and team resilience. Quality metrics specific to OPPC models are needed to guide programs in successful expansion of PPC into the outpatient clinic setting."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43064324/",
+   "doi": "https://doi.org/10.1016/j.jpainsymman.2026.11.013",
+   "data": "2026-11-20T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-21T10:42:38.243378+00:00"
+  },
+  {
+   "id": "pmid-43063531",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "The niacin receptor HCAR2 alleviates depression-like behaviors by suppressing microglial NLRP3 inflammasome and complement-mediated synaptic pruning",
+   "revista": "Neurotherapeutics",
+   "autores": "Dai J, Qian T, Yu J et al.",
+   "tipo_estudo": "",
+   "destaque": "In conclusion, HCAR2 acts as an endogenous protective regulator in depression via dual mechanisms: ARRB2-mediated endosomal sequestration of NEK7 to suppress NLRP3 inflammasome, and inhibition of complement-driven synaptic pruning. These findings identify HCAR2 as a promising therapeutic target and provide a rationale for repurposing niacin in MDD treatment.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Major depressive disorder (MDD) is a leading cause of disability, yet current antidepressants are limited by treatment resistance and delayed onset. Neuroimmune inflammation and aberrant synaptic pruning are core pathological drivers, but targeted therapeutics remain scarce. Hydroxycarboxylic acid receptor 2 (HCAR2), a microglia-enriched GPCR and the target of niacin, has shown anti-inflammatory potential, but its role in depression is unknown. Using a chronic unpredictable mild stress mouse model with bidirectional HCAR2 manipulation, we found that chronic stress impaired hippocampal HCAR2 signaling. Niacin robustly alleviated depressive-like behaviors, whereas HCAR2 knockout markedly attenuated these effects and exacerbated stress vulnerability. Mechanistically, HCAR2 activation suppressed hippocampal neuroinflammation and microglial NLRP3 inflammasome activation via a non-canonical, ARRB2-dependent endocytic pathway: activated HCAR2 internalized into microglial endosomes, bound NEK7, and blocked NLRP3 inflammasome assembly. Concurrently, HCAR2 preserved synaptic integrity by inhibiting complement C3/CR3 signaling and attenuating excessive microglial synaptic phagocytosis. In conclusion, HCAR2 acts as an endogenous protective regulator in depression via dual mechanisms: ARRB2-mediated endosomal sequestration of NEK7 to suppress NLRP3 inflammasome, and inhibition of complement-driven synaptic pruning. These findings identify HCAR2 as a promising therapeutic target and provide a rationale for repurposing niacin in MDD treatment."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43063531/",
+   "doi": "https://doi.org/10.1016/j.neurot.2026.e01124",
+   "data": "2026-11-20T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-21T10:42:38.243378+00:00"
+  },
+  {
+   "id": "pmid-43063124",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Effectiveness of mindfulness-based interventions on psychological well-being among nurses: A systematic review of randomized and non-randomized studies",
+   "revista": "Medicine (Baltimore)",
+   "autores": "Dou J, Su W, Tang Y et al.",
+   "tipo_estudo": "Revisão sistemática",
+   "destaque": "The available evidence suggests that MBIs may have beneficial effects on burnout, psychological resilience, and sleep quality among nurses; however, confidence in these findings remains limited by methodological weaknesses, risk of bias, heterogeneity across studies, and the small evidence base for some outcomes. The non-randomized studies provide complementary information on the application of MBIs in clinical nursing settings but do not strengthen causal inference. Further rigorously designed and adequately powered randomized studies are needed to clarify the magnitude and sustainability of these effects.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Nurses frequently experience psychological well-being challenges in clinical settings, particularly related to burnout, psychological resilience, and sleep quality. Mindfulness-based interventions (MBIs) are widely implemented to address psychological well-being in nurses. While previous reviews have primarily focused on randomized controlled trials (RCTs), incorporating non-randomized intervention studies may provide complementary evidence from a broader range of clinical settings. This review aimed to evaluate the effects of MBIs on nurses' burnout, psychological resilience, and sleep quality."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We searched PubMed, Medline, Cochrane Library, PsycINFO, and CINAHL up to June 2025 to identify RCTs and non- randomized intervention studies addressing the values of mindfulness-based interventions in nurses."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "A total of 16 studies involving 1124 participants were included, comprising 12 parallel-group randomized controlled trials, one randomized crossover trial, and three non-randomized intervention studies. Study-level findings generally favored MBIs for burnout, psychological resilience, and sleep quality; however, the magnitude and precision of the reported effects varied across studies, and several findings were nonsignificant. Risk-of-bias assessments ranged from low to critical, and the overall certainty of evidence for all three outcomes was low."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "The available evidence suggests that MBIs may have beneficial effects on burnout, psychological resilience, and sleep quality among nurses; however, confidence in these findings remains limited by methodological weaknesses, risk of bias, heterogeneity across studies, and the small evidence base for some outcomes. The non-randomized studies provide complementary information on the application of MBIs in clinical nursing settings but do not strengthen causal inference. Further rigorously designed and adequately powered randomized studies are needed to clarify the magnitude and sustainability of these effects."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43063124/",
+   "doi": "https://doi.org/10.1097/MD.0000000000051625",
+   "data": "2026-11-20T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-21T10:42:38.243378+00:00"
+  },
+  {
+   "id": "pmid-43063070",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Navigating stress in a changing society: A cross-sectional study of coping mechanisms and mental health among Saudi youth",
+   "revista": "Medicine (Baltimore)",
+   "autores": "Alissa N, Al Khoder R",
+   "tipo_estudo": "",
+   "destaque": "Avoidant coping was not significantly associated with mental health outcomes. These findings highlight the need for culturally relevant interventions and programs in schools and communities that promote adaptive coping and resilience among youth.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Mental health challenges among youth are growing globally, particularly in rapidly changing societies such as Saudi Arabia. This study examined the relationship between coping mechanisms and mental health among Saudi youth aged 16 to 30 years in Riyadh. A cross-sectional quantitative design was used. Data were collected digitally through a self-administered questionnaire distributed via educational and community platforms. A total of 450 participants were recruited using convenience sampling. The Brief Coping Orientation to Problems Experienced Inventory and Mental Health Continuum-Short Form were used to assess coping strategies and mental health, respectively. Statistical analyses included descriptive statistics, t-tests, analysis of variance, and Pearson correlation, with statistical significance set at P < .05. Participants demonstrated a moderate level of coping (mean = 2.41) and low mental health status (mean = 2.29). Problem-focused coping was significantly associated with emotional, psychological, and social well-being, whereas emotion-focused coping was significantly associated with social well-being and overall mental health, but not with emotional or psychological well-being. Avoidant coping was not significantly associated with mental health outcomes. Gender differences emerged, with males reporting higher avoidant coping. Psychological well-being showed the strongest correlation with overall mental health compared with emotional and social well-being. In conclusion, although Saudi youth demonstrated moderate coping skills, their overall mental health remains a concern. Problem-focused coping was positively associated with mental well-being, while emotion-focused coping showed more limited positive associations. Avoidant coping was not significantly associated with mental health outcomes. These findings highlight the need for culturally relevant interventions and programs in schools and communities that promote adaptive coping and resilience among youth."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43063070/",
+   "doi": "https://doi.org/10.1097/MD.0000000000051575",
+   "data": "2026-11-20T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-21T10:42:38.243378+00:00"
+  },
+  {
+   "id": "pmid-43063055",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "The impact of demographic variables and personality characteristics on nurse compassion fatigue: A cross-sectional analysis during and following the COVID-19 pandemic",
+   "revista": "Medicine (Baltimore)",
+   "autores": "Ning X, Jiang W, Zhao M et al.",
+   "tipo_estudo": "",
+   "destaque": "Specifically, higher neuroticism increased the risk, whereas higher agreeableness appeared to be a protective factor. Based on these demographic and personality findings, nursing managers can implement tailored interventions to alleviate compassion fatigue.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Compassion fatigue can undermine nurses' work efficiency, care quality, and well-being, and its correlates among nurses warrant further investigation. To examine compassion fatigue among nurses during and after the coronavirus disease 2019 (COVID-19) pandemic, identify its demographic and personality correlates, and provide evidence to inform mitigation strategies. This study was conducted using a survey that included a basic information questionnaire and two validated instruments: the Chinese Compassion Fatigue Short Scale and the brief version of the Chinese Neuroticism Extraversion Openness Five-Factor Inventory. The sampling frame for this study consisted of nurses working at a tertiary hospital between 2022 and 2024, and a convenience sampling approach was used for data collection and analysis. Independent cross-sectional samples were surveyed at two time points (during and following the coronavirus disease 2019 [COVID-19] pandemic). For each round, 360 questionnaires were issued, resulting in 335 valid returns (93.1% valid response rate) in the first survey and 332 valid returns (92.2% valid response rate) in the second survey, yielding an overall valid response rate of 92.6%. Data were analyzed using descriptive statistics, independent samples t tests, one-way analysis of variance, Pearson correlation analysis, and hierarchical regression. The average compassion fatigue score was 54.87 ± 23.81. Age, working years, professional title, income, and department influence compassion fatigue. The COVID-19 pandemic also significantly impacts it. Nurses reported a higher compassion fatigue score during the COVID-19 pandemic than following it (P < .05). The total score negatively correlates with extraversion(β=-.014, P > .05), openness(β=-.045, P > .05), agreeableness(β=-.293, P < .01), and positively with conscientiousness(β = .041, P > .05) and neuroticism(β=-.014, P < .01). After adjusting for demographic variables, only Neuroticism and Agreeableness were significantly associated with compassion fatigue among nurses, with the personality traits collectively accounting for an additional 50.6% of variance (ΔR2 = .506; total R2 = .553). Specifically, higher neuroticism increased the risk, whereas higher agreeableness appeared to be a protective factor. Based on these demographic and personality findings, nursing managers can implement tailored interventions to alleviate compassion fatigue."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43063055/",
+   "doi": "https://doi.org/10.1097/MD.0000000000051698",
+   "data": "2026-11-20T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-21T10:42:38.243378+00:00"
+  },
+  {
+   "id": "pmid-43062776",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Cannabinoid Receptor Agonism with WIN 55,212-2 Differentially Reshapes Behavioral and Neurobiological Responses to Chronic Unpredictable Stress",
+   "revista": "J Neuroimmune Pharmacol",
+   "autores": "Celebi M, Celebi C, Aksoz E",
+   "tipo_estudo": "",
+   "destaque": "BDNF, CREB, 5-HT1B, and PSD-95 mRNA expression significantly improved relative to untreated CUMS animals, whereas NMDA receptor, TrkB, and SLC1A2 expression did not differ significantly. These findings suggest that cannabinoid receptor agonism produces domain- and marker-dependent responses rather than uniformly reversing chronic stress-induced alterations, highlighting differential behavioral and neurobiological effects under chronic stress.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Chronic stress disrupts behavioral, neuroendocrine, redox, and molecular processes, but whether cannabinoid receptor activation modifies these domains uniformly remains unclear. We investigated the effects of the non-selective cannabinoid receptor agonist WIN 55,212-2 in chronic unpredictable mild stress (CUMS). Thirty-two male Wistar rats were assigned to control, CUMS, WIN, and CUMS + WIN groups. CUMS lasted 35 days; WIN 55,212-2 (0.5 mg/kg/day, i.p.) was administered during the final 21 days. Behavioral assessments were combined with circulating adrenocorticotropic hormone (ACTH) and corticosterone (CORT) measurements, brain redox markers, and mRNA expression analyses of neurotransmission, synaptic organization, and neuroplasticity markers. CUMS induced behavioral disturbances, hypothalamic-pituitary-adrenal (HPA) axis hyperactivity, redox imbalance, and altered transcript expression. WIN 55,212-2 attenuated anhedonia-like and anxiety-like behaviors, improved stress-coping responses, reduced ACTH and CORT elevations, and differentially modified redox alterations. BDNF, CREB, 5-HT1B, and PSD-95 mRNA expression significantly improved relative to untreated CUMS animals, whereas NMDA receptor, TrkB, and SLC1A2 expression did not differ significantly. These findings suggest that cannabinoid receptor agonism produces domain- and marker-dependent responses rather than uniformly reversing chronic stress-induced alterations, highlighting differential behavioral and neurobiological effects under chronic stress."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43062776/",
+   "doi": "https://doi.org/10.1007/s11481-026-10330-w",
+   "data": "2026-11-20T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-21T10:42:38.243378+00:00"
+  },
+  {
+   "id": "pmid-43062613",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Armillaria mellea Polysaccharides Attenuate Depression-Like Behaviors in Mice Exposed to Chronic Restraint Stress",
+   "revista": "Neurochem Res",
+   "autores": "Han X, Fei S, Zhang S et al.",
+   "tipo_estudo": "",
+   "destaque": "Western blot observations from three independent mice per group were interpreted as exploratory. The behavioral findings support further preclinical investigation of AMP during stress exposure.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Armillaria mellea polysaccharides (AMP) have been investigated for their antioxidant and neuroprotective properties. This study evaluated the behavioral effects of AMP during chronic restraint stress (CRS) exposure and explored accompanying hippocampal protein patterns. Fifty male C57BL/6 mice were assigned to control, CRS, low-dose AMP (50 mg/kg/day), high-dose AMP (100 mg/kg/day), or fluoxetine groups (10 mice per group). AMP was administered orally during 21 days of CRS. Behavioral assessments included sucrose preference, forced swimming, tail suspension, open-field exploration, and Morris water maze (MWM) testing. Histological staining and exploratory western blot measurements were also examined. AMP-treated mice showed lower immobility and improvements in selected sucrose-preference and spatial-learning outcomes relative to CRS mice. Locomotor differences complicate interpretation of the immobility-based outcomes. Hippocampal blots showed descriptive differences in inflammatory, apoptosis-related, synaptic protein, and phosphorylation markers for c-Jun N-terminal kinase (JNK) and p38 mitogen-activated protein kinase. Western blot observations from three independent mice per group were interpreted as exploratory. The behavioral findings support further preclinical investigation of AMP during stress exposure."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43062613/",
+   "doi": "https://doi.org/10.1007/s11064-026-04955-9",
+   "data": "2026-11-20T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-21T10:42:38.243378+00:00"
+  },
+  {
+   "id": "pmid-43062602",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Hibiscus sabdariffa (roselle) dietary intervention modulates hematology disorders, oxidative stress, and immune suppression induced by tebuconazole exposure in Oreochromis niloticus via tlr/nfkβp65 and nrf2/keap1 gene expression",
+   "revista": "Fish Physiol Biochem",
+   "autores": "Younis EM, Younis NA, Ibrahim RE et al.",
+   "tipo_estudo": "",
+   "destaque": "The ROE diet improved the splenic histology and modulated the splenic gene expression. Overall, ROE dietary fortification (1%) can be applied for the improvement of the immunological and antioxidant responses of Nile tilapia, especially under TNZ exposure conditions.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "The objective of this research was to ascertain whether dietary roselle (Hibiscus sabdariffa) extract (ROE) could protect Nile tilapia (Oreochromis niloticus) from the negative impacts of the fungicide tebuconazole (TNZ). Fish (n = 160, weight = 20.16 ± 0.23 g) were assigned to four groups (40 fish each, with 10 fish per replicate) for a duration of 60 days. Basal meals containing 0% and 1% ROE were administered to the CRT (control) and ROE groups, respectively. The TNZ and ROE + TNZ groups were fed the exact meals as the CTR and ROE groups, respectively, and were subjected to 0.52 mg/L of TNZ. The splenic superoxide dismutase, catalase, glutathione peroxidase, and glutathione reductase activities were inhibited, while malondialdehyde was increased by TNZ exposure. The hematology indices, including red blood cells, hemoglobin, white blood cells, and their differential counts were lowered by TNZ exposure. TNZ toxicity raised the serum cortisol and glucose, while lowering the serum immune indices (lysozyme, complement 3, myeloperoxidase, and nitric oxide). The splenic expression of toll-like receptor 2, toll-like receptor 5, kelch-like ECH-associated protein 1, and nuclear factor kappa β subunit p65 was up-regulated, while nuclear factor erythroid 2-related factor 2 expression was down-regulated as a result of TNZ exposure. Furthermore, TNZ induced depletion of the lymphoid elements in the splenic tissues. ROE dietary addition (1%) enhanced the antioxidant responses and hematology of the TNZ-exposed fish. The ROE diet improved the splenic histology and modulated the splenic gene expression. Overall, ROE dietary fortification (1%) can be applied for the improvement of the immunological and antioxidant responses of Nile tilapia, especially under TNZ exposure conditions."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43062602/",
+   "doi": "https://doi.org/10.1007/s10695-026-01828-4",
+   "data": "2026-11-20T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-21T10:42:38.243378+00:00"
+  },
+  {
+   "id": "pmid-43061993",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Effect of enrichment, stocking density and breed on feather corticosterone, feather dehydroepiandrosterone (sulphate) and their ratio in broiler chickens",
+   "revista": "Br Poult Sci",
+   "autores": "Reimert I, Pividori I, Cotticelli A et al.",
+   "tipo_estudo": "",
+   "destaque": "The results suggested that, while enrichment and stocking density clearly affected stress, the role of DHEA(S) remains complex and poorly understood.6. Further research is needed to confirm if DHEA(S) in feathers is a reliable biomarker of chronic stress in broiler chickens.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "1. Understanding how husbandry practices affect chronic stress in broiler chickens is crucial to improve animal welfare.2. This study examined the separate and combined effects of environmental enrichment, stocking density and breed on feather corticosterone and dehydroepiandrosterone (sulphate) (DHEA(S)). These are two endocrine indicators of (long-term) stress.3. In four separate 2⨯2 factorial design experiments in Poland and two separate 2⨯2 factorial design experiments in the Netherlands, broilers with different growth rates were reared under different housing conditions. These varied in enrichment types and stocking densities, representing both conventional and less intensive conditions.4. Feather corticosterone concentrations were elevated in broilers housed without environmental enrichment and/or at higher stocking densities. However, feather corticosterone was not elevated in the faster growing breeds, but rather was lower or there was no genotype effect. The effects of enrichment, stocking density, breed and their interactions were less clear for feather DHEA(S) patterns and the corticosterone/DHEA(S) ratio.5. The results suggested that, while enrichment and stocking density clearly affected stress, the role of DHEA(S) remains complex and poorly understood.6. Further research is needed to confirm if DHEA(S) in feathers is a reliable biomarker of chronic stress in broiler chickens."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43061993/",
+   "doi": "https://doi.org/10.1080/00071668.2026.2731586",
+   "data": "2026-11-20T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-21T10:42:38.243378+00:00"
   },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261118073918-htm",
@@ -2902,6 +3411,29 @@
     "cognicao"
    ],
    "visto_em": "2026-11-18T10:56:34.917001+00:00"
+  },
+  {
+   "id": "pmid-43044296",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Effects of temporal and parietal cortex non-invasive brain stimulation on memory in healthy older adults, mild cognitive impairment, and Alzheimer's disease: A systematic review and meta-analysis",
+   "revista": "Neurobiol Aging",
+   "autores": "Macedo J, Almeida M, Ribeiro R et al.",
+   "tipo_estudo": "Meta-análise",
+   "destaque": "Additional analyses showed significant improvements in episodic memory across healthy older adults and patients with MCI and AD (g = 0.60, 95% CI 0.19, 1.01) and in patients with MCI and AD alone (g = 0.61, 95% CI 0.17, 1.06). rTMS did not significantly improve episodic memory in MCI and AD (g = 0.62, 95% CI -0.08, 1.31). These findings suggest potential memory benefits, but substantial heterogeneity and very low certainty of evidence warrant cautious interpretation.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Memory decline is a common cognitive complaint among healthy older adults, mild cognitive impairment (MCI) and Alzheimer's disease (AD). Non-invasive brain stimulation (NIBS) has been investigated as a promising approach for enhancing memory. While most studies target the dorsolateral prefrontal cortex, interest is growing in stimulating temporal and parietal areas due to their involvement in episodic and associative memory. This systematic review and meta-analysis evaluated the effects of temporo-parietal NIBS on memory in healthy older adults and patients with MCI and AD. Nineteen studies were included in the systematic review, of which 12 provided data for random-effects meta-analysis. Effects were expressed as Hedges' g, comparing active and sham stimulation. Overall, NIBS significantly improved memory performance (g = 0.67, 95% CI 0.27, 1.07). Analyses stratified by stimulation modality showed a significant effect for transcranial alternating current stimulation (tACS) (g = 0.81, 95% CI 0.08, 1.53), whereas repetitive transcranial magnetic stimulation (rTMS) did not reach statistical significance (g = 0.60, 95% CI -0.0003, 1.19). The difference between modalities was not significant (p = 0.54). Additional analyses showed significant improvements in episodic memory across healthy older adults and patients with MCI and AD (g = 0.60, 95% CI 0.19, 1.01) and in patients with MCI and AD alone (g = 0.61, 95% CI 0.17, 1.06). rTMS did not significantly improve episodic memory in MCI and AD (g = 0.62, 95% CI -0.08, 1.31). These findings suggest potential memory benefits, but substantial heterogeneity and very low certainty of evidence warrant cautious interpretation."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43044296/",
+   "doi": "https://doi.org/10.1016/j.neurobiolaging.2026.11.002",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-21T10:42:38.243378+00:00"
   },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261116014842-htm",
@@ -7820,6 +8352,29 @@
     "cognicao"
    ],
    "visto_em": "2026-11-12T10:55:00.400978+00:00"
+  },
+  {
+   "id": "pmid-43013934",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Healthy aging, processing speed, and mnemonic brain state engagement",
+   "revista": "Neurobiol Aging",
+   "autores": "Buras HR, Han S, Long NM",
+   "tipo_estudo": "",
+   "destaque": "Older adults may thus recruit idiosyncratic activity patterns to compensate for difficulties engaging young adult-like mnemonic brain states. Taken together, these findings suggest that although older adults retain the ability to engage encoding and retrieval brain states, they require more processing time to both initiate and maintain goal-relevant mnemonic states.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Healthy older adults exhibit both selective impairments in episodic memory - memory for events situated within a specific time and place - and deficits in executive function, reflected by difficulty switching between different tasks and inhibiting task-irrelevant information. Prior work has shown that older adults show diminished mnemonic brain state engagement - recruitment of whole brain activity patterns that selectively support memory encoding and memory retrieval. Our hypothesis is that older adults are biased toward the retrieval state and, due to executive function deficits, cannot easily switch out of this state when task-irrelevant. Our goal was to determine the extent to which stimulus processing time impacts older adult mnemonic state engagement, with the expectation that longer processing times would enable older adults to switch out of a task-irrelevant retrieval state. We recorded scalp electroencephalography (EEG) while younger and older adult participants explicitly encoded and retrieved object stimuli under variable stimulus durations. Using a combination of multivariate decoding approaches, we find that under time constraints, older adults both under-recruit a young adult-like retrieval state when task-relevant, but over-recruit a participant-specific retrieval state when task-irrelevant. Older adults may thus recruit idiosyncratic activity patterns to compensate for difficulties engaging young adult-like mnemonic brain states. Taken together, these findings suggest that although older adults retain the ability to engage encoding and retrieval brain states, they require more processing time to both initiate and maintain goal-relevant mnemonic states."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43013934/",
+   "doi": "https://doi.org/10.1016/j.neurobiolaging.2026.10.008",
+   "data": "2026-11-11T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-21T10:42:38.243378+00:00"
   },
   {
    "id": "pmid-43007835",
