@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-21T10:42:38.243378+00:00",
+ "atualizado_em": "2026-11-22T10:41:53.409806+00:00",
  "titulo": "Feed Científico Cabeça de Dona",
  "subtitulo": "Ciência nova, todo dia, sobre o que move a sua saúde",
  "temas": [
@@ -30,6 +30,536 @@
   }
  ],
  "artigos": [
+  {
+   "id": "pmid-43055718",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Optimizing the management of obstructive sleep apnea with pharmacotherapy",
+   "revista": "Expert Rev Clin Pharmacol",
+   "autores": "Bird EM, Schmickl CN, Lam MTY et al.",
+   "tipo_estudo": "",
+   "destaque": "Further evaluation is required before many of these pharmacologic agents are officially approved for use with or without CPAP. Agents addressing specific endotypes will pave the way for more personalized OSA treatment.",
+   "resumo": [
+    {
+     "rotulo": "Introduction",
+     "texto": "Obstructive sleep apnea (OSA) affects up to 1 billion people worldwide. Despite availability of continuous positive airway pressure (CPAP) therapy as the main treatment modality, a need for additional pharmacologic agents remains. Pharmacologic therapies can help improve patient symptoms of sleepiness and address the underlying mechanisms (endotypes) of disordered breathing in patients with OSA."
+    },
+    {
+     "rotulo": "Areas Covered",
+     "texto": "Potential pharmacologic target therapy of the four main OSA endotypes, airway collapsibility, poor upper airway muscle dilation, high loop gain, and low arousal threshold, are reviewed. Medications to help with daytime sleepiness are also discussed. Both original research and review articles spanning 2000 to 2026 are included in this review. Published articles were identified through PubMed and in-progress studies were identified through field experts."
+    },
+    {
+     "rotulo": "Expert Opinion",
+     "texto": "The current landscape of pharmacologic options for OSA is very exciting, especially with the expansion in number of agents addressing obesity that also help improve airway collapsibility. However, many of these therapies (apart from anti-obesity medications and medications for daytime sleepiness) are still experimental. Further evaluation is required before many of these pharmacologic agents are officially approved for use with or without CPAP. Agents addressing specific endotypes will pave the way for more personalized OSA treatment."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43055718/",
+   "doi": "https://doi.org/10.1080/17512433.2026.2764156",
+   "data": "2026-11-22T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-20T10:55:17.573979+00:00"
+  },
+  {
+   "id": "pmid-43066889",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Fasting-Mimicking Diet (FMD) and Its Effects on Health: From Experimental Findings to Clinical Evidence",
+   "revista": "Curr Nutr Rep",
+   "autores": "Yilmaz B, Gobel P",
+   "tipo_estudo": "Revisão",
+   "destaque": "FMD is a promising periodic dietary strategy that may favorably influence selected intermediate metabolic and cardiometabolic markers. However, current human evidence is preliminary, and large, long-term, well-designed randomized controlled trials are essential to clarify its long-term safety, clinical effectiveness, and appropriate use across diverse populations.",
+   "resumo": [
+    {
+     "rotulo": "Purpose Of Review",
+     "texto": "Obesity and excess energy intake are major risk factors for cancer, neurodegenerative disorders, and various metabolic diseases. Calorie restriction and fasting strategies have attracted interest for their potential to promote healthy aging. The Fasting-Mimicking Diet (FMD) has emerged as an increasingly studied alternative to traditional fasting. This review aims to summarize the current experimental and clinical evidence regarding the effects of FMD on health and disease management. Relevant literature was identified through searches of PubMed/MEDLINE, Scopus, Web of Science, and Google Scholar, with the search last updated in October 2026."
+    },
+    {
+     "rotulo": "Recent Findings",
+     "texto": "FMD is characterized by a low-calorie, plant-based structure that triggers fasting-like metabolic responses while permitting limited nutrient intake. Research in animal models has demonstrated that FMD can inhibit tumor growth, enhance antitumor immunity, stimulate pancreatic β-cell regeneration, and attenuate disease-related phenotypes in experimental models of autoimmune and neurodegenerative disease. In humans, FMD has been investigated as an adjunct to cancer therapy, with mixed and preliminary response signals, and clinical studies have reported changes in selected intermediate outcomes, including blood pressure, insulin-like growth factor 1 (IGF-1), insulin resistance, and hepatic fat. However, current evidence is limited by small sample sizes, short follow-up durations, and heterogeneous protocols. FMD is a promising periodic dietary strategy that may favorably influence selected intermediate metabolic and cardiometabolic markers. However, current human evidence is preliminary, and large, long-term, well-designed randomized controlled trials are essential to clarify its long-term safety, clinical effectiveness, and appropriate use across diverse populations."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43066889/",
+   "doi": "https://doi.org/10.1007/s13668-026-00816-7",
+   "data": "2026-11-22T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-22T10:41:53.409806+00:00"
+  },
+  {
+   "id": "pmid-43066594",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Global Leadership Initiative on a Malnutrition-Based Muscle Assessment Using Multiple Methods in Critically Ill Patients: A Prospective Observational Study",
+   "revista": "J Intensive Care Med",
+   "autores": "Miyagi T, Yoshida M, Kanda N et al.",
+   "tipo_estudo": "",
+   "destaque": "Additionally, BIA-Muscle-ICW correlated most strongly with resting energy expenditure (r = 0.61, p < 0.001).ConclusionThe muscle volume indices assessed herein mutually correlated in critically ill patients, suggesting the potential of incorporating these measures, particularly BIA-Muscle-ICW, into initial GLIM at ICU admission. BIA-Muscle-ICW index, ultrasound-FMT index, and AC demonstrated strong discriminative performance for diagnosing sarcopenia.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "BackgroundMuscle mass assessment is integral to the Global Leadership Initiative on Malnutrition (GLIM) for critically ill patients. Despite its importance, an optimal muscle volume assessment has yet to be established. We herein performed various muscle volume and nutritional assessments and conducted an exploratory evaluation of muscle volume assessment methods that may be clinically meaningful for critically ill patients.MethodsThis single-center prospective cohort enrolled adults expected to require mechanical ventilation for >2 days who ambulated independently before hospitalization. Computed tomography (CT)-derived total skeletal muscle mass at third lumbar vertebra (CT-MM) from retrospectively reviewed scans served as the reference. Within 24 h of intensive care unit (ICU) admission, we measured mid-upper arm circumference (AC), calf circumference, bioelectrical impedance analysis (BIA)-derived fat-free muscle volume and intracellular water-based muscle volume (BIA-Muscle-ICW), femoral cross-sectional area, ultrasound-derived femoral muscle thickness (ultrasound-FMT), ultrasound-derived upper-limb muscle thickness, and resting energy expenditure. Malnutrition followed GLIM. Reduced muscle mass used the CT-MM index.ResultsFifty-two patients were included, 13 with GLIM-defined malnutrition. BIA-Muscle-ICW correlated most strongly with CT-MM (r = 0.80, p < 0.001). The other measures also correlated consistently, and all intercorrelated. For CT-defined sarcopenia, ultrasound-FMT index (AUC = 0.88), BIA-Muscle-ICW index (AUC = 0.83), and AC (AUC = 0.85) demonstrated good discrimination. Additionally, BIA-Muscle-ICW correlated most strongly with resting energy expenditure (r = 0.61, p < 0.001).ConclusionThe muscle volume indices assessed herein mutually correlated in critically ill patients, suggesting the potential of incorporating these measures, particularly BIA-Muscle-ICW, into initial GLIM at ICU admission. BIA-Muscle-ICW index, ultrasound-FMT index, and AC demonstrated strong discriminative performance for diagnosing sarcopenia."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43066594/",
+   "doi": "https://doi.org/10.1177/08850666261507584",
+   "data": "2026-11-22T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-22T10:41:53.409806+00:00"
+  },
+  {
+   "id": "pmid-43065752",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Burnout in Medical Students: The Role of Learning Disabilities and Perceived Financial Stability",
+   "revista": "Med Sci Educ",
+   "autores": "Brini G, Gonzalez S, Hossain A et al.",
+   "tipo_estudo": "",
+   "destaque": "Institutional efforts such as improved disability accommodations, financial counseling, and mental health support may help reduce burnout and its consequences. Strengthening these support systems within medical education is essential not only for improving student well-being and academic performance but also for ensuring the long-term health and effectiveness of future physicians and the quality of patient care.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Burnout is a psychological syndrome resulting from chronic occupational stress, characterized by exhaustion, cynicism, and reduced personal accomplishment. Among medical students, burnout is highly prevalent and has long-term implications for physician well-being and patient safety. This study examined the prevalence and severity of burnout among medical students, focusing on the interface of learning disabilities (LDs) and socioeconomic status. Burnout was measured using the Burnout Assessment Tool (BAT), which evaluates both core symptoms-exhaustion, cognitive, and emotional impairment-and secondary symptoms, including psychosomatic and psychological manifestations. Participants provided demographic data on LD status, gender, and financial background. Findings revealed that burnout among medical students is multifactorial, influenced by both personal and structural factors. Students reporting financial insecurity or self- or medically diagnosed LDs demonstrated significantly higher BAT scores across both core and secondary domains. Females, financial instability, and presence of a LD were significant predictors of psychosomatic and psychological burnout symptoms, while students from lower-income backgrounds or with substantial debt reported greater emotional exhaustion and disengagement. These results suggest that medical students with LDs and those facing financial hardship are at heightened risk of burnout, emphasizing the need for early and targeted interventions. Institutional efforts such as improved disability accommodations, financial counseling, and mental health support may help reduce burnout and its consequences. Strengthening these support systems within medical education is essential not only for improving student well-being and academic performance but also for ensuring the long-term health and effectiveness of future physicians and the quality of patient care."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43065752/",
+   "doi": "https://doi.org/10.1007/s40670-026-02947-6",
+   "data": "2026-11-22T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-22T10:41:53.409806+00:00"
+  },
+  {
+   "id": "pmid-43066102",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Getting by \"With a Little Help From My Friends\": Collegial and peer support in allergy-immunology",
+   "revista": "J Allergy Clin Immunol Glob",
+   "autores": "Conway AE, Conti ME, Verdi M et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Collegial networks and peer support are important and helpful resources. This article reviews key aspects of collegial and peer support programs that can benefit health care professionals in allergy-immunology and beyond.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Health care professionals face many challenges in practice for which collegial and peer support can be impactful. Some of the most seemingly insurmountable struggles result from medical error or an adverse patient outcome. Clinicians may experience remorse, guilt, sadness, burnout, depression, and isolation, potentially causing second victim syndrome. In addition, medical professionals face daily frustrations due to loss of clinical autonomy, operational pressures, shrinking margins, workforce shortages, misaligned institutional incentives, and corporatization of health systems that can lead to burnout and moral injury. It is therefore critically important to support clinicians and ensure that those who dedicate their lives to caring for others feel heard, have a safe and supportive sounding board to debrief stressful situations, and do not feel abandoned. Collegial networks and peer support are important and helpful resources. This article reviews key aspects of collegial and peer support programs that can benefit health care professionals in allergy-immunology and beyond."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43066102/",
+   "doi": "https://doi.org/10.1016/j.jacig.2026.100804",
+   "data": "2026-11-22T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-22T10:41:53.409806+00:00"
+  },
+  {
+   "id": "pmid-43067107",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "The Transition to Program Director: Normalizing Early Challenges and Emotions in Graduate Medical Education",
+   "revista": "J Surg Educ",
+   "autores": "French JC, Prabhu AS, Lipman JM",
+   "tipo_estudo": "",
+   "destaque": "The early challenges you may face and the emotions you may feel are normal and transient. Lean into your education leadership team during your own learning process and know your commitment to education and trainee success is an excellent building block to start a foundation for your new role.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Program Directors (PD) play a vital role in graduate medical education. The recent literature surrounding program directors has focused greatly on PD burnout and retention. Burnout though does not arrive with the flip of a switch but rather slowly builds over time. With this in mind, we thought it important to help support new PDs by acknowledging some of the emotions and challenges they may be experiencing early in the role. We base our perspective on our lived experiences as two former General Surgery PDs and a current Vice Chair of Education. As a new PD, the move from being a clinical expert to an education leader may cause you feelings of overwhelm, self-doubt, and uncertainty. The early challenges you may face and the emotions you may feel are normal and transient. Lean into your education leadership team during your own learning process and know your commitment to education and trainee success is an excellent building block to start a foundation for your new role."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43067107/",
+   "doi": "https://doi.org/10.1016/j.jsurg.2026.104266",
+   "data": "2026-11-22T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-22T10:41:53.409806+00:00"
+  },
+  {
+   "id": "pmid-43067007",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Perfectionism and its associations with stress, burnout, job satisfaction, and performance among nurses and nursing students: A scoping review",
+   "revista": "Nurs Outlook",
+   "autores": "Nkengafac K, Domoyeri P, Aroke EN",
+   "tipo_estudo": "",
+   "destaque": "The available evidence suggests that perfectionism is associated with a range of occupational, educational, and psychological outcomes among nurses and nursing students. However, the evidence base is limited by methodological heterogeneity and the predominance of cross-sectional study designs. Additional longitudinal and intervention research is needed to clarify the nature of these relationships and their implications for nursing practice and education.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Perfectionism is a multidimensional personality trait that includes both adaptive dimensions (high personal standards) and maladaptive dimensions (excessive self-criticism) and is an important but understudied contributor to occupational health in nursing. Global nursing workforce challenges, including elevated rates of stress, burnout, and attrition, make understanding perfectionism a clinical and policy priority."
+    },
+    {
+     "rotulo": "Purpose",
+     "texto": "To synthesize existing evidence on the relationships between perfectionism and occupational stress, burnout, job satisfaction, and clinical/academic performance among nurses and nursing students, and to synthesize evidence on the differential effects of adaptive and maladaptive perfectionism dimensions."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "The scoping review followed the PRISMA-ScR checklist. We searched six electronic databases, PubMed, CINAHL, PsycINFO, Scopus, EMBASE, and Web of Science, from 2000 through December 2025 using search terms related to perfectionism and nursing populations. Twelve studies involving around 8,067 participants from 10 countries met the inclusion criteria."
+    },
+    {
+     "rotulo": "Discussion",
+     "texto": "Across studies, maladaptive perfectionism, such as perfectionistic discrepancy, was associated with increased occupational stress, burnout, career distress, poor clinical decision-making, and lower job satisfaction. In contrast, adaptive perfectionism was linked to better career behavior and need satisfaction but had context-dependent, stress-related effects."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "The available evidence suggests that perfectionism is associated with a range of occupational, educational, and psychological outcomes among nurses and nursing students. However, the evidence base is limited by methodological heterogeneity and the predominance of cross-sectional study designs. Additional longitudinal and intervention research is needed to clarify the nature of these relationships and their implications for nursing practice and education."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43067007/",
+   "doi": "https://doi.org/10.1016/j.outlook.2026.102958",
+   "data": "2026-11-22T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-22T10:41:53.409806+00:00"
+  },
+  {
+   "id": "pmid-43066585",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Prevalence and Associated Factors of Subjective Memory Problems Among Older Adults in Australian Retirement Villages",
+   "revista": "Australas J Ageing",
+   "autores": "Alrababah S, Johnstone G, Lowthian JA et al.",
+   "tipo_estudo": "",
+   "destaque": "Our study identified five modifiable factors associated with SMPs, including: vision impairment, unaided hearing impairment, falls, polypharmacy and loneliness. These factors align closely with those reported as key modifiable factors for dementia. These modifiable factors could be addressed through targeted interventions to decrease prevalence of SMPs in Australian retirement villages. Our findings may have important implications for promoting cognitive health and overall well-being in this context.",
+   "resumo": [
+    {
+     "rotulo": "Objectives",
+     "texto": "To investigate the prevalence and associated factors of subjective memory problems (SMPs) among older adults in Australian retirement villages."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Cross-sectional data were obtained from the 2023 wave of the longitudinal Health and Wellbeing in Retirement Living Survey, conducted across 38 villages. We performed binary logistic regression using generalised estimating equations to explore associated factors, adjusting for potential confounders."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Prevalence of SMPs was 24% (95% CI: 22%-26%) in our study population. Subjective memory problems were significantly associated with several factors. Compared with respondents aged under 75 years, older age groups showed the highest odds of reporting memory problems, specifically those aged 85-89 (OR = 2.32, 95% CI: 1.40-3.83) and 90+ (OR = 2.53, 95% CI: 1.48-4.31). Other significant factors included identifying as male (OR = 1.52, 95% CI: 1.14-2.00), loneliness (OR = 1.62, 95% CI: 1.16-2.27), unaided hearing impairment (OR = 1.28, 95% CI: 0.93-1.77), impaired vision (OR = 1.57, 95% CI: 1.17-2.12), falls (OR = 1.71, 95% CI: 1.29-2.27), and being prescribed five or more medications (OR = 1.56, 95% CI: 1.18-2.07)."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Our study identified five modifiable factors associated with SMPs, including: vision impairment, unaided hearing impairment, falls, polypharmacy and loneliness. These factors align closely with those reported as key modifiable factors for dementia. These modifiable factors could be addressed through targeted interventions to decrease prevalence of SMPs in Australian retirement villages. Our findings may have important implications for promoting cognitive health and overall well-being in this context."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43066585/",
+   "doi": "https://doi.org/10.1111/ajag.70249",
+   "data": "2026-11-22T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-22T10:41:53.409806+00:00"
+  },
+  {
+   "id": "pmid-43066151",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Postempire: On memory, legacy and deimperiality",
+   "revista": "Mem Stud",
+   "autores": "Walton JF",
+   "tipo_estudo": "Revisão",
+   "destaque": "To illustrate this methodology, the essay adduces a series of sites and examples in former Habsburg, Ottoman and Romanov/Russian contexts. In conclusion, I reflect on the modes of affect that characterize the personifications, emplacements, and materializations of postempire, and their entailments for the project of deimperiality.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "The renaissance of empire/imperialism as a category within political and scholarly discourse has been accompanied by an efflorescence of collective memories of bygone empires. In this essay, I propose a broad, supple model for postimperial studies based on the relationship between legacies and collective memories of empires. After sketching recent debates in postimperial scholarship, I offer a dialectical theory of the relationship between collective memory and historical legacy. Drawing on Achille Mbembe's seminal concept of the postcolony, I propose an analogous concept, 'postempire'. I specify the concept of postempire by incorporating the insights of Freud's theory of the uncanny in relation to postimperial sites. This discussion supports the sibling notion of deimperiality, both distinct from and related to the established concept of decoloniality. Following this, I outline a methodology for the study of postempires with a tripartite focus on postimperial persons, places and things. To illustrate this methodology, the essay adduces a series of sites and examples in former Habsburg, Ottoman and Romanov/Russian contexts. In conclusion, I reflect on the modes of affect that characterize the personifications, emplacements, and materializations of postempire, and their entailments for the project of deimperiality."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43066151/",
+   "doi": "https://doi.org/10.1177/17506980261425540",
+   "data": "2026-11-22T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-22T10:41:53.409806+00:00"
+  },
+  {
+   "id": "pmid-43065563",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Next-generation anti-obesity drugs: emerging molecular targets and translational opportunities",
+   "revista": "J Diabetes Metab Disord",
+   "autores": "Shetty S, Rangle A, Mukherjee AG et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "The emerging therapeutic paradigm positions obesity as a systems-level disorder requiring mechanism-informed, individualized intervention. Integrating CNS-gut-adipose-mitochondrial biology with multi-omics, biomarkers, and artificial intelligence may enable more durable and precise treatment. Long-term safety, durability, affordability, equitable access, and clinical validation remain essential for translation.",
+   "resumo": [
+    {
+     "rotulo": "Purpose",
+     "texto": "Obesity is a heterogeneous, chronic metabolic disease driven by dysregulation of energy homeostasis across interconnected central nervous system, gastrointestinal, adipose, endocrine, immune, and mitochondrial networks. Despite the established roles of lifestyle intervention and metabolic/bariatric surgery, limitations in accessibility, durability, and interindividual response have stimulated the development of mechanism-based pharmacotherapies. This review critically examines emerging therapeutic strategies targeting integrated energy-regulatory pathways and evaluates their translational potential for precision obesity management."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Current evidence was synthesized across major biological systems governing appetite, energy expenditure, and metabolic adaptation. Central melanocortin, Neuropeptide Y (NPY)/ Agouti-related peptide (AgRP), serotonergic, dopaminergic, and endocannabinoid pathways were considered alongside gut-derived incretin, amylin, Peptide YY (PYY), ghrelin, Fibroblast Growth Factor (FGF), and bile acid signaling. Emerging approaches targeting adipose remodeling, thermogenesis, mitochondrial energetics, AMPK-mTOR-sirtuin signaling, inflammation, and fibrosis were also evaluated. Genetic, epigenetic, and artificial intelligence-based approaches to patient stratification were incorporated to assess prospects for precision therapy."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Obesity pharmacotherapy is shifting from conventional appetite suppression toward coordinated modulation of interconnected metabolic pathways. Incretin-based and multi-agonist therapies provide the strongest clinical evidence for substantial weight reduction and metabolic improvement. However, treatment discontinuation, weight regain, adverse effects, cost, and heterogeneous therapeutic responses remain major challenges. Strategies targeting adipose tissue dysfunction, mitochondrial metabolism, thermogenesis, immune-metabolic signaling, and fibrosis offer additional opportunities for disease modification, although many remain in preclinical or early clinical development. Increasing evidence for biological heterogeneity supports individualized therapeutic selection."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "The emerging therapeutic paradigm positions obesity as a systems-level disorder requiring mechanism-informed, individualized intervention. Integrating CNS-gut-adipose-mitochondrial biology with multi-omics, biomarkers, and artificial intelligence may enable more durable and precise treatment. Long-term safety, durability, affordability, equitable access, and clinical validation remain essential for translation."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43065563/",
+   "doi": "https://doi.org/10.1007/s40200-026-02101-4",
+   "data": "2026-11-21T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-22T10:41:53.409806+00:00"
+  },
+  {
+   "id": "pmid-43064702",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Initial investigation of pain intensity and interference in children and adolescents seeking weight management treatment: a secondary analysis of data from the Stay in Treatment (SIT) study",
+   "revista": "Int J Obes (Lond)",
+   "autores": "Gibler RC, Hart HN, Saldana S et al.",
+   "tipo_estudo": "",
+   "destaque": "These findings suggest that a considerable proportion of youth seeking obesity treatment experience clinically significant pain. Findings may inform screening, referral, and intervention efforts for pain concerns in pediatric weight management settings.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Chronic pain and obesity commonly co-occur in children and adolescents; however, few studies have investigated pain characteristics (e.g., intensity, interference) in youth seeking obesity treatment. We conducted a secondary analysis of baseline data from an observational study examining predictors of attrition from pediatric weight management treatment at four sites across the United States (i.e., the Stay in Treatment study). Youth with obesity (N = 437, 52.0% female, 45.5% White, 30.0% Black, and 22.2% identifying as Hispanic or Latino) completed PROMIS® measures assessing pain intensity and interference as well as aspects of social-emotional and physical functioning. Results indicated that pain intensity across the sample was in the mild range (M = 2.5, SD = 2.4), and 31.6% (n = 138) reported no pain. However, approximately one-third reported moderate (26.5%, n = 116) or severe (6.0%, n = 26) pain intensity, and 39.8% reported pain interference in a moderate or severe range based on published cut-offs in youth with chronic pain. Pain intensity and interference were significantly associated with anxiety and depressive symptoms, fatigue, mobility issues, and peer relationship challenges. These findings suggest that a considerable proportion of youth seeking obesity treatment experience clinically significant pain. Findings may inform screening, referral, and intervention efforts for pain concerns in pediatric weight management settings."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43064702/",
+   "doi": "https://doi.org/10.1038/s41366-026-02206-z",
+   "data": "2026-11-21T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-22T10:41:53.409806+00:00"
+  },
+  {
+   "id": "pmid-43065355",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Characteristics of interventions using barefoot and minimalist footwear in older adults: a scoping review protocol",
+   "revista": "Int J Nurs Stud Adv",
+   "autores": "Oliveira T, Fernandes H, Galego M et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Two independent reviewers will screen and extract data, with disagreements resolved by a third reviewer. Results will be presented in a tabular format, accompanied by a narrative synthesis, highlighting the characteristics of the interventions. www.osf.io 10.17605/OSF.IO/6QDEJ, registered 28/01/2026.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Aging is associated with progressive neuromuscular decline and sarcopenia, increasing the risk of mortality. These changes may result in structural foot deformities and severely compromised stability, thereby increasing the risk of falls. Therefore, assessment of the foot and footwear interface is a fundamental component of multifactorial falls prevention strategies. Conventional cushioned footwear acts as a sensory barrier, attenuating feedback required for balance. Furthermore, barefoot and minimalist footwear may optimize sensorimotor function and biomechanics by allowing natural contact between skin and surface. Despite this potential, existing evidence regarding these interventions remains dispersed."
+    },
+    {
+     "rotulo": "Objective",
+     "texto": "To map the characteristics of interventions using barefoot and minimalist footwear in older adults."
+    },
+    {
+     "rotulo": "Information Sources",
+     "texto": "PubMed, CINAHL Ultimate (EBSCOhost), Embase (Elsevier), Web of Science Core Collection, Cochrane Library, Scopus, JBI EBP Database (Ovid), PEDro and Epistemonikos. Gray literature such as master's and doctoral theses will be searched through ProQuest Dissertations and Theses and Google Scholar."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "The review will follow JBI methodology for scoping reviews. Two independent reviewers will screen and extract data, with disagreements resolved by a third reviewer. Results will be presented in a tabular format, accompanied by a narrative synthesis, highlighting the characteristics of the interventions."
+    },
+    {
+     "rotulo": "Registration",
+     "texto": "www.osf.io 10.17605/OSF.IO/6QDEJ, registered 28/01/2026."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43065355/",
+   "doi": "https://doi.org/10.1016/j.ijnsa.2026.100721",
+   "data": "2026-11-21T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-22T10:41:53.409806+00:00"
+  },
+  {
+   "id": "pmid-43064850",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Multimodal lifestyle strategies for ADT-induced osteosarcopenia and metabolic dysfunction in prostate cancer",
+   "revista": "Support Care Cancer",
+   "autores": "Ambrosio F, Persia M, Bellieni A et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Preventing ADT-induced osteosarcopenia is a critical challenge for the quality of life of men with prostate cancer. Current research and clinical care trends are moving toward flexible, integrated models that include exercise and nutrition in standard, patient-centered cancer care pathways. The early integration of these interventions into clinical pathways represents a concrete prospect for improving overall outcomes in patients with prostate cancer. Long-term randomized studies with functional and molecular endpoints are desirable to validate and personalize preventive strategies.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Androgen deprivation therapy (ADT) is associated with significant changes in body composition, promoting bone and muscle loss and increasing the risk of osteosarcopenia. This condition predisposes patients to adverse events such as falls, fractures, loss of functional autonomy, and increased cardiovascular risk, with possible repercussions on oncological outcomes and, in general, on patients' quality of life."
+    },
+    {
+     "rotulo": "Objectives",
+     "texto": "This narrative review explores the available evidence on the role of exercise, nutrition, and the use of drug therapies in the prevention and management of ADT-induced osteosarcopenia, identifying the future perspectives in the integrated management of patients with prostate cancer undergoing hormone treatment."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "This review explores studies published over the last 15 years and aims to select scientific contributions concerning the effects of physical exercise, nutrition, or combined interventions on musculoskeletal health in subjects undergoing androgen deprivation therapy."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Resistance training represents a promising non-pharmacological approach for the management of ADT-induced musculoskeletal alterations. Such programs have demonstrated efficacy in preserving lean body mass, potentially mitigating bone loss, and improving physical performance. While antiresorptive agents remain the primary intervention for bone preservation, lifestyle measures constitute an essential component of a multimodal approach to the care of patients undergoing ADT."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Preventing ADT-induced osteosarcopenia is a critical challenge for the quality of life of men with prostate cancer. Current research and clinical care trends are moving toward flexible, integrated models that include exercise and nutrition in standard, patient-centered cancer care pathways. The early integration of these interventions into clinical pathways represents a concrete prospect for improving overall outcomes in patients with prostate cancer. Long-term randomized studies with functional and molecular endpoints are desirable to validate and personalize preventive strategies."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43064850/",
+   "doi": "https://doi.org/10.1007/s00520-026-11504-1",
+   "data": "2026-11-21T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-22T10:41:53.409806+00:00"
+  },
+  {
+   "id": "pmid-43064726",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Genome-wide association study identifies a functional myostatin variant increasing lean mass in humans",
+   "revista": "Nat Commun",
+   "autores": "Larusdottir AE, Teitsdottir UD, Tragante V et al.",
+   "tipo_estudo": "Meta-análise",
+   "destaque": "MSTN encodes myostatin, a negative regulator of skeletal muscle mass and a therapeutic target for muscle wasting disorders. Here, we identify a genome-wide significant association at MSTN in humans and characterize its functional consequences, providing genetic evidence that may inform the long-term systemic effects of myostatin inhibition.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Muscle mass is central to physical function and metabolic health, but can decrease with disease, aging and weight loss interventions. As weight loss interventions become more widely used, agents that preserve or increase muscle mass are needed. To identify such therapeutic opportunities, we perform genome-wide association meta-analyses of arm, leg, trunk and total lean mass measured by dual-energy X-ray absorptiometry, a widely used method to estimate muscle mass. We identify 63 loci, including a rare missense variant in MSTN (p.Ile225Thr, rs143242500), which has the largest effect on leg lean mass (β = 0.28 SD [95% CI: 0.19, 0.37], P = 1.9 × 10-9). MSTN encodes myostatin, a negative regulator of skeletal muscle mass and a therapeutic target for muscle wasting disorders. Here, we identify a genome-wide significant association at MSTN in humans and characterize its functional consequences, providing genetic evidence that may inform the long-term systemic effects of myostatin inhibition."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43064726/",
+   "doi": "https://doi.org/10.1038/s41467-026-77766-9",
+   "data": "2026-11-21T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-22T10:41:53.409806+00:00"
+  },
+  {
+   "id": "pmid-43064717",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "PLC-γ1 promotes the formation of slow-twitch skeletal muscle fibers via increasing the expression of PGC-1α",
+   "revista": "Bone Res",
+   "autores": "Ding Y, Sun R, Dai D et al.",
+   "tipo_estudo": "",
+   "destaque": "Overexpression of PGC-1α rescued decreases in mitochondrial oxidative phosphorylation, number of slow-twitch skeletal muscle fibers, and exercise endurance induced by conditional knockout of PLC-γ1 in the skeletal muscle. These findings suggest that PLC-γ1 is required for maintaining slow-twitch fiber content and exercise endurance in mice, and that it exerts these effects by sustaining PGC-1α expression.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Improving skeletal muscle strength and mass is an essential strategy to prevent and treat sarcopenia, which can be achieved by increasing the number of muscle fibers. Here, we report that phospholipase C-γ1 (PLC-γ1), a member of phospholipase C family that functions as signal transducer by hydrolyzing membrane lipids to generate second messengers, was highly expressed in skeletal muscle fibers. PLC-γ1 expression in the skeletal muscle of elderly individuals was significantly lower than that in young individuals. Conditional knockout of PLC-γ1 in the skeletal muscle in mice showed decreases in the expression of peroxisome proliferator-activated receptor gamma coactivator 1α (PGC-1α), mitochondrial oxidative phosphorylation, number of slow-twitch skeletal muscle fibers, and exercise endurance. Overexpression of PGC-1α rescued decreases in mitochondrial oxidative phosphorylation, number of slow-twitch skeletal muscle fibers, and exercise endurance induced by conditional knockout of PLC-γ1 in the skeletal muscle. These findings suggest that PLC-γ1 is required for maintaining slow-twitch fiber content and exercise endurance in mice, and that it exerts these effects by sustaining PGC-1α expression."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43064717/",
+   "doi": "https://doi.org/10.1038/s41413-026-00593-7",
+   "data": "2026-11-21T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-22T10:41:53.409806+00:00"
+  },
+  {
+   "id": "pmid-43065287",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Incremental associations of pharmacological components in heart failure with mildly reduced or preserved ejection fraction: a systematic review and component network meta-analysis",
+   "revista": "Expert Rev Clin Pharmacol",
+   "autores": "Omrani MA, Baskaran BS, Jafari A et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "SGLT-2 inhibitors and MRAs provide the most robust incremental benefit, while evidence for other drug classes remains context-dependent. These findings should guide research priorities rather than define combination regimens.",
+   "resumo": [
+    {
+     "rotulo": "Introduction",
+     "texto": "We conducted a component network meta-analysis (CNMA) of phase 3/4 randomized trials to evaluate incremental effects of pharmacological therapies in heart failure with mildly reduced or preserved ejection fraction (HFmrEF/HFpEF; LVEF > 40%)."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "MEDLINE, Embase, and Cochrane were searched through 1 August 2025 (updated 30 March 2026). We performed an additive CNMA evaluating cardiovascular death or first heart failure hospitalization (HFH) and assessed certainty of evidence."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Twenty-four trials and five secondary reports were included. The primary network was sparse (10 trials, 12 regimens), constraining interaction detection and component stability. Incretin-based interventions (pooling semaglutide and tirzepatide, iHR 0.69, 95% CI 0.53-0.91), SGLT-2 inhibitors (0.80, 0.74-0.88), ARNis (0.82, 0.68-0.99), and MRAs (0.89, 0.81-0.98) showed significant component associations, driven principally by fewer HFHs. No drug class significantly reduced mortality. SGLT-2 inhibitors and MRAs remained significant across sensitivity analyses except LVEF ≥ 50%, with SGLT-2 inhibitors most precise. ARNi benefits lost significance under stricter background therapy thresholds (>60%) and contemporary trial restrictions. Evidence for incretins was low-certainty and sensitive to trial selection."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "SGLT-2 inhibitors and MRAs provide the most robust incremental benefit, while evidence for other drug classes remains context-dependent. These findings should guide research priorities rather than define combination regimens."
+    },
+    {
+     "rotulo": "Protocol Registration",
+     "texto": "http://www.crd.york.ac.uk PROSPEROidentifier is CRD420251107058."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43065287/",
+   "doi": "https://doi.org/10.1080/17512433.2026.2768391",
+   "data": "2026-11-21T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-22T10:41:53.409806+00:00"
+  },
+  {
+   "id": "pmid-43064823",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Effect of augmented reality on dental anxiety and pain perception in children: a randomized controlled clinical study",
+   "revista": "Clin Oral Investig",
+   "autores": "Alpayçetin E, Kasımoğlu Y, Güven Y et al.",
+   "tipo_estudo": "Ensaio clínico randomizado",
+   "destaque": "AR was associated with better cooperation; however, its effects on anxiety and physiological stress markers were inconsistent, and overall superiority was not demonstrated.",
+   "resumo": [
+    {
+     "rotulo": "Objectives",
+     "texto": "To evaluate the effects of an augmented reality (AR) application on children's dental anxiety using physiological, psychological, and behavioral parameters."
+    },
+    {
+     "rotulo": "Materials And Methods",
+     "texto": "Ninety-six children aged 6-8 years requiring pulpotomy were randomly allocated to Control (CG), Cartoon (CaG), and AR (ARG) groups (n = 32 each). The Wong-Baker FACES (WB-FACES), Modified Child Dental Anxiety Scale [MCDAS(f)], Frankl Behavior Rating Scale (FBRS), pulse rate, and salivary cortisol, α-amylase, and chromogranin-A (CHGA) levels were assessed pre- and post-treatment."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Post-treatment FBRS scores were higher in the ARG than the CG and CaG (p = 0.011; p = 0.041), and WB-FACES scores were lower in the ARG than the CG (p = 0.034). Baseline MCDAS(f) scores were lower in the ARG; after adjustment, post-treatment MCDAS(f) remained lower in the ARG than the CaG (p < 0.001) but not the CG (p = 0.121). Pulse rate changed only in the ARG (p = 0.001), without between-group differences. Cortisol reduction was greater in the ARG than the CG (p = 0.030) and CaG (p = 0.020), and α-amylase reduction was greater than in the CG (p = 0.001), whereas CHGA reduction was greater in the CaG than the ARG (p = 0.005)."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "AR was associated with better cooperation; however, its effects on anxiety and physiological stress markers were inconsistent, and overall superiority was not demonstrated."
+    },
+    {
+     "rotulo": "Clinical Relevance",
+     "texto": "To our knowledge, this study is among the first to integrate tell-show-do and positive reinforcement into an AR application and evaluate its effects on dental anxiety in children, highlighting the potential of AR as an adjunctive behavioral guidance approach in pediatric dentistry."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43064823/",
+   "doi": "https://doi.org/10.1007/s00784-026-07286-9",
+   "data": "2026-11-21T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-22T10:41:53.409806+00:00"
+  },
+  {
+   "id": "pmid-43065160",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Genetic Counseling Awareness and Attitudes Among Urban Residents in Bengaluru, India: A Cross-Sectional Study",
+   "revista": "J Genet Couns",
+   "autores": "Murmu BK, Desai P, Jayasankar P et al.",
+   "tipo_estudo": "",
+   "destaque": "However, most people said they would be willing to use these services if they were made available. This suggests that raising awareness about where and how to access genetic counseling could quickly increase its use among the public.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "In India, genetic counseling is an emerging service whose details are not well known. The present study evaluated the level of awareness about genetics and genetic counseling in the opinions of urban citizens in Bengaluru, a large Indian metropolis. In the cross-sectional study, a structured questionnaire was distributed among 200 residents across 8 administrative zones of Bengaluru, administered in-person and digitally through Google Forms. Attitudes toward genetic counseling, demographic information, and genetic awareness were measured. The relations between demographic and awareness levels were sought with the help of chi-square and Cramer's V analyses. Although 84% of the respondents were familiar with the term genetics and 78% familiar with genetic disorders, only 42.5% of the respondents were aware of genetic counseling and only 32.5% of respondents were aware of services in Bengaluru. Awareness was significantly associated with age and gender. 82.1% of the 18-24 age group had the highest awareness. Females (51.3%) were more aware than males (30.1%). Although there was limited knowledge of the availability of genetic counselor services, 78% of those who responded said they would make use of these services if they were available. These results clearly show that there is a huge gap in the knowledge base as while the general knowledge of genetic literacy is high, the knowledge of genetic counseling services is low in urban Bengaluru and varies from one group to another. Such results imply the necessity of specific public health campaigns, campaigns aimed at raising awareness, and the introduction of genetic counseling into the primary healthcare. This study found that while most people in Bengaluru are familiar with basic genetics, very few know that genetic counseling services exist or are available in the city. However, most people said they would be willing to use these services if they were made available. This suggests that raising awareness about where and how to access genetic counseling could quickly increase its use among the public."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43065160/",
+   "doi": "https://doi.org/10.1002/jgc4.70316",
+   "data": "2026-11-21T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-22T10:41:53.409806+00:00"
+  },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261118065536-htm",
    "fonte": "ScienceDaily",
@@ -1001,37 +1531,6 @@
    ],
    "link": "https://pubmed.ncbi.nlm.nih.gov/43058048/",
    "doi": "https://doi.org/10.1111/dom.71538",
-   "data": "2026-11-19T00:00:00+00:00",
-   "temas": [
-    "tirzepatida"
-   ],
-   "visto_em": "2026-11-20T10:55:17.573979+00:00"
-  },
-  {
-   "id": "pmid-43055718",
-   "fonte": "PubMed",
-   "tipo_fonte": "artigo",
-   "titulo": "Optimizing the management of obstructive sleep apnea with pharmacotherapy",
-   "revista": "Expert Rev Clin Pharmacol",
-   "autores": "Bird EM, Schmickl CN, Lam MTY et al.",
-   "tipo_estudo": "",
-   "destaque": "Further evaluation is required before many of these pharmacologic agents are officially approved for use with or without CPAP. Agents addressing specific endotypes will pave the way for more personalized OSA treatment.",
-   "resumo": [
-    {
-     "rotulo": "Introduction",
-     "texto": "Obstructive sleep apnea (OSA) affects up to 1 billion people worldwide. Despite availability of continuous positive airway pressure (CPAP) therapy as the main treatment modality, a need for additional pharmacologic agents remains. Pharmacologic therapies can help improve patient symptoms of sleepiness and address the underlying mechanisms (endotypes) of disordered breathing in patients with OSA."
-    },
-    {
-     "rotulo": "Areas Covered",
-     "texto": "Potential pharmacologic target therapy of the four main OSA endotypes, airway collapsibility, poor upper airway muscle dilation, high loop gain, and low arousal threshold, are reviewed. Medications to help with daytime sleepiness are also discussed. Both original research and review articles spanning 2000 to 2026 are included in this review. Published articles were identified through PubMed and in-progress studies were identified through field experts."
-    },
-    {
-     "rotulo": "Expert Opinion",
-     "texto": "The current landscape of pharmacologic options for OSA is very exciting, especially with the expansion in number of agents addressing obesity that also help improve airway collapsibility. However, many of these therapies (apart from anti-obesity medications and medications for daytime sleepiness) are still experimental. Further evaluation is required before many of these pharmacologic agents are officially approved for use with or without CPAP. Agents addressing specific endotypes will pave the way for more personalized OSA treatment."
-    }
-   ],
-   "link": "https://pubmed.ncbi.nlm.nih.gov/43055718/",
-   "doi": "https://doi.org/10.1080/17512433.2026.2764156",
    "data": "2026-11-19T00:00:00+00:00",
    "temas": [
     "tirzepatida"
