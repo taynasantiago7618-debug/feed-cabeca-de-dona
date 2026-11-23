@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-22T10:41:53.409806+00:00",
+ "atualizado_em": "2026-11-23T11:00:11.059337+00:00",
  "titulo": "Feed Científico Cabeça de Dona",
  "subtitulo": "Ciência nova, todo dia, sobre o que move a sua saúde",
  "temas": [
@@ -30,6 +30,271 @@
   }
  ],
  "artigos": [
+  {
+   "id": "pmid-43069731",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Sex-Specific Myostatin-Grey Matter Volume Associations in Ageing Adults: Implications for the Muscle-Brain Axis",
+   "revista": "J Cachexia Sarcopenia Muscle",
+   "autores": "Lee PL, Chou KH, Lee WJ et al.",
+   "tipo_estudo": "",
+   "destaque": "Myostatin demonstrated pronounced sex-specific associations with brain structure, with complete sexual dimorphism. Women exhibited exclusively negative myostatin-GMV relationships across cognitive and sensorimotor regions, whereas men showed mixed patterns. These findings provide the first human neuroimaging evidence for sexual dimorphism in the muscle-brain axis. Given that sarcopenia confers two-to threefold greater cognitive impairment risk in women, elevated myostatin may represent a sex-specific biomarker linking muscle wasting to neurodegeneration.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Sarcopenia is increasingly recognized as a risk factor for cognitive decline, suggesting bidirectional muscle-brain crosstalk mediated by myokines. Myostatin, a negative regulator of muscle growth, may influence brain health through systemic signalling, yet human neuroimaging evidence remains lacking. Moreover, men and women exhibit distinct patterns of muscle ageing and cognitive decline, but sex-specific effects of myostatin on brain structure have not been investigated. This study examined associations between serum myostatin and regional brain grey matter volume (GMV) in ageing adults, with emphasis on sexual dimorphism."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We analysed 482 community-dwelling participants (235 males, 247 females; mean age 67.2 ± 8.5 years, range of 50-88) from the I-Lan Longitudinal Aging Study. Serum myostatin levels, muscle mass and grip strength were assessed. High-resolution brain MRI was processed using voxel-based morphometry to examine associations between myostatin and regional GMV. Sex-stratified analyses were performed, adjusting for age, muscle metrics and total intracranial volume, with multiple comparison correction (cluster-level FWE p < 0.05)."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Men demonstrated 17.8% higher serum myostatin than women (5227.5 ± 2413.2 vs. 4438.4 ± 1934.1 pg/mL, p < 0.001) and were older (68.4 ± 9.2 vs. 66.0 ± 7.5 years, p = 0.002). Myostatin correlated positively with muscle mass in both sexes (men: r = 0.209, p = 0.001; women: r = 0.181, p = 0.004) but showed no association with grip strength (p > 0.95). Notably, height-adjusted muscle mass correlated with grip strength in men (r = 0.204, p = 0.002) but not women (r = 0.075, p = 0.240). Neuroimaging revealed complete sexual dimorphism with zero overlapping brain regions. In men, higher myostatin associated with larger GMV in left postcentral gyrus but smaller GMV in right cerebellum VIIIb. In women, higher myostatin associated exclusively with smaller GMV across three regions: left inferior temporal gyrus, right frontal pole and right postcentral gyrus. Sensitivity analyses using the ratio of myostatin to relative appendicular skeletal muscle mass (RASM) reproduced the primary associations and revealed additional negative associations in the left cerebellum Crus I in men and in the left temporal pole and left middle temporal gyrus in women."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Myostatin demonstrated pronounced sex-specific associations with brain structure, with complete sexual dimorphism. Women exhibited exclusively negative myostatin-GMV relationships across cognitive and sensorimotor regions, whereas men showed mixed patterns. These findings provide the first human neuroimaging evidence for sexual dimorphism in the muscle-brain axis. Given that sarcopenia confers two-to threefold greater cognitive impairment risk in women, elevated myostatin may represent a sex-specific biomarker linking muscle wasting to neurodegeneration."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43069731/",
+   "doi": "https://doi.org/10.1002/jcsm.70448",
+   "data": "2026-11-23T00:00:00+00:00",
+   "temas": [
+    "cognicao",
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-23T11:00:11.059337+00:00"
+  },
+  {
+   "id": "pmid-43069381",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Lower urinary tract events reported with GLP-1 receptor agonists: a disproportionality analysis of FAERS and Canada Vigilance",
+   "revista": "Int Urol Nephrol",
+   "autores": "Selimoğlu A, Türk A, Ucdal M",
+   "tipo_estudo": "",
+   "destaque": "No class-level excess reporting was detected. Semaglutide findings depended on the comparator set, and DPP-4 inhibitors shared its incontinence signal without SGLT2 comparators. The pattern is compatible with diabetes-related urinary morbidity, but exploratory data cannot separate this from pelvic floor weakening, confounding or reporting artefacts.",
+   "resumo": [
+    {
+     "rotulo": "Purpose",
+     "texto": "Rapid weight loss with GLP-1 receptor agonists removes lean mass, and whether this weakens the pelvic floor and causes incontinence is under prospective study. We examined lower urinary tract event reporting and whether its patterns fit a pelvic floor or diabetic bladder explanation."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Disproportionality analysis of FAERS with replication in Canada Vigilance, using diabetes and obesity drug comparators, adjusted reporting odds ratios (ROR), SGLT2 inhibitors as positive control and a sensitivity analysis without them, and exploratory analyses of indication, brand, dose, onset and co-reported terms."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The GLP-1 receptor agonist class was not disproportionately reported with lower urinary tract events in FAERS or Canada Vigilance (adjusted ROR 0.43 and 0.50). With SGLT2 inhibitor comparators, semaglutide was neutral for the composite (0.94, 95%CI 0.85-1.04), with an incontinence signal in women (1.44, 1.14-1.81). Without them, semaglutide and DPP-4 inhibitors showed excess reporting of several urinary outcomes, tirzepatide did not. Semaglutide incontinence was reported less often with obesity than diabetes use (OR 0.66, 0.34-1.28) and with Wegovy than Ozempic (0.64, 0.36-1.16), neither significant after correction, did not rise with dose, and was co-reported with urinary tract infection, other urinary symptoms and, in six reports, muscle weakness."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "No class-level excess reporting was detected. Semaglutide findings depended on the comparator set, and DPP-4 inhibitors shared its incontinence signal without SGLT2 comparators. The pattern is compatible with diabetes-related urinary morbidity, but exploratory data cannot separate this from pelvic floor weakening, confounding or reporting artefacts."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43069381/",
+   "doi": "https://doi.org/10.1007/s11255-026-05499-1",
+   "data": "2026-11-23T00:00:00+00:00",
+   "temas": [
+    "sarcopenia",
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-23T11:00:11.059337+00:00"
+  },
+  {
+   "id": "pmid-43069553",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Prevalence and Factors Associated with Sarcopenia in Patients with Gastric and Colorectal Cancer: A Cross-Sectional Study",
+   "revista": "Nutr Cancer",
+   "autores": "Chen C, Hu Y, Chen X et al.",
+   "tipo_estudo": "",
+   "destaque": "Internal validation using 1000-bootstrap resampling demonstrated stable performance, with a mean AUC of 0.835. In conclusion, age, VFA, PA, and CK are significant contributors to sarcopenia in gastric and colorectal cancer, and the proposed nomogram represents a valuable tool for clinical risk stratification.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Sarcopenia is closely associated with poor prognosis in patients with gastric and colorectal cancer. This study aimed to identify key factors associated with sarcopenia and develop a nomogram for estimating the probability of sarcopenia in this population. A total of 401 patients treated at Nanjing First Hospital between December 2023 and December 2025 were enrolled and categorized according to the 2019 Asian Working Group for Sarcopenia criteria. The prevalence of sarcopenia was 36.41% (146/401). Potential predictors were initially screened using Lasso regression and subsequently analyzed via multivariable logistic regression. Age, visceral fat area (VFA), phase angle (PA), and creatine kinase (CK) were identified as independent influencing factors for sarcopenia (all p < 0.05). A nomogram incorporating these variables was constructed to facilitate individualized risk assessment. The model showed good discriminatory performance, with an area under the receiver operating characteristic curve (AUC) of 0.843 (95% CI: 0.804-0.881), alongside a sensitivity of 84.2% and specificity of 68.6%. The precision-recall curve yielded an AUC of 0.723. Calibration analysis revealed satisfactory agreement between prediction and observation, supported by a non-significant Hosmer-Lemeshow test (p = 0.481). Decision curve analysis and clinical impact curves further confirmed the model's clinical utility. Internal validation using 1000-bootstrap resampling demonstrated stable performance, with a mean AUC of 0.835. In conclusion, age, VFA, PA, and CK are significant contributors to sarcopenia in gastric and colorectal cancer, and the proposed nomogram represents a valuable tool for clinical risk stratification."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43069553/",
+   "doi": "https://doi.org/10.1080/01635581.2026.2762545",
+   "data": "2026-11-23T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-23T11:00:11.059337+00:00"
+  },
+  {
+   "id": "pmid-43069406",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Cutaneous Adverse Reactions Associated with Modern Antidiabetic Therapies: A Narrative Review",
+   "revista": "Dermatol Ther (Heidelb)",
+   "autores": "Cutuli F, Borgia F, Vaccaro M et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Alopecia has emerged as a clinically relevant signal with semaglutide and tirzepatide, with recent pooled evidence supporting an association with non-scarring alopecia; however, causality and the contribution of rapid weight loss remain uncertain. Overall, the assessment of suspected drug-related dermatoses should consider the strength of evidence supporting the drug-event association, alternative causes, concomitant medications, and the clinical consequences of treatment withdrawal.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Modern antidiabetic therapies have transformed the management of type 2 diabetes mellitus (T2DM), while their expanding use has been accompanied by increasing recognition of cutaneous adverse reactions. This narrative review critically examines the dermatologic safety profiles of sodium-glucose cotransporter-2 (SGLT2) inhibitors, dipeptidyl peptidase-4 (DPP-4) inhibitors, glucagon-like peptide-1 receptor agonists (GLP-1 RAs), and the dual glucose-dependent insulinotropic polypeptide (GIP) /GLP-1 receptor agonist tirzepatide, with emphasis on the strength of evidence supporting individual drug-event associations. A targeted search of PubMed/MEDLINE, Scopus, and Google Scholar was conducted through September 2026, encompassing clinical trials, observational and pharmacovigilance studies, systematic reviews, case series, and case reports. DPP-4 inhibitor-associated bullous pemphigoid (BP) represents the most consistently supported drug-disease association, with the strongest signals reported for vildagliptin and linagliptin. For SGLT2 inhibitors, genital mycotic infections are the best-established mucocutaneous adverse event, whereas most inflammatory and immune-mediated reactions remain supported by lower-level evidence. For GLP-1 RAs, injection-site reactions are the most well-characterized cutaneous adverse events, while rare hypersensitivity, inflammatory, and autoimmune eruptions have also been described. The cutaneous safety profile of tirzepatide remains comparatively less well characterized. Alopecia has emerged as a clinically relevant signal with semaglutide and tirzepatide, with recent pooled evidence supporting an association with non-scarring alopecia; however, causality and the contribution of rapid weight loss remain uncertain. Overall, the assessment of suspected drug-related dermatoses should consider the strength of evidence supporting the drug-event association, alternative causes, concomitant medications, and the clinical consequences of treatment withdrawal."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43069406/",
+   "doi": "https://doi.org/10.1007/s13555-026-01982-w",
+   "data": "2026-11-23T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-23T11:00:11.059337+00:00"
+  },
+  {
+   "id": "pmid-43069693",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Exploring newly registered nurses' experiences of transition to paediatric practice in Iran",
+   "revista": "Nurs Child Young People",
+   "autores": "Hosseini SM, Sadeghi T, Ghavami H et al.",
+   "tipo_estudo": "",
+   "destaque": "Inadequate educational preparation for nursing students and a lack of structured support for newly registered nurses puts them at risk of stress, insecurity and burnout. Education providers and employers need to strengthen nursing courses, establish mentorship schemes and provide targeted mental health support for nursing students and new registrants.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "The transition from preregistration nurse education to professional practice is a challenging period for newly registered nurses working in paediatric wards."
+    },
+    {
+     "rotulo": "Aim",
+     "texto": "To explore the experiences of newly registered nurses during their transition to paediatric clinical practice in Iran."
+    },
+    {
+     "rotulo": "Method",
+     "texto": "This phenomenological study used qualitative thematic analysis. Data were collected through semi-structured interviews with eight newly registered nurses at one children's hospital. Interviews were audio-recorded, transcribed verbatim and analysed using thematic analysis."
+    },
+    {
+     "rotulo": "Findings",
+     "texto": "Participants reported significant challenges, including a lack of qualified teachers and role models during their nursing course, inadequate preparation for the paediatric setting, lack of practical knowledge and experience, and gaps between theoretical learning and clinical practice. Participants felt unprepared and unsupported, and experienced professional challenges that affected their personal lives."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Inadequate educational preparation for nursing students and a lack of structured support for newly registered nurses puts them at risk of stress, insecurity and burnout. Education providers and employers need to strengthen nursing courses, establish mentorship schemes and provide targeted mental health support for nursing students and new registrants."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43069693/",
+   "doi": "https://doi.org/10.7748/ncyp.2026.e1587",
+   "data": "2026-11-23T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-23T11:00:11.059337+00:00"
+  },
+  {
+   "id": "pmid-43069000",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Strengthening the Behavioral Health Workforce Through State-Level Policy on Parity Enforcement",
+   "revista": "J Behav Health Serv Res",
+   "autores": "Aldhalimi A, Hoge M",
+   "tipo_estudo": "",
+   "destaque": "These actions have been distilled into recommended strategies for states to adopt to improve access to care and strengthen the workforce. The strategies are a resource for policymakers, advocates, and workforce experts.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "The behavioral health workforce in the US cannot meet the population's needs for mental health and substance use prevention, treatment, and recovery services. Characterized by workforce shortages, high rates of turnover, uneven geographic distribution, and inadequate training in evidence-based practices, the workforce crisis has evolved into a national emergency. Major efforts to strengthen the workforce have been relatively infrequent, of marginal impact, and seldom sustained. This policy perspective argues that lax state enforcement of behavioral health parity has been a root cause of the persistent workforce crisis, contributing to low reimbursement rates, inadequate training and support for workers in this field, and administrative barriers imposed by payers that contribute to staff burnout. Drawing on federal oversight reports, state enforcement case studies, and workforce research, this policy perspective identifies potential state actions that would treat parity enforcement as critical to building and sustaining the behavioral health workforce. These actions have been distilled into recommended strategies for states to adopt to improve access to care and strengthen the workforce. The strategies are a resource for policymakers, advocates, and workforce experts."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43069000/",
+   "doi": "https://doi.org/10.1007/s11414-026-10034-2",
+   "data": "2026-11-23T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-23T11:00:11.059337+00:00"
+  },
+  {
+   "id": "pmid-43069802",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "The Ethics of Artificial Intelligence in Epilepsy Care, Research and in Everyday Work",
+   "revista": "Epilepsy Curr",
+   "autores": "Stern JM, Kerr WT, Datta P et al.",
+   "tipo_estudo": "",
+   "destaque": "In terms of research, using and disclosing AI contributions to manuscript and grant preparation are important as is understanding institutional policy regarding AI in writing emails and meeting summaries. Ultimately, healthcare providers using AI will need to practice at the highest ethical standards of their fields.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Artificial intelligence (AI) has broad impacts on society, medicine and research. The possible benefits of AI to providers include improved time management and efficiency, reducing burnout and helping clinicians navigate the rapidly expanding scientific literature. Ethical challenges remain and are analyzed in this article. These challenges may involve patient bias and patient record confidentiality. In terms of research, using and disclosing AI contributions to manuscript and grant preparation are important as is understanding institutional policy regarding AI in writing emails and meeting summaries. Ultimately, healthcare providers using AI will need to practice at the highest ethical standards of their fields."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43069802/",
+   "doi": "https://doi.org/10.1177/15357597261461754",
+   "data": "2026-11-23T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-23T11:00:11.059337+00:00"
+  },
+  {
+   "id": "pmid-43070102",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Comparative Effects of Mindful Yoga and Expressive Arts on Perceived Stress and Whole-Person Health in Individuals With Mild-to-Moderate Parkinson Disease: Protocol for a Randomized Controlled Trial",
+   "revista": "JMIR Res Protoc",
+   "autores": "Kwok JYY, Wang Q, Chan CKP et al.",
+   "tipo_estudo": "Ensaio clínico randomizado",
+   "destaque": "By directly comparing 2 active MBIs and integrating biopsychosocial-spiritual domains, this trial will provide comparative evidence on the effectiveness of MBIs. The findings are intended to guide the selection of mind-body approaches in PD, supporting preference-sensitive, whole-person care and informing integrative models that address the complex needs of this population.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "People with Parkinson disease (PD) experience substantial motor, nonmotor, and psychosocial burdens that are often inadequately addressed by pharmacological treatments alone. Mind-body interventions (MBIs), including mindful yoga and expressive arts therapy (EXAT), have shown promise in alleviating stress, increasing quality of life, and improving whole-person health. However, evidence of their comparative effectiveness and underlying mechanisms remains limited, leaving clinicians and patients with little guidance when selecting between these interventions. This study aims to fill this gap."
+    },
+    {
+     "rotulo": "Objective",
+     "texto": "This trial aims to compare the effectiveness of mindful yoga and EXAT in reducing perceived stress, increasing quality of life, and improving whole-person health in people with PD. A secondary aim is to examine potential mechanisms of action, including functional, psychosocial, and gut microbiome-related pathways."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We are conducting a 2-arm, parallel-group, active-comparator randomized controlled trial. People with PD are randomly assigned to receive either mindful yoga or EXAT, delivered in six 90-minute sessions every 2 weeks. The primary outcomes are perceived stress and PD-related quality of life. Secondary outcomes include PD-related symptoms and broader quality of life. Potential mediators will cover biopsychosocial domains, including biological and physical factors (gut microbiota, constipation severity and bowel habits, and physical activity) and psychosocial factors (self-compassion, self-efficacy, and perceived social support). Motor assessments are conducted using Mon4t and BooGuu Aspire Fall Risk Management mobile apps. Fecal samples are collected to generate reproducible taxonomic and functional profiles of the gut microbiota. Outcomes are assessed at baseline and 3 months, 9 months, and 12 months after baseline assessment. Comparative effectiveness will be evaluated using linear mixed models, and potential mechanisms, including psychosocial and microbiome features, will be examined through path analysis. We hypothesize that both interventions will reduce stress, increase quality of life, and improve whole-person health, but they will demonstrate different pathways across biopsychosocial domains."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "This study was funded in April 2023, and ethics approval was granted in May 2024. Participant recruitment and data collection began in May 2024 and are ongoing. As of the submission of the manuscript, 144 participants had finished pre- and postintervention assessments (72 in each arm). Final follow-ups are still ongoing. Data analysis has not yet started, and primary findings are expected to be published in December 2026."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "By directly comparing 2 active MBIs and integrating biopsychosocial-spiritual domains, this trial will provide comparative evidence on the effectiveness of MBIs. The findings are intended to guide the selection of mind-body approaches in PD, supporting preference-sensitive, whole-person care and informing integrative models that address the complex needs of this population."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43070102/",
+   "doi": "https://doi.org/10.2196/101248",
+   "data": "2026-11-23T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-23T11:00:11.059337+00:00"
+  },
+  {
+   "id": "pmid-43070028",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Design and rationale of a prospective cohort study integrating cardiovascular, metabolic, and cognitive outcomes across the spectrum of chronic kidney disease: the Vasc-CKD study",
+   "revista": "Ren Fail",
+   "autores": "Neofytou IE, Roumeliotis A, Roumeliotis S et al.",
+   "tipo_estudo": "",
+   "destaque": "By capturing various phenotypic data across CKD stages, it aims to enhance understanding of the interactions between cardiovascular pathology, metabolic disturbances, and cognitive impairment in CKD. If the proposed associations are confirmed, the resulting dataset may support improved risk stratification, facilitate the identification of high-risk phenotypes, and generate testable hypotheses for future interventional studies targeting oxidative stress, vascular calcification propensity, or arterial stiffness in the CKD population.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "We present the study design and protocol of a single-center, prospective cohort study in patients with chronic kidney disease (CKD) (n = 497). The objective of this study is to provide an integrated and comprehensive characterization of cardiovascular disease, oxidative stress, mineral and bone disorder, vascular calcification propensity, and cognitive function across the full spectrum of CKD, including non-dialysis CKD, hemodialysis, and peritoneal dialysis. Participants will be followed systematically for two years, with the collection of hard clinical endpoints, including major adverse cardiovascular events (MACE), initiation of dialysis, and all-cause mortality.Previous research in CKD has largely examined these domains in isolation-for example, studies focusing on arterial stiffness and cognitive decline, or investigations into the prognostic value of individual biomarkers of calcification and mineral metabolism, such as fibroblast growth factor-23, fetuin-A, or matrix GLA protein (MGP), for cardiovascular outcomes and renal disease progression. In contrast, the present protocol is designed to integrate these interrelated pathophysiological pathways within a single, unified framework.This protocol provides a transparent methodological reference for planned longitudinal and nested analyses arising from this large cohort. By capturing various phenotypic data across CKD stages, it aims to enhance understanding of the interactions between cardiovascular pathology, metabolic disturbances, and cognitive impairment in CKD. If the proposed associations are confirmed, the resulting dataset may support improved risk stratification, facilitate the identification of high-risk phenotypes, and generate testable hypotheses for future interventional studies targeting oxidative stress, vascular calcification propensity, or arterial stiffness in the CKD population."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43070028/",
+   "doi": "https://doi.org/10.1080/0886022X.2026.2749910",
+   "data": "2026-11-23T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-23T11:00:11.059337+00:00"
+  },
   {
    "id": "pmid-43055718",
    "fonte": "PubMed",
@@ -276,6 +541,337 @@
     "cognicao"
    ],
    "visto_em": "2026-11-22T10:41:53.409806+00:00"
+  },
+  {
+   "id": "pmid-43068226",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Health care provider perspectives toward managing people living with obesity at risk of developing metabolic dysfunction-associated steatohepatitis",
+   "revista": "Obes Pillars",
+   "autores": "Ostrominski JW, Chhibber A, Kuti E et al.",
+   "tipo_estudo": "",
+   "destaque": "Despite widespread awareness that PwO face high risks of MASH, confidence in fibrosis risk stratification and reported guideline use were low. As effective pharmacotherapies for MASH continue to emerge, ensuring that the infrastructure for early detection, guideline literacy, diagnostic confidence, and health system support keeps pace with therapeutic innovation will be essential for management of the growing population of people living with obesity and MASH.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Metabolic dysfunction-associated steatotic liver disease and its advanced form, metabolic dysfunction-associated steatohepatitis (MASH), are increasingly prevalent among people living with obesity (PwO). Despite increasing prevalence, management of liver health in routine obesity care remains inconsistent. This study evaluated how healthcare professionals (HCPs) conceptualize liver health within the broader obesity treatment framework, perceive and identify MASH risk, and make screening, treatment, and referral decisions for PwO."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "This was a cross-sectional survey conducted among U.S. based HCPs including physicians and advanced practice providers (APPs; nurse practitioners and physician associates) practicing in primary care, endocrinology, gastroenterology, or obesity medicine. The survey assessed MASH risk perception, guideline use, confidence in non-invasive fibrosis risk stratification (including FIB-4), post-risk assessment management, treatment approaches, and referral patterns. Analyses were descriptive."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "A total of 813 HCPs (physicians or APPs) including primary care providers (PCPs) (n = 516), endocrinologists (n = 104), gastroenterologists (n = 101), and obesity specialists (n = 92) completed the survey. HCPs perceived PwO to be at high risk for developing MASH (67-75%), but more often identified type 2 diabetes, dyslipidemia, and hypertension as conditions for which PwO are at greater risk than MASH. Self-reported use of formal guideline for MASH fibrosis risk assessment was low (14-23%). Confidence in FIB-4 use was lowest among PCPs (31% \"very confident\"), and reassessment or secondary testing for low and indeterminate risk patients was infrequent. Management approaches for patients with obesity and MASH varied by specialty."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Despite widespread awareness that PwO face high risks of MASH, confidence in fibrosis risk stratification and reported guideline use were low. As effective pharmacotherapies for MASH continue to emerge, ensuring that the infrastructure for early detection, guideline literacy, diagnostic confidence, and health system support keeps pace with therapeutic innovation will be essential for management of the growing population of people living with obesity and MASH."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43068226/",
+   "doi": "https://doi.org/10.1016/j.obpill.2026.100352",
+   "data": "2026-11-22T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-23T11:00:11.059337+00:00"
+  },
+  {
+   "id": "pmid-43068911",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Oestrogen-Related Receptor Signalling Counters Sarcopenia and Preserves Exercise Fitness in Naturally Aged Mice",
+   "revista": "J Cachexia Sarcopenia Muscle",
+   "autores": "Sopariwala DH, DeBruine A, Poliakova S et al.",
+   "tipo_estudo": "",
+   "destaque": "ERRγ drives a pan-ERR and counter sarcopenic gene programme enhancing oxidative myofibre type, mitochondrial content, vasculature and NMJ in ageing muscle. Consequently, ERRγ minimizes myofibre atrophy, preserves contractility and improves exercise fitness in old mice. Therefore, ERRs could be potential targets for minimizing sarcopenia.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Oestrogen-related receptor gamma (ERRγ) drives an exercise mimicking aerobic gene programme in the skeletal muscle that could be beneficial in ageing. We have investigated the effect of chronic ERRγ activation on minimizing sarcopenia."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Experiments were performed in muscle-specific ERRγ transgenic (TG) mice and wild type (WT) littermates, at young (4-5 months) and old (24-26 months) age. In the skeletal muscle, global gene expression changes, as well as myofibre histological changes in fibre type, size, vascular supply and neuromuscular junction (NMJ), and mitochondrial content were measured. Functional analysis was performed using in vivo muscle contraction assay. Exercise fitness was measured using treadmill sprint and endurance test. Gene and protein expression were measured using qPCR and westerns, respectively."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "ERRγ activates a pan-ERR aerobic programme in the skeletal muscle to increase expression of 574 genes including ERRα, mitochondrial homeostasis (e.g., Mfn1, Opa1, Drp1, Fis1 and Tfam), vascularization (e.g., Vegfa, Angpt1 and Fgf1) and neuromuscular junction (NMJ) (e.g., Nrp1, Aspa, Ptprm and Cxcr4), simultaneously suppressing the expression of atrophy-related genes (e.g., Atrogin1, Traf6, Nedd4, Myd88 and p21). ERRγ increases mitochondrial content (Mitochondrial area: old TG vs. WT, 2.00 fold; young TG vs. WT, 1.32 fold), oxidative capacity (NADH-TR activity: old TG vs. WT, 1.20 fold; young TG vs. WT, 1.22 fold) and myofibre type (2a: old TG [687 ± 258] vs. WT [252 ± 71]; young TG [797 ± 168] vs. WT [440 ± 76]; 2x: old TG 1348 ± 87 vs. WT 976 ± 219; young TG 1131 ± 135 vs. WT 936 ± 84; 2b: old TG [798 ± 103] vs. WT [1628 ± 148]; young TG [967 ± 133] vs. WT [1623 ± 189]), and capillarity (capillary-to-myofibre ratio: old TG [3.25 ± 0.19] vs. WT [2.41 ± 0.16]; young TG [3.41 ± 0.21] vs. WT [2.59 ± 0.2]) and mitigating age-related loss of NMJ (NMJ number: old TG [67 ± 8] vs. WT [40 ± 9]; young TG [77 ± 11] vs. WT [77 ± 7]) and myofibre cross-sectional area (old TG [1570 ± 147 μm2] vs. WT [1692.5 ± 208 μm2] WT; young TG [1828.15 ± 132.8 μm2] vs. WT [2109.7 ± 296.8 μm2]). ERRγ overexpression preserves muscle contractility with ageing (Fatigue resistance: 22.72% reduction in force in old vs. young WT; 3.11% reduction in force between old vs. young TG). Furthermore, ERRγ maintains exercise fitness in old mice (Running: old TG [2964.52 ± 405 m] vs. old WT [910.75 ± 6034 m]; young TG [2232.43 ± 193.64 m] vs. young WT [1366.76 ± 60.76 m])."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "ERRγ drives a pan-ERR and counter sarcopenic gene programme enhancing oxidative myofibre type, mitochondrial content, vasculature and NMJ in ageing muscle. Consequently, ERRγ minimizes myofibre atrophy, preserves contractility and improves exercise fitness in old mice. Therefore, ERRs could be potential targets for minimizing sarcopenia."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43068911/",
+   "doi": "https://doi.org/10.1002/jcsm.70425",
+   "data": "2026-11-22T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-23T11:00:11.059337+00:00"
+  },
+  {
+   "id": "pmid-43068971",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Teriparatide Attenuates Sarcopenia by Stimulating MYOD Transcription via an MYH9‑Dependent AKT/CREB1 Signaling Axis",
+   "revista": "Adv Sci (Weinh)",
+   "autores": "Lei T, Jiang Z, Wang J et al.",
+   "tipo_estudo": "",
+   "destaque": "Consistently, in vivo experiments using aged rat sarcopenia model and skeletal muscle-specific MYH9-knockout mice further confirm that TE alleviates sarcopenia by a MYH9-dependent AKT/CREB1/MYOD axis. Our study provides a theoretical basis for repurposing the anti-osteoporosis drug TE to treat sarcopenia, revealing a crucial role of the MYH9 mediated signaling pathway in the pathogenesis of sarcopenia.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "It remains unknown whether bone mineral density (BMD) and anti-osteoporosis therapies cause any effects on sarcopenia. We initially investigated the impact of the anti-osteoporosis drug on sarcopenia using a druggable Mendelian randomization (MR) analysis, uncovering the potentially therapeutic effect of Teriparatide (TE). Subsequently, our findings suggested that TE promoted myogenic differentiation of C2C12 and relieved the dexamethasone (Dex)-induced sarcopenia. Then, in vitro experiments, including co immunoprecipitation (Co IP), mass spectrometry analysis, and chromatin immunoprecipitation (ChIP)-qPCR, indicated that TE interacts with myosin heavy chain 9 (MYH9) rather than the classical parathyroid hormone 1 receptor (PTH1R), promoting MYH9 phosphorylation at Serine 1943 (Ser1943). This event thereby activates the protein kinase B (AKT)-cyclic AMP responsive element binding protein 1 (CREB1) axis. Phosphorylated CREB1 subsequently binds to the promoter of the myogenic differentiation 1 (MYOD) gene, directly driving its transcription and promoting myogenic differentiation. Consistently, in vivo experiments using aged rat sarcopenia model and skeletal muscle-specific MYH9-knockout mice further confirm that TE alleviates sarcopenia by a MYH9-dependent AKT/CREB1/MYOD axis. Our study provides a theoretical basis for repurposing the anti-osteoporosis drug TE to treat sarcopenia, revealing a crucial role of the MYH9 mediated signaling pathway in the pathogenesis of sarcopenia."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43068971/",
+   "doi": "https://doi.org/10.1002/advs.78813",
+   "data": "2026-11-22T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-23T11:00:11.059337+00:00"
+  },
+  {
+   "id": "pmid-43068352",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Real-world Gastrointestinal, Pancreaticobiliary, Cardiorenal, Metabolic and Nutritional Outcomes of GLP-1 or GIP Receptors Agonists -based Therapy in Chronic Pancreatitis",
+   "revista": "J Gastrointestin Liver Dis",
+   "autores": "Dhali A, Maity R, Khan F",
+   "tipo_estudo": "",
+   "destaque": "Exposure to dulaglutide, semaglutide, or tirzepatide was associated with lower recorded risks across several gastrointestinal, cardio, renal and metabolic outcome domains. These findings should be interpreted with caution, and further prospective studies are required to confirm the same.",
+   "resumo": [
+    {
+     "rotulo": "Background And Aims",
+     "texto": "Glucagon-like peptide-1(GLP-1) receptor agonists and dual glucose-dependent insulinotropic polypeptide (GIP)/GLP-1 receptor agonists are increasingly used for metabolic disease, but their safety profile in patients with chronic pancreatitis (CP) remains uncertain. We compared several gastrointestinal, cardio, renal and metabolic outcomes in patients with CP exposed to dulaglutide, semaglutide, or tirzepatide versus propensity-matched unexposed controls."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We conducted a retrospective, propensity score-matched cohort study using the TriNetX federated real-world data platform. Adults with CP were classified by recorded exposure to dulaglutide, semaglutide, or tirzepatide versus no recorded exposure to those drugs. Risk analyses and Kaplan-Meier time-to-event analyses were done."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "After matching, median follow-up was 588 (IQR 831) versus 879 (IQR 807), respectively. Nausea/vomiting occurred in 656/4,938 (risk 0.133) versus 1,099/5,585 (risk 0.197), with risk ratio (RR) 0.675 (95%CI: 0.618-0.738) and hazard ratio (HR) 0.710 (95%CI: 0.645-0.783). Bowel obstruction/ileus occurred in 241/9,103 (risk 0.026) versus 466/8,949 (risk 0.052), with RR=0.508 (95%CI: 0.436-0.592) and HR=0.556 (95%CI: 0.476-0.649). Upper gastrointestinal bleeding occurred in 355/8,536 (risk 0.042) versus 608/8,657 (risk 0.070), with RR=0.592 (95%CI: 0.521-0.673) and HR=0.659 (95%CI: 0.578-0.751). Biliary/procedural outcomes were lower, including cholecystectomy (risk 0.023 vs 0.049; HR=0.486, 95%CI: 0.412-0.572) and ERCP (risk 0.026 vs 0.064; HR=0.420, 95%CI: 0.362-0.488). Recurrent acute pancreatitis occurred in 329/5,639 exposed patients (risk 0.058) versus 579/5,499 controls (risk 0.105), with HR=0.584 (95%CI: 0.510-0.669). Additional associations included lower insulin initiation (risk 0.178 vs 0.269; HR=0.731, 95%CI: 0.658-0.812), heart failure (risk 0.061 vs 0.101; HR=0.687, 95%CI: 0.613-0.770), myocardial infarction (risk 0.039 vs 0.054; HR=0.818, 95%CI: 0.712-0.939 and acute kidney injury (risk 0.086 vs 0.150; HR=0.643, 95%CI: 0.580-0.712), malnutrition (risk 0.049 vs 0.107; HR=0.491, 95%CI: 0.438-0.550)."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Exposure to dulaglutide, semaglutide, or tirzepatide was associated with lower recorded risks across several gastrointestinal, cardio, renal and metabolic outcome domains. These findings should be interpreted with caution, and further prospective studies are required to confirm the same."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43068352/",
+   "doi": "https://doi.org/10.15403/jgld-6964",
+   "data": "2026-11-22T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-23T11:00:11.059337+00:00"
+  },
+  {
+   "id": "pmid-43068015",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Lifestyle factors and youth mental health: a network analysis of two national surveys in Korea",
+   "revista": "Prev Med Rep",
+   "autores": "Kim JJ, Hwang IC, Ahn HY",
+   "tipo_estudo": "",
+   "destaque": "Lifestyle and mental health factors were interconnected in Korean young adults. Sleep disturbance's bridge ranking was sensitive to node inclusion. Network and mediation findings should be interpreted cautiously and regarded as hypothesis-generating.",
+   "resumo": [
+    {
+     "rotulo": "Objective",
+     "texto": "This study used psychiatric network analysis to examine lifestyle-mental health relationships and identify bridge nodes among Korean young adults."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Data from the 2022 (N = 14,966) and 2024 (N = 15,098) Korean National Youth Life Surveys were analyzed using a 14-node Gaussian Graphical Model. Centrality and bridge centrality were estimated, and networks were compared using the network comparison test. Sequential mediation analysis (2000 bootstrap replications) examined the indirect association between smartphone overdependence and suicidal ideation through sleep disturbance, burnout, and depressed mood."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Networks were dense in both years, with depressed mood and fatigue showing the highest centrality. Sleep disturbance had the highest bridge centrality in the original networks, but this finding was not robust to exclusion of two binary nodes; poor subjective health emerged as the leading bridge node. No statistically significant differences in global strength or network density were detected between years. Mediation analysis identified a significant indirect association in both years."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Lifestyle and mental health factors were interconnected in Korean young adults. Sleep disturbance's bridge ranking was sensitive to node inclusion. Network and mediation findings should be interpreted cautiously and regarded as hypothesis-generating."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43068015/",
+   "doi": "https://doi.org/10.1016/j.pmedr.2026.103710",
+   "data": "2026-11-22T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-23T11:00:11.059337+00:00"
+  },
+  {
+   "id": "pmid-43068405",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "A dynamic network analysis of anxiety-related distress within a quality-of-life framework among adults undergoing chemotherapy",
+   "revista": "Qual Life Res",
+   "autores": "Yan K, Zou J, Loerzel V",
+   "tipo_estudo": "Ensaio clínico randomizado",
+   "destaque": "Anxiety-related distress was centrally embedded within the EORTC QLQ framework, with worry serving as a key connector linking emotional, cognitive, sleep-related, and financial concerns. Potential leverage points for supportive care during chemotherapy were identified.",
+   "resumo": [
+    {
+     "rotulo": "Purpose",
+     "texto": "To understand anxiety-related distress within the quality-of-life context, this study examined how anxiety-related distress is positioned in the European Organisation for Research and Treatment of Cancer Quality of Life Questionnaire (EORTC QLQ) framework, and assessed its strongest associations with other quality-of-life factors over time."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "This secondary analysis of randomized controlled trial data included 390 adults aged ≥ 50 years (63.1% female) who were assessed across six time points: before chemotherapy (baseline, T1) and during chemotherapy (T2-T6). Longitudinal network analysis was used to evaluate the position and associations of anxiety-related distress, represented by worry and tension, within the EORTC-QLQ framework. A baseline network using all 30 EORTC-QLQ items first identified the position of anxiety-related distress. A reduced longitudinal network using key nodes was then estimated to examine contemporaneous, between-person, and temporal associations over time."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The baseline network revealed that worry played a central bridging role within the quality-of-life framework. In the reduced longitudinal network, the strongest evidence emerged in the contemporaneous and between-person networks. At the same assessment occasion, worry and tension were positively associated with depressed mood, trouble sleeping, irritability, difficulty concentrating, and financial difficulties. At between-person level, higher average worry was associated with higher average tension, depressed mood, and financial difficulties; while higher average tension was associated with higher average irritability, worry, and difficulty concentrating. In the temporal network, financial difficulties significantly predicted higher subsequent worry but lower subsequent tension."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Anxiety-related distress was centrally embedded within the EORTC QLQ framework, with worry serving as a key connector linking emotional, cognitive, sleep-related, and financial concerns. Potential leverage points for supportive care during chemotherapy were identified."
+    },
+    {
+     "rotulo": "Clinical Trial Registry",
+     "texto": "ClinicalTrials.gov ID NCT05838638; https://clinicaltrials.gov/study/NCT05838638?term=NCT05838638&rank=1 ."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43068405/",
+   "doi": "https://doi.org/10.1007/s11136-026-04445-z",
+   "data": "2026-11-22T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-23T11:00:11.059337+00:00"
+  },
+  {
+   "id": "pmid-43067857",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Salivary Cortisol as a Stress Biomarker in Red Foxes (Vulpes vulpes) Used in Earthdog Training Activities: A Pilot Study",
+   "revista": "Vet Med Int",
+   "autores": "Bellini V, Stagi G, Ponzetta MP et al.",
+   "tipo_estudo": "",
+   "destaque": "These findings provide the first objective evidence that, under the operational conditions studied, no marked acute increase in salivary cortisol was detectable in the foxes. This study provides preliminary salivary cortisol data for captive red foxes and contributes scientific evidence to support welfare assessment in wild animals used in working dog training programs.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "In Italy, red foxes (Vulpes vulpes) are legally maintained in artificial dens to train terrier and Dachshund dogs for wildlife management purposes. Despite regulatory frameworks requiring protective barriers to prevent physical contact, no scientific data exist on the physiological stress experienced by foxes during these activities, creating a significant knowledge gap in wildlife welfare assessment. This study evaluated acute stress responses in 12 red foxes, representing the entire population currently authorized for this purpose in Italy, using salivary cortisol as a noninvasive biomarker. Saliva samples were collected immediately before and after two-hour training sessions at eight facilities across Italy. Additional data on sex, age, diet, transportation methods, and degree of domestication were recorded through structured questionnaires. Statistical analyses including paired t-tests, Welch's tests, and one-way analysis of variance revealed no significant differences in cortisol concentrations between preactivity and postactivity measurements (p = 0.74), regardless of sex, age, or behavioral characteristics. These findings provide the first objective evidence that, under the operational conditions studied, no marked acute increase in salivary cortisol was detectable in the foxes. This study provides preliminary salivary cortisol data for captive red foxes and contributes scientific evidence to support welfare assessment in wild animals used in working dog training programs."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43067857/",
+   "doi": "https://doi.org/10.1155/vmi/5187147",
+   "data": "2026-11-22T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-23T11:00:11.059337+00:00"
+  },
+  {
+   "id": "pmid-43068319",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Active L2 immersion is associated with glymphatic-related MRI markers in healthy young adults: A cross-sectional multimodal study",
+   "revista": "Neuroimage Rep",
+   "autores": "Wang R, Guo Q, Zeng X et al.",
+   "tipo_estudo": "",
+   "destaque": "L2 immersion duration is associated directly and indirectly with MRI-derived glymphatic-related markers in healthy adults. These findings extend research on bilingualism and brain health to glymphatic-related physiology and motivate longitudinal tests of whether this association contributes to cognitive reserve.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "The brain's glymphatic system plays a vital role in maintaining neural health. However, little is known about whether second language (L2) immersion is associated with glymphatic function."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "50 high-proficiency L2 English speakers (mean age: 32.6 years; 78% female) underwent multimodal MRI. Three glymphatic-related markers were derived: BOLD-CSF coupling strength (fMRI), choroid plexus (ChP) ratio (structural MRI), and DTI-ALPS index (diffusion MRI). We examined their associations with L2 immersion duration and age of acquisition (AOA), and active language-use context, controlling for age, education, and sex."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Longer L2 immersion duration was associated with stronger BOLD-CSF coupling (r = -.316, q = .029; two-tailed q = .059) and smaller ChP ratios (r = -.386, q = .016). An exploratory mediation analysis indicated an indirect association with the ALPS index through ChP ratio and BOLD-CSF coupling. AOA moderated the immersion-coupling association, significant among earlier learners (B = -.134, p < .001) but not later learners. AOA did not moderate the ChP association and ALPS index. Only active L2 use within immersive environments was associated with the markers, whereas passive immersion and non-immersive active use were not."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "L2 immersion duration is associated directly and indirectly with MRI-derived glymphatic-related markers in healthy adults. These findings extend research on bilingualism and brain health to glymphatic-related physiology and motivate longitudinal tests of whether this association contributes to cognitive reserve."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43068319/",
+   "doi": "https://doi.org/10.1016/j.ynirp.2026.100435",
+   "data": "2026-11-22T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-23T11:00:11.059337+00:00"
+  },
+  {
+   "id": "pmid-43068183",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "BDNF-mediated amelioration of sleep disruption-induced behavioral disorders by Ginkgo biloba",
+   "revista": "IBRO Neurosci Rep",
+   "autores": "Hasandoust N, Hassanpour R, Bahrami F et al.",
+   "tipo_estudo": "",
+   "destaque": "Sleep disruption impaired memory and learning but did not significantly affect anxiety. Treatment with Ginkgo biloba extract (250 mg/kg) improved memory and reduced anxiety. Hippocampal BDNF changes suggest restorative effects may be mediated by increasing BDNF levels reduced by deprivation. As an Iranian Ginkgo biloba extract was used, further research is needed to identify optimal extraction methods and phytochemical compositions for enhancing BDNF levels, thereby optimizing therapeutic potential of Ginkgo biloba -derived compounds for sleep and cognitive applications.",
+   "resumo": [
+    {
+     "rotulo": "Introduction",
+     "texto": "Sleep disruptions linked to adverse outcomes ranging from cognitive decline (e.g., in memory, learning, and sensory integration) to emotional dysregulation (e.g., stress and pathological anxiety). Although pre-sleep cognitive engagement may alleviate some of these effects, effective pharmacological interventions are needed. Ginkgo biloba, a dietary supplement, exerts broad pharmacological actions that support neural function. Here, we investigate hypothesis that Ginkgo biloba counteracts sleep deprivation's detrimental effects by promoting BDNF-dependent neuroplasticity, thereby restoring cognitive and emotional homeostasis."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Twenty-eight male Wistar rats were randomly assigned to four groups: sleep disruption (SD) followed by Ginkgo biloba extract (250 mg/kg i.p.), sleep-disrupted group only, extract only, and control. The Ginkgo biloba collected from botanical garden of Tehran and the extract was prepared via percolation of plant material with ethanol, followed by evaporation and reconstitution. Animals were subjected to multiple-platform-induced sleep disruption (MPSD) for 2 h/day for 3 consecutive days. Behavioral assessments included the open-field test for stress/anxiety and the Barnes maze for spatial learning and memory over three days. Hippocampal BDNF levels were quantified using ELISA."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Intraperitoneal Ginkgo biloba extract improved learning in sleep-disrupted rats, reducing probe-day latency from 71 ± 11 s (deprived) to 38 ± 8 s (p < 0.001); Ginkgo biloba alone yielded 15 ± 8 s. The open-field test revealed a significant increase in both locomotor speed and total distance traveled in the sleep-disrupted rats compared with the other experimental groups (P < 0.001). Sleep disruption reduced hippocampal BDNF from 544.55 ± 23-381.19 ± 17 pm/ml (p < 0.0001). Ginkgo biloba treatment significantly prevented this reduction (557 ± 27 pm/ml; p < 0.001) and, when administered alone, increased BDNF by 20% compared to controls (653 ± 25 pm/ml)."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Sleep disruption impaired memory and learning but did not significantly affect anxiety. Treatment with Ginkgo biloba extract (250 mg/kg) improved memory and reduced anxiety. Hippocampal BDNF changes suggest restorative effects may be mediated by increasing BDNF levels reduced by deprivation. As an Iranian Ginkgo biloba extract was used, further research is needed to identify optimal extraction methods and phytochemical compositions for enhancing BDNF levels, thereby optimizing therapeutic potential of Ginkgo biloba -derived compounds for sleep and cognitive applications."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43068183/",
+   "doi": "https://doi.org/10.1016/j.ibneur.2026.10.017",
+   "data": "2026-11-22T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-23T11:00:11.059337+00:00"
+  },
+  {
+   "id": "rss-https-www-sciencedaily-com-releases-2026-11-261120075600-htm",
+   "fonte": "ScienceDaily",
+   "tipo_fonte": "noticia",
+   "titulo": "Alzheimer’s breakthrough exposes a hidden flaw in the brain’s cleanup system",
+   "revista": "",
+   "autores": "",
+   "tipo_estudo": "",
+   "destaque": "Scientists have identified a gene that helps the brain’s immune cells contain harmful plaques linked to Alzheimer’s, potentially revealing a new way to fight the disease. When the gene malfunctioned in mice, toxic buildup accelerated and cognitive abilities declined, raising hopes that restoring its function could help protect the brain.",
+   "resumo": [],
+   "link": "https://www.sciencedaily.com/releases/2026/11/261120075600.htm",
+   "doi": "",
+   "data": "2026-11-21T22:00:27-05:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-23T11:00:11.059337+00:00"
+  },
+  {
+   "id": "rss-https-www-sciencedaily-com-releases-2026-11-261119194558-htm",
+   "fonte": "ScienceDaily",
+   "tipo_fonte": "noticia",
+   "titulo": "A common blood pressure drug has a surprising effect on calorie-burning brown fat",
+   "revista": "",
+   "autores": "",
+   "tipo_estudo": "",
+   "destaque": "Scientists have discovered that a common blood pressure drug can activate calorie-burning brown fat in mice, potentially opening a new path toward improving metabolic health. An analysis of more than 100,000 patients also revealed surprising links between brown fat and lower rates of heart disease, diabetes, anxiety, and depression.",
+   "resumo": [],
+   "link": "https://www.sciencedaily.com/releases/2026/11/261119194558.htm",
+   "doi": "",
+   "data": "2026-11-21T20:54:11-05:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-23T11:00:11.059337+00:00"
   },
   {
    "id": "pmid-43065563",
