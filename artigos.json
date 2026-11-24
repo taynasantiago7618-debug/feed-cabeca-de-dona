@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-23T11:00:11.059337+00:00",
+ "atualizado_em": "2026-11-24T10:52:57.744452+00:00",
  "titulo": "Feed Científico Cabeça de Dona",
  "subtitulo": "Ciência nova, todo dia, sobre o que move a sua saúde",
  "temas": [
@@ -30,6 +30,207 @@
   }
  ],
  "artigos": [
+  {
+   "id": "pmid-43073558",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "The Role Of Sleep In The Incretin-Mimetic Pharmacological Treatment Of Overweight And Obesity",
+   "revista": "Curr Diab Rep",
+   "autores": "Zuraikat FM, St-Onge MP, Catenacci VA et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Key research priorities include incorporating multidimensional sleep health assessments into obesity medication trials and testing whether sleep interventions can enhance behavioral and pharmacological treatment outcomes. Optimizing sleep health may represent a practical and modifiable behavioral target to enhance the effectiveness, durability, and personalization of obesity pharmacotherapy.",
+   "resumo": [
+    {
+     "rotulo": "Purpose Of Review",
+     "texto": "Long-acting glucagon-like peptide - 1 receptor agonists and related incretin-based obesity medications have transformed obesity treatment. However, variability in treatment response, gastrointestinal side effects, loss of skeletal muscle and bone mass, and weight regain following medication discontinuation remain important clinical challenges. Sleep health is increasingly recognized as a modifiable determinant of energy balance and weight regulation, yet its role in obesity pharmacotherapy remains largely unexplored. This narrative review summarizes evidence linking sleep health with obesity medication outcomes and examines potential mechanisms through which sleep may influence treatment response and long-term weight management."
+    },
+    {
+     "rotulo": "Recent Findings",
+     "texto": "Emerging evidence suggests that adequate sleep duration and better sleep quality are associated with greater weight loss and improved weight loss maintenance during obesity treatment, although direct evidence in patients receiving obesity medications remains limited. Plausible pathways linking sleep with pharmacological treatment response include alterations in glucagon-like peptide - 1 physiology, energy intake and appetite regulation, physical activity, and body composition. Key research priorities include incorporating multidimensional sleep health assessments into obesity medication trials and testing whether sleep interventions can enhance behavioral and pharmacological treatment outcomes. Optimizing sleep health may represent a practical and modifiable behavioral target to enhance the effectiveness, durability, and personalization of obesity pharmacotherapy."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43073558/",
+   "doi": "https://doi.org/10.1007/s11892-026-01649-y",
+   "data": "2026-11-24T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-24T10:52:57.744452+00:00"
+  },
+  {
+   "id": "pmid-43074825",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Adjunctive pharmacotherapy for obesity in type 1 diabetes: current evidence for GLP-1 receptor agonists",
+   "revista": "Front Endocrinol (Lausanne)",
+   "autores": "Baretić M, Belančić A",
+   "tipo_estudo": "Revisão",
+   "destaque": "The available evidence, including our clinical experience, is considered in the context of potential benefits, safety considerations, and the current limitations of the evidence base. Given the limited evidence in T1D, further well-designed studies are needed to better define their efficacy/effectiveness, safety, and appropriate clinical use in people with T1D and obesity.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "The increasing prevalence of obesity among individuals with type 1 diabetes (T1D) has introduced significant metabolic complexity, including insulin resistance, weight-related comorbidities, and escalating insulin requirements. Traditional insulin-centric management strategies often exacerbate weight gain, highlighting the need for adjunctive pharmacological approaches. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and dual GLP-1/GIP receptor agonist (dual GLP-1/GIP RA), widely used in type 2 diabetes and obesity, offer mechanistic benefits through appetite suppression, delayed gastric emptying, modulation of glucagon secretion, and improvement in insulin sensitivity. This narrative perspective combines a single clinical case report with an overview of the available evidence on GLP-1 RAs and dual GLP-1/GIP RAs as emerging adjunctive therapies for obesity management in T1D. The available evidence, including our clinical experience, is considered in the context of potential benefits, safety considerations, and the current limitations of the evidence base. Given the limited evidence in T1D, further well-designed studies are needed to better define their efficacy/effectiveness, safety, and appropriate clinical use in people with T1D and obesity."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43074825/",
+   "doi": "https://doi.org/10.3389/fendo.2026.1944597",
+   "data": "2026-11-24T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-24T10:52:57.744452+00:00"
+  },
+  {
+   "id": "pmid-43074427",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Paraben Exposure and Reduced Skeletal Muscle Mass in US Adults: Sex- and Menopause-Specific Associations",
+   "revista": "J Cachexia Sarcopenia Muscle",
+   "autores": "Oh KH, Min JY, Seo K et al.",
+   "tipo_estudo": "",
+   "destaque": "Higher urinary MePB/Cr and PrPB/Cr were associated with lower skeletal muscle mass and higher odds of low ALM/BMI in women, particularly postmenopausal women. BuPB/Cr findings were less consistent and should be interpreted cautiously. The cross-sectional design precludes assessment of temporality, and longitudinal studies incorporating muscle strength and physical performance are warranted.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Parabens are prevalent endocrine-active chemicals with weak oestrogenic and antiandrogenic activity. Whether urinary paraben concentrations are associated with skeletal muscle mass, a sex hormone-responsive tissue, remains unclear. We examined associations between creatinine-adjusted urinary paraben concentrations and dual-energy X-ray absorptiometry (DXA)-derived skeletal muscle mass in US adults."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We analysed 1735 adults aged 20-59 years from NHANES 2013-2016 (mean age, 39.4 ± 11.4 years; 900 women [51.9%]). Urinary methylparaben (MePB), ethylparaben (EtPB), propylparaben (PrPB) and butylparaben (BuPB) were creatinine-adjusted (MePB/Cr, EtPB/Cr, PrPB/Cr, BuPB/Cr). Skeletal muscle mass indicators included appendicular lean mass (ALM), ALM/BMI and ALM/height2. Survey-weighted multivariable linear and logistic regression models estimated associations per interquartile range (IQR) increment, stratified by sex and, among women, by menopausal status."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Among women, IQR increments in MePB/Cr and PrPB/Cr were associated with lower ALM (-0.30 kg, p = 0.023, and -0.15 kg, p < 0.001, respectively), with similar inverse associations for ALM/BMI and ALM/height2 (all p ≤ 0.044). EtPB/Cr showed no clear association, BuPB/Cr findings were less consistent, and associations were generally null in men. Among women, 257 (28.6%) were postmenopausal; effect estimates were larger in magnitude in this subgroup, with IQR increments in MePB/Cr and PrPB/Cr associated with lower ALM (-0.41 and -0.21 kg, respectively; both p < 0.001) and lower ALM/BMI and ALM/height2 (all p < 0.001). Higher MePB/Cr and PrPB/Cr were also associated with higher odds of low ALM/BMI in women overall (MePB/Cr: OR per IQR = 1.14, p = 0.006; PrPB/Cr: OR per IQR = 1.07, p < 0.001) and in postmenopausal women (MePB/Cr:OR per IQR = 1.21, p = 0.014; PrPB/Cr: OR per IQR = 1.11, p = 0.002)."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Higher urinary MePB/Cr and PrPB/Cr were associated with lower skeletal muscle mass and higher odds of low ALM/BMI in women, particularly postmenopausal women. BuPB/Cr findings were less consistent and should be interpreted cautiously. The cross-sectional design precludes assessment of temporality, and longitudinal studies incorporating muscle strength and physical performance are warranted."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43074427/",
+   "doi": "https://doi.org/10.1002/jcsm.70443",
+   "data": "2026-11-24T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-24T10:52:57.744452+00:00"
+  },
+  {
+   "id": "pmid-43073590",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Buyuan decoction attenuates COPD-associated skeletal muscle atrophy: insights from network pharmacology, molecular docking, and in vivo validation",
+   "revista": "J Mol Histol",
+   "autores": "Cheng H, Hu Q, Zhang F et al.",
+   "tipo_estudo": "",
+   "destaque": "These changes were accompanied by concordant mRNA levels and enhanced SIRT1 deacetylase activity. Collectively, these findings suggest that BYD may protect against COPD-associated skeletal muscle atrophy, an effect associated with changes in SIRT1/PGC-1α-related mitochondrial regulatory markers and STAT3-related inflammatory signaling.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Sarcopenia, a clinical syndrome defined by reduced muscle strength and mass, frequently complicates chronic obstructive pulmonary disease (COPD) and impairs physical performance. Buyuan Decoction (BYD) has shown protective effects against COPD-associated skeletal muscle atrophy, but its mechanisms beyond previously reported oxidative-stress regulation remain incompletely understood. We integrated network pharmacology, molecular docking, and in vivo experiments to explore the mechanisms of BYD against COPD-associated skeletal muscle atrophy. A rat COPD model was induced by cigarette smoke and LPS. Muscle function and molecular changes were evaluated by grip strength, muscle weight, histopathology, and biochemical assays. Network pharmacology indicated 121 overlapping targets between BYD-related targets and a sarcopenia-related target set used for disease-target retrieval, with enrichment in inflammation, metabolism, hypoxia, and apoptosis pathways. Molecular docking predicted favorable binding affinities, with the quercetin-SIRT1 complex exhibiting the lowest binding energy. In vivo, BYD improved grip strength and muscle mass, attenuated lung and muscle histopathology, reduced TNF-α and IL-6 levels, increased SOD activity and ATP content, reduced STAT3 phosphorylation at Tyr705, downregulated MuRF1 expression, and increased the expression of SIRT1, PGC-1α, OPA1, and HDAC2. These changes were accompanied by concordant mRNA levels and enhanced SIRT1 deacetylase activity. Collectively, these findings suggest that BYD may protect against COPD-associated skeletal muscle atrophy, an effect associated with changes in SIRT1/PGC-1α-related mitochondrial regulatory markers and STAT3-related inflammatory signaling."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43073590/",
+   "doi": "https://doi.org/10.1007/s10735-026-11062-0",
+   "data": "2026-11-24T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-24T10:52:57.744452+00:00"
+  },
+  {
+   "id": "pmid-43074495",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Tirzepatide in Maintenance Dialysis Patients With Obesity Previously Treated With Semaglutide: A Prospective Exploratory Observational Study of Weight and Body Composition",
+   "revista": "Diabetes Obes Metab",
+   "autores": "Naar L, Helk O, Niknam J et al.",
+   "tipo_estudo": "",
+   "destaque": "In dialysis patients with obesity, previously treated with semaglutide, a statistically significant weight loss was observed after a 3-month switch to tirzepatide and no patient discontinued treatment.",
+   "resumo": [
+    {
+     "rotulo": "Background/Aims",
+     "texto": "Obesity is a common modifiable barrier to kidney transplantation in patients on dialysis. We assessed whether switching to the dual GIP/GLP-1 receptor agonist tirzepatide reduces body weight and fat mass in individuals on dialysis previously treated with semaglutide."
+    },
+    {
+     "rotulo": "Materials And Methods",
+     "texto": "In this prospective exploratory observational study, adults on maintenance dialysis with obesity (BMI ≥ 30 kg/m2) were switched from semaglutide to tirzepatide after failure to reach the transplant listing threshold or reported intolerance. The primary endpoint was the relative change in body weight from baseline to Week 12. Secondary endpoints were the changes in BMI, fat mass assessed by bioimpedance spectroscopy, and abdominal obesity assessed by waist-to-hip ratio, together with tolerability."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "We report on 17 patients (mean age 58.5 ± 9.0 years; 13 [76%] male; 7 haemodialysis, 10 peritoneal dialysis; mean BMI 35.8 ± 2.7 kg/m2). The relative change in body weight was -2.18% (95% CI: -2.72 to -1.56; p < 0.001). BMI decreased by 0.77 kg/m2 (95% CI: -0.97 to -0.55; -2.2%; p < 0.001). The fat tissue index decreased by 0.65 kg/m2 (95% CI: -0.81 to -0.52; -3.5%; p < 0.001) and the waist-to-hip ratio by 0.004 (95% CI: -0.007 to -0.002; -0.5%; p = 0.001). Four mild-to-moderate gastrointestinal adverse events occurred, with no severe events, resulting in no dose reductions and no discontinuations."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "In dialysis patients with obesity, previously treated with semaglutide, a statistically significant weight loss was observed after a 3-month switch to tirzepatide and no patient discontinued treatment."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43074495/",
+   "doi": "https://doi.org/10.1111/dom.71590",
+   "data": "2026-11-24T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-24T10:52:57.744452+00:00"
+  },
+  {
+   "id": "pmid-43074480",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Complementary Metabolic Effects of Exercise and GLP-1-Based Pharmacotherapy in Type 2 Diabetes: A Systematic Review and Multilevel Meta-Analysis",
+   "revista": "Diabetes Obes Metab",
+   "autores": "Dong Y, Wan B, Ma X et al.",
+   "tipo_estudo": "",
+   "destaque": "These results support integrating feasible exercise with indicated GLP-1-based therapy to address glycaemia and broader cardiometabolic targets. Delivery, body composition and tolerability require monitoring; optimal dosing and synergy remain unproven.",
+   "resumo": [
+    {
+     "rotulo": "Aims",
+     "texto": "To assess exercise added to glucagon-like peptide-1 (GLP-1)-based pharmacotherapy and pharmacotherapy added to care incorporating exercise or physical-activity advice in Type 2 diabetes."
+    },
+    {
+     "rotulo": "Materials And Methods",
+     "texto": "Five databases were searched through 6 October 2026. Two- and three-level random-effects models included selective GLP-1 receptor agonists and tirzepatide, a dual glucose-dependent insulinotropic polypeptide/GLP-1 receptor agonist. Bias and certainty were assessed. Adherence and harms were summarised."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Of 16 732 records, 24 reports represented 23 independent studies. Exercise addition reduced glycated haemoglobin (HbA1c; mean difference -1.39 percentage points; 95% confidence interval [CI] -2.34 to -0.44), fasting glucose (-1.29 mmol/L), 2-h glucose (-1.30 mmol/L), total cholesterol (-0.55 mmol/L) and triglycerides (-0.42 mmol/L). Drug addition reduced HbA1c (-1.25 points; 95% CI -1.65 to -0.85), fasting glucose (-2.05 mmol/L), percentage weight change (-7.30 points), waist (-4.93 cm) and systolic pressure (-3.69 mmHg); body mass index and several lipids also improved, while inflammation remained uncertain. Nominal interactions suggested larger HbA1c differences at baseline HbA1c ≥ 8% (-1.70 vs. -0.88 points; p = 0.018), greater waist reductions in longer studies (-6.50 vs. -3.14 cm; p = 0.0079) and fasting-glucose differences by prescribed activity (p = 0.003), although high-volume evidence was sparse. None survived multiplicity adjustment (minimum q = 0.184); these findings generate hypotheses, not optimal dosing rules. Exercise adherence was seldom quantified; gastrointestinal events and discontinuations were higher in some drug arms."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "These results support integrating feasible exercise with indicated GLP-1-based therapy to address glycaemia and broader cardiometabolic targets. Delivery, body composition and tolerability require monitoring; optimal dosing and synergy remain unproven."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43074480/",
+   "doi": "https://doi.org/10.1111/dom.71574",
+   "data": "2026-11-24T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-24T10:52:57.744452+00:00"
+  },
+  {
+   "id": "pmid-43074532",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Design, Binding Profiles, and Therapeutic Potential of Imidazole- and Benzimidazole-Containing Cholinesterase Inhibitors: A Review",
+   "revista": "Drug Dev Res",
+   "autores": "Saleh A, Dawood DH, Altwaijry NA et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Owing to their unique hydrogen-bonding capacity, basicity, and electronic characteristics, these heterocyclic cores participate in key noncovalent interactions within the catalytic and peripheral anionic sites of both enzymes. This review provides a comprehensive compilation of imidazole- and benzimidazole-containing cholinesterase inhibitors, detailing their structural design strategies, enzyme binding mechanisms, and key molecular docking interactions to provide a valuable framework for the rational development of next-generation anti-Alzheimer therapeutics.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Cholinesterase enzymes, specifically acetylcholinesterase (AChE) and butyrylcholinesterase (BChE), play a central role in regulating cholinergic neurotransmission. In neurodegenerative conditions such as Alzheimer's disease (AD), a significant imbalance occurs: AChE activity declines by up to 67% in key brain regions like the hippocampus and temporal lobe, whereas BChE expression increases by up to 165%. Consequently, dual- or targeted inhibition of AChE and BChE remains a pivotal strategy in neuropharmacology to restore synaptic acetylcholine levels, manage cognitive decline, and alleviate symptoms in related neuromuscular conditions like myasthenia gravis. Although FDA-approved therapeutics (such as donepezil, rivastigmine, and galantamine) offer symptomatic relief, their clinical utility is frequently limited by peripheral cholinergic adverse effects and disease progression, driving the search for novel structural classes. Recently, imidazole- and benzimidazole-bearing scaffolds have gained significant traction as versatile structural modules in inhibitor design. Owing to their unique hydrogen-bonding capacity, basicity, and electronic characteristics, these heterocyclic cores participate in key noncovalent interactions within the catalytic and peripheral anionic sites of both enzymes. This review provides a comprehensive compilation of imidazole- and benzimidazole-containing cholinesterase inhibitors, detailing their structural design strategies, enzyme binding mechanisms, and key molecular docking interactions to provide a valuable framework for the rational development of next-generation anti-Alzheimer therapeutics."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43074532/",
+   "doi": "https://doi.org/10.1002/ddr.70411",
+   "data": "2026-11-24T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-24T10:52:57.744452+00:00"
+  },
   {
    "id": "pmid-43069731",
    "fonte": "PubMed",
@@ -296,6 +497,569 @@
    "visto_em": "2026-11-23T11:00:11.059337+00:00"
   },
   {
+   "id": "pmid-43073207",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Prevalence and Associated Factors of Sarcopenia in Middle-Aged and Older Adults in Korea: Applying the AWGS 2025",
+   "revista": "J Cachexia Sarcopenia Muscle",
+   "autores": "Kim M, Shin HE, Kim S et al.",
+   "tipo_estudo": "",
+   "destaque": "Under the AWGS 2025 criteria, no statistically significant sex differences in BMI-adjusted sarcopenia prevalence were observed among middle-aged or older Korean adults using either DXA or BIA. Among older adults, the prevalence was approximately half that estimated using AWGS 2019 criteria, underscoring the influence of diagnostic definitions on prevalence estimates. Further longitudinal studies are needed to evaluate the clinical and prognostic validity of the AWGS 2025 criteria in relation to adverse health outcomes.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "This study examined sarcopenia prevalence and explored associated factors among community-dwelling middle-aged and older adults in Korea using the Asian Working Group for Sarcopenia (AWGS) 2025 criteria."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We analysed 5600 adults aged 50-80 years from the 2022 and 2024 Korea National Health and Nutrition Examination Surveys (KNHANES) and 2401 older adults aged 70-84 years from the 2016-2017 baseline of the Korean Frailty and Aging Cohort Study (KFACS). Dual-energy X-ray absorptiometry (DXA) and bioelectrical impedance analysis (BIA) were used to measure appendicular skeletal muscle mass (ASM). Age-group-specific contributors to sarcopenia were identified using SHapley Additive exPlanations (SHAPs) with temporal validation."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "In the KNHANES dataset, the mean age was 57.3 ± 4.4 years among middle-aged adults (50-64 years) and 72.6 ± 5.1 years among older adults ≥ 65 years. According to AWGS 2025 criteria, prevalence of possible sarcopenia, height-adjusted sarcopenia (ASM/height2 + grip strength) and BMI-adjusted sarcopenia (ASM/BMI + grip strength) was 11.2%, 5.6% and 6.3% in middle-aged adults and 14.5%, 9.1% and 10.2% in older adults ≥ 65 years, respectively. Height-adjusted sarcopenia was more common in men among middle-aged adults but did not differ significantly by sex in older adults (p > 0.05). Additionally, height-adjusted sarcopenia with DXA was more prevalent compared with BIA, whereas BMI-adjusted sarcopenia showed comparable prevalence across devices. In the KFACS dataset of older adults aged 70-84 years, AWGS 2025 criteria yielded a substantially lower sarcopenia prevalence compared with the AWGS 2019 criteria. Under the AWGS 2025 criteria, the prevalence of height-adjusted sarcopenia was 15.4% in men and 7.5% in women, whereas BMI-adjusted sarcopenia was 9.9% in men and 9.0% in women, compared with 27.8% and 19.9%, respectively, under AWGS 2019 criteria. In the KNHANES dataset, SHAP analysis was used to explore features contributing to model-based classification of sarcopenia under the AWGS 2025 criteria. Among middle-aged adults, the most influential factors were biochemical markers reflecting inflammation, renal function, haematologic status, immune activation and lipid metabolism. In older adults, age, higher protein intake and higher physical activity levels were the primary contributors."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Under the AWGS 2025 criteria, no statistically significant sex differences in BMI-adjusted sarcopenia prevalence were observed among middle-aged or older Korean adults using either DXA or BIA. Among older adults, the prevalence was approximately half that estimated using AWGS 2019 criteria, underscoring the influence of diagnostic definitions on prevalence estimates. Further longitudinal studies are needed to evaluate the clinical and prognostic validity of the AWGS 2025 criteria in relation to adverse health outcomes."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43073207/",
+   "doi": "https://doi.org/10.1002/jcsm.70424",
+   "data": "2026-11-23T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-24T10:52:57.744452+00:00"
+  },
+  {
+   "id": "pmid-43072618",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Low Lean Soft Tissue Quantity and Its Relation to Bone Health in Postmenopausal Women",
+   "revista": "Clin Nutr ESPEN",
+   "autores": "Singar S, Chai SC, Hooshmand S et al.",
+   "tipo_estudo": "",
+   "destaque": "Low muscle mass was present in about 1 in 5 recently postmenopausal women, and higher ALSTI was associated with higher BMD in this population. Future studies examining lifestyle interventions to increase BMD, directly or indirectly via ALST modulation, are needed.",
+   "resumo": [
+    {
+     "rotulo": "Background & Aims",
+     "texto": "The prevalence of low muscle mass among postmenopausal women is not well characterized, and evidence on the role of lean soft tissue (LST), the best surrogate for skeletal muscle mass, in bone health is scarce. Therefore, the present study aimed to determine the prevalence of low muscle mass in this population and examine the association between the appendicular lean soft tissue index (ALSTI) and measures of bone health."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Baseline data from postmenopausal women (<10 years) not on hormone therapy or other pharmacological agents known to affect bone from a previous clinical trial were used for this cross-sectional analysis. Bone mineral density (BMD), LST, and body fat (BF%) were measured by dual-energy X-ray absorptiometry. Fasting blood and 24-hour urine samples were collected to assess inflammatory and bone biomarkers. Dietary intake and physical activity (PA) were assessed using the 7-day Modified Willett FFQ and the Five-City Project Physical Activity Recall, respectively. Low muscle mass was defined as an ALSTI <5.5 kg/m2 (EWGSOP2 criteria). Multiple linear regression was used to estimate associations between ALSTI and bone health markers, adjusting for key covariates. The Mann-Whitney U test was used to evaluate differences between women with and without low muscle mass."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Of the 123 women examined (median age=56.1 years [53.9, 59.6], median BMI=24.1kg/m2 [21.8, 27.5]), the prevalence of low muscle mass was 19.5% (95% CI: 12.9-27.6%; n=24). The low muscle mass group reported significantly lower PA (625kcal/day [492, 819] vs. 830 [640, 1023]; p=0.006) and had significantly lower body mass (58.2kg [53.0, 62.6] vs. 67.8kg [60.5, 76.8]; p<0.001) and BF% (36.35% [33.43, 39.63] vs. 41.20% [35.60, 45.90]; p=0.019), despite reporting similar protein (p=0.645) and total energy (p=0.831) intake. Higher ALSTI was independently associated with higher lumbar spine (β=0.244, 95% CI: 0.026-0.461, p=0.028), forearm (β=0.246, 95% CI: 0.044-0.449, p=0.018), and total body (β=0.272, 95% CI: 0.063-0.481, p=0.011) BMD after adjustment. ALSTI was not independently associated with bone turnover markers or bone mineral metabolism (p>0.05 for all)."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Low muscle mass was present in about 1 in 5 recently postmenopausal women, and higher ALSTI was associated with higher BMD in this population. Future studies examining lifestyle interventions to increase BMD, directly or indirectly via ALST modulation, are needed."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43072618/",
+   "doi": "https://doi.org/10.1016/j.clnesp.2026.105252",
+   "data": "2026-11-23T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-24T10:52:57.744452+00:00"
+  },
+  {
+   "id": "pmid-43072551",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "A pragmatic resistance band intervention to improve physical function in community-dwelling older adults: A randomized controlled trial",
+   "revista": "Exp Gerontol",
+   "autores": "Coletta GL, Boutanos N, Nosrati-Nik L et al.",
+   "tipo_estudo": "",
+   "destaque": "A pragmatic resistance-band training program delivered by exercise and health professionals to preclinically mobility-limited older adults increased physical function and D3-Creatine-measured muscle mass. These data provide insight into the effectiveness of resistance band training for maintaining and improving function and muscle mass.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Resistance training can slow sarcopenic decline and is a foundational lifestyle habit for maintaining health span and independence, yet participation remains low. We examined the effectiveness of an 18-week faded-contact resistance-band training program on physical function in community-dwelling preclinically mobility-limited older adults."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A randomized controlled trial (RCT) was conducted in older adults with self-reported preclinical mobility limitation (≥70 years), comparing a resistance band training (RBT) group with a non-exercise control (CON) group. The RBT group participated in a twice-weekly, 18-week, faded-contact, group-based full-body resistance band program. The primary outcome was physical function. Secondary outcomes included strength, power, body composition, sarcopenia risk, frailty status, mobility, habitual physical activity, and health-related quality of life, assessed at Week 0, 6, 12, and 18."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Sixty participants were randomized, and 59 (mean age 75 ± 4 years; 66% women) were analyzed (RBT n = 30; CON n = 29). Adherence to RBT was 91%. RBT improved function from week 0-12 in the Short Physical Performance Battery (SPPB) (0.88 [95% CI: 0.29, 1.47]; p = 0.001) and tandem stand (0.62 [95% CI: 0.17, 1.07]; p = 0.003). The RBT group significantly improved in the 5 times sit-to-stand compared to CON from week 0-6 (-2.01 [95% CI: -3.34, -0.67]; p = 0.001), week 12 (-2.61 [95% CI: -3.95, -1.27]; p < 0.001), and week 18 (-1.85 [95% CI: -3.19, -0.50]; p = 0.003). At 18 weeks, D3-Creatine-measured muscle mass increased more in RBT than CON (1.07 kg [95% CI: 0.49, 1.65]; p < 0.001). RBT also improved relative sit-to-stand power compared to CON at weeks 6, 12, and 18, with the largest difference at week 12 (0.55 W/kg [95% CI: 0.28, 0.83]; p < 0.001). No interactions were observed for other secondary outcomes. Clinically relevant SPPB change occurred only in RBT."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "A pragmatic resistance-band training program delivered by exercise and health professionals to preclinically mobility-limited older adults increased physical function and D3-Creatine-measured muscle mass. These data provide insight into the effectiveness of resistance band training for maintaining and improving function and muscle mass."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43072551/",
+   "doi": "https://doi.org/10.1016/j.exger.2026.113393",
+   "data": "2026-11-23T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-24T10:52:57.744452+00:00"
+  },
+  {
+   "id": "pmid-43071451",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Predictive Modeling of Sarcopenia Using Machine Learning: Systematic Review and Meta-Analysis",
+   "revista": "J Med Internet Res",
+   "autores": "Peng Y, Ren Z, Xue L et al.",
+   "tipo_estudo": "Meta-análise",
+   "destaque": "This review provides the first quantitative synthesis of ML‑based sarcopenia prediction models, with several innovations: (1) it provides algorithm‑stratified pooled estimates of diagnostic accuracy, (2) it formally quantifies performance across algorithms and addresses the unit‑of‑analysis issue through a 2‑tier approach, and (3) it quantifies the performance gap between externally and internally validated models. By identifying specific weaknesses-insufficient external validation, poor calibration reporting, and high risk of bias-this review offers a roadmap for improving future studies. Practically, these models may serve as cost‑effective prescreening tools. However, GRADE certainty was very low, with substantial heterogeneity, insufficient external validation, and high risk of bias, indicating that current models are not yet ready for routine deployment. Future research should prioritize rigorous external validation, transparent reporting, calibration assessment, and clinically implementable design.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Sarcopenia is an age-related syndrome characterized by muscle loss and functional decline, increasing fall risks. Early identification is crucial, yet convenient and accurate screening tools remain limited in routine practice. Machine learning (ML) models show promise for early sarcopenia detection, but their diagnostic performance and methodological quality have not been systematically quantified."
+    },
+    {
+     "rotulo": "Objective",
+     "texto": "This review aimed to quantitatively evaluate the diagnostic performance of ML models for sarcopenia prediction, compare performance across ML algorithms, and identify key sources of heterogeneity and methodological limitations."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "PubMed, Web of Science, Embase, and the Cochrane Library were systematically searched from inception to April 15, 2026. Eligible studies developed or validated at least one ML model for sarcopenia and provided sufficient data to reconstruct a 2×2 contingency table. Risk of bias was assessed using PROBAST (Prediction Model Risk of Bias Assessment Tool) developed by Moons et al. The primary analysis used a bivariate random‑effects (Reitsma) model to jointly synthesize sensitivity and specificity. Area under the receiver operating characteristic curve (AUROC) values were pooled using a univariate random‑effects model with the Hartung‑Knapp‑Sidik‑Jonkman (HKSJ) method, and 95% prediction intervals (PIs) were estimated. A secondary analysis incorporated all models using cluster-robust variance estimation (RVE). Subgroup analyses and meta‑regression explored heterogeneity. The certainty of evidence was assessed using the Grading of Recommendations Assessment, Development and Evaluation (GRADE)."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Twenty studies (20 prespecified index models) were included. The pooled AUROC was 0.89 (95% CI 0.82-0.93; 95% PI 0.54-0.98), with pooled sensitivity of 0.77 (95% CI 0.68-0.83; 95% PI 0.37-0.95) and specificity of 0.88 (95% CI 0.83-0.91; 95% PI 0.62-0.97). Gradient boosting had the highest pooled AUROC (0.92), but CIs overlapped across algorithms. Externally validated models had a pooled AUROC of 0.85, lower than that of internal ones (0.91). The secondary analysis of all 115 models yielded consistent results. Meta‑regression identified no significant covariates. PROBAST assessment revealed that half of the studies were at high risk of bias."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "This review provides the first quantitative synthesis of ML‑based sarcopenia prediction models, with several innovations: (1) it provides algorithm‑stratified pooled estimates of diagnostic accuracy, (2) it formally quantifies performance across algorithms and addresses the unit‑of‑analysis issue through a 2‑tier approach, and (3) it quantifies the performance gap between externally and internally validated models. By identifying specific weaknesses-insufficient external validation, poor calibration reporting, and high risk of bias-this review offers a roadmap for improving future studies. Practically, these models may serve as cost‑effective prescreening tools. However, GRADE certainty was very low, with substantial heterogeneity, insufficient external validation, and high risk of bias, indicating that current models are not yet ready for routine deployment. Future research should prioritize rigorous external validation, transparent reporting, calibration assessment, and clinically implementable design."
+    },
+    {
+     "rotulo": "Trial Registration",
+     "texto": "PROSPERO CRD420251267598; https://www.crd.york.ac.uk/PROSPERO/view/CRD420251267598."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43071451/",
+   "doi": "https://doi.org/10.2196/91297",
+   "data": "2026-11-23T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-24T10:52:57.744452+00:00"
+  },
+  {
+   "id": "pmid-43071295",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "The economic burden of fragility: a value-based analysis of hip fracture care and the impact of fracture liaison service in the Egyptian healthcare system",
+   "revista": "Arch Osteoporos",
+   "autores": "El Miedany Y, Elgaafary M, El Yassaki A et al.",
+   "tipo_estudo": "Revisão sistemática",
+   "destaque": "Addressing the \"Silo\" problem in Egyptian healthcare budgeting is essential. Transitioning to a value-based model-supported by the Universal Health Insurance (UHI) and mandatory FLS accreditation-is an economic imperative. Investing in secondary prevention not only preserves the functional independence of Egyptian seniors but also ensures the long-term financial sustainability of the national healthcare system.",
+   "resumo": [
+    {
+     "rotulo": "Unlabelled",
+     "texto": "With Egypt's aging population, the long-term costs of elderly hip fractures are soaring. Research shows that specialized prevention programs easily pay for themselves by stopping repeat fractures. Adopting this preventative care model will protect national healthcare budgets while keeping Egyptian seniors independent."
+    },
+    {
+     "rotulo": "Background",
+     "texto": "As Egypt's population ages, osteoporotic hip fractures have become a primary driver of geriatric morbidity and healthcare expenditure. Despite the clinical success of surgical intervention, the long-term economic \"tail\" of these fractures-often extending far beyond the initial hospitalization-remains poorly quantified within the national healthcare framework."
+    },
+    {
+     "rotulo": "Objectives",
+     "texto": "This systematic review explores the economic implications of hip fractures in Egypt, focusing on the 12-month \"continuum of care\" costs and evaluating the cost-effectiveness of Fracture Liaison Services (FLS) in reducing secondary fracture rates and systemic financial strain."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A health-economic analysis was conducted comparing the standard of care with an FLS-guided model. Data included direct surgical costs, perioperative complication expenses, and 12-month post-acute resource utilization (rehabilitation, readmissions, and pharmacotherapy)."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Analysis reveals that the surgical act constitutes only a fraction of the total economic burden. The 12-month continuum of care cost is significantly higher due to the \"revolving door\" of complications and secondary fractures. Implementation of an FLS proved highly cost-effective, with the cost of a dedicated coordinator being offset by the prevention of just 2-3 hip fractures annually. Furthermore, FLS-guided care significantly closed the \"treatment gap,\" improving adherence to bone-protecting therapies."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Addressing the \"Silo\" problem in Egyptian healthcare budgeting is essential. Transitioning to a value-based model-supported by the Universal Health Insurance (UHI) and mandatory FLS accreditation-is an economic imperative. Investing in secondary prevention not only preserves the functional independence of Egyptian seniors but also ensures the long-term financial sustainability of the national healthcare system."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43071295/",
+   "doi": "https://doi.org/10.1007/s11657-026-01807-5",
+   "data": "2026-11-23T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-24T10:52:57.744452+00:00"
+  },
+  {
+   "id": "pmid-43071282",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Irisin and sarcopenia: from diagnostic biomarker to therapeutic target",
+   "revista": "J Physiol Biochem",
+   "autores": "Zhang J, Li H, Liu L",
+   "tipo_estudo": "Revisão",
+   "destaque": "Accumulating evidence has demonstrated that irisin exerts multiple health-promoting effects and is closely associated with the onset and progression of sarcopenia, suggesting that this molecule may serve as a highly promising novel biomarker and therapeutic target. This review systematically summarizes recent advances in the understanding of the relationship between irisin and sarcopenia, covering both its emerging utility as a potential diagnostic biomarker for early detection and its multifaceted therapeutic mechanisms in ameliorating sarcopenia, with the aim of establishing a theoretical foundation for clinical prevention and treatment strategies.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Sarcopenia is characterized by the progressive loss of skeletal muscle strength, mass, and function associated with aging. As the global population ages, sarcopenia has become a significant social issue with rising prevalence, greatly impacting patients' quality of life. Current primary intervention strategies consist of resistance training and nutritional support, while targeted pharmacological treatment options have not yet received clinical approval. Irisin, a recently identified myokine derived from skeletal muscle, plays a critical regulatory role in various physiological and pathological processes. Accumulating evidence has demonstrated that irisin exerts multiple health-promoting effects and is closely associated with the onset and progression of sarcopenia, suggesting that this molecule may serve as a highly promising novel biomarker and therapeutic target. This review systematically summarizes recent advances in the understanding of the relationship between irisin and sarcopenia, covering both its emerging utility as a potential diagnostic biomarker for early detection and its multifaceted therapeutic mechanisms in ameliorating sarcopenia, with the aim of establishing a theoretical foundation for clinical prevention and treatment strategies."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43071282/",
+   "doi": "https://doi.org/10.1007/s13105-026-01260-5",
+   "data": "2026-11-23T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-24T10:52:57.744452+00:00"
+  },
+  {
+   "id": "pmid-43071018",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Prognostic value of CT-derived perioperative sarcopenia and visceral fat obesity for survival in colorectal cancer",
+   "revista": "Insights Imaging",
+   "autores": "Nie T, Zhi X, Liu Z et al.",
+   "tipo_estudo": "",
+   "destaque": "Sarcopenia at baseline and 3 months postoperatively is an independent risk factor for inferior OS, whereas VFO is associated with poorer OS only at the univariable level. Combining perioperative sarcopenia and VFO with clinical factors could assist in the prognostic stratification for stage I-III CRC patients following surgical resection.",
+   "resumo": [
+    {
+     "rotulo": "Objectives",
+     "texto": "Sarcopenia and visceral fat obesity (VFO) are risk factors for adverse postoperative outcomes in colorectal cancer (CRC). This study investigated perioperative changes in skeletal muscle and adipose tissue in CRC patients and their predictive value for long-term survival."
+    },
+    {
+     "rotulo": "Materials And Methods",
+     "texto": "This cohort study enrolled stage I-III CRC patients who received upfront curative resection. Pre- and postoperative CT scans were obtained to quantify the skeletal muscle index (SMI) for sarcopenia assessment and the visceral-to-subcutaneous fat ratio (VSR) for VFO assessment. Landmark analyses were performed at 3 and 12 months postoperatively. Overall survival (OS) was set as the primary survival endpoint."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "A total of 266 patients (median [interquartile range, IQR] age, 55 [50-62] years; 156 males) were included. Landmark Cox regression analyses showed that sarcopenia at baseline and 3 months postoperatively was an independent risk factor for OS (hazard ratio [HR]: 3.408, p = 0.001; HR: 2.497, p = 0.016). VFO at baseline and 3 months postoperatively correlated with poorer OS in the univariable analysis (HR: 1.803, p = 0.026; HR: 1.905, p = 0.030). Integrated prediction models achieved area under the curve (AUC) values of 0.799 at baseline and 0.774 at 3 months postoperatively for OS."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Sarcopenia at baseline and 3 months postoperatively is an independent risk factor for inferior OS, whereas VFO is associated with poorer OS only at the univariable level. Combining perioperative sarcopenia and VFO with clinical factors could assist in the prognostic stratification for stage I-III CRC patients following surgical resection."
+    },
+    {
+     "rotulo": "Key Points",
+     "texto": "Question The prognostic influence of perioperative changes in CT-derived skeletal muscle and adipose tissues on colorectal cancer survival remains unclear. Findings Sarcopenia and VFO at baseline and the 3-month postoperative landmark are associated with worse overall survival and add incremental prognostic value to conventional clinical risk indicators. Critical relevance statement This work highlights the prognostic value of perioperative CT-derived sarcopenia and VFO for stage I-III CRC, suggesting that opportunistic body composition assessment on routine surveillance scans could provide valuable insights for future clinical risk stratification and management strategies."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43071018/",
+   "doi": "https://doi.org/10.1186/s13244-026-02471-6",
+   "data": "2026-11-23T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-24T10:52:57.744452+00:00"
+  },
+  {
+   "id": "pmid-43070260",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Associations of Psoas-Based and Paraspinal Muscle Measures With Radiographic and Postoperative Outcomes in Adult Spinal Deformity: A Systematic Review",
+   "revista": "Global Spine J",
+   "autores": "Lee JH, Sim WS, Pyeon JH et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Their relative prognostic value remains undetermined. Prospective studies evaluating consensus-based sarcopenia and spine-specific muscle measures within the same cohort are needed.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Study DesignSystematic Review.ObjectivesTo characterize assessment methods for psoas-based or skeletal muscle mass measures and spine-specific paraspinal muscle measures, and to synthesize their associations with postoperative outcomes after adult spinal deformity (ASD) surgery.MethodsPubMed, EMBASE, CINAHL, and Cochrane CENTRAL were searched for studies published from January 1, 1980, to March 1, 2026. Eligible studies included adults undergoing ASD corrective surgery with psoas-based, skeletal muscle mass, or imaging-based paraspinal muscle assessments in relation to postoperative outcomes. Radiographic, mechanical, revision, length-of-stay, pain, disability, and quality-of-life outcomes were reviewed. Risk of bias was assessed using the Quality In Prognosis Studies (QUIPS) tool. Owing to substantial clinical and methodological heterogeneity, findings were synthesized narratively.ResultsSeventeen studies were included: four evaluated psoas-based or skeletal muscle mass surrogates and 13 evaluated spine-specific paraspinal muscle morphology. No study used consensus-based systemic sarcopenia criteria, and no cohort directly compared the two constructs. Associations with unfavorable alignment and mechanical complications, including correction loss, proximal junctional kyphosis/failure, screw loosening, and postoperative imbalance, were reported more frequently in studies evaluating paraspinal muscle measures. However, the separate evidence bases, and methodological heterogeneity precluded conclusions regarding comparative prognostic performance.ConclusionsCurrent ASD literature is dominated by imaging-based paraspinal muscle assessments, whereas evidence labeled as systemic sarcopenia largely relies on psoas-based or skeletal muscle mass surrogates. Their relative prognostic value remains undetermined. Prospective studies evaluating consensus-based sarcopenia and spine-specific muscle measures within the same cohort are needed."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43070260/",
+   "doi": "https://doi.org/10.1177/21925682261506970",
+   "data": "2026-11-23T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-24T10:52:57.744452+00:00"
+  },
+  {
+   "id": "pmid-43072754",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Continuous N-to-C Peptide Synthesis",
+   "revista": "Nature",
+   "autores": "Yin J, Qi J, Song Z et al.",
+   "tipo_estudo": "",
+   "destaque": "The method enabled the synthesis of a tirzepatide heptapeptide fragment, degarelix, a 14-mer engineered macrocyclic peptide, and semaglutide. Overall, continuous NCPS has the potential to transform peptide manufacturing.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Current state-of-the-art peptide synthesis faces a significant global challenge in efficiency and sustainability.1 With demand for peptide therapeutics growing rapidly,2,3 our ability to provide these important medicines is under increasing pressure.4 Chemical synthesis typically proceeds C-to-N and requires protecting groups, whereas ribosomal synthesis proceeds N-to-C from unprotected amino acids (AAs). To improve efficiency and sustainability, we developed a continuous N-to-C Peptide Synthesis (NCPS) using N-/C-unprotected AAs or fragments without intermediate isolations, achieving ≥95% average yield per coupling and ≤1.0% epimerization. The method enabled seven consecutive couplings. Starting from N-/C-unprotected AAs, peptide assembly requires fewer isolations than those needed to prepare the corresponding Fmoc-AA building blocks before conventional synthesis can begin. This method accepts all 20 canonical AAs and a wide range of non-canonical AAs important for drug-like profiles.5 Longer peptides can be readily assembled through continuous fragment coupling while maintaining chiral integrity. This approach reduces isolations by ~10-fold and waste generation by up to ~100-fold. We further developed a flow synthesizer that enhances speed and productivity while mitigating batch manufacturing risks. The method enabled the synthesis of a tirzepatide heptapeptide fragment, degarelix, a 14-mer engineered macrocyclic peptide, and semaglutide. Overall, continuous NCPS has the potential to transform peptide manufacturing."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43072754/",
+   "doi": "https://doi.org/10.1038/s41586-026-11448-w",
+   "data": "2026-11-23T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-24T10:52:57.744452+00:00"
+  },
+  {
+   "id": "pmid-43070923",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Kidney Effect of Tirzepatide in Pediatric Type 2 Diabetes",
+   "revista": "Diabetes Care",
+   "autores": "Bjornstad P, Hannon TS, Maldonado JM et al.",
+   "tipo_estudo": "",
+   "destaque": "Tirzepatide decreased eGFR in youth with type 2 diabetes and normal to elevated eGFR, an effect primarily ascribed to the attenuation of glomerular hyperfiltration.",
+   "resumo": [
+    {
+     "rotulo": "Objective",
+     "texto": "To assess the effect of tirzepatide on kidney parameters in youth-onset type 2 diabetes."
+    },
+    {
+     "rotulo": "Research Design And Methods",
+     "texto": "In this SURPASS-PEDS analysis, estimated glomerular filtration rate (eGFR) and albuminuria were assessed in 99 participants (aged 10 to <18 years) treated with tirzepatide or placebo."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "At baseline, 18% of participants exhibited hyperfiltration (mean eGFR 142 vs. 104 mL/min/1.73 m2 in normofiltration), and 26% had a urine albumin-to-creatinine ratio ≥30 mg/g. Tirzepatide (pooled) reduced eGFR, with more than twofold greater reductions in participants with baseline hyperfiltration versus normofiltration at week 30 (-20.2 vs. -8.4 mL/min/1.73 m2; both P < 0.05 vs. placebo). The proportion of participants with hyperfiltration decreased with tirzepatide and increased with placebo (P < 0.05 for pooled tirzepatide vs. placebo). At week 30, fewer participants had albuminuria across all treatment groups."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Tirzepatide decreased eGFR in youth with type 2 diabetes and normal to elevated eGFR, an effect primarily ascribed to the attenuation of glomerular hyperfiltration."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43070923/",
+   "doi": "https://doi.org/10.2337/dc26-1647",
+   "data": "2026-11-23T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-24T10:52:57.744452+00:00"
+  },
+  {
+   "id": "pmid-43073209",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Healthy Work Environments-2025: A National Status Report",
+   "revista": "Am J Crit Care",
+   "autores": "Bettencourt A, Lasater KB, Muir KJ et al.",
+   "tipo_estudo": "",
+   "destaque": "The 2025 survey signals meaningful post-pandemic stabilization in retention and implementation of healthy work environment standards, but endemic workplace violence, burnout, and gaps in staffing governance and leadership accountability demand continued attention.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "The health of nurse work environments has long been linked to critical patient and nurse outcomes. The American Association of Critical-Care Nurses (AACN) has surveyed nurses about their work environments since 2006; the 2021 survey documented deterioration across all 6 healthy work environment standards during COVID-19."
+    },
+    {
+     "rotulo": "Objectives",
+     "texto": "To describe the state of nurse work environments in 2025, assess progress in implementing the 6 AACN healthy work environment standards, and examine associations between work environment and key nurse outcomes."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A cross-sectional survey was administered to US registered nurses in 2025 through AACN membership and partners. The survey included items mapped to each healthy work environment standard, the Maslach Burnout Inventory emotional exhaustion subscale, and modules on workplace violence and staffing. Multivariable regression examined associations between work environment and outcomes."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Among 11 957 respondents, intent to leave employer within 12 months was substantially lower than in 2021 (17.5% vs 35.8%), and 77.5% of respondents reported job satisfaction. However, 38.0% met criteria for high emotional exhaustion, 70.1% reported patient emotional abuse, and 52.6% reported physical violence. Implementation of the healthy work environment standards improved markedly since 2021, with most respondents reporting that their units were \"well on the way\" or \"fully implemented\" for each standard, compared with 29% in 2021, although gaps persisted in decision-making training (43.7% disagreed that all team members receive ongoing training), authentic leadership accountability, and staffing governance."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "The 2025 survey signals meaningful post-pandemic stabilization in retention and implementation of healthy work environment standards, but endemic workplace violence, burnout, and gaps in staffing governance and leadership accountability demand continued attention."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43073209/",
+   "doi": "https://doi.org/10.4037/ajcc2026390",
+   "data": "2026-11-23T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-24T10:52:57.744452+00:00"
+  },
+  {
+   "id": "pmid-43072525",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Beyond clinical symptoms: A psychosocial and machine learning approach to understanding suicidal ideation",
+   "revista": "J Sport Health Sci",
+   "autores": "Ballı M, Sabitay İK, Okan A et al.",
+   "tipo_estudo": "",
+   "destaque": "Self-reported recent suicidal ideation can be predicted using psychosocial and developmental indicators, which may provide information complementary to traditional psychiatric symptom-based approaches, although their incremental predictive value beyond psychiatric symptom measures remains to be established. These findings identify loneliness and emotion regulation as candidate modifiable targets and personality-related factors as potential resilience markers, whose relevance for prevention and risk stratification requires prospective evaluation. Integrating such markers into mental health services and surveillance frameworks may help enhance early identification beyond diagnostic approaches, though this remains to be tested.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Suicide is a major public mental health challenge, and many individuals experiencing suicidal ideation do not meet diagnostic criteria for psychiatric disorders or disclose symptoms during clinical encounters. This limits the effectiveness of symptom-based screening commonly used in mental health services. From an epidemiological and social psychiatry perspective, identifying psychosocial risk and protective factors beyond psychopathology is essential for population-level prevention and early intervention. This study examined whether suicidal ideation can be predicted using psychosocial measures and identified socially and developmentally meaningful risk and resilience markers through explainable machine learning models with external validation."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Data were obtained from a mixed clinical and community-based sample of 190 adults. Suicidal ideation was defined using self-reported endorsement of suicide-related thoughts. Predictors consisted exclusively of validated psychosocial measures relevant to social psychiatry and life-course epidemiology, including chronic and perceived stress, childhood adversity, personality traits, attachment styles, coping strategies, and emotion regulation capacities. Five supervised machine learning algorithms were implemented using stratified 5-fold cross-validation. To reduce demographic confounding and address class imbalance, analyses were conducted on both the full dataset and a demographically matched subsample (n = 110) matched on age, gender, education level, and income status, although some residual imbalance remained, notably in income. Hyperparameter optimization targeted both area under the curve (AUC) and F1-score (the harmonic mean of precision and recall) to ensure relevance for low-prevalence outcomes. Predictive performance was estimated using fully nested cross-validation, in which predictor selection, standardization, and hyperparameter optimization were repeated within each training fold. Model generalizability was assessed using an independent external validation sample of university students (n = 84). Model interpretability was examined using SHapley Additive exPlanations (SHAP)."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Random Forest models showed the most robust and generalizable performance. In the matched sample, nested cross-validation yielded an AUC of 0.820 ± 0.131 (mean ± SD) with an F1-score of 0.778 ± 0.137 (F1-optimized) and an AUC of 0.825 ± 0.114 with an F1-score of 0.736 ± 0.078 (AUC-optimized). External validation of the F1-optimized model yielded an AUC of 0.792 (95% confidence interval (95%CI): 0.677-0.896). Explainable analyses consistently identified perceived loneliness as the strongest predictor of suicidal ideation, followed by childhood emotional abuse, limited access to emotion regulation strategies, and low perceived self-efficacy. Higher conscientiousness and extraversion were consistently associated with lower predicted probability of suicidal ideation."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Self-reported recent suicidal ideation can be predicted using psychosocial and developmental indicators, which may provide information complementary to traditional psychiatric symptom-based approaches, although their incremental predictive value beyond psychiatric symptom measures remains to be established. These findings identify loneliness and emotion regulation as candidate modifiable targets and personality-related factors as potential resilience markers, whose relevance for prevention and risk stratification requires prospective evaluation. Integrating such markers into mental health services and surveillance frameworks may help enhance early identification beyond diagnostic approaches, though this remains to be tested."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43072525/",
+   "doi": "https://doi.org/10.1016/j.jshs.2026.101194",
+   "data": "2026-11-23T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-24T10:52:57.744452+00:00"
+  },
+  {
+   "id": "pmid-43072485",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Negative allosteric modulation of α5-GABAA receptors engages dynamic cortical glutamatergic and GABAergic mechanisms underlying adaptive behavior in mice",
+   "revista": "Neurobiol Dis",
+   "autores": "Daher F, Fukushima CT, Bidlack JM et al.",
+   "tipo_estudo": "",
+   "destaque": "These findings indicate that, following α5-GABAAR modulation, early activation of pyramidal neurons initiates rapid plasticity required for antidepressant-like responses, whereas GABAergic interneurons support the persistence and behavioral expression of these actions over time. This dynamic mechanism highlights GABAergic circuits as therapeutic targets for restoring mPFC function.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Chronic stress disrupts excitatory/inhibitory (E/I) balance and synaptic plasticity in the medial prefrontal cortex (mPFC), contributing to major depressive disorder. Rapid-acting antidepressants like ketamine restore these deficits but are clinically limited by psychotomimetic effects. The α5-GABAAR-negative allosteric modulator Basmisanil (BSM) produces ketamine-like actions in preclinical models, yet its circuit mechanisms remain unclear. Here, we tested whether BSM promotes cortical plasticity via mPFC cell-type-specific mechanisms. BSM produced rapid and sustained facilitation of motivational, hedonic, and coping behaviors through mPFC circuit activity and reversed chronic stress-induced impairments in cognition and sociability. BSM preferentially recruited D1R- and SST-, but not PV-expressing, cells within the infralimbic mPFC c-Fos+ ensemble, indicating cell type- and region-specific circuit engagement. Consistent with enhanced synaptic plasticity, BSM activated Erk- and Akt-mTOR signaling and increased synaptic proteins critical for glutamatergic and GABAergic function in the mPFC and hippocampus. Chemogenetic manipulations revealed distinct temporal roles for these populations. Inhibition of mPFC CaMKII pyramidal neurons prior to BSM administration blocked both rapid and sustained behavioral effects, whereas silencing during behavioral testing 24 h later did not affect these responses. In contrast, inhibition of mPFC GABAergic interneurons selectively prevented sustained, but not rapid, behavioral effects, and silencing during testing disrupted the behavioral expression of BSM's sustained actions. These findings indicate that, following α5-GABAAR modulation, early activation of pyramidal neurons initiates rapid plasticity required for antidepressant-like responses, whereas GABAergic interneurons support the persistence and behavioral expression of these actions over time. This dynamic mechanism highlights GABAergic circuits as therapeutic targets for restoring mPFC function."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43072485/",
+   "doi": "https://doi.org/10.1016/j.nbd.2026.107690",
+   "data": "2026-11-23T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-24T10:52:57.744452+00:00"
+  },
+  {
+   "id": "pmid-43071780",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Well-Being Interventions and the Measurement of Salivary Oxytocin Levels in Adults: A Scoping Review and Bibliometric Analysis",
+   "revista": "Biol Res Nurs",
+   "autores": "Price S, Moreno-Lozano IA, Schneider BSP",
+   "tipo_estudo": "Revisão",
+   "destaque": "Japan and the United States produced 59% of the reports. Oxytocin, cortisol, and stress were strongly linked in the keyword co-occurrence analysis.ConclusionsWith the addition of measuring salivary oxytocin levels, nurse scientists may strengthen the biological evaluation of well-being interventions by assessing both the oxytocinergic system and hypothalamus-pituitary-adrenal axis.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "BackgroundNurses and other health care providers implement non-pharmacological interventions (e.g., touch, music, etc.) to diminish the stress response and/or improve well-being. The response or effectiveness of these interventions is commonly assessed using salivary cortisol levels. The measurement of the levels of the neuropeptide, oxytocin, has emerged.ObjectivesTo map the health-related, well-being intervention research utilizing salivary oxytocin levels as a measure in adults as reported in the academic literature. To examine author characteristics (including country), author and keyword co-occurrence networks to identify collaborations and trends in the field. To describe the bibliographic coupling of these studies.MethodsA literature search was conducted using three databases (Web of Science Core Collection, PsychInfo, and PubMed) with the keywords \"salivary oxytocin or oxytocin level,\" and \"salivary oxytocin or oxytocin measurement.\" English-language research reports were included, if a health-related, non-pharmacological intervention was administered to adult humans and there was at least one salivary oxytocin sample.ResultsThirty reports were included in the scoping review. Six types of well-being interventions were identified: animal-based, music, touch, psychiatric-psychologic, social, and adjunct/alternative/complementary. Most of the studies included women. The bibliometric analysis consisted of 29 papers. Japan and the United States produced 59% of the reports. Oxytocin, cortisol, and stress were strongly linked in the keyword co-occurrence analysis.ConclusionsWith the addition of measuring salivary oxytocin levels, nurse scientists may strengthen the biological evaluation of well-being interventions by assessing both the oxytocinergic system and hypothalamus-pituitary-adrenal axis."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43071780/",
+   "doi": "https://doi.org/10.1177/10998004261508836",
+   "data": "2026-11-23T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-24T10:52:57.744452+00:00"
+  },
+  {
+   "id": "pmid-43070220",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Gallic acid ameliorates depressive-like behaviour associated with type-2 diabetes mellitus by mitigating oxidative stress",
+   "revista": "Nutr Neurosci",
+   "autores": "Kolhe J, Kumar S A, Patel SS",
+   "tipo_estudo": "",
+   "destaque": "Gallic acid may ameliorate depression associated with hyperglycemia by mitigating oxidative stress and neurological dysfunction in the brain. Therefore, the current study provides evidence that gallic acid may exert antidepressant-like effects in the experimental model of hyperglycemia and depression.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Diabetes is linked with depression due to insulin resistance. Gallic acid, a natural polyphenol, has been demonstrated to have benefits against experimental hyperglycemia. In the present study, we investigated the antidepressant effect of gallic acid on depression-like behaviour in hyperglycaemic rats."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Hyperglycemia was induced in rats using dexamethasone (2 mg/kg i.p.) for 7 days, followed by exposure to chronic unpredictable mild stressors to produce depression-like phenotypes. Animals were subjected to daily oral administration for 21 days. Behavioural paradigms like the sucrose preference test, forced swim test, locomotor activity, novelty-suppressed feeding, and novel object recognition were performed. Biochemical estimations, including glucose levels, oxidative stress parameters, and neurotransmitter levels, were performed."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The findings indicated that administration of gallic acid attenuated depressive-like behaviour. Furthermore, treatment with gallic acid also demonstrated better cognitive ability and amelioration of behavioural abnormalities. Gallic acid treatment normalized the elevated blood glucose in diabetic rats. A significant improvement in antioxidant parameters was noticed after treatment with gallic acid. Additionally, altered levels of neurotransmitters like serotonin and dopamine were also improved by gallic acid treatment. Histopathological evaluation of the brain demonstrated increased neural density and restoration of normal neural morphology."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Gallic acid may ameliorate depression associated with hyperglycemia by mitigating oxidative stress and neurological dysfunction in the brain. Therefore, the current study provides evidence that gallic acid may exert antidepressant-like effects in the experimental model of hyperglycemia and depression."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43070220/",
+   "doi": "https://doi.org/10.1080/1028415X.2026.2761571",
+   "data": "2026-11-23T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-24T10:52:57.744452+00:00"
+  },
+  {
+   "id": "pmid-43070616",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Determining the relationship between internet gaming disorder, family relationships, psychological distress, and sociodemographic characteristics in adolescents",
+   "revista": "Rev Esc Enferm USP",
+   "autores": "Kaynak S, Duran MU, Dereli B",
+   "tipo_estudo": "",
+   "destaque": "Redirecting at-risk students to social and artistic activities and increasing social events could be beneficial.",
+   "resumo": [
+    {
+     "rotulo": "Objective",
+     "texto": "The research is descriptive and cross-sectional study and aimed to identify the relationship between internet gaming disorder (IGD), familial relationships, and psychological distress among high school students, as well as determine the sociodemographic factors influencing internet gaming behavior."
+    },
+    {
+     "rotulo": "Method",
+     "texto": "Data were collected from 252 students attending a public high school in Türkiye, between April 15 and June 15, 2024. Data was collected using a Sociodemographic Data Form, the Internet Gaming Disorder Scale-Short Form (IGDS9-SF), the Perceived Family Functioning Scale, and the Kessler Psychological Distress Scale."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "According to the DSM-5 diagnostic criteria for IGD, 8.3% of the students were found to be addicted, with 1.2% falling into the high-risk group based on a cut-off score of 36 on the IGDS9-SF. Male students and ninth graders had higher IGDS9-SF scores."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Redirecting at-risk students to social and artistic activities and increasing social events could be beneficial."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43070616/",
+   "doi": "https://doi.org/10.1590/1980-220X-REEUSP-2026-0277en",
+   "data": "2026-11-23T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-24T10:52:57.744452+00:00"
+  },
+  {
+   "id": "pmid-43070219",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "AI-derived retinal vascular metrics and MoCA-B-defined mild cognitive impairment in type 2 diabetes: a community-based cross-sectional study",
+   "revista": "Ann Med",
+   "autores": "Sun R, Ying H, Zhao S et al.",
+   "tipo_estudo": "",
+   "destaque": "VD, FD, and FDVC were nominally associated with MoCA‑B‑defined MCI in community‑dwelling patients with T2DM in exploratory analyses, suggesting that these measures may serve as candidate imaging correlates of microvascular alterations underlying MCI.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Type 2 diabetes mellitus (T2DM) is a major risk factor for mild cognitive impairment (MCI). As an embryological extension of the brain, the retina offers a unique window into cerebral microvascular health; artificial intelligence (AI) now enables objective, large-scale quantification of retinal vascular parameters to investigate this association."
+    },
+    {
+     "rotulo": "Objective",
+     "texto": "To quantify retinal vascular metrics using AI in community-managed T2DM patients and examine their association with MCI."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "This cross-sectional study enrolled T2DM patients from four community health centers in Guiyang, China. Fundus photographs were analyzed using an AI platform with established performance in previous studies to derive vascular density (VD), fractal dimension (FD), and other metrics. Cognitive function was assessed using the basic version of the Montreal Cognitive Assessment (MoCA-B), with MCI status determined by MoCA-B cut-offs. Separate logistic regression models were constructed for each retinal indicator as the sole exposure variable, with identical DAG-derived covariate sets introduced sequentially. Stratified and sensitivity analyses assessed robustness."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Among 630 community‑dwelling patients with T2DM, the prevalence of MCI was 33.2% (n = 209). Multivariable logistic regression models adjusted for age, BMI, educational level, hypertension, and HbA1c showed that VD (per 1% increment: OR = 0.987, 95% CI 0.979, 0.995), FD (per 0.1 increment: OR = 0.221, 95% CI 0.050, 0.982), and fractal dimension of the vessel centerline (FDVC, per 0.1 increment: OR = 0.359, 95% CI 0.131, 0.983) were nominally associated with lower odds of MCI in exploratory analyses. Stratified analyses indicated consistent directions of these associations across subgroups defined by age and diabetes duration. Sensitivity analyses confirmed the robustness of the associations for VD and FDVC."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "VD, FD, and FDVC were nominally associated with MoCA‑B‑defined MCI in community‑dwelling patients with T2DM in exploratory analyses, suggesting that these measures may serve as candidate imaging correlates of microvascular alterations underlying MCI."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43070219/",
+   "doi": "https://doi.org/10.1080/07853890.2026.2741446",
+   "data": "2026-11-23T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-24T10:52:57.744452+00:00"
+  },
+  {
    "id": "pmid-43055718",
    "fonte": "PubMed",
    "tipo_fonte": "artigo",
@@ -307,15 +1071,15 @@
    "resumo": [
     {
      "rotulo": "Introduction",
-     "texto": "Obstructive sleep apnea (OSA) affects up to 1 billion people worldwide. Despite availability of continuous positive airway pressure (CPAP) therapy as the main treatment modality, a need for additional pharmacologic agents remains. Pharmacologic therapies can help improve patient symptoms of sleepiness and address the underlying mechanisms (endotypes) of disordered breathing in patients with OSA."
+     "texto": "Obstructive sleep apnea (OSA) affects up to 1 billion people worldwide. Despite the availability of continuous positive airway pressure (CPAP) therapy as the main treatment modality, a need for additional pharmacologic agents remains. Pharmacologic therapies can help improve patient symptoms of sleepiness and address the underlying mechanisms (endotypes) of disordered breathing in patients with OSA."
     },
     {
      "rotulo": "Areas Covered",
-     "texto": "Potential pharmacologic target therapy of the four main OSA endotypes, airway collapsibility, poor upper airway muscle dilation, high loop gain, and low arousal threshold, are reviewed. Medications to help with daytime sleepiness are also discussed. Both original research and review articles spanning 2000 to 2026 are included in this review. Published articles were identified through PubMed and in-progress studies were identified through field experts."
+     "texto": "Potential pharmacologic target therapy of the four main OSA endotypes, airway collapsibility, poor upper airway muscle dilation, high loop gain, and low arousal threshold, are reviewed. Medications to help with daytime sleepiness are also discussed. Both original research and review articles spanning 2000 to 2026 are included in this review. Published articles were identified through PubMed, and in-progress studies were identified through field experts."
     },
     {
      "rotulo": "Expert Opinion",
-     "texto": "The current landscape of pharmacologic options for OSA is very exciting, especially with the expansion in number of agents addressing obesity that also help improve airway collapsibility. However, many of these therapies (apart from anti-obesity medications and medications for daytime sleepiness) are still experimental. Further evaluation is required before many of these pharmacologic agents are officially approved for use with or without CPAP. Agents addressing specific endotypes will pave the way for more personalized OSA treatment."
+     "texto": "The current landscape of pharmacologic options for OSA is very exciting, especially with the expansion in the number of agents addressing obesity that also help improve airway collapsibility. However, many of these therapies (apart from anti-obesity medications and medications for daytime sleepiness) are still experimental. Further evaluation is required before many of these pharmacologic agents are officially approved for use with or without CPAP. Agents addressing specific endotypes will pave the way for more personalized OSA treatment."
     }
    ],
    "link": "https://pubmed.ncbi.nlm.nih.gov/43055718/",
@@ -1870,6 +2634,41 @@
     "estresse"
    ],
    "visto_em": "2026-11-21T10:42:38.243378+00:00"
+  },
+  {
+   "id": "pmid-43061193",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "From efficacy verification to precision intervention: a dual-database bibliometric and clinical mapping analysis of therapeutic exercise for adolescent obesity (2016-2025)",
+   "revista": "Front Public Health",
+   "autores": "Yao L, Jiang R, Fang J et al.",
+   "tipo_estudo": "Revisão sistemática",
+   "destaque": "Therapeutic exercise research for adolescent obesity has developed steadily from 2016 to 2025, with prominent multidisciplinary integration but insufficient international cross-regional collaboration. A potential translational gap, reflected by thematic divergence, persists between basic mechanistic research and clinical practice. Future efforts should prioritize multi-factor synergistic interventions combining exercise with sleep, nutrition, and psychological support; precision exercise prescriptions tailored to special populations such as adolescents with Down syndrome or severe obesity; and high-quality multicenter clinical trials to accelerate the translation of basic findings into standardized clinical protocols.",
+   "resumo": [
+    {
+     "rotulo": "Objective",
+     "texto": "This study aimed to systematically map the research landscape, knowledge structure, collaboration patterns, and evolutionary frontiers of therapeutic exercise for adolescent obesity from 2016 to 2025, and to identify translational gaps between basic research and clinical practice."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Publications were retrieved from the Web of Science Core Collection (WoSCC) and PubMed. The WoSCC dataset, comprising original articles and reviews, was analyzed using CiteSpace 7.0.1 for co-citation, keyword co-occurrence, thematic clustering, and burst detection, and VOSviewer 1.6.19 for collaboration networks at the country, institution, and author levels. The PubMed dataset, restricted to clinical research, was analyzed using CiteSpace to identify clinical intervention hotspots and evolutionary trends."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "A total of 2,953 records from WoSCC and 1,295 clinical studies from PubMed were included. Annual publications showed a fluctuating upward trend, peaking at 349 articles in 2022. The United States and China led publication output, but international cross-regional collaboration remained limited, with high-output countries functioning primarily as production cores rather than collaboration hubs. Ten research clusters were identified in the WoSCC dataset, with insulin resistance, cardiorespiratory fitness, and body mass index as core themes. Research evolved through three distinct phases: basic efficacy evaluation (2016-2018), mechanism and benefit expansion (2019-2021), and precision intervention for special populations (2022-2025). Clinical research in PubMed emphasized intervention efficacy and patient-oriented outcomes, with high-intensity interval training and health-related quality of life emerging as the latest frontiers since 2024. A clear thematic divergence was observed between basic research, which focused on mechanistic targets and population characteristics, and clinical practice, which prioritized intervention protocols and practical outcomes."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Therapeutic exercise research for adolescent obesity has developed steadily from 2016 to 2025, with prominent multidisciplinary integration but insufficient international cross-regional collaboration. A potential translational gap, reflected by thematic divergence, persists between basic mechanistic research and clinical practice. Future efforts should prioritize multi-factor synergistic interventions combining exercise with sleep, nutrition, and psychological support; precision exercise prescriptions tailored to special populations such as adolescents with Down syndrome or severe obesity; and high-quality multicenter clinical trials to accelerate the translation of basic findings into standardized clinical protocols."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43061193/",
+   "doi": "https://doi.org/10.3389/fpubh.2026.1987718",
+   "data": "2026-11-20T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-24T10:52:57.744452+00:00"
   },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261118073918-htm",
