@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-26T10:54:57.560938+00:00",
+ "atualizado_em": "2026-11-27T10:51:19.087319+00:00",
  "titulo": "Feed Científico Cabeça de Dona",
  "subtitulo": "Ciência nova, todo dia, sobre o que move a sua saúde",
  "temas": [
@@ -30,6 +30,434 @@
   }
  ],
  "artigos": [
+  {
+   "id": "rss-https-www-sciencedaily-com-releases-2026-11-261125045304-htm",
+   "fonte": "ScienceDaily",
+   "tipo_fonte": "noticia",
+   "titulo": "Breathing less oxygen tripled lifespan in mice with a deadly brain disorder",
+   "revista": "",
+   "autores": "",
+   "tipo_estudo": "",
+   "destaque": "Oxygen is essential for life, but too much of it can become dangerously toxic, particularly in people with certain neurological and mitochondrial disorders. Scientists at Gladstone Institutes have discovered that defective proteins can disrupt the ability of mitochondria to consume oxygen, allowing harmful levels to accumulate in tissues. Remarkably, mice with a genetic disorder that causes motor neuron degeneration lived three times longer when they breathed air containing less oxygen.",
+   "resumo": [],
+   "link": "https://www.sciencedaily.com/releases/2026/11/261125045304.htm",
+   "doi": "",
+   "data": "2026-11-27T04:38:19-05:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "rss-https-www-sciencedaily-com-releases-2026-11-261125045246-htm",
+   "fonte": "ScienceDaily",
+   "tipo_fonte": "noticia",
+   "titulo": "One type of physical activity is linked to a 20% higher dementia risk",
+   "revista": "",
+   "autores": "",
+   "tipo_estudo": "",
+   "destaque": "A massive study has revealed that exercising for pleasure and performing physical labor at work may have surprisingly different implications for brain health. While recreational exercise was linked to a 24% lower dementia risk, physically demanding work was associated with a 20% higher risk, suggesting that the context of movement matters.",
+   "resumo": [],
+   "link": "https://www.sciencedaily.com/releases/2026/11/261125045246.htm",
+   "doi": "",
+   "data": "2026-11-27T03:45:06-05:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43099823",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "An Integrated Psychology Framework for Assessing Clinical Complexity and Readiness for Treatment in Specialist Obesity Services: From Assessment to Psychological Intervention Across the Treatment Pathway",
+   "revista": "Clin Obes",
+   "autores": "Alves D, Ratcliffe D, Banting E et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "We describe the conceptual rationale, the structure of each domain, the stepped-care model of psychological intervention and the clinical and ethical implications for equitable access. We propose that separating complexity from readiness may support a more individualised formulation of psychological need, in which psychological complexity informs the level and nature of support without determining readiness for treatment.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Psychological assessment within specialist obesity services in the United Kingdom, particularly within bariatric surgical pathways, has often been organised around suitability-based or traffic-light frameworks that may not clearly distinguish the complexity of a patient's psychological presentation from their readiness for treatment. Psychological resources may also remain concentrated at the point of pre-treatment assessment rather than across the treatment pathway. This paper describes an integrated psychology framework that conceptualises clinical complexity-reflecting the complexity of a patient's psychological presentation-and readiness for treatment as distinct, formulation-based clinical dimensions, applicable across both bariatric surgical and glucagon-like peptide-1 receptor agonist pharmacological pathways. The framework integrates three interlinked domains-clinical complexity, readiness for treatment, and psychological intervention to enhance readiness-with a 3 × 3 complexity-readiness matrix informing multidisciplinary team treatment decisions. We describe the conceptual rationale, the structure of each domain, the stepped-care model of psychological intervention and the clinical and ethical implications for equitable access. We propose that separating complexity from readiness may support a more individualised formulation of psychological need, in which psychological complexity informs the level and nature of support without determining readiness for treatment."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43099823/",
+   "doi": "https://doi.org/10.1111/cob.70128",
+   "data": "2026-11-27T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43100035",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Comparative effects of metformin, semaglutide and tirzepatide on oxidative stress, thiol-disulfide homeostasis and oxidative DNA damage in type 2 diabetes",
+   "revista": "Br J Pharmacol",
+   "autores": "Gokce M, Sen AV, Zorlu M et al.",
+   "tipo_estudo": "",
+   "destaque": "Metformin, semaglutide and tirzepatide treatment was associated with improvements in redox status, thiol-DIS homeostasis and oxidative DNA damage, with greater changes in the semaglutide and tirzepatide groups. NT may have the potential as a biomarker of treatment response and support an association between changes in thiol-DIS homeostasis and oxidative DNA damage during contemporary antidiabetic therapy.",
+   "resumo": [
+    {
+     "rotulo": "Background And Purpose",
+     "texto": "Oxidative stress, impaired thiol-disulfide (DIS) homeostasis and oxidative DNA damage contribute to vascular complications in type 2 diabetes mellitus (T2DM). We compared redox-related biomarker changes among patients receiving metformin, semaglutide, or tirzepatide and examined associations between thiol-DIS homeostasis and oxidative DNA damage."
+    },
+    {
+     "rotulo": "Experimental Approach",
+     "texto": "141 participants with T2DM were categorised according to prescribed glucose-lowering management and followed for 3 months. Anthropometric measures, glycaemic indices, oxidative stress markers, thiol-DIS homeostasis parameters and serum 8-hydroxy-2'-deoxyguanosine (8-OHdG) were assessed at baseline and follow-up. Correlation analyses examined associations with changes in 8-OHdG, and multivariable regression assessed the independent association between changes in native thiol (NT) and 8-OHdG."
+    },
+    {
+     "rotulo": "Key Results",
+     "texto": "Improvements in weight, glycaemic control and insulin resistance were observed in all active treatment groups. Greater improvements in redox status and thiol-DIS homeostasis were observed in the semaglutide and tirzepatide groups than in the metformin group. Oxidative DNA damage decreased during follow-up in all active treatment groups, with the greatest reductions observed in the semaglutide and tirzepatide groups. Changes in NT showed the strongest association with oxidative DNA damage and remained independently associated after adjustment for selected covariates."
+    },
+    {
+     "rotulo": "Conclusions And Implications",
+     "texto": "Metformin, semaglutide and tirzepatide treatment was associated with improvements in redox status, thiol-DIS homeostasis and oxidative DNA damage, with greater changes in the semaglutide and tirzepatide groups. NT may have the potential as a biomarker of treatment response and support an association between changes in thiol-DIS homeostasis and oxidative DNA damage during contemporary antidiabetic therapy."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43100035/",
+   "doi": "https://doi.org/10.1111/bph.70751",
+   "data": "2026-11-27T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43099770",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Effects of Ganaxolone on Anxiety-Like Behaviors in Single Prolonged Stress-Exposed Mice",
+   "revista": "Fundam Clin Pharmacol",
+   "autores": "Bal K, Avkıran M, Topuz RD",
+   "tipo_estudo": "",
+   "destaque": "Ganaxolone showed anxiolytic-like effects in single prolonged stress-exposed mice, particularly in the elevated plus maze. These findings suggest that ganaxolone may be further investigated as a potential non-benzodiazepine treatment approach for anxiety-dominant symptoms in post-traumatic stress disorder.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Current post-traumatic stress disorder treatments, primarily selective serotonin reuptake inhibitors, show suboptimal efficacy. Ganaxolone, a synthetic neurosteroid and positive allosteric modulator of GABAA receptors, may offer a novel therapeutic approach by enhancing both synaptic and extrasynaptic GABAergic inhibition."
+    },
+    {
+     "rotulo": "Objectives",
+     "texto": "This study investigated the effects of ganaxolone on anxiety-like behaviors and late post-stress corticolimbic allopregnanolone and corticosterone levels in a mouse model of single prolonged stress."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Male BALB/c mice underwent single prolonged stress. After a 14-day incubation period, ganaxolone (3.75, 7.5, or 15 mg/kg, i.p.) or vehicle was administered daily for five consecutive days (Days 15-19). The rotarod, open field, elevated plus maze, forced swim, and social interaction tests were performed. Allopregnanolone and corticosterone levels in the prefrontal cortex and amygdala were assessed using ELISA."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Single prolonged stress induced a distinct anxiety-like phenotype in open field and elevated plus maze tests. Ganaxolone treatment significantly attenuated anxiety-like behaviors. Ganaxolone at 7.5 mg/kg significantly increased open field center time, while all three ganaxolone doses significantly increased elevated plus maze open-arm time. No statistically significant differences were observed in locomotor activity, social interaction, forced swim test immobility, or corticolimbic allopregnanolone and corticosterone levels."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Ganaxolone showed anxiolytic-like effects in single prolonged stress-exposed mice, particularly in the elevated plus maze. These findings suggest that ganaxolone may be further investigated as a potential non-benzodiazepine treatment approach for anxiety-dominant symptoms in post-traumatic stress disorder."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43099770/",
+   "doi": "https://doi.org/10.1111/fcp.70124",
+   "data": "2026-11-27T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43099658",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Reducing Parenting Stress and Children's Problem Behavior: Child-Adult Relationship Enhancement (CARE) for Mothers in Community Health: Randomized Control Trial",
+   "revista": "Jpn J Nurs Sci",
+   "autores": "Kimura H, Yonezawa H, Ishigaki K et al.",
+   "tipo_estudo": "Ensaio clínico randomizado",
+   "destaque": "The 6-h, 2-session CARE program in community health demonstrated a decrease in the intensity of children's problem behaviors and alleviated mothers' difficulties in managing these behaviors. Once the effectiveness of CARE is confirmed in Japan, childcare professionals, such as public health nurses, may implement it within community health settings, potentially leading to strengthened mother-child relationships.",
+   "resumo": [
+    {
+     "rotulo": "Aim",
+     "texto": "Child-adult relationship enhancement (CARE) is designed to strengthen the bond between children and adults in the United States and to provide guidance for adults on appropriate interactions with children. This study aimed to examine the effects of CARE on reducing children's problem behaviors and parenting stress among mothers within the context of community and public health in Japan."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "The survey evaluated the outcomes of a CARE program, including children's problem behavior, mothers' parenting stress and depressive tendencies in childcare, and inappropriate childcare practices. The program consisted of two 6-h interventions (Session 1 = 3.5 h and session 2 = 2.5 h, with a 2-week interval). We conducted a randomized controlled trial (RCT) with mothers of children aged 2-6 years between 2018 and 2019."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Seventy-one mothers were randomly assigned to the intervention (n = 35) and control (n = 36) groups; the intervention group participated in the CARE program. The two community health interventions resulted in a significant reduction in children's problem behaviors (both in severity and number) and mothers' childcare-related stress."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "The 6-h, 2-session CARE program in community health demonstrated a decrease in the intensity of children's problem behaviors and alleviated mothers' difficulties in managing these behaviors. Once the effectiveness of CARE is confirmed in Japan, childcare professionals, such as public health nurses, may implement it within community health settings, potentially leading to strengthened mother-child relationships."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43099658/",
+   "doi": "https://doi.org/10.1111/jjns.70085",
+   "data": "2026-11-27T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43100003",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "The Hidden Burden: High Prevalence of Psychosocial Distress Among Caregivers of Hematologic Malignancy Patients and Its Clinical Implications",
+   "revista": "Brain Behav",
+   "autores": "Lijun S, Zhongrui M, Li W et al.",
+   "tipo_estudo": "",
+   "destaque": "The mental health of patients with hematological malignancies, particularly anxiety and depression, significantly influences caregivers' psychological well-being. Caregivers' economic status and social support act as key moderators. These findings support establishing a \"patient-caregiver collaborative psychological intervention model\" that addresses patients' psychological states, strengthens caregivers' support networks, and enhances their coping resources to improve mental health outcomes for both groups.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Family caregivers (FCs) are crucial for cancer patients but may experience psychological distress due to caregiving demands. This study describes depression and anxiety rates in FCs of hematological malignancy patients and identifies associated factors to guide targeted psychological interventions."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We conducted a cross-sectional analysis, assessing depression and anxiety with the Hamilton Scale in hematological malignancies patients and their FCs. We also evaluated patients' quality of life, social support, and social activity. Using linear regression with purposeful covariate selection, we identified factors associated with FC depression and anxiety symptoms."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "We enrolled 416 eligible FCs and patients. Among caregivers, 48.6% were female and 53.8% were married to patients. Anxiety (34.6% vs. 45.7%, p < 0.001) and depression (17.3% vs. 38.9%, p < 0.001) prevalence differed significantly between FCs and patients. Key factors affecting caregiver anxiety included patient's anxiety score (β = 0.375, p < 0.001), ECOG performance status (β = 0.145, p < 0.001), caregiver gender (β = 0.110, p = 0.007), caregiver-perceived financial distress score (β = 0.250, p < 0.001), and the caregiver total social network score (β = -0.340, p < 0.001). For depression, key factors were patient's depression score (β = 0.228, p < 0.001), patient age (β = -0.163, p < 0.001), patient gender (β = 0.156, p < 0.001), caregiver-perceived financial distress score (β = 0.111, p = 0.048) and caregiver total social network score (β = -0.149, p = 0.006)."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "The mental health of patients with hematological malignancies, particularly anxiety and depression, significantly influences caregivers' psychological well-being. Caregivers' economic status and social support act as key moderators. These findings support establishing a \"patient-caregiver collaborative psychological intervention model\" that addresses patients' psychological states, strengthens caregivers' support networks, and enhances their coping resources to improve mental health outcomes for both groups."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43100003/",
+   "doi": "https://doi.org/10.1002/brb3.71973",
+   "data": "2026-11-27T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43100204",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Aligning incentives to sustain the hospital medicine workforce: A framework for staffing less desirable shifts",
+   "revista": "J Hosp Med",
+   "autores": "Kuhn EC, Bryant M, Carlson D et al.",
+   "tipo_estudo": "",
+   "destaque": "We propose a stepwise framework to help leaders define staffing challenges, assess workforce preferences, align incentives with institutional priorities, and implement sustainable multi-domain incentive portfolios. Incentivization should not be viewed as a transactional solution, but as a strategic tool to improve workforce stability, long-term career satisfaction, operational performance, and alignment with diverse clinician priorities.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Sustaining 24-h inpatient pediatric care requires reliable coverage of nights, weekends, and holidays, yet these shifts remain among the most difficult to staff. Hospital Medicine leaders must balance institutional priorities, including patient access and financial sustainability, with clinician experience, including fatigue, work-life integration, and burnout. Incentivization is often approached narrowly as a financial request; however, financial incentives alone are rarely sufficient. Effective strategies require two complementary frameworks: clinician-facing domains that address individual values, including time, financial compensation, and control, and structural approaches that redesign and align the work itself. Using a longitudinal case example, we highlight common pitfalls, including assuming workforce preferences are uniform, relying exclusively on financial incentives, and offering unsustainable commitments. We also discuss strategies to address common institutional concerns, including cost and equity. We propose a stepwise framework to help leaders define staffing challenges, assess workforce preferences, align incentives with institutional priorities, and implement sustainable multi-domain incentive portfolios. Incentivization should not be viewed as a transactional solution, but as a strategic tool to improve workforce stability, long-term career satisfaction, operational performance, and alignment with diverse clinician priorities."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43100204/",
+   "doi": "https://doi.org/10.1002/jhm.70568",
+   "data": "2026-11-27T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43100121",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Artificial Intelligence, Motivation, and Burnout Among Radiologists and Radiation Oncologists",
+   "revista": "J Med Imaging Radiat Oncol",
+   "autores": "Oldmeadow JA, Elphinstone B, McNeill I et al.",
+   "tipo_estudo": "",
+   "destaque": "AI use is common among RANZCR members, and the burnout rate is prevalent. These preliminary findings highlight the potential importance of supporting autonomous motivation when implementing AI, while recognising that larger and more context-specific studies are required to confirm this relationship.",
+   "resumo": [
+    {
+     "rotulo": "Introduction",
+     "texto": "Burnout is a major concern across medical professions, with radiologists and radiation oncologists among the most affected. Artificial intelligence (AI) has the potential to reduce burnout by decreasing workload; however, previous research has shown inconsistent associations between AI use and burnout. These relationships may depend on clinicians' motivation for using AI."
+    },
+    {
+     "rotulo": "Method",
+     "texto": "A 6.5 min anonymous online survey was distributed to members of the Royal Australian and New Zealand College of Radiologists (RANZCR) over a 2 month period (May-July 2025). Measures included demographics and work-related variables (hours, level of training), burnout, AI use (frequency and task type), and motivation to use AI (based on Self-Determination Theory). Motivation was examined as a moderator of the relationship between AI use and burnout."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Responses were received from 121 clinicians (90 radiologists, 31 radiation oncologists), including 21 trainees. Clinically significant burnout was reported by 42.1% (51/121) of respondents. Ninety-one (75.2%) respondents reported using AI, primarily for image analysis and interpretation (radiologists) and treatment planning (radiation oncologists). There was no overall significant relationship between AI use and burnout. However, AI use was positively associated with burnout among those reporting lower autonomy in AI use. This relationship was not mediated by need satisfaction or frustration."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "AI use is common among RANZCR members, and the burnout rate is prevalent. These preliminary findings highlight the potential importance of supporting autonomous motivation when implementing AI, while recognising that larger and more context-specific studies are required to confirm this relationship."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43100121/",
+   "doi": "https://doi.org/10.1111/1754-9485.70230",
+   "data": "2026-11-27T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43099459",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Early detection and proportion of child risk for mental health problems and parental stress in routine school entry exams: a pilot study",
+   "revista": "BMC Public Health",
+   "autores": "Oliveira Kilb H, Domke D, Fink A et al.",
+   "tipo_estudo": "",
+   "destaque": "The detection of child risk for MHP with the SDQ-P at two different sites in Germany revealed discrepancies when compared with the routine SEE procedures and significant variations between the study centers in terms of agreement patterns and detection rates were observed. In order to enhance the comparability of results and improve identification rates of children at risk for MHP, standardizing the routine SEE assessment in the field of mental health should be considered as a future step. The results underscore the interdependence of child, family and social risk factors, which is why a combination of those should be considered when assessing the need for preventive measures or intervention.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Early childhood is a crucial period for subsequent psychological development and young children are highly sensitive to adversities such as parental stress. Screening for risk factors and mental health problems (MHP) in preschool-aged children could enhance early prevention and intervention and lower the detrimental impact of persistent emotional and behavioral difficulties. The school entry examination (SEE) as the only mandatory public health screening in Germany during childhood has extensive reach but currently neglects the area of mental health assessment."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "To test the potential added value, the Strengths and Difficulties Questionnaire (SDQ-P) and the Parental Stress Scale (PSS) were used to assess child risk for MHP and parental stress across two German study centers in addition to the routine SEE procedure. The study determined the proportion of preschool children (n = 561) with elevated risk for MHP according to the SDQ-P vs. the routine SEE procedure. Potentially associated factors with preschool risk for MHP, such as parental stress, were analyzed through a multiple linear regression model."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The proportion of children at risk for MHP was 15.8%, the SDQ-P identified children that were not identified through the routine SEE process and the patterns of agreement varied significantly between the study centers. The overall mean PSS total score was 35.86. Parental stress had the strongest association with the SDQ-P total difficulties score, followed by lower parental educational status and male sex (child)."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "The detection of child risk for MHP with the SDQ-P at two different sites in Germany revealed discrepancies when compared with the routine SEE procedures and significant variations between the study centers in terms of agreement patterns and detection rates were observed. In order to enhance the comparability of results and improve identification rates of children at risk for MHP, standardizing the routine SEE assessment in the field of mental health should be considered as a future step. The results underscore the interdependence of child, family and social risk factors, which is why a combination of those should be considered when assessing the need for preventive measures or intervention."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43099459/",
+   "doi": "https://doi.org/10.1186/s12889-026-30510-w",
+   "data": "2026-11-27T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43099191",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Examining caregiver burden, health-related quality of life, psychological distress, and positive aspects of caregiving of older caregivers to a spouse with cancer: results from a mixed-methods study",
+   "revista": "Support Care Cancer",
+   "autores": "Donison V, McGilton KS, Alibhai SMH et al.",
+   "tipo_estudo": "",
+   "destaque": "Older spousal cancer caregivers in Bulgaria experience psychological challenges as well as positive caregiving experiences. Future research should incorporate routine assessment of these outcomes in oncology settings and expand research in other collectivist cultures.",
+   "resumo": [
+    {
+     "rotulo": "Purpose",
+     "texto": "Older adult caregivers to a spouse with cancer may be at risk of experiencing adverse caregiver outcomes such as increased burden, distress, and reduced health-related quality of life. This study examined how caregiving for a spouse in active treatment is associated with these outcomes in Bulgaria."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Exploratory mixed-methods convergent parallel research design using a cross-sectional survey (n = 90) and in-depth interviews (n = 13). Participants were recruited from the University Specialized Hospital for Active Treatment in Oncology in Sofia, Bulgaria. The Zarit Burden Interview (ZBI), Distress Thermometer, Health-Related Quality of Life (HRQOL) Short Form-12v2, and the Positive Aspects of Caregiving Scale (PACS) were used to measure caregiver burden, psychological distress, HRQOL, and positive caregiving experiences. Multivariable regression analyses were used to examine the association between predictors and each outcome. Open-ended interviews were analyzed using thematic analysis."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The mean age of caregivers was 70.3 (SD = 4.8) years, and more caregivers were female (58.6%). On average, caregivers experienced relatively low caregiver burden (mean ZBI score = 19.3); however, they reported clinically significant distress (mean distress score = 5.0). The mean HRQOL Physical Component Score (PCS) was 49.6, while the mean HRQOL Mental Component Summary Score (MCS) was 46.2, and PACS was 37.1. Convergent findings showed that caregivers experienced low burden, clinically significant distress, and high positive aspects of caregiving. However, caregivers reported lower mental health and average physical health."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Older spousal cancer caregivers in Bulgaria experience psychological challenges as well as positive caregiving experiences. Future research should incorporate routine assessment of these outcomes in oncology settings and expand research in other collectivist cultures."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43099191/",
+   "doi": "https://doi.org/10.1007/s00520-026-11532-x",
+   "data": "2026-11-27T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43100118",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Not Just the Big Moments: Debriefing After Everyday Clinical Encounters",
+   "revista": "Clin Teach",
+   "autores": "Zebda M, Gonzalez V, Guardiola A",
+   "tipo_estudo": "",
+   "destaque": "BRIEF can support competency-based medical education by helping preceptors gather direct-observation evidence related to the Association of American Medical Colleges (AAMC) Core Entrustable Professional Activities, such as interprofessional communication. By making debriefing brief, structured and feasible, clinician educators can integrate reflective teaching into everyday patient care without substantially disrupting clinical flow.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Throughout training, learners experience patient encounters that can be emotionally complex, clinically challenging, successful, affirming or any combination of these. Debriefing is a facilitated, reflective discussion that supports learner communication, clinical reasoning, well-being and professional identity formation. Although commonly applied to sentinel events, debriefing is equally valuable after everyday clinical encounters such as vaccine hesitancy counselling, antibiotic stewardship and asthma follow-ups. Furthermore, debriefing enables preceptors to gather evidence, thereby enhancing feedback and assessments. Barriers cited to debriefing include time constraints, lack of formal preceptor training and concerns about the stigma associated with providing constructive feedback. To address these barriers, we describe BRIEF, a pragmatic mnemonic derived from common elements of established debriefing models. BRIEF guides preceptors to Begin with psychological safety, Recount the encounter, Identify emotions, Explore reasoning and communication and Formulate takeaways. Designed for busy clinicians, BRIEF translates core debriefing principles into a 5-minute structure that can be used in multiple clinical settings. This approach helps preceptors normalise reflection after challenging and successful encounters, reinforce effective behaviours and identify areas for learner growth. BRIEF can support competency-based medical education by helping preceptors gather direct-observation evidence related to the Association of American Medical Colleges (AAMC) Core Entrustable Professional Activities, such as interprofessional communication. By making debriefing brief, structured and feasible, clinician educators can integrate reflective teaching into everyday patient care without substantially disrupting clinical flow."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43100118/",
+   "doi": "https://doi.org/10.1111/tct.70581",
+   "data": "2026-11-27T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43099981",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Transcranial Alternating Current Stimulation for Promoting Recovery of Consciousness in Patients With Early Disorders of Consciousness: A Randomized Controlled Trial",
+   "revista": "Brain Behav",
+   "autores": "Wu WM, Li SY, Zhao L et al.",
+   "tipo_estudo": "Ensaio clínico randomizado",
+   "destaque": "When combined with conventional rehabilitation, a 2-week course of 10 Hz tACS applied to the dorsolateral prefrontal cortex was associated with short-term, baseline-adjusted improvements in recovery of consciousness and behavioral responses in patients with early DOC. These preliminary findings suggest that 10 Hz tACS targeting the DLPFC may represent a potential adjunctive strategy for facilitating consciousness recovery in early DOC.",
+   "resumo": [
+    {
+     "rotulo": "Objective",
+     "texto": "This study aimed to evaluate the potential short-term therapeutic effect of transcranial alternating current stimulation (tACS) on the recovery of consciousness in patients with early disorders of consciousness (DOC)."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A total of 60 patients with early DOC were randomly assigned, and 57 completed the primary outcome assessment and were included in the modified intention-to-treat analysis. The intervention group received 10 Hz tACS targeting the dorsolateral prefrontal cortex (DLPFC), whereas the control group received sham stimulation. Participants in both groups continued to receive conventional rehabilitation therapy. Neurobehavioral and electrophysiological assessments were conducted at baseline and after 14 days of intervention using the Coma Recovery Scale-Revised (CRS-R), the Glasgow Coma Scale (GCS), electroencephalography (EEG), and mismatch negativity (MMN)."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "For the primary outcome, the CRS-R score was significantly higher in the intervention group than in the control group (F = 4.187, p = 0.046, partial η2 = 0.072). Sensitivity analysis yielded findings consistent with the primary analysis (Z = -2.042, p = 0.041). Improvement in GCS score was also significantly greater in the intervention group compared with the control group (Z = -2.637, p = 0.008). Neuroelectrophysiological findings indicated a significantly greater improvement in MMN elicitation in the intervention group relative to the control group (Z = -2.111, p = 0.035). Although EEG grading demonstrated a trend toward improvement, no statistically significant difference between the groups was identified (Z = -1.329, p = 0.184)."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "When combined with conventional rehabilitation, a 2-week course of 10 Hz tACS applied to the dorsolateral prefrontal cortex was associated with short-term, baseline-adjusted improvements in recovery of consciousness and behavioral responses in patients with early DOC. These preliminary findings suggest that 10 Hz tACS targeting the DLPFC may represent a potential adjunctive strategy for facilitating consciousness recovery in early DOC."
+    },
+    {
+     "rotulo": "Trial Registration",
+     "texto": "ISRCTN registration number: ISRCTN15236545."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43099981/",
+   "doi": "https://doi.org/10.1002/brb3.71970",
+   "data": "2026-11-27T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43099941",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Experiences During the COVID-19 Pandemic: Family Members of Persons With Dementia Residing at Nursing Homes in Northern Sweden",
+   "revista": "Scand J Caring Sci",
+   "autores": "Melander C, Olsson M",
+   "tipo_estudo": "",
+   "destaque": "The findings highlight the importance of adaptable, family-centered care approaches that ensure safety while maintaining meaningful relationships through flexible and risk-aware visiting policies. To build more resilient dementia care systems, families must be consistently recognized and supported as active care partners, even during crises.",
+   "resumo": [
+    {
+     "rotulo": "Introduction",
+     "texto": "The COVID-19 pandemic posed major challenges for family members of persons with dementia in nursing homes, affecting both their lives and those of their loved ones. Daily routines were disrupted, contributing to accelerated cognitive decline in residents and placing an emotional burden on their families. The aim of this study was to describe experiences of the COVID-19 pandemic from the perspectives of family members of persons with dementia in nursing homes in Northern Sweden."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Qualitative interviews were conducted with 14 family members who had a close relative with dementia residing in a nursing home in Northern Sweden. Data were analysed using conventional qualitative content analysis."
+    },
+    {
+     "rotulo": "Findings",
+     "texto": "The analysis resulted in four themes: Sensing lost time and being forgotten, Being unable to look out for a loved one's needs, Feeling obliged to reject needs of bodily closeness and needing support to uphold meaningful relationships."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "The findings highlight the importance of adaptable, family-centered care approaches that ensure safety while maintaining meaningful relationships through flexible and risk-aware visiting policies. To build more resilient dementia care systems, families must be consistently recognized and supported as active care partners, even during crises."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43099941/",
+   "doi": "https://doi.org/10.1111/scs.70343",
+   "data": "2026-11-27T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
   {
    "id": "pmid-43092995",
    "fonte": "PubMed",
@@ -601,6 +1029,572 @@
     "estresse"
    ],
    "visto_em": "2026-11-26T10:54:57.560938+00:00"
+  },
+  {
+   "id": "pmid-43095988",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Design and Synthesis of Novel Mitochondria-Targeted HDAC3 Inhibitors for the Treatment of Obesity",
+   "revista": "J Med Chem",
+   "autores": "Sun Y, Yang W, Li R et al.",
+   "tipo_estudo": "",
+   "destaque": "In diet-induced obese mice, H18 produced dose-dependent reductions in body weight gain, improved glucose tolerance, and insulin sensitivity and exhibited superior efficacy to BG45. Collectively, these findings identify H18 as a promising antiobesity lead compound and support the integration of mitochondrial targeting capability into HDAC3 inhibitor design as a promising strategy for obesity intervention.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Obesity is closely associated with mitochondrial dysfunction, which impairs fatty acid oxidation and energy metabolism, yet currently available HDAC3 inhibitors have not been optimized to address these metabolic abnormalities. Herein, we developed a series of mitochondria-targeted HDAC3 inhibitors by incorporating a TPP moiety into the classical HDAC pharmacophore. Structure-based optimization identified H18 (IC50 = 45.4 nM) as the most promising candidate, exhibiting potent HDAC3 inhibitory activity together with preferential mitochondrial localization. H18 effectively suppressed lipid accumulation during 3T3-L1 adipocyte differentiation while restoring intracellular ATP levels and reducing oxidative stress. In diet-induced obese mice, H18 produced dose-dependent reductions in body weight gain, improved glucose tolerance, and insulin sensitivity and exhibited superior efficacy to BG45. Collectively, these findings identify H18 as a promising antiobesity lead compound and support the integration of mitochondrial targeting capability into HDAC3 inhibitor design as a promising strategy for obesity intervention."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43095988/",
+   "doi": "https://doi.org/10.1021/acs.jmedchem.6c02312",
+   "data": "2026-11-26T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43094861",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Comparative effects of Etanercept and Tocilizumab on skeletal muscle fibers in aged zebrafish",
+   "revista": "J Diabetes Metab Disord",
+   "autores": "Abbaspour F, Shokrpoor S, Delgarm A et al.",
+   "tipo_estudo": "",
+   "destaque": "In aged zebrafish, selected Etanercept and Tocilizumab regimens were associated with differences in measured skeletal muscle fiber characteristics and body weight. Low-dose Etanercept was associated with a higher CSA of the dorsal muscle and a lower number of fibers within the standardized sampling area. These findings represent exploratory histological associations and do not establish preservation of total muscle mass, muscle function, or a specific molecular mechanism. The absence of young controls, functional testing, quantitative inflammatory assessment, and molecular validation limits mechanistic and translational interpretation.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Sarcopenia, the age-related loss of skeletal muscle mass and function, is increasingly recognized as a major contributor to disability and mortality. Chronic low-grade inflammation, including signaling involving tumor necrosis factor-alpha (TNF-α) and interleukin-6 (IL-6), has been linked to age-related muscle loss. We evaluated whether Etanercept, a TNF-α inhibitor, and Tocilizumab, an IL-6 receptor antagonist, affected skeletal muscle fiber number and the qualitative infiltration of inflammatory cells in aged zebrafish."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "One hundred wild-type AB zebrafish aged 35-40 months were allocated to five groups (n = 20/group): untreated control, Etanercept 0.8 mg/kg/week, Etanercept 1.6 mg/kg/week, Tocilizumab 4 mg/kg/2 weeks, and Tocilizumab 8 mg/kg/2 weeks. Treatment continued for 3 months. Dorsal skeletal muscle was assessed histologically for cross-sectional area (CSA), number of fibers, and qualitative inflammatory-cell infiltration."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Eighty-two of 100 fish survived to study completion. Mean measured dorsal muscle CSA was higher in the Etanercept 0.8 mg/kg group (6.56 ± 0.28 mm²) and the Tocilizumab 8 mg/kg group (5.82 ± 0.40 mm²) than in controls (5.10 ± 0.19 mm², P < 0.001). Etanercept 0.8 mg/kg-treated fish had fewer fibers in the 10,000 μm² sampling area than controls (approximately 26 vs. 57, P < 0.001). Qualitative histology showed minimal or absent inflammatory-cell infiltration in the Etanercept 0.8 mg/kg group. Etanercept 1.6 mg/kg-treated fish had greater endpoint body weight than controls."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "In aged zebrafish, selected Etanercept and Tocilizumab regimens were associated with differences in measured skeletal muscle fiber characteristics and body weight. Low-dose Etanercept was associated with a higher CSA of the dorsal muscle and a lower number of fibers within the standardized sampling area. These findings represent exploratory histological associations and do not establish preservation of total muscle mass, muscle function, or a specific molecular mechanism. The absence of young controls, functional testing, quantitative inflammatory assessment, and molecular validation limits mechanistic and translational interpretation."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43094861/",
+   "doi": "https://doi.org/10.1007/s40200-026-02134-9",
+   "data": "2026-11-26T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43098178",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Short Physical Performance Battery Components and 2-Year Mortality in Older Patients With Heart Failure",
+   "revista": "Geriatr Gerontol Int",
+   "autores": "Matsuo K, Kamiya K, Maeda D et al.",
+   "tipo_estudo": "",
+   "destaque": "SPPB component scores showed distinct impairment patterns, with chair stand performance most frequently impaired.",
+   "resumo": [
+    {
+     "rotulo": "Aim",
+     "texto": "The Short Physical Performance Battery (SPPB) is widely used to assess physical function in older patients with heart failure (HF), but the distribution and clinical relevance of its individual components remain unclear. This study examined SPPB component scores and their associations with frailty, sarcopenia-related status, and all-cause mortality in older patients with HF."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We performed a secondary analysis of the prospective multicenter FRAGILE-HF cohort of patients aged ≥ 65 years hospitalized with HF. Patients were grouped by SPPB score: 0-3, 4-6, 7-9, and 10-12 points. Balance, gait speed, and chair stand scores were described by total SPPB score, frailty status, and sarcopenia-related status. The primary outcome was 2-year all-cause mortality after discharge."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "A total of 1281 patients with available SPPB data were included in the analysis. Median age was 81 years (interquartile range, 74-86 years), and 56.7% were men. Chair stand performance was more frequently impaired than balance and gait speed across total SPPB scores. Patients with frailty or sarcopenia-related status had lower component scores, with greatest impairment in chair stand performance. Total SPPB score of 10-12 points was associated with lower mortality compared with 0-3 points (HR 0.56, 95% CI 0.39-0.80, p = 0.002). Gait speed score of 4 points (HR 0.64, 95% CI 0.45-0.90, p = 0.010) and chair stand score of 4 points (HR 0.70, 95% CI 0.51-0.96, p = 0.026) were associated with lower mortality."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "SPPB component scores showed distinct impairment patterns, with chair stand performance most frequently impaired."
+    },
+    {
+     "rotulo": "Trial Registration",
+     "texto": "UMIN000023929."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43098178/",
+   "doi": "https://doi.org/10.1111/ggi.70928",
+   "data": "2026-11-26T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43098356",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Discordant Operational Definitions of Sarcopenic Obesity Identify Distinct Functional Phenotypes: Longitudinal Evidence From CHARLS",
+   "revista": "Clin Nutr ESPEN",
+   "autores": "Xu L, Maimaitiwusiman Z, Xuekelati S et al.",
+   "tipo_estudo": "",
+   "destaque": "The definitions showed poor agreement and identified distinct functional profiles. Phenotypes identified by the operationalized ESPEN/EASO-based definition were associated with faster mobility decline, but this finding is hypothesis-generating and requires external validation using direct body-composition measurements.",
+   "resumo": [
+    {
+     "rotulo": "Objective",
+     "texto": "To compare an Asian Working Group for Sarcopenia 2019-based Chinese composite definition with an operationalized European Society for Clinical Nutrition and Metabolism/European Association for the Study of Obesity (ESPEN/EASO)-based definition of sarcopenic obesity (SO), and to examine mortality and functional outcomes."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Data were analyzed from 5,618 China Health and Retirement Longitudinal Study participants aged ≥60 years (2011-2018). Agreement was assessed with McNemar's test and Cohen's kappa. Cox models included 5,511 participants; generalized estimating equations evaluated 7-year changes in activities of daily living, mobility, depressive symptoms, and cognition."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "SO was identified in 161/5,618 participants (2.87%) by the Chinese composite definition and 672/5,618 (11.96%) by the operationalized ESPEN/EASO-based definition (κ = 0.186). Sixty-eight participants were classified only by the Chinese definition, 579 only by the ESPEN/EASO-based definition, and 93 by both. Among 978 deaths, no phenotype was independently associated with mortality. Compared with participants classified by neither definition, mobility limitation increased faster among those classified only by the ESPEN/EASO-based definition (0.051 points/year; 95% CI, 0.021-0.080) and by both definitions (0.140; 0.063-0.218). Activities-of-daily-living limitation also increased faster in these groups. Depressive symptoms decreased in the group classified by both definitions (-0.461; -0.788 to -0.133), while cognitive trajectories did not differ overall (P = .077)."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "The definitions showed poor agreement and identified distinct functional profiles. Phenotypes identified by the operationalized ESPEN/EASO-based definition were associated with faster mobility decline, but this finding is hypothesis-generating and requires external validation using direct body-composition measurements."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43098356/",
+   "doi": "https://doi.org/10.1016/j.clnesp.2026.105245",
+   "data": "2026-11-26T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43097073",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Beyond oncologic cure: optimizing surgical outcomes in older adults with early colorectal cancer",
+   "revista": "Updates Surg",
+   "autores": "Lee KY",
+   "tipo_estudo": "Revisão",
+   "destaque": "In contrast, persistently limited reserve should prompt multidisciplinary and shared decision-making that considers tumor-specific oncologic benefit, functional consequences, competing mortality, and patient priorities. This approach reframes frailty assessment from static risk prediction toward an individualized, optimization-based strategy while preserving oncologic principles.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Early colorectal cancer in older adults requires a balance between oncologic benefit and the risks of postoperative functional decline, loss of independence, and competing mortality. Chronological age alone is insufficient to guide this balance because physiological reserve, functional status, comorbidity, cognition, nutritional status, and life expectancy vary substantially among individuals of the same age. Frailty and sarcopenia provide complementary information regarding vulnerability to surgical stress, but frailty should not be used as an automatic indication for treatment de-escalation. Rather, frailty screening should identify patients who require multidimensional geriatric assessment to characterize clinically relevant vulnerabilities and guide individualized preoperative management. This review proposes an optimization-based framework for individualized surgical decision-making in older adults with early colorectal cancer. Patients with evidence of geriatric vulnerability should undergo comprehensive geriatric assessment, including evaluation of functional independence, physical performance, muscle strength, nutritional status, comorbidity, medication burden, cognition, and social support. When oncologically safe, a time-limited period of individualized optimization, including exercise, nutritional intervention, medical optimization, medication review, and psychosocial support, may be considered before definitive surgical planning. Reassessment should emphasize the direction of change in functional reserve and recovery potential rather than categorical reversal of frailty. Patients with a favorable trajectory after optimization may remain candidates for guideline-concordant oncologic surgery. In contrast, persistently limited reserve should prompt multidisciplinary and shared decision-making that considers tumor-specific oncologic benefit, functional consequences, competing mortality, and patient priorities. This approach reframes frailty assessment from static risk prediction toward an individualized, optimization-based strategy while preserving oncologic principles."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43097073/",
+   "doi": "https://doi.org/10.1007/s13304-026-02979-y",
+   "data": "2026-11-26T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43095929",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Discrete prognostic Implications of the prognostic nutritional index in surgically treated locally advanced tongue cancer",
+   "revista": "Acta Otolaryngol",
+   "autores": "Jung JH, Moon HH, Han SH et al.",
+   "tipo_estudo": "",
+   "destaque": "NLR negatively correlated with survival duration (ρ = -0.209; p = 0.011). PNI and NLR may be useful prognostic biomarkers, particularly in sarcopenic patients.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Advanced tongue cancer is associated with malnutrition. This study evaluated the prognostic significance of the prognostic nutritional index (PNI), neutrophil-to-lymphocyte ratio (NLR), and sarcopenia in surgically treated locally advanced tongue cancer."
+    },
+    {
+     "rotulo": "Aims/Objectives",
+     "texto": "To investigate associations among PNI, NLR, sarcopenia, and survival outcomes."
+    },
+    {
+     "rotulo": "Material And Methods",
+     "texto": "Patients with pathologic T3-T4 tongue squamous cell carcinoma who underwent curative surgery between 2010 and 2022 were retrospectively reviewed. Preoperative PNI and NLR were calculated from laboratory data. Sarcopenia was assessed using skeletal muscle index at the C3 level on CT or PET/CT. Overall survival (OS) and disease-free survival (DFS) were analyzed using Kaplan-Meier and Cox regression analyses."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Among 152 patients, low PNI (HR, 1.789; 95% CI, 1.417-2.692; p = 0.010) and high NLR (HR, 1.558; 95% CI, 1.067-2.010; p = 0.047) were associated with worse OS. Sarcopenia was not significantly associated with OS or DFS. Among patients with sarcopenia, low PNI (HR, 2.918; 95% CI, 1.194-7.134; p = 0.019) and high NLR (HR, 2.107; 95% CI, 1.094-4.470; p = 0.047) were associated with poorer OS. NLR negatively correlated with survival duration (ρ = -0.209; p = 0.011)."
+    },
+    {
+     "rotulo": "Conclusion And Significance",
+     "texto": "PNI and NLR may be useful prognostic biomarkers, particularly in sarcopenic patients."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43095929/",
+   "doi": "https://doi.org/10.1080/00016489.2026.2751780",
+   "data": "2026-11-26T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43095653",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Real-World Effectiveness of Semaglutide and Tirzepatide Versus Metformin for Adults on Antipsychotics",
+   "revista": "Obes Sci Pract",
+   "autores": "Chao AM, Wu M, Tong J et al.",
+   "tipo_estudo": "",
+   "destaque": "Semaglutide and tirzepatide were associated with substantially greater weight loss than metformin in adults taking antipsychotics. Improving medication continuity may enhance treatment effectiveness in this population.",
+   "resumo": [
+    {
+     "rotulo": "Objective",
+     "texto": "Evidence for glucagon-like peptide-1 receptor agonists (GLP-1s) to treat antipsychotic-associated weight gain is limited. A comparison of 52-week weight loss with semaglutide/tirzepatide versus metformin in adults taking antipsychotics was conducted using nationwide electronic health record data."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A retrospective cohort study was conducted using the Truveta database. Inverse probability of treatment weighting was used to compare the percent initial weight loss between GLP-1 and metformin users. Weight loss by diabetes status, antipsychotic type, medication adherence, and type of GLP-1 medication (semaglutide vs. tirzepatide) was evaluated."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The cohort included 10,424 adults initiating semaglutide or tirzepatide and 22,788 initiating metformin while taking antipsychotics. Mean weight change was -7.5% ± 0.1% with GLP-1s versus -1.7% ± 0.1% with metformin (p < 0.001). GLP-1 users had greater odds of achieving ≥ 5%, ≥ 10%, and ≥ 15% weight loss across all subgroups. Weight loss was lower among individuals with diabetes, those taking olanzapine or clozapine, and those with lower medication adherence. Mean weight change was -10.6% ± 0.2% with tirzepatide versus -7.0% ± 0.2% with semaglutide (p < 0.001)."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Semaglutide and tirzepatide were associated with substantially greater weight loss than metformin in adults taking antipsychotics. Improving medication continuity may enhance treatment effectiveness in this population."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43095653/",
+   "doi": "https://doi.org/10.1002/osp4.70206",
+   "data": "2026-11-26T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43098204",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Fluctuations in international normalized ratio during co-administration of tirzepatide and warfarin within a left ventricular assist device population: Two case reports",
+   "revista": "J Am Pharm Assoc (2003)",
+   "autores": "Brown D, Russo K, Patino M et al.",
+   "tipo_estudo": "",
+   "destaque": "The INR fluctuations in both cases can be attributed to several pharmacokinetic and pharmacodynamic mechanisms at play during concomitant administration of tirzepatide and warfarin, including delayed gastric emptying, plasma protein displacement, appetite suppression, and weight loss. These case reports provide insight into the pharmacokinetic and pharmacodynamic interactions between tirzepatide and warfarin, which required significant dose reductions, as well as attention to external factors like drug shortages and concomitant antibiotic therapy, to maintain therapeutic INR.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Tirzepatide is a GLP-1/GIP receptor agonist that can improve glycemic control in patients with diabetes and promote weight loss in obesity, but its effect on medications requiring therapeutic drug monitoring, such as warfarin, has not been fully evaluated."
+    },
+    {
+     "rotulo": "Objectives",
+     "texto": "Limited studies examine INR fluctuations using pharmacokinetic models or in vivo INR values in patients concomitantly taking tirzepatide and warfarin, though case reports suggest potential indirect impact on INR trends. Further evidence of the drug interaction between glucagon-like peptide 1 (GLP-1)/glucose-dependent insulinotropic polypeptide (GIP) agonists and warfarin is necessary."
+    },
+    {
+     "rotulo": "Case Summary",
+     "texto": "The use of the GLP-1/GIP agonist tirzepatide is increasing due to its robust efficacy in weight loss and cardiometabolic risk reduction. However, drug interactions resulting from its pharmacologic effects have not been thoroughly evaluated. Warfarin is an anticoagulant with a narrow therapeutic index that requires therapeutic drug monitoring. While warfarin prescribing has decreased due to increased affordability of direct oral anticoagulants (DOACs), it is the most efficacious oral option for anticoagulation for certain populations, including those with left ventricular assist devices (LVAD). This manuscript describes two cases of LVAD patients enrolled in a pharmacist-run anticoagulation clinic who required significant warfarin dose adjustments after tirzepatide initiation. In tandem with the INR challenges coinciding with tirzepatide dose titrations and desired weight loss, these cases highlight real-world issues that impact patient care and warfarin management, including therapy lapses due to prior authorization requirements, antibiotic drug interactions commonly used to treat LVAD driveline infection, and fluctuating dietary vitamin K intake due to drastic appetite suppression with tirzepatide."
+    },
+    {
+     "rotulo": "Practice Implications",
+     "texto": "The INR fluctuations in both cases can be attributed to several pharmacokinetic and pharmacodynamic mechanisms at play during concomitant administration of tirzepatide and warfarin, including delayed gastric emptying, plasma protein displacement, appetite suppression, and weight loss. These case reports provide insight into the pharmacokinetic and pharmacodynamic interactions between tirzepatide and warfarin, which required significant dose reductions, as well as attention to external factors like drug shortages and concomitant antibiotic therapy, to maintain therapeutic INR."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43098204/",
+   "doi": "https://doi.org/10.1016/j.japh.2026.103614",
+   "data": "2026-11-26T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43096694",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "From GLP-1 Receptor Agonism to Multi-Receptor Targeting in Kidney Disease",
+   "revista": "Nephrol Dial Transplant",
+   "autores": "Iglesias P, Iglesias I",
+   "tipo_estudo": "",
+   "destaque": "Third, how kidney function should be assessed during pharmacological weight loss, when changes in muscle and fat mass may bias creatinine- and cystatin C-based estimates. We propose a receptor-based hierarchy of evidence as a hypothesis-generating framework and identify the trials and kidney metrics needed to test it.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Glucagon-like peptide-1 (GLP-1) receptor agonists are established kidney-protective therapy in type 2 diabetes with chronic kidney disease, and co-agonists and multi-agonists that also target the glucose-dependent insulinotropic polypeptide (GIP) and glucagon receptors are advancing. Most reviews address these agents as a single class. This narrative review examines the three receptors separately, distinguishing the renal efficacy of a molecule from the causal contribution attributable to each of its receptor targets, and addresses three questions. First, what is known about the renal actions of each receptor: GLP-1 receptor agonism is the only receptor profile for which a drug (semaglutide) has shown kidney benefit in a dedicated outcome trial (FLOW), although the receptor-specific mechanism in humans is not established, as natriuresis is acute, not sustained, and hemodynamic effects are context-dependent; no GIP receptor-specific renal signature has been established in humans; and glucagon receptor signaling appears bidirectional, with potentially protective tubular actions coexisting with a risk of hyperfiltration. Second, whether co-agonists and multi-agonists provide kidney benefit beyond GLP-1 receptor agonism alone: tirzepatide consistently reduces albuminuria and was associated with fewer major kidney events than dulaglutide in an exploratory analysis of SURPASS-CVOT, driven largely by new-onset macroalbuminuria, and glucagon-containing agents show early albuminuria signals, but no design isolates a receptor-specific contribution and none has been tested in a dedicated kidney outcome trial. Third, how kidney function should be assessed during pharmacological weight loss, when changes in muscle and fat mass may bias creatinine- and cystatin C-based estimates. We propose a receptor-based hierarchy of evidence as a hypothesis-generating framework and identify the trials and kidney metrics needed to test it."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43096694/",
+   "doi": "https://doi.org/10.1093/ndt/gfag270",
+   "data": "2026-11-26T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43098607",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Social determinants of health and well-being in the general population of Jordan: A PLS-SEM analysis of psychological distress and health behavior pathways",
+   "revista": "Arch Psychiatr Nurs",
+   "autores": "Shdaifat E, Harb EM, Shudayfat T et al.",
+   "tipo_estudo": "",
+   "destaque": "SDOH influences well-being indirectly by affecting psychological distress and health behaviors. Addressing social conditions alongside mental health and lifestyle factors is crucial to enhance overall population well-being.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "This study examined the impact of social determinants of health (SDOH) on well-being in the general population and assessed whether psychological distress and health behaviors mediate this relationship. This cross-sectional study was conducted in central Jordan using an online survey of adults. Individuals with diagnosed mental or psychiatric disorders were excluded. The final sample (N = 262) was slightly below the target (N = 295); however, post-hoc power analysis confirmed adequate statistical power (1 - β = 0.78). Data were gathered using validated instruments to assess SDOH (PRAPARE), psychological distress (K6), health behaviors, and flourishing. Partial Least Squares Structural Equation Modeling (PLS-SEM) was used to analyze direct and indirect relationships. Psychological distress negatively predicted flourishing, while healthy lifestyle behaviors positively predicted flourishing. SDOH influenced flourishing indirectly through distress and health behaviors, with full mediation confirmed. Age did not significantly moderate relationships, except for the marginal effect of health behaviors among younger adults. SDOH influences well-being indirectly by affecting psychological distress and health behaviors. Addressing social conditions alongside mental health and lifestyle factors is crucial to enhance overall population well-being."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43098607/",
+   "doi": "https://doi.org/10.1016/j.apnu.2026.152260",
+   "data": "2026-11-26T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43098605",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "A multifaceted approach to mitigating psychiatric nurse burnout: Exercise, journaling, and virtual reality",
+   "revista": "Arch Psychiatr Nurs",
+   "autores": "Holland L",
+   "tipo_estudo": "",
+   "destaque": "Findings suggest that mindfulness interventions can effectively reduce burnout symptoms among psychiatric RNs. Though further research with larger, more diverse samples is recommended, the project findings support the integration of structured mindfulness programs to promote nurse well-being and prevent burnout symptoms.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Occupational burnout among registered nurses (RNs) is a critical issue that affects job satisfaction, retention, and overall well-being. This quality improvement project assessed whether participation in an intentional mindfulness program could reduce burnout symptoms among psychiatric RNs. A quasi-experimental, pre-post design was conducted with 21 psychiatric RNs working in a 25-bed acute care psychiatric unit at a Midwestern hospital. Participants engaged in mindfulness practices including exercise, journaling, and virtual reality at least three times per week for eight weeks. Burnout symptoms were measured using the Maslach Burnout Inventory (MBI). Due to attrition, results included 17 paired-sample t-tests finding statistically significant improvements (p < 0.001) across all three MBI domains: (a) emotional exhaustion +0.98, (b) personal accomplishment -0.66, and (c) depersonalization +0.60. Findings suggest that mindfulness interventions can effectively reduce burnout symptoms among psychiatric RNs. Though further research with larger, more diverse samples is recommended, the project findings support the integration of structured mindfulness programs to promote nurse well-being and prevent burnout symptoms."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43098605/",
+   "doi": "https://doi.org/10.1016/j.apnu.2026.152264",
+   "data": "2026-11-26T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43097529",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "A Multilevel Investigation of the Antecedents of Employee Sleep Quality: The Effects of Role Stressors, Affective Rumination and Servant Leadership",
+   "revista": "Stress Health",
+   "autores": "Lin L, Hai S, Chen Q et al.",
+   "tipo_estudo": "",
+   "destaque": "Moreover, servant leadership was found to buffer the negative effects of role overload and role conflict on employees' affective rumination. The current findings help to illustrate the psychological mechanism underlying the association between role stressors and employee sleep quality and found servant leadership as a novel protective factor, and provide empirical evidence for designing targeted organizational interventions and management practices to promote employees' sleep and well-being.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Sleep, as a vital dimension of human well-being, is critical for the development of individuals, organisations and society. Existing literature has paid limited attention to role stressor as an antecedent of employee sleep quality. The present research explored the effects of role stressors (role overload and role conflict) on employee sleep quality and the potential mediator role of affective rumination and the potential moderating effect of servant leadership at both inter-individual level and intra-individual level by a daily dairy study (118 participants with 983 observations) and a time-lagged, three-wave study (284 employees). The results revealed that role overload and role conflict had an indirect effect on sleep quality through affective rumination both at the within-person and the between-person levels. Moreover, servant leadership was found to buffer the negative effects of role overload and role conflict on employees' affective rumination. The current findings help to illustrate the psychological mechanism underlying the association between role stressors and employee sleep quality and found servant leadership as a novel protective factor, and provide empirical evidence for designing targeted organizational interventions and management practices to promote employees' sleep and well-being."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43097529/",
+   "doi": "https://doi.org/10.1002/smi.70244",
+   "data": "2026-11-26T00:00:00+00:00",
+   "temas": [
+    "cognicao",
+    "estresse"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43094079",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Causal Computational Modeling of Interpersonal Autonomic Synchrony Reveals the Bidirectional Influence of Dyadic Emotional Co-Regulation During Stress",
+   "revista": "Psychophysiology",
+   "autores": "Maffei A, Del Popolo Cristaldi F, Sessa P et al.",
+   "tipo_estudo": "",
+   "destaque": "In romantic couples, low personal distress in the Observer fostered co-regulation, whereas in strangers, higher personal distress facilitated synchronization. In conclusion, this new computational framework provides a robust tool for quantifying bidirectional physiological synchrony and offers mechanistic insights into how social relationships promote emotional co-regulation and allostatic balance during stress.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Interpersonal physiological synchrony (IPS) is a promising field of investigation for understanding complex inter-individual processes involved with behavioral and emotional co-regulation. Nonetheless, advancement in this area has been halted by the lack of a robust framework for a precise quantification of IPS, with the majority of research relying on model-free correlational approaches lacking the theoretical and computational foundations necessary to capture the bidirectional and causal nature of these interactions. This study introduces a novel, physiologically-grounded computational model based on coupled integral pulse frequency modulation model and Granger-causality-based estimates to quantify time-resolved, directional autonomic interactions between subjects. The model was validated using a dyadic version of the Trier Social Stress Test (TSST), involving 141 dyads where one participant was actively involved in the stress task (target) and the other participant (observer) sat next to them acting as a source of passive support. Results show that significant synchronization occurs primarily within the parasympathetic component of autonomic nervous system activity. During acute stress, the directional coupling strength from the Target to the Observer (IPSTRG → OBS) decreased, reflecting the target's physiological recruitment and allostatic upregulation to cope with the stressor. Conversely, the coupling strength from the Observer to the Target (IPSOBS → TRG) increased, suggesting that emotional contagion and the Observer's vicarious arousal may drive the dyadic system toward a state of efficient co-regulation. Exploratory analyses further revealed that individual differences in trait empathy, specifically personal distress, differentially moderate these dynamics based on relationship type. In romantic couples, low personal distress in the Observer fostered co-regulation, whereas in strangers, higher personal distress facilitated synchronization. In conclusion, this new computational framework provides a robust tool for quantifying bidirectional physiological synchrony and offers mechanistic insights into how social relationships promote emotional co-regulation and allostatic balance during stress."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43094079/",
+   "doi": "https://doi.org/10.1111/psyp.70469",
+   "data": "2026-11-26T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43098317",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Antidepressants counteract the alteration in the lipidome of the zebrafish brain and muscle induced by chronic stress",
+   "revista": "Biochim Biophys Acta Mol Cell Biol Lipids",
+   "autores": "Pinto B, de Angelis CF, Domingues P et al.",
+   "tipo_estudo": "",
+   "destaque": "In muscle, lipidomic modulation was characterized by reduced fatty acylcarnitine (CAR) levels and alterations in sphingolipid metabolism, indicating effects on peripheral energy homeostasis and inflammation. Both treatments consistently attenuated stress-induced lipid remodeling, supporting a role for lipid metabolism in antidepressant responses beyond classical monoaminergic mechanisms.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Major depressive disorder (MDD) is a highly prevalent disease, for which unpredictable chronic stress (UCS) is a well-established model for animal studies, including zebrafish. Previous lipidomic studies identified alterations in the zebrafish brain lipidome, suggesting that lipid remodeling is involved in MDD pathophysiology. In this study, we aimed to investigate whether antidepressant treatment can counteract these stress-induced lipid alterations, using fluoxetine (FLU) and nortriptyline (NOR), two widely prescribed antidepressants. Adult male zebrafish were assigned to six experimental groups (n = 5/group): control (CTL), CTL-FLU, CTL-NOR, UCS, UCS-FLU, and UCS-NOR. The fish were exposed to UCS for 7 days, with the treated groups receiving FLU or NOR (0.01 mg/L) during the UCS exposure. After this period, behavioral assessment, cortisol quantification, and lipidomic analysis of brain and muscle were performed. Antidepressants attenuated UCS-induced behavioral impairments, restoring locomotor activity and anxiety-like responses to levels comparable to CTL. Antidepressant treatment also reduced cortisol levels, indicating attenuation of stress-axis activation. Lipidomic analyses of the brain revealed a pronounced response to treatment, with restored levels of several lipid classes, including plasmalogens, endogenous antioxidant molecules, whose increase under UCS may reflect enhanced oxidative stress, as well as phosphatidylinositol (PI) and phosphatidylserine (PS) species involved in neuronal signaling and synaptic plasticity. In muscle, lipidomic modulation was characterized by reduced fatty acylcarnitine (CAR) levels and alterations in sphingolipid metabolism, indicating effects on peripheral energy homeostasis and inflammation. Both treatments consistently attenuated stress-induced lipid remodeling, supporting a role for lipid metabolism in antidepressant responses beyond classical monoaminergic mechanisms."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43098317/",
+   "doi": "https://doi.org/10.1016/j.bbalip.2026.159784",
+   "data": "2026-11-26T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43098872",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Stress-Induced Astrocytic ABCA1 Deficiency Caused Cholesterol Accumulation to Promote Synaptic Dysregulation and Behavioral Abnormalities",
+   "revista": "Adv Sci (Weinh)",
+   "autores": "Chang M, Zhao Y, Li Y et al.",
+   "tipo_estudo": "",
+   "destaque": "Pharmacological LXR activation and cyclodextrin-mediated cholesterol reduction produced complementary improvements. Together, these findings identify impaired cholesterol handling in in dorsal CA1 astrocytes as a mechanistic link connecting chronic stress, neuroinflammation, and neuronal dysfunction, suggest that restoring astrocytic cholesterol homeostasis may mitigate depression-related pathology.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Astrocytes supply cholesterol to neurons to support synaptic function, but how chronic stress disrupts this metabolic interaction remains unclear. Single-nucleus RNA sequencing revealed reduced ATP-binding cassette transporter A1 (ABCA1) expression in hippocampal astrocytes of mice exposed to chronic unpredictable mild stress (CUMS). Chronic stress was also associated with reduced astrocytic liver X receptor (LXR) protein, cholesterol accumulation, inflammatory astrocyte reactivity, impaired dorsal Cornu Ammonis 1 (CA1) synaptic transmission and neuronal excitability, and depression-like behaviors. Astrocyte-targeted ABCA1 overexpression ameliorated these metabolic, inflammatory, electrophysiological, and behavioral disorders. Conversely, astrocytic LXRα/β knockdown or pharmacological LXR inhibition reduced ABCA1 expression and reproduced key stress-associated phenotypes. Restoring ABCA1 expression substantially reversed the abnormalities induced by astrocytic LXRα/β knockdown, supporting ABCA1 as an important functional mediator of LXR-associated dysfunction. Pharmacological LXR activation and cyclodextrin-mediated cholesterol reduction produced complementary improvements. Together, these findings identify impaired cholesterol handling in in dorsal CA1 astrocytes as a mechanistic link connecting chronic stress, neuroinflammation, and neuronal dysfunction, suggest that restoring astrocytic cholesterol homeostasis may mitigate depression-related pathology."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43098872/",
+   "doi": "https://doi.org/10.1002/advs.78658",
+   "data": "2026-11-26T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43098664",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Association of Burnout With Interpersonal Caring Behavior Among Hemodialysis Nurses: Indirect Association Through Job Autonomy",
+   "revista": "Hemodial Int",
+   "autores": "Park S, Shim J",
+   "tipo_estudo": "",
+   "destaque": "Burnout and job autonomy were associated with interpersonal caring behavior, including a modest indirect association through autonomy. Our findings suggest that burnout and job autonomy may be relevant organizational factors associated with relationship-based care in dialysis settings.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Hemodialysis nurses work in a specialized care environment that requires sustained clinical vigilance and ongoing therapeutic engagement with patients receiving long-term treatment. Burnout may compromise these interactions, and job autonomy may influence nurses' ability to provide relationship-based care."
+    },
+    {
+     "rotulo": "Objectives",
+     "texto": "To examine the association between burnout and interpersonal caring behavior and the indirect association through job autonomy among hemodialysis nurses."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "In this cross-sectional survey, 201 nurses from 3 general hospitals and 16 dialysis clinics in South Korea completed validated self-report measures between October 28 and December 30, 2025. Associations were examined using correlations and covariate-adjusted PROCESS Model 4 analysis with 5000 bootstrap resamples."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Burnout was negatively correlated with interpersonal caring behavior (r = -0.34, p < 0.001) and job autonomy (r = -0.40, p < 0.001); job autonomy was positively correlated with caring behavior (r = 0.35, p < 0.001). After adjustment for age, job position, total clinical experience, and hemodialysis-unit experience, burnout was associated with lower job autonomy (B = -0.77, p < 0.001), and autonomy was associated with higher caring behavior (B = 0.11, p = 0.028). The direct association between burnout and caring behavior remained significant (B = -0.37, p = 0.001). The bootstrapped indirect association was statistically significant (95% CI [-0.124, -0.005]); the outcome model explained 59.4% of the variance in caring behavior."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Burnout and job autonomy were associated with interpersonal caring behavior, including a modest indirect association through autonomy. Our findings suggest that burnout and job autonomy may be relevant organizational factors associated with relationship-based care in dialysis settings."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43098664/",
+   "doi": "https://doi.org/10.1111/hdi.70138",
+   "data": "2026-11-26T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43098349",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Respiratory Therapists' Intentions to Leave their Current Position",
+   "revista": "Chest",
+   "autores": "Miller AG, Burr Dsl K, Emberger J et al.",
+   "tipo_estudo": "",
+   "destaque": "Over half of RTs had an intention to leave. Emotional exhaustion, incivility, leadership, staffing, workload, hours worked in the ICU, bachelor's degree, and perceived value were all associated with intent to leave while hours worked, and patient population were not associated with intent to leave.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Many respiratory therapy departments face staffing shortages with high turnover rates. What drives turnover among respiratory therapists (RTs) is unclear."
+    },
+    {
+     "rotulo": "Research Question",
+     "texto": "What variables are associated with RT's intention to leave their current position."
+    },
+    {
+     "rotulo": "Study Design And Methods",
+     "texto": "We performed a planned secondary analysis of a multicenter, multinational study of RT burnout. We compared those with an intent to leave score ≥ 50 to those with a score < 50 and report odds ratios OR with 95% confidence intervals (CI) using univariable logistic regression."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "We received 1,014 responses and 536 (53%) had an intention to leave score ≥ 50. Statistically significant factors associated with intention to leave included: emotional exhaustion (OR 13.2), felt other RTs were burned out (OR 6.4), felt their workload was too high (OR 3.9), exposure to incivility (OR 3.4), unable to complete all their work (OR 2.4), inadequate staffing (OR 2.3), activities restricted due to illness (OR 2.0), worked 31-50 hours in the ICU (OR 1.6), bachelor's degree (OR 1.4) and missed work for any reason (OR 1.4). Statistically significant factors associated with low intention to leave included: felt valued by their organization (OR 0.1), a positive leadership score (OR 0.2), agreed their director/manager cared about them as a person (OR 0.2), satisfaction with total compensation (OR 0.3), < 2 years as an RT (OR 0.4), and spending their time performing high value activities (OR 0.6)."
+    },
+    {
+     "rotulo": "Interpretation",
+     "texto": "Over half of RTs had an intention to leave. Emotional exhaustion, incivility, leadership, staffing, workload, hours worked in the ICU, bachelor's degree, and perceived value were all associated with intent to leave while hours worked, and patient population were not associated with intent to leave."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43098349/",
+   "doi": "https://doi.org/10.1016/j.chest.2026.11.027",
+   "data": "2026-11-26T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43095743",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Patients' self-perceived awareness of drug-drug and drug-food interactions: A cross-sectional study in southern Saudi Arabia",
+   "revista": "Pak J Pharm Sci",
+   "autores": "Assiri AA",
+   "tipo_estudo": "",
+   "destaque": "Insufficient self-perceived awareness of DDIs/DFIs was substantial. Older age, rather than education, was the only independent correlate, suggesting the unadjusted education association may be age-confounded. Targeted, age-sensitive pharmacist-led counseling may improve medication safety. Findings are exploratory given reliance on a self-perceived measure.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Patients' self-perceived awareness of drug-drug interactions (DDIs) and drug-food interactions (DFIs) is important for medication safety, yet interaction-related counseling remains limited."
+    },
+    {
+     "rotulo": "Objectives",
+     "texto": "To assess patients' self-perceived awareness of DDIs/DFIs and identify sociodemographic correlates of insufficient awareness in tertiary outpatient pharmacies of southern Saudi Arabia."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "A cross-sectional survey was conducted at two tertiary hospitals over six months. Adults ≥18 years attending outpatient pharmacies were recruited via consecutive sampling. A structured, self-administered questionnaire, refined by expert review, collected data on demographics, awareness, attitudes and behaviors. Insufficient self-perceived awareness was defined a priori as a moderate, weak, or very weak rating on a five-point Likert scale. Internal consistency was assessed via Cronbach's alpha. Associations were examined using χ² with Cramer's V and multivariable logistic regression estimated adjusted odds ratios (aORs) with 95% confidence intervals (CIs)."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Of 401 patients approached, 353 consented; after excluding 12 records aged <18 years, 341 participants (52.8% female) formed the analytic sample. Overall, 22.3% (95% CI 18.2-27.0) reported insufficient awareness. Counseling on DDIs (7.6%) and DFIs (6.2%) was uncommon; DDIs (54.0%) and DFIs (51.3%) were the most frequent unclear topics. A two-item attitudinal subscale showed acceptable internal consistency (α = 0.75). After adjustment, only older age remained an independent predictor (aOR ≥51 vs 18-40 = 8.33, 95% CI 3.10-22.40), while education was not (aOR 1.11, 0.57-2.16)."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Insufficient self-perceived awareness of DDIs/DFIs was substantial. Older age, rather than education, was the only independent correlate, suggesting the unadjusted education association may be age-confounded. Targeted, age-sensitive pharmacist-led counseling may improve medication safety. Findings are exploratory given reliance on a self-perceived measure."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43095743/",
+   "doi": "https://doi.org/10.36721/PJPS/2026.40.15851.1",
+   "data": "2026-11-26T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43098587",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Mapping Amyloid Networks in Alzheimer's Disease: A High-Order Independent Component Analysis Approach to Gray and White Matter Pathology",
+   "revista": "Hum Brain Mapp",
+   "autores": "Khasayeva N, Jensen KM, Eierud C et al.",
+   "tipo_estudo": "",
+   "destaque": "GM networks, including the hippocampal-entorhinal complex and precuneus, and WM networks, including the retrolenticular internal capsule, demonstrated robust associations with cognitive performance. Our findings highlight the utility of high-order ICA in identifying reproducible Aβ networks and the contribution of WM networks, such as the posterior corpus callosum, in the early pathological landscape of AD.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Alzheimer's Disease (AD) is a neurodegenerative disorder marked by gray matter (GM) changes driven by amyloid-beta (Aβ) plaques and neurofibrillary tangles. While GM alterations are well documented, spatially distinct patterns of homogeneous Aβ uptake and white matter (WM) involvement remain underexplored. We applied high-order independent component analysis (ICA) to 716 [18F]Florbetapir PET scans, identifying 80 GM and 13 WM networks. Diagnostic and cognitive associations were evaluated via statistical modeling. Identified networks delineated a population-level gradient, wherein temporoparietal and frontal subdomains revealed early signs of transitions from mild cognitive impairment (MCI) toward AD. GM networks, including the hippocampal-entorhinal complex and precuneus, and WM networks, including the retrolenticular internal capsule, demonstrated robust associations with cognitive performance. Our findings highlight the utility of high-order ICA in identifying reproducible Aβ networks and the contribution of WM networks, such as the posterior corpus callosum, in the early pathological landscape of AD."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43098587/",
+   "doi": "https://doi.org/10.1002/hbm.70694",
+   "data": "2026-11-26T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
   },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261124055856-htm",
@@ -1936,6 +2930,41 @@
     "cognicao"
    ],
    "visto_em": "2026-11-26T10:54:57.560938+00:00"
+  },
+  {
+   "id": "pmid-43085992",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Comparative effectiveness of nutritional, exercise and combined interventions for sarcopenia-related outcomes in older adults with chronic kidney disease: a systematic review and network meta-analysis protocol",
+   "revista": "BMJ Open",
+   "autores": "Li J, Wang F, Deng F et al.",
+   "tipo_estudo": "",
+   "destaque": "The results of this systematic review will be disseminated through presentations at national and/or international conferences and publication in a peer-reviewed journal. CRD420261499848.",
+   "resumo": [
+    {
+     "rotulo": "Introduction",
+     "texto": "Sarcopenia-related decline in muscle strength, mass and physical performance is common and clinically important in older adults with chronic kidney disease (CKD). Nutritional, exercise and combined interventions may improve these outcomes but their comparative effectiveness remains uncertain. Existing evidence syntheses have largely focused on individual intervention types, haemodialysis populations or broader populations without CKD-specific comparisons. This systematic review and network meta-analysis (NMA) will address these gaps by comparing nutritional, exercise and combined interventions in older adults with CKD."
+    },
+    {
+     "rotulo": "Methods And Analysis",
+     "texto": "Randomised controlled trials evaluating nutritional, exercise or combined interventions in predominantly older adults with CKD will be identified through comprehensive searches of seven electronic databases: PubMed, Embase, CINAHL, the Cochrane Central Register of Controlled Trials (CENTRAL), Web of Science, China National Knowledge Infrastructure (CNKI) and Wanfang Data, as well as other relevant sources. The primary outcomes will comprise three domains: muscle strength, muscle mass and physical performance, with handgrip strength, appendicular skeletal muscle mass/mass index and gait speed prioritised, respectively. Risk of bias will be assessed using the Cochrane Risk of Bias 2 tool. Pairwise meta-analyses and frequentist random-effects NMA will be performed where clinically and methodologically appropriate. Separate networks will be constructed for each outcome domain. Transitivity, heterogeneity and network inconsistency will be assessed, and potential effect modifiers, including CKD and dialysis characteristics, baseline sarcopenia risk, intervention duration, nutritional dose and exercise intensity, will be explored where sufficient data are available. Treatment rankings will be assessed using P-scores alongside effect estimates and their uncertainty. Certainty of evidence will be evaluated using the Confidence in Network Meta-Analysis (CINeMA)."
+    },
+    {
+     "rotulo": "Ethics And Dissemination",
+     "texto": "Ethical approval is not required for this study, as it will use data from previously published literature. The results of this systematic review will be disseminated through presentations at national and/or international conferences and publication in a peer-reviewed journal."
+    },
+    {
+     "rotulo": "Prospero Registration Number",
+     "texto": "CRD420261499848."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43085992/",
+   "doi": "https://doi.org/10.1136/bmjopen-2026-128153",
+   "data": "2026-11-25T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-27T10:51:19.087319+00:00"
   },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261123005337-htm",
@@ -5110,7 +6139,7 @@
    "titulo": "Cancer risk with glucagon-like peptide-1 receptor agonists: An umbrella review of meta-analyses",
    "revista": "Cancer Epidemiol",
    "autores": "Petrelli F, Meregalli G, Berzi D et al.",
-   "tipo_estudo": "Revisão",
+   "tipo_estudo": "Meta-análise",
    "destaque": "Randomised evidence shows no evidence of a material increase in overall or site-specific cancer risk over currently observed trial durations (median about 70 weeks, maximum about 5 years), and cancer concerns alone do not justify withholding indicated GLP-1RA treatment. Small, rare, long-latency, dose-specific, or agent-specific effects cannot be excluded, and the evidence cannot address exposure beyond approximately five years, well short of the 8-10 years generally required to evaluate cancer incidence. Observational protective associations should not support causal or cancer-prevention claims.",
    "resumo": [
     {
@@ -20529,49 +21558,6 @@
    "visto_em": "2026-11-05T21:02:06.788010+00:00"
   },
   {
-   "id": "pmid-42976604",
-   "fonte": "PubMed",
-   "tipo_fonte": "artigo",
-   "titulo": "Job burnout, nurse empowerment, and job performance among emergency nurses: the moderating role of work environmente",
-   "revista": "Int Emerg Nurs",
-   "autores": "Alzoubi M, Hani MB, Salameh AB et al.",
-   "tipo_estudo": "",
-   "destaque": "This study provides evidence on the relationships among job burnout, nurse empowerment, work environment, and job performance within the Jordanian emergency nursing context. The findings suggest that the work environment may influence the strength or direction of the relationships between burnout, empowerment, and job performance.",
-   "resumo": [
-    {
-     "rotulo": "Background",
-     "texto": "Nurses' job performance is an important component of effective healthcare delivery. Job burnout, nurse empowerment, and the work environment have been identified as organizational and psychological factors associated with nurses' work outcomes. However, evidence regarding the interplay among these factors within the Jordanian emergency nursing context remains limited."
-    },
-    {
-     "rotulo": "Aim",
-     "texto": "To examine the moderating effect of the work environment on the relationships between job burnout, nurse empowerment, and job performance among Jordanian emergency nurses."
-    },
-    {
-     "rotulo": "Study Design",
-     "texto": "A descriptive cross-sectional survey design was employed. A target sample size of 384 participants was calculated using Krejcie and Morgan's formula at a 95% confidence level. Data were collected using a structured questionnaire."
-    },
-    {
-     "rotulo": "Results",
-     "texto": "Job burnout and nurse empowerment were significantly associated with job performance. The work environment also demonstrated a significant moderating effect on the relationships between job burnout, nurse empowerment, and job performance."
-    },
-    {
-     "rotulo": "Conclusion",
-     "texto": "This study provides evidence on the relationships among job burnout, nurse empowerment, work environment, and job performance within the Jordanian emergency nursing context. The findings suggest that the work environment may influence the strength or direction of the relationships between burnout, empowerment, and job performance."
-    },
-    {
-     "rotulo": "Relevance To Clinical Practice",
-     "texto": "The findings suggest that nurses' work outcomes should be considered within the broader organizational context. Healthcare managers may benefit from considering nurses' experiences of burnout, empowerment, and workplace conditions when developing strategies to support nursing performance and well-being. However, the findings should be interpreted cautiously and require confirmation through longitudinal and intervention-based studies."
-    }
-   ],
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42976604/",
-   "doi": "https://doi.org/10.1016/j.ienj.2026.101920",
-   "data": "2026-11-03T00:00:00+00:00",
-   "temas": [
-    "estresse"
-   ],
-   "visto_em": "2026-11-05T21:02:06.788010+00:00"
-  },
-  {
    "id": "pmid-42973065",
    "fonte": "PubMed",
    "tipo_fonte": "artigo",
@@ -20992,29 +21978,6 @@
    "visto_em": "2026-11-05T21:02:06.788010+00:00"
   },
   {
-   "id": "pmid-42970690",
-   "fonte": "PubMed",
-   "tipo_fonte": "artigo",
-   "titulo": "Lifetime stressor exposure is associated with altered trust formation and social learning in dynamic interactions",
-   "revista": "Proc Natl Acad Sci U S A",
-   "autores": "Nitschke JP, Mikus N, Scanferla L et al.",
-   "tipo_estudo": "",
-   "destaque": "These findings provide novel evidence that lifetime stress is associated with a profile consistent with recalibration, rather than a degradation, of the cognitive mechanisms underlying trust, with potential consequences for relationship formation and social functioning. They also provide a computationally grounded framework for understanding associations between adversity and social cognition and generate testable predictions for future experimental work.",
-   "resumo": [
-    {
-     "rotulo": "",
-     "texto": "Although trust is fundamental to social interactions, how lifetime stressor exposure relates to the cognitive processes underlying trust remains poorly understood. Using the Stress and Adversity Inventory (STRAIN) to assess cumulative lifetime stressor exposure, combined with an adaptation of the repeated trust game and computational modeling (Hierarchical Gaussian Filtering), we investigated how stressors experienced over the life course relate to three core aspects of trust dynamics-initial trust formation, learning about others' intentions, and adaptation to changes in trustworthiness-in 168 adults. Greater lifetime stress was associated with stronger negativity biases, lower initial trust, and heightened uncertainty about others' intentions, increases that were general rather than specific to partner type. These more pessimistic priors were not accompanied by poorer reading of partners: Higher lifetime stress was associated with greater differentiation between prosocial and selfish trustees, driven by reduced investment in the selfish trustee alone. Computational analyses further indicated greater belief volatility, consistent with faster model-implied updating of perceived trustworthiness. These findings provide novel evidence that lifetime stress is associated with a profile consistent with recalibration, rather than a degradation, of the cognitive mechanisms underlying trust, with potential consequences for relationship formation and social functioning. They also provide a computationally grounded framework for understanding associations between adversity and social cognition and generate testable predictions for future experimental work."
-    }
-   ],
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42970690/",
-   "doi": "https://doi.org/10.1073/pnas.2608572123",
-   "data": "2026-11-02T00:00:00+00:00",
-   "temas": [
-    "estresse"
-   ],
-   "visto_em": "2026-11-05T21:02:06.788010+00:00"
-  },
-  {
    "id": "pmid-42969033",
    "fonte": "PubMed",
    "tipo_fonte": "artigo",
@@ -21115,64 +22078,6 @@
    "data": "2026-11-01T00:00:00+00:00",
    "temas": [
     "sarcopenia"
-   ],
-   "visto_em": "2026-11-05T21:02:06.788010+00:00"
-  },
-  {
-   "id": "pmid-42967837",
-   "fonte": "PubMed",
-   "tipo_fonte": "artigo",
-   "titulo": "Establishing the Structural Validity, Language-Based Performance, and Convergent Validity of the Caregiver Strain Questionnaire-Short Form 11 Within a Latinx Sample",
-   "revista": "Fam Process",
-   "autores": "Vázquez AL, Navarro Flores CM, Domenech Rodríguez MM et al.",
-   "tipo_estudo": "",
-   "destaque": "Finally, we provide evidence of convergent validity through associations between the CGSQ-SF11 global scale and measures of youth internalizing and externalizing problems. Our findings support the use of CGSQ-SF11 English and Spanish language forms with Latinx caregivers.",
-   "resumo": [
-    {
-     "rotulo": "",
-     "texto": "Caregiver strain or stress resulting from caring for a child with emotional/behavioral problems-can negatively impact the psychological health of caregivers and may underly decisions to seek mental health services for their youth. The Caregiver Strain Questionnaire-Short Form 11 (CGSQ-SF11) was developed to assess caregiver strain, but a Spanish language form has yet to be evaluated, limiting its utility with Latinx families. This study evaluated the CGSQ-SF11 as a tool for assessing caregiver strain among Latinx caregivers. The sample included 511 Latinx caregivers of youths aged 6-18 who self-selected into English (n = 275) or Spanish (n = 236) questionnaires. In general, caregivers reported moderate levels of caregiver strain, and caregivers who completed the Spanish survey reported significantly lower youth mental health problem severity and caregiver strain relative to those in the English survey. Confirmatory factor analyses suggest that a three-factor structure fit the data better (i.e., objective, subjective internalized, and subjective externalized strain) than a global factor. However, a bifactor model suggested that the variance in the total score was best represented by a unidimensional structure. The CGSQ-SF11 achieved metric invariance, which suggests that the latent variable and strength of factor loadings for the global scale were similar across language forms. Finally, we provide evidence of convergent validity through associations between the CGSQ-SF11 global scale and measures of youth internalizing and externalizing problems. Our findings support the use of CGSQ-SF11 English and Spanish language forms with Latinx caregivers."
-    }
-   ],
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42967837/",
-   "doi": "https://doi.org/10.1111/famp.70213",
-   "data": "2026-11-01T00:00:00+00:00",
-   "temas": [
-    "estresse"
-   ],
-   "visto_em": "2026-11-05T21:02:06.788010+00:00"
-  },
-  {
-   "id": "pmid-42966966",
-   "fonte": "PubMed",
-   "tipo_fonte": "artigo",
-   "titulo": "First evidence of an association between alexithymia and reduced humoral immunity following COVID-19 vaccination, independent of insomnia and metabolic factors in healthcare workers",
-   "revista": "Metabol Open",
-   "autores": "Petropoulou D, Petropoulou G, Karampela I et al.",
-   "tipo_estudo": "",
-   "destaque": "Alexithymia and insomnia are independently associated with lower anti-S IgG concentrations in healthcare workers. Although these concentrations correlate with neutralizing activity, neutralization and clinical protection were not directly assessed in this study. Nevertheless, these findings suggest that alexithymia may represent an underrecognized psychosomatic correlate of post-vaccination antibody responses, meriting further investigation as a potential marker of variation in vaccine responses and protection. Prospective studies should determine whether the observed association extends to neutralizing activity or clinical protection.",
-   "resumo": [
-    {
-     "rotulo": "Introduction",
-     "texto": "Psychological factors have been increasingly implicated in immune regulation; however, the role of emotional awareness in shaping vaccine responses remains unexplored. Alexithymia, characterized by the difficulty in identifying and describing emotions, represents a psychosomatic construct associated with chronic stress physiology and immune dysregulation. This study investigated for the first time whether alexithymia, alongside other psychological factors, is associated with vaccine-induced humoral immunity, especially serum SARS-CoV-2 anti-Spike (anti-S) IgG concentrations following vaccination."
-    },
-    {
-     "rotulo": "Methods",
-     "texto": "In this cross-sectional study, 198 healthcare workers who received the BNT162b2 mRNA vaccine were evaluated 4-6 months post-vaccination. Alexithymia was assessed using the Toronto Alexithymia Scale-20 (TAS-20), insomnia using the Athens Insomnia Scale, and anxiety/depression using Hamilton scales. Self-reported positive thinking was also assessed. Anti-S IgG concentrations against the receptor-binding domain (RBD) of the S1 subunit were quantified, and multivariable linear regression (stepwise method) analyses were performed adjusting for demographic, metabolic, inflammatory, and behavioral covariates."
-    },
-    {
-     "rotulo": "Results",
-     "texto": "Higher alexithymia (p = 0.002) and insomnia scores (p < 0.001) were independently associated with lower anti-S IgG concentrations after adjustment for vaccination doses, prior COVID-19 infection, BMI, interleukin-6 (IL-6), smoking, and alcohol consumption. Among alexithymia subscales, difficulty identifying and difficulty describing feelings, but not externally oriented thinking, were inversely associated with anti-S IgG concentrations. Participants who reported post-vaccination fever exhibited higher anti-S IgG concentrations and lower alexithymia scores; this retrospective finding is exploratory and does not establish a difference in inflammatory activation."
-    },
-    {
-     "rotulo": "Conclusion",
-     "texto": "Alexithymia and insomnia are independently associated with lower anti-S IgG concentrations in healthcare workers. Although these concentrations correlate with neutralizing activity, neutralization and clinical protection were not directly assessed in this study. Nevertheless, these findings suggest that alexithymia may represent an underrecognized psychosomatic correlate of post-vaccination antibody responses, meriting further investigation as a potential marker of variation in vaccine responses and protection. Prospective studies should determine whether the observed association extends to neutralizing activity or clinical protection."
-    }
-   ],
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42966966/",
-   "doi": "https://doi.org/10.1016/j.metop.2026.100515",
-   "data": "2026-11-01T00:00:00+00:00",
-   "temas": [
-    "estresse"
    ],
    "visto_em": "2026-11-05T21:02:06.788010+00:00"
   },
@@ -21447,52 +22352,6 @@
    "data": "2026-10-31T00:00:00+00:00",
    "temas": [
     "sarcopenia"
-   ],
-   "visto_em": "2026-11-05T21:02:06.788010+00:00"
-  },
-  {
-   "id": "pmid-42965871",
-   "fonte": "PubMed",
-   "tipo_fonte": "artigo",
-   "titulo": "Mental distress and healthcare utilisation among sami and non-sami adults: a prospective registry-linked cohort study utilising data from the SAMINOR 2 questionnaire survey and the Norwegian control and payment of health reimbursements database (2012-2022)",
-   "revista": "Int J Circumpolar Health",
-   "autores": "Engen T, Melhus M, Henriksen L et al.",
-   "tipo_estudo": "",
-   "destaque": "Comparable utilisation rates should not be interpreted as evidence of identical healthcare-seeking processes, as cultural, contextual, and structural factors may influence how individuals engage with healthcare services. Further research should explore pathways to healthcare among Sami and non-Sami populations.",
-   "resumo": [
-    {
-     "rotulo": "",
-     "texto": "Mental distress is associated increased healthcare utilisation, but little is known about whether the relationship between mental distress and use of health care services differs between Sami and non-Sami populations in Norway. The aim of this study was to investigate whether level of mental distress was associated with a different pattern of use of primary and specialised healthcare services among Sami and non-Sami populations. Data from the SAMINOR 2 Questionnaire Survey were linked to data from the Norwegian Control and Payout of Health Refunds Database and Statistics Norway. Level of mental distress based on the 10 items Hopkins Symptom Checklist was the primary exposure variable. Participants were categorised as Sami or non-Sami and stratified by sex. Primary and specialist healthcare utilisation, and the interaction between mental distress and ethnicity, were assessed by estimating incidence rates and incidence rate ratios from Negative binomial generalised linear models with a log link. The primary model was adjusted for age, years of education, and chronic conditions. Mental distress was associated with increased utilisation of both primary and specialist healthcare services across all ethnic and sex groups. Only minor differences in use of health care were observed between the two ethnic groups. Ethnicity did not significantly modify the associations between mental distress and use of health care. The association between mental distress and healthcare use was largely similar across ethnic groups after adjustment for covariates. Comparable utilisation rates should not be interpreted as evidence of identical healthcare-seeking processes, as cultural, contextual, and structural factors may influence how individuals engage with healthcare services. Further research should explore pathways to healthcare among Sami and non-Sami populations."
-    }
-   ],
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42965871/",
-   "doi": "https://doi.org/10.1080/22423982.2026.2757401",
-   "data": "2026-10-31T00:00:00+00:00",
-   "temas": [
-    "estresse"
-   ],
-   "visto_em": "2026-11-05T21:02:06.788010+00:00"
-  },
-  {
-   "id": "pmid-42963958",
-   "fonte": "PubMed",
-   "tipo_fonte": "artigo",
-   "titulo": "Distress, emotional well-being, and sleep quality in daily life: A dual-continuum perspective",
-   "revista": "Appl Psychol Health Well Being",
-   "autores": "You W, Zhao J, Liu S et al.",
-   "tipo_estudo": "",
-   "destaque": "The paths from emotional well-being to subsequent distress and sleep quality had 95% CrIs that included zero. The within-person measurement structure is consistent with a dual-continuum perspective on daily distress and emotional well-being.",
-   "resumo": [
-    {
-     "rotulo": "",
-     "texto": "We examined whether daily distress and emotional well-being form related but distinguishable dimensions, as suggested by a dual-continuum perspective, and how they relate to perceived sleep quality. Evening diaries assessed these variables in 831 university students over 14 days. Emotional well-being comprised positive affect and life satisfaction, whereas distress comprised emotional exhaustion, depressed affect, anxiety, and negative affect. Multilevel confirmatory factor analysis supported two correlated within-person higher order factors over a single higher order factor, with a factor correlation of -.501. A Bayesian multilevel vector autoregressive model of order 1 (VAR(1)) estimated adjacent-day associations. Higher-than-usual distress predicted lower subsequent emotional well-being (β = -.032, 95% credible interval [CrI] [-.053, -.012]). Distress predicted poorer perceived quality of the subsequent sleep episode (β = -.057, 95% CrI [-.078, -.037]), and sleep quality reported at the preceding diary occasion predicted lower current distress (β = -.024, 95% CrI [-.043, -.004]) and higher emotional well-being (β = .021, 95% CrI [.001, .040]). The paths from emotional well-being to subsequent distress and sleep quality had 95% CrIs that included zero. The within-person measurement structure is consistent with a dual-continuum perspective on daily distress and emotional well-being."
-    }
-   ],
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42963958/",
-   "doi": "https://doi.org/10.1111/aphw.70249",
-   "data": "2026-10-31T00:00:00+00:00",
-   "temas": [
-    "estresse"
    ],
    "visto_em": "2026-11-05T21:02:06.788010+00:00"
   },
@@ -22413,52 +23272,6 @@
    "visto_em": "2026-11-05T21:02:06.788010+00:00"
   },
   {
-   "id": "pmid-42954646",
-   "fonte": "PubMed",
-   "tipo_fonte": "artigo",
-   "titulo": "Lower and earlier diurnal cortisol signatures of psychological trauma versus comparable physiological stress: one day post-exposure",
-   "revista": "Stress",
-   "autores": "Huang J, Liu Y, Wang Y et al.",
-   "tipo_estudo": "",
-   "destaque": "Stillbirth was also exhibited associated with an earlier acrophase. Compared with comparable physiological delivery stress, stillbirth is linked to reduced total cortisol secretion, lower mean levels, and an advanced circadian phase in the acute postpartum period, suggesting that the psychological trauma of stillbirth may involve alterations in hypothalamic-pituitary-adrenal axis regulatory patterns and providing preliminary evidence for future work on early biological markers and supportive interventions.",
-   "resumo": [
-    {
-     "rotulo": "",
-     "texto": "Traumatic events engage stress physiology, with the hypothalamic-pituitary-adrenal axis and cortisol central to adaptation. In naturalistic trauma, physical injury and psychological distress often co-occur, complicating interpretation of acute cortisol changes. Stillbirth offers a natural contrast: it is physiologically similar to live birth but constitutes traumatic bereavement. This study tested whether psychological trauma elicited by stillbirth is associated with acute alterations in diurnal cortisol rhythm versus comparable physiological delivery stress. Fifty-seven postpartum women were included (stillbirth, 24; live birth, 33). Saliva samples were collected at seven fixed time points across the day following childbirth. Cosinor curve fitting yielded the midline estimating statistic of rhythm, amplitude, and acrophase. Traditional indices included area under the curve with respect to ground, area under the curve with respect to increase, and the cortisol awakening response. Group differences were tested using analyzes of variance. Both groups showed a coherent diurnal pattern. Compared with live birth, stillbirth was associated with a lower area under the curve with respect to ground, a lower area under the curve with respect to increase, and a lower midline estimating statistic of rhythm. Stillbirth was also exhibited associated with an earlier acrophase. Compared with comparable physiological delivery stress, stillbirth is linked to reduced total cortisol secretion, lower mean levels, and an advanced circadian phase in the acute postpartum period, suggesting that the psychological trauma of stillbirth may involve alterations in hypothalamic-pituitary-adrenal axis regulatory patterns and providing preliminary evidence for future work on early biological markers and supportive interventions."
-    }
-   ],
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42954646/",
-   "doi": "https://doi.org/10.1080/10253890.2026.2752711",
-   "data": "2026-10-29T00:00:00+00:00",
-   "temas": [
-    "estresse"
-   ],
-   "visto_em": "2026-11-05T21:02:06.788010+00:00"
-  },
-  {
-   "id": "pmid-42952383",
-   "fonte": "PubMed",
-   "tipo_fonte": "artigo",
-   "titulo": "Academic Stress and Depressive Symptoms in High School Students: A Random Intercept Cross-Lagged Panel Model and Cross-Lagged Panel Network Analysis",
-   "revista": "Stress Health",
-   "autores": "Ji T, Xu T, Zhang X et al.",
-   "tipo_estudo": "",
-   "destaque": "Early drivers included 'I thought my life had been a failure' and 'I felt that people dislike me', whereas over time 'I was unhappy' and 'I felt hopeless about the future' gained predictive importance. The study revealed temporal relationships between academic stress and depressive symptoms and identified potential targets, providing evidence and implications for prevention and intervention.",
-   "resumo": [
-    {
-     "rotulo": "",
-     "texto": "Despite evidence linking academic stress and depressive symptoms, cross-sectional designs cannot reveal their developmental dynamics, and total-scale scores obscure symptom-level complexity and intervention targets. We applied the random intercept cross-lagged panel model (RI-CLPM) and cross-lagged panel network (CLPN) analysis to 307 Chinese adolescents (58.63% female) to examine the relationship between academic stress and depressive symptoms from the aggregate to the symptom level and to identify key nodes. Results from the RI-CLPM indicated a positive association between academic stress and depressive symptoms at the between-person level. At the within-person level, Time-1 academic stress predicted a reduction in Time-2 depressive symptoms. CLPN results revealed complex reciprocal influences: 'People were unfriendly' and 'I felt hopeless about the future' were initially vulnerable and later progressed to 'I felt sad' and 'I thought my life had been a failure'. Early drivers included 'I thought my life had been a failure' and 'I felt that people dislike me', whereas over time 'I was unhappy' and 'I felt hopeless about the future' gained predictive importance. The study revealed temporal relationships between academic stress and depressive symptoms and identified potential targets, providing evidence and implications for prevention and intervention."
-    }
-   ],
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42952383/",
-   "doi": "https://doi.org/10.1002/smi.70240",
-   "data": "2026-10-29T00:00:00+00:00",
-   "temas": [
-    "estresse"
-   ],
-   "visto_em": "2026-11-05T21:02:06.788010+00:00"
-  },
-  {
    "id": "pmid-42952362",
    "fonte": "PubMed",
    "tipo_fonte": "artigo",
@@ -23089,68 +23902,6 @@
    "data": "2026-10-27T00:00:00+00:00",
    "temas": [
     "tirzepatida"
-   ],
-   "visto_em": "2026-11-05T21:02:06.788010+00:00"
-  },
-  {
-   "id": "pmid-42935352",
-   "fonte": "PubMed",
-   "tipo_fonte": "artigo",
-   "titulo": "Disaster exposure and women's mental and general health: evidence from longitudinal data",
-   "revista": "Glob Health Action",
-   "autores": "Seema M, Afoakwah C, Byrnes J",
-   "tipo_estudo": "",
-   "destaque": "Reported disaster exposure was associated with modest within-person declines in women's mental and general health, while evidence for psychological distress was less conclusive. The findings support consideration of women's health in disaster preparedness and recovery planning.",
-   "resumo": [
-    {
-     "rotulo": "Background",
-     "texto": "Disasters can have important consequences for health, yet much evidence is cross-sectional and cannot account for time-invariant individual heterogeneity."
-    },
-    {
-     "rotulo": "Objective(S)",
-     "texto": "To examine the association between reported disaster exposure and women's mental health, psychological distress, and general health using longitudinal Australian data."
-    },
-    {
-     "rotulo": "Methods",
-     "texto": "Data from women aged ≥ 15 years participating in Waves 9-22 of the Household, Income and Labour Dynamics in Australia Survey were analysed. Individual and survey-wave fixed-effects models examined within-person associations between disaster exposure and mental health (MHI-5), psychological distress (Kessler-10), and SF-36 General Health. Sensitivity analyses considered long-term illness and single exposure. Dynamic associations were examined using the Callaway-Sant'Anna multiple-period difference-in-differences estimator with formal pre-trend tests."
-    },
-    {
-     "rotulo": "Results",
-     "texto": "Reported disaster exposure was associated with modest declines in mental health (β = -0.86, 95% CI - 1.51 to -0.20) and general health (β = -0.83, 95% CI - 1.44 to -0.22). Psychological distress was higher but not statistically significant in the primary model (β = 0.33, 95% CI - 0.04 to 0.70). Sensitivity analyses generally supported the mental and general health findings. Event-study analyses showed no consistent evidence of persistent post-exposure deterioration; however, the MHI-5 joint pre-trend test indicated differential pre-exposure patterns, limiting causal interpretation."
-    },
-    {
-     "rotulo": "Conclusions",
-     "texto": "Reported disaster exposure was associated with modest within-person declines in women's mental and general health, while evidence for psychological distress was less conclusive. The findings support consideration of women's health in disaster preparedness and recovery planning."
-    }
-   ],
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42935352/",
-   "doi": "https://doi.org/10.1080/16549716.2026.2752483",
-   "data": "2026-10-27T00:00:00+00:00",
-   "temas": [
-    "estresse"
-   ],
-   "visto_em": "2026-11-05T21:02:06.788010+00:00"
-  },
-  {
-   "id": "pmid-42935556",
-   "fonte": "PubMed",
-   "tipo_fonte": "artigo",
-   "titulo": "Regular napping mitigates the onset of cognitive fatigue and protects against stress-inflammatory responses to real-world sleep debt",
-   "revista": "Brain Behav Immun Health",
-   "autores": "Belhout S, Poudevigne L, Mouton L et al.",
-   "tipo_estudo": "",
-   "destaque": "Chronic sleep debt increased attentional fatigability without exacerbating executive decline, an effect that may be driven by neuro-inflammatory processes and effectively alleviated by regular daytime napping. Importantly, these findings indicate that chronic afternoon napping may confer protective and long-lasting restorative benefits observable in morning assessments, reflecting effects that persist over a 24-h period.",
-   "resumo": [
-    {
-     "rotulo": "",
-     "texto": "Chronic sleep debt impairs cognitive processes, stress regulation, and immune homeostasis, while sustained cognitive engagement induces mental fatigue. However, it remains unclear how chronically insufficient sleep in real-life conditions accelerates the onset of mental fatigue during prolonged cognitive activity-and whether daytime napping can buffer these effects. This study investigated the combined effects of chronic sleep debt and extended cognitive engagement on cognitive fatigue and salivary neuro-immune and neurotrophic markers in an ecologically valid context. Compared with controls, participants with chronic sleep debt showed pronounced declines in Psychomotor Vigilance Task performance (reaction time and number of lapses) across both time-on-task and time-on-week and showed higher commission rates in the executive Go-NoGo task. These morning impairments were partially attenuated in the participants who practiced afternoon chronic naps, and the reduction in lapses was correlated with nap frequency. Biologically, chronic sleep debt was associated with a blunted morning cortisol response, an increase in IL-1β and IL-6, and a reduction in BDNF levels, but not observed in either the Control or Sleep-Debt + Nap groups. In the Sleep-Debt group, IL-1β levels were positively correlated with sustained attention deficits. Chronic sleep debt increased attentional fatigability without exacerbating executive decline, an effect that may be driven by neuro-inflammatory processes and effectively alleviated by regular daytime napping. Importantly, these findings indicate that chronic afternoon napping may confer protective and long-lasting restorative benefits observable in morning assessments, reflecting effects that persist over a 24-h period."
-    }
-   ],
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42935556/",
-   "doi": "https://doi.org/10.1016/j.bbih.2026.101390",
-   "data": "2026-10-27T00:00:00+00:00",
-   "temas": [
-    "estresse"
    ],
    "visto_em": "2026-11-05T21:02:06.788010+00:00"
   },
@@ -24207,52 +24958,6 @@
    "visto_em": "2026-11-05T21:02:06.788010+00:00"
   },
   {
-   "id": "pmid-42908500",
-   "fonte": "PubMed",
-   "tipo_fonte": "artigo",
-   "titulo": "Maternal mental health and its intergenerational transmission in-utero: a scoping review",
-   "revista": "Glob Health Action",
-   "autores": "Seema M, Afoakwah C, Byrnes J",
-   "tipo_estudo": "",
-   "destaque": "However, heterogeneity in exposure measurement, outcome definitions, and follow-up periods limited comparability and causal interpretation.Maternal mental health during pregnancy may be an important early-life and intergenerational exposure associated with offspring developmental trajectories, but observational evidence does not establish causal in-utero transmission. Stronger causal inference, longitudinal data linkage, and incorporation of economic and policy-relevant outcomes are priorities for future research.",
-   "resumo": [
-    {
-     "rotulo": "",
-     "texto": "Maternal mental health during pregnancy is important for maternal wellbeing and offspring development. Prenatal depression, anxiety, stress, and psychological distress have been associated with offspring emotional, behavioural, cognitive, and mental health outcomes, but evidence remains dispersed across conditions, outcomes, and proposed mechanisms. This scoping review synthesises empirical evidence on maternal mental health during pregnancy as a potential intergenerational exposure, including potential in-utero pathways.Five databases (MEDLINE, Scopus, PsycInfo, CINAHL, and Embase) were searched from 1995 to 24 February 2026, following PRISMA-ScR guidance. Eligible sources of evidence examined maternal mental health during pregnancy in relation to postnatal offspring outcomes. Data were extracted using a structured framework and synthesised narratively. Twenty sources of evidence met the inclusion criteria. Across diverse designs and populations, prenatal depression, anxiety, stress, and psychological distress were commonly associated with adverse offspring outcomes, including emotional and behavioural difficulties, neurocognitive impairments, and increased risk of psychiatric conditions from childhood to adulthood. Several primary studies reported associations independent of traditional birth outcomes, consistent with potential in-utero pathways. Plausible mechanisms included stress-related neuroendocrine processes, inflammation, and epigenetic regulation. However, heterogeneity in exposure measurement, outcome definitions, and follow-up periods limited comparability and causal interpretation.Maternal mental health during pregnancy may be an important early-life and intergenerational exposure associated with offspring developmental trajectories, but observational evidence does not establish causal in-utero transmission. Stronger causal inference, longitudinal data linkage, and incorporation of economic and policy-relevant outcomes are priorities for future research."
-    }
-   ],
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42908500/",
-   "doi": "https://doi.org/10.1080/16549716.2026.2750711",
-   "data": "2026-10-23T00:00:00+00:00",
-   "temas": [
-    "estresse"
-   ],
-   "visto_em": "2026-11-05T21:02:06.788010+00:00"
-  },
-  {
-   "id": "pmid-42908396",
-   "fonte": "PubMed",
-   "tipo_fonte": "artigo",
-   "titulo": "When words reveal risk: a mixed-method study on autobiographical narratives of breast biopsy results disclosure as early markers of psychological distress",
-   "revista": "Eur J Psychotraumatol",
-   "autores": "Fortin J, Paquin A, Leblanc R et al.",
-   "tipo_estudo": "",
-   "destaque": "In terms of form, all three dimensions were significantly associated to PTSS, while frequency and emotional intensity were significantly associated with non-specific distress. Early narrative markers following breast biopsy result disclosure were associated with psychological distress one month later.Conclusions: These findings highlight how memory processes associated with medical stressors can shape psychological outcomes and support their potential as screening tools for early identification of at-risk individuals.",
-   "resumo": [
-    {
-     "rotulo": "",
-     "texto": "Background: Autobiographical memory theory suggests that how stressful events are encoded and recalled, particularly in terms of centrality to identity, emotional intensity, and retrieval frequency, can influence mental health. In breast cancer care, the disclosure of biopsy results may represent a psychologically impactful moment, regardless of diagnosis type.Objectives: This mixed-method study aimed to determine whether and how narrative features of breast biopsy result disclosure, analysed by both content (what was said) and form (how it was said), are associated with psychological distress one month later.Method: Sixty-eight participants were interviewed ≥7 days after receiving a breast biopsy result. Psychological distress was assessed one month later using the Distress Thermometer (non-specific distress) and the Impact of Event Scale-Revised (post-traumatic stress symptoms; PTSS). Narratives were coded using a theory-driven framework assessing centrality, emotional intensity, and recall frequency, applied separately to content and form.Results: While controlling for self-reported dissociation, linear regressions showed that for content, centrality and emotional intensity were significantly associated with PTSS, whereas only emotional intensity was significantly associated with non-specific distress. No substantial evidence of an association was found between frequency and any psychological outcome. In terms of form, all three dimensions were significantly associated to PTSS, while frequency and emotional intensity were significantly associated with non-specific distress. Early narrative markers following breast biopsy result disclosure were associated with psychological distress one month later.Conclusions: These findings highlight how memory processes associated with medical stressors can shape psychological outcomes and support their potential as screening tools for early identification of at-risk individuals."
-    }
-   ],
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42908396/",
-   "doi": "https://doi.org/10.1080/20008066.2026.2739193",
-   "data": "2026-10-23T00:00:00+00:00",
-   "temas": [
-    "estresse"
-   ],
-   "visto_em": "2026-11-05T21:02:06.788010+00:00"
-  },
-  {
    "id": "pmid-42911050",
    "fonte": "PubMed",
    "tipo_fonte": "artigo",
@@ -24526,91 +25231,6 @@
    "data": "2026-10-22T00:00:00+00:00",
    "temas": [
     "tirzepatida"
-   ],
-   "visto_em": "2026-11-05T21:02:06.788010+00:00"
-  },
-  {
-   "id": "pmid-42905428",
-   "fonte": "PubMed",
-   "tipo_fonte": "artigo",
-   "titulo": "Visual behaviour in acute stress during simulated and on-road driving",
-   "revista": "Stress",
-   "autores": "Bakhchina A, Arutyunova K, Burashnikov E et al.",
-   "tipo_estudo": "",
-   "destaque": "These findings support gaze-derived measures as candidate indicators of changes in visual behaviour related to acute stress during driving, while highlighting the importance of considering acute stress as a phased process. They also indicate that multimodal context-aware validation is needed for translation into real-time driver state monitoring and safety-relevant assistance applications.",
-   "resumo": [
-    {
-     "rotulo": "",
-     "texto": "Driving frequently exposes individuals to conditions triggering acute stress, but its effects on drivers' visual behaviour remain insufficiently understood. We used the heart rate dynamics to label acute stress episodes in recordings from 881 participants who performed simulated and on-road driving. Considering acute stress as a phased process, we analysed eye gaze metrics during stress activation and stress resistance periods. In simulation, stress activation was accompanied by more frequent and shorter fixations, greater fixation area, higher stationary gaze entropy, and lower gaze transition entropy. In on-road driving, significant effects were more selective, with the most consistent changes observed for the horizontal diameter of fixation area and entropy-based gaze measures. During stress resistance, many measures partially returned toward non-stress levels, suggesting a transition from initial reactivity toward stabilisation. These findings support gaze-derived measures as candidate indicators of changes in visual behaviour related to acute stress during driving, while highlighting the importance of considering acute stress as a phased process. They also indicate that multimodal context-aware validation is needed for translation into real-time driver state monitoring and safety-relevant assistance applications."
-    }
-   ],
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42905428/",
-   "doi": "https://doi.org/10.1080/10253890.2026.2739892",
-   "data": "2026-10-22T00:00:00+00:00",
-   "temas": [
-    "estresse"
-   ],
-   "visto_em": "2026-11-05T21:02:06.788010+00:00"
-  },
-  {
-   "id": "pmid-42905898",
-   "fonte": "PubMed",
-   "tipo_fonte": "artigo",
-   "titulo": "Filial Caregiving Burnout in the Chinese Cultural Context: Conceptualization, Scale Development, and Longitudinal Validation",
-   "revista": "Fam Process",
-   "autores": "Zhou B, Li Y, Wang W et al.",
-   "tipo_estudo": "",
-   "destaque": "Longitudinally, higher baseline FCB significantly predicted lower subsequent family and job performance and higher subsequent family undermining and counterproductive work behavior. Moving beyond generic burden metrics, the FCB Scale captures relational and value-laden aspects of filial caregiving burnout and provides a multidimensional tool for assessing burnout experiences among adult-child caregivers.",
-   "resumo": [
-    {
-     "rotulo": "",
-     "texto": "In China, the Confucian norm of filial piety has historically framed eldercare as an important responsibility of adult children. Amid rapid population aging, caregivers frequently experience profound exhaustion. While traditional assessments capture caregiver burden, they may be less sensitive to role- and culture-embedded experiences such as emotional detachment, relational strain, and value dissonance arising when caregiving realities conflict with internalized obligations. Although the phenomenon of Filial Caregiving Burnout (FCB) has been recently identified, it lacks a formal theoretical definition and measurement tool. To address this limitation, we conceptualize FCB and develop a culturally grounded, multidimensional scale. Using an exploratory sequential mixed-methods design, qualitative interviews first generated the initial item pool. Subsequent quantitative evaluations across three independent caregiver samples (N = 1653) refined and validated the structure via exploratory and confirmatory factor analyses, alongside measurement invariance testing. Finally, a two-wave longitudinal design assessed predictive validity. The finalized 17-item FCB Scale features a robust three-factor structure: physical and mental exhaustion, relational detachment, and dysregulation of filial piety value. It demonstrated excellent internal consistency (α = 0.948), acceptable model fit, and measurement invariance across gender and Hukou type. Longitudinally, higher baseline FCB significantly predicted lower subsequent family and job performance and higher subsequent family undermining and counterproductive work behavior. Moving beyond generic burden metrics, the FCB Scale captures relational and value-laden aspects of filial caregiving burnout and provides a multidimensional tool for assessing burnout experiences among adult-child caregivers."
-    }
-   ],
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42905898/",
-   "doi": "https://doi.org/10.1111/famp.70212",
-   "data": "2026-10-22T00:00:00+00:00",
-   "temas": [
-    "estresse"
-   ],
-   "visto_em": "2026-11-05T21:02:06.788010+00:00"
-  },
-  {
-   "id": "pmid-42904313",
-   "fonte": "PubMed",
-   "tipo_fonte": "artigo",
-   "titulo": "Pathways, consequences, and community-proposed responses to school discontinuation in rural eastern Uganda: a qualitative study",
-   "revista": "Glob Health Action",
-   "autores": "Lee YJ, Edwards MD, Carrier AC et al.",
-   "tipo_estudo": "",
-   "destaque": "School discontinuation in rural eastern Uganda is experienced as a cumulative process with cascading social, psychological, and economic consequences rather than a single educational event. Community members identified multi-domain responses addressing emotional recovery, livelihoods, and social reintegration together. These findings highlight the value of centering community perspectives when designing integrated interventions for young people affected by school discontinuation.",
-   "resumo": [
-    {
-     "rotulo": "Background",
-     "texto": "Education is a social determinant of health, and incomplete schooling is associated with poorer sexual and reproductive health, psychosocial distress, and reduced economic opportunity. In Africa, many young people leave school before completing their educational cycle, yet qualitative evidence on the social and health consequences of discontinuation and on what affected communities view as appropriate responses remains limited."
-    },
-    {
-     "rotulo": "Objective",
-     "texto": "To explore perspectives on the pathways, consequences, and proposed responses to school discontinuation in rural eastern Uganda."
-    },
-    {
-     "rotulo": "Methods",
-     "texto": "This qualitative descriptive study drew on 59 in-depth interviews with young adults who had discontinued school (n = 15), family members (n = 14), teachers (n = 15), and community leaders (n = 15), purposively sampled with community assistance in Buyende and Kamuli districts in eastern Uganda. Data were analyzed using framework analysis."
-    },
-    {
-     "rotulo": "Results",
-     "texto": "Three themes emerged. First, participants described discontinuation as driven by intersecting household poverty, school-level barriers, and gendered pressures including early marriage, teenage pregnancy, and sexual exploitation. Second, discontinuation was followed by psychological distress, social stigma, economic marginalization, and heightened vulnerability, particularly for young women. Third, participants proposed complementary supports spanning counseling and mentorship, vocational training and economic empowerment, and interpersonal and community-based engagement."
-    },
-    {
-     "rotulo": "Conclusions",
-     "texto": "School discontinuation in rural eastern Uganda is experienced as a cumulative process with cascading social, psychological, and economic consequences rather than a single educational event. Community members identified multi-domain responses addressing emotional recovery, livelihoods, and social reintegration together. These findings highlight the value of centering community perspectives when designing integrated interventions for young people affected by school discontinuation."
-    }
-   ],
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42904313/",
-   "doi": "https://doi.org/10.1080/16549716.2026.2750047",
-   "data": "2026-10-22T00:00:00+00:00",
-   "temas": [
-    "estresse"
    ],
    "visto_em": "2026-11-05T21:02:06.788010+00:00"
   },
