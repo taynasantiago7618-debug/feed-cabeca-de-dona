@@ -1,5 +1,5 @@
 {
- "atualizado_em": "2026-11-27T10:51:19.087319+00:00",
+ "atualizado_em": "2026-11-28T10:46:39.916799+00:00",
  "titulo": "Feed Científico Cabeça de Dona",
  "subtitulo": "Ciência nova, todo dia, sobre o que move a sua saúde",
  "temas": [
@@ -30,6 +30,179 @@
   }
  ],
  "artigos": [
+  {
+   "id": "pmid-43104794",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Psychological Distress and Burden Among Australian Informal Cancer Carers: Findings From a National Cross-Sectional Survey",
+   "revista": "Med J Aust",
+   "autores": "Cowdery SP, Tran T, Orellana L et al.",
+   "tipo_estudo": "",
+   "destaque": "Carers from culturally diverse communities were disproportionately affected, with significantly higher odds of experiencing adverse psychosocial outcomes than non-culturally diverse carers. Findings highlight the urgent need for inclusive, tailored supportive care services, including robust screening and culturally responsive referral pathways, to address the challenges faced by cancer carers, particularly those from culturally and linguistically diverse communities.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Many people caring for someone with cancer experience significant emotional and financial stress. A cross-sectional survey of 1356 informal cancer carers from across Australia found nearly half of them had moderate to extremely severe depression and anxiety symptoms, and most felt over-burdened. Carers from culturally diverse communities were disproportionately affected, with significantly higher odds of experiencing adverse psychosocial outcomes than non-culturally diverse carers. Findings highlight the urgent need for inclusive, tailored supportive care services, including robust screening and culturally responsive referral pathways, to address the challenges faced by cancer carers, particularly those from culturally and linguistically diverse communities."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43104794/",
+   "doi": "https://doi.org/10.5694/mja2.70350",
+   "data": "2026-11-28T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-28T10:46:39.916799+00:00"
+  },
+  {
+   "id": "pmid-43104706",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "A Neurobiological Model of Endometriosis-Associated Pain: Stress, Neuroimmune Dysfunction, and Endocannabinoid Signaling",
+   "revista": "Eur J Neurosci",
+   "autores": "Stone AM, Murray GE, Waineo JM et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "We propose an integrated neuroimmune-endocrine model in which reciprocal interactions between peripheral nociception and dysregulated central stress- and pain-regulatory systems may contribute to pain persistence beyond peripheral disease activity. Although the proposed relationships remain largely associative and require longitudinal and mechanistic validation, this framework identifies shared neural and neuroimmune pathways that may inform future investigations of pain chronification and the development of mechanism-directed interventions.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Endometriosis-associated chronic pelvic pain is a multidimensional pain condition involving persistent peripheral nociceptive input, peripheral and central sensitization, and substantial psychological distress. However, the neurobiological mechanisms linking chronic pain, stress, and affective disturbances remain incompletely understood. This narrative review synthesizes human and preclinical evidence on the interactions among nociceptive processing, neuroimmune signaling, and stress-response systems in endometriosis-associated pain. Particular attention is given to the autonomic nervous system, hypothalamic-pituitary-adrenal axis, and endocannabinoid system as interconnected regulators of stress adaptation, inflammation, and endogenous pain modulation. Available evidence suggests that lesion-derived inflammatory and nociceptive signaling may initiate peripheral and central sensitization, while persistent pain and chronic stress may alter autonomic, neuroendocrine, and endocannabinoid function. These changes may impair endogenous pain regulation, sustain neuroimmune activation, and influence neural pathways involved in affective processing, potentially reinforcing pain and psychological distress. We propose an integrated neuroimmune-endocrine model in which reciprocal interactions between peripheral nociception and dysregulated central stress- and pain-regulatory systems may contribute to pain persistence beyond peripheral disease activity. Although the proposed relationships remain largely associative and require longitudinal and mechanistic validation, this framework identifies shared neural and neuroimmune pathways that may inform future investigations of pain chronification and the development of mechanism-directed interventions."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43104706/",
+   "doi": "https://doi.org/10.1111/ejn.70771",
+   "data": "2026-11-28T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-28T10:46:39.916799+00:00"
+  },
+  {
+   "id": "pmid-43104658",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "The GP behind the screen: from occupational stress to staying ahead - motivation for a virtual primary care career, a qualitative interview study",
+   "revista": "Scand J Prim Health Care",
+   "autores": "Björndell C, Liljeblad J, Hange D et al.",
+   "tipo_estudo": "",
+   "destaque": "GPs' decisions to work in virtual primary care are shaped by multiple, interacting factors and are not necessarily driven by an inherent preference for the virtual format. Virtual care may offer opportunities for professional development, flexibility and a more sustainable working situation. The choice should be understood not only as an attraction to a new mode of care delivery, but also in relation to GPs' broader professional experiences, needs and working conditions.",
+   "resumo": [
+    {
+     "rotulo": "Objective",
+     "texto": "This study explores the motivations behind physicians' career choices to work in virtual primary care."
+    },
+    {
+     "rotulo": "Design",
+     "texto": "General practitioners and residents were purposively selected for individual interviews. Data were collected in 2018 and 2019. Transcripts were analysed using Systematic Text Condensation. Setting A public virtual care clinic within primary health care in the Västra Götaland Region, Sweden. Subjects A purposive sample of ten specialists and residents in general practice."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Occupational stress in primary care appears to motivate seeking assignments in virtual-only clinics, with prospects of improved work-life balance. Openness to experience and an evolving context create opportunities for development, which in turn motivate engagement in virtual care. The career choice is driven by a desire to stay involved, stay ahead, or not be left out. Individuals' patient-oriented thinking, reflected in a shift from associating virtual care with commercial enterprises to viewing it as a field for improvement, also motivates them. Personal and collective accountability for medically safe and viable virtual care within publicly run primary care fosters a sense of purposeful and responsible career choice, even when the field is otherwise perceived as controversial."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "GPs' decisions to work in virtual primary care are shaped by multiple, interacting factors and are not necessarily driven by an inherent preference for the virtual format. Virtual care may offer opportunities for professional development, flexibility and a more sustainable working situation. The choice should be understood not only as an attraction to a new mode of care delivery, but also in relation to GPs' broader professional experiences, needs and working conditions."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43104658/",
+   "doi": "https://doi.org/10.1080/02813432.2026.2770174",
+   "data": "2026-11-28T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-28T10:46:39.916799+00:00"
+  },
+  {
+   "id": "pmid-43104647",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "The neuroendocrine integration of stress networks",
+   "revista": "J Neuroendocrinol",
+   "autores": "Carrasco RA, Sheng JA, Fernandino JI et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "This conceptual integration underscores stress as a unifying principle that connects neuroendocrine and immune regulation across species. It is essential to understand how these interconnected systems maintain or lose allostatic balance to advance mechanistic insight into stress-related disorders and identify novel therapeutic targets that restore neuroendocrine resilience.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Adaptation to environmental and internal challenges relies on the brain's capacity to integrate sensory, autonomic, endocrine, and immune information into coordinated responses that ensure survival and homeodynamic balance. Stress responses are not limited to a single axis; rather, they emerge from a distributed network linking the hypothalamic-pituitary-adrenal system with autonomic, immune, and gonadal circuits. In this framework, the paraventricular nucleus plays a pivotal role in regulating glucocorticoid release and orchestrating allostatic adjustments. These interactions extend beyond short-term coping to shape long-term physiological trajectories through mechanisms such as developmental programming, sex-dependent modulation, and neuroimmune crosstalk. Under physiological steady-state conditions, the stress response provides molecular signals that promote adaptation to challenges. However, when these pathways are dysregulated under chronic stress or trauma, it can lead to maladaptive outcomes, including altered feedback sensitivity, persistent inflammation, and endocrine imbalance. Comparative evidence from mammals and non-mammalian vertebrates further reveals that similar neuroendocrine motifs underlie diverse adaptive strategies, from maternal stress effects on offspring to environmentally driven sex determination in fish. This conceptual integration underscores stress as a unifying principle that connects neuroendocrine and immune regulation across species. It is essential to understand how these interconnected systems maintain or lose allostatic balance to advance mechanistic insight into stress-related disorders and identify novel therapeutic targets that restore neuroendocrine resilience."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43104647/",
+   "doi": "https://doi.org/10.1111/jne.70334",
+   "data": "2026-11-28T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-28T10:46:39.916799+00:00"
+  },
+  {
+   "id": "pmid-43104631",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Tele-Yoga and Psychosocial Education for Stress and Work-Life Balance in Remote IT Professionals During the COVID-19 Pandemic: A Randomized Controlled Trial",
+   "revista": "Stress Health",
+   "autores": "Vani KV, Majumdar V, Jagannathan A",
+   "tipo_estudo": "Ensaio clínico randomizado",
+   "destaque": "The intervention showed high compliance, feasibility, and potential to address occupational stress through a digital, scalable delivery model. These findings highlight the benefits of combining Yoga with Psychosocial education, underscoring the role of tele-Yoga in mitigating pandemic-related work stress and promoting mental health among remote workers.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "This randomized controlled trial evaluated the effectiveness of an integrated tele-yoga and psychosocial education intervention (Y-PSE) compared with psychosocial education alone (PSE) in reducing perceived stress and improving occupational mental health among 150 IT professionals working remotely during the COVID-19 pandemic. Participants were randomized equally to Y-PSE (n = 75) and PSE (n = 75) and assessed over 12 weeks. The primary outcome was perceived stress (PSS-4); secondary outcomes included work engagement, work-life balance, well-being (WHO-5), coping, and sleep quality (PSQI). Analyses included intention-to-treat population, a per-protocol sensitivity analysis restricted to participants with ≥ 75% attendance and completed follow-up assessments, and mediation analyses examining work engagement and work interference with personal life (WIPL) as potential mediators. Y-PSE reduced perceived stress versus PSE (AMD -0.73; 95% CI -1.37 to -0.09; p = 0.026), increased work engagement (AMD 0.55; 95% CI 0.23 to 0.87; p = 0.001), and reduced work interference with personal life (WIPL; AMD -0.42; 95% CI -0.65 to -0.20; p < 0.001). Well-being and coping improved significantly, whereas sleep quality did not differ (p = 0.28). Per-protocol sensitivity analysis yielded directionally consistent findings with larger effect estimates. Work engagement and WIPL were potential mediators, together accounting for most of the reduction in perceived stress. The intervention showed high compliance, feasibility, and potential to address occupational stress through a digital, scalable delivery model. These findings highlight the benefits of combining Yoga with Psychosocial education, underscoring the role of tele-Yoga in mitigating pandemic-related work stress and promoting mental health among remote workers."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43104631/",
+   "doi": "https://doi.org/10.1002/smi.70245",
+   "data": "2026-11-28T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-28T10:46:39.916799+00:00"
+  },
+  {
+   "id": "pmid-43104702",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "\"Narrowcism\" in Dentistry: Part 2 - Regulators, Corporates, and Professional Identity",
+   "revista": "Prim Dent J",
+   "autores": "Lewis KJ, Kelleher MGD",
+   "tipo_estudo": "",
+   "destaque": "The second article of this two-part series on \"narrowcism\" discusses how narrowcism is a neologism (a new word): it fuses narrowness - the practice of focussing on just one aspect of a complex picture - with narcissism - the conviction that one's self-centred perspective is the only truly important one. \"Narrowcism in dentistry\" describes the phenomenon in which some clinicians, academics, or regulators shrink their field of vision until it fits neatly inside the boundaries of their own comfort zone and then admire that view as though that narrow perspective represents fairly the entire landscape of dental practice, research or regulation.This second article describes how regulators and corporates have their own version of narrowcism and describes its implementation at the GDC regulatory and corporate levels. It discusses perceived professional identity, status, and the cult of \"specialness\" in the dental profession.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "The second article of this two-part series on \"narrowcism\" discusses how narrowcism is a neologism (a new word): it fuses narrowness - the practice of focussing on just one aspect of a complex picture - with narcissism - the conviction that one's self-centred perspective is the only truly important one. \"Narrowcism in dentistry\" describes the phenomenon in which some clinicians, academics, or regulators shrink their field of vision until it fits neatly inside the boundaries of their own comfort zone and then admire that view as though that narrow perspective represents fairly the entire landscape of dental practice, research or regulation.This second article describes how regulators and corporates have their own version of narrowcism and describes its implementation at the GDC regulatory and corporate levels. It discusses perceived professional identity, status, and the cult of \"specialness\" in the dental profession."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43104702/",
+   "doi": "https://doi.org/10.1177/20501684261510464",
+   "data": "2026-11-28T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-28T10:46:39.916799+00:00"
+  },
+  {
+   "id": "pmid-43104729",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Linking Cognitive Frailty to Suicidal Ideation in Visually Impaired Older Adults: A Cross-Sectional Study",
+   "revista": "Int J Ment Health Nurs",
+   "autores": "Park GE, Jeong HN",
+   "tipo_estudo": "",
+   "destaque": "These findings suggest that the combined effects of physical and cognitive decline contribute to increased psychological burden. For mental health nurses, this highlights that the dual burden of cognitive frailty limits coping capacity and independence, directly increasing suicide risk beyond the effect of clinical depression.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Older adults with visual impairment are vulnerable to suicidal ideation, likely due to the interplay between physical decline, cognitive impairment and psychosocial challenges. Cognitive frailty, defined as the coexistence of physical frailty and mild cognitive impairment, has emerged as a multidimensional construct; however, its relevance to suicidal ideation in this population has not been sufficiently investigated. This study investigated the association between cognitive frailty and suicidal ideation among community-dwelling older adults with self-reported visual impairment in South Korea. This cross-sectional secondary analysis used data from the 2023 National Survey of Older Koreans. The final analytic sample comprised 3924 adults aged ≥ 65 years with self-reported visual impairment. Sampling weights were applied throughout the analyses, including prevalence estimates and descriptive analyses, and complex sample logistic regression models were used to examine the association between cognitive frailty status and suicidal ideation. The prevalence of suicidal ideation was highest in the cognitive frailty group (10.5%), followed by the physical frailty-only group (6.1%), the mild cognitive impairment-only group (1.2%) and the robust group (0.9%). After full adjustment, only cognitive frailty remained significantly associated with suicidal ideation (OR = 2.709, 95% CI = 1.048-7.003). These findings suggest that the combined effects of physical and cognitive decline contribute to increased psychological burden. For mental health nurses, this highlights that the dual burden of cognitive frailty limits coping capacity and independence, directly increasing suicide risk beyond the effect of clinical depression."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43104729/",
+   "doi": "https://doi.org/10.1111/inm.70411",
+   "data": "2026-11-28T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-28T10:46:39.916799+00:00"
+  },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261125045304-htm",
    "fonte": "ScienceDaily",
@@ -457,6 +630,401 @@
     "cognicao"
    ],
    "visto_em": "2026-11-27T10:51:19.087319+00:00"
+  },
+  {
+   "id": "pmid-43104279",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Developing a Conceptual Core Competency Framework for Weight Management Nurses Using a Straussian Grounded Theory Approach",
+   "revista": "Nurs Open",
+   "autores": "Wang L, Zhang S, Yang H et al.",
+   "tipo_estudo": "",
+   "destaque": "The proposed conceptual competency framework provides an empirically grounded basis for understanding competencies in weight-management nursing. Further expert content validation, specification of observable behavioural indicators, psychometric evaluation, and testing across clinical settings are required before it can be considered for formal use in training, certification, or performance assessment.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Over half of Chinese adults are overweight or obese, creating a major public health challenge. As multidisciplinary weight management services expand, nurses have an important role in intervention delivery and care coordination, yet a context-specific competency framework for weight management nurses in China remains limited."
+    },
+    {
+     "rotulo": "Objective",
+     "texto": "To develop a contextually grounded conceptual core competency framework for weight management nurses using a Straussian grounded theory approach."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "Initial purposive sampling was followed by theoretical sampling, resulting in 20 participants (14 nurses and 6 multidisciplinary team members) from central and western China. Data collection and analysis proceeded concurrently and iteratively. Constant comparison, analytic memo writing, and open, axial, and selective coding were used to develop and integrate categories. Theoretical saturation was assessed progressively, and member checking was conducted after the preliminary conceptual competency framework was developed."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The proposed conceptual competency framework comprised five interrelated dimensions: knowledge integration, intervention delivery, multidisciplinary coordination, professional development, and career motivation. These comprised 14 categories, including disease cognition, exercise and nutrition guidance, precision assessment, individualized plan implementation, health education, nurse-patient relationship, team communication, multidisciplinary resource integration, knowledge updating, reflective practice, research exploration, value identification, intrinsic motivation, and work resilience."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "The proposed conceptual competency framework provides an empirically grounded basis for understanding competencies in weight-management nursing. Further expert content validation, specification of observable behavioural indicators, psychometric evaluation, and testing across clinical settings are required before it can be considered for formal use in training, certification, or performance assessment."
+    },
+    {
+     "rotulo": "Reporting Method",
+     "texto": "This study was reported in accordance with the Consolidated Criteria for Reporting Qualitative Research (COREQ)."
+    },
+    {
+     "rotulo": "No Patient Or Public Contribution",
+     "texto": "Patients or members of the public were not involved in the design, conduct, analysis, interpretation, or reporting of this study."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43104279/",
+   "doi": "https://doi.org/10.1002/nop2.71064",
+   "data": "2026-11-27T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-28T10:46:39.916799+00:00"
+  },
+  {
+   "id": "pmid-43104186",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "HR-LCMS Assisted Phytochemical Profiling and Anti-Obesity effect of Alkanna tinctoria (L.) Root Powder in Diet-Induced Obese Model of Zebrafish",
+   "revista": "Appl Biochem Biotechnol",
+   "autores": "Sharma S, Kaur A, Chadha P",
+   "tipo_estudo": "",
+   "destaque": "In contrast, high-density lipoprotein (HDL) and aspartate aminotransferase (AST) levels were significantly increased compared with those in the diet-induced obese (DIO) zebrafish group. Our findings indicate that A. tinctoria root powder can effectively reduce body weight, BMI, blood glucose levels, lipid profiles, and liver enzyme levels, suggesting its potential as a natural anti-obesity agent.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Obesity is a chronic disorder that has become a global epidemic over the last few decades. Different anti-obesity drugs that are available in the market cause adverse effects. Alkanna tinctoria root powder is known for its potent antioxidant and anti-inflammatory properties, but its anti-obesity potential is obscure. In the present study, we evaluated the anti-obesity potential of A. tinctoria root powder through in vitro and in vivo studies. High-resolution liquid chromatography-mass spectrometry (HR-LCMS) was employed to identify different metabolites present in the aqueous, methanolic, acetone, and n-hexane fractions of A. tinctoria root powder, followed by the determination of their anti-lipase potential. Obesity was induced in zebrafish through brine shrimp overfeeding. Alkanna tinctoria root powder was given 30 min before normal feeding, and various morphological and biochemical parameters were analyzed. HR-LCMS analysis revealed the presence of shikonin, naringenin, caffeic acid, D-(-)-quinic acid, etc. The acetone, methanolic, and n-hexane fractions exhibited excellent anti-lipase activity (IC50 values: 87.52 ± 0.66, 177.06 ± 1.58, and 126.86 ± 0.24 µg/mL, respectively). Alkanna tinctoria root powder significantly reduced body weight, body mass index (BMI), blood glucose levels, total cholesterol, triglyceride (TG), low-density lipoprotein (LDL), very-low density lipoprotein (VLDL), alkaline phosphatase (ALP), and alanine amino transferase (ALT). In contrast, high-density lipoprotein (HDL) and aspartate aminotransferase (AST) levels were significantly increased compared with those in the diet-induced obese (DIO) zebrafish group. Our findings indicate that A. tinctoria root powder can effectively reduce body weight, BMI, blood glucose levels, lipid profiles, and liver enzyme levels, suggesting its potential as a natural anti-obesity agent."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43104186/",
+   "doi": "https://doi.org/10.1007/s12010-026-05951-z",
+   "data": "2026-11-27T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-28T10:46:39.916799+00:00"
+  },
+  {
+   "id": "pmid-43102371",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Effects of combined training on hormones, hematological markers, and inflammatory parameters related to intestinal permeability in individuals with obesity",
+   "revista": "Arch Endocrinol Metab",
+   "autores": "Bonfante ILP, Duft RG, Morais EC et al.",
+   "tipo_estudo": "Ensaio clínico randomizado",
+   "destaque": "Combined training decreases inflammatory markers associated with intestinal permeability and improves the anabolic/catabolic balance and hematological markers in individuals with obesity.",
+   "resumo": [
+    {
+     "rotulo": "Objective",
+     "texto": "The present study aimed to evaluate the effects of combined training (CT) on serum concentrations of inflammatory markers related to intestinal permeability, hematological parameters, and anabolic/catabolic hormones in individuals with obesity."
+    },
+    {
+     "rotulo": "Subjects And Methods",
+     "texto": "Thirty middle-aged men with grade 1 obesity were randomly assigned to a CT group (n = 17) or a control group (n = 13). The CT protocol consisted of strength training followed by aerobic training, pemed three times per week for 24 weeks. Prior to and following the intervention, circulating levels of lipopolysaccharide, prostaglandin E2, lactate dehydrogenase, testosterone, cortisol, and parameters from a complete blood count were evaluated. Statistical significance was set at p ≤ 0.05."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "The CT group exhibited percentage increases in lymphocytes (10.2%), monocytes (11.6%), testosterone/cortisol (42.8%), and lymphocyte/monocyte ratio (4.7%). In addition, decreases were observed in cortisol (-24.9%), lipopolysaccharide (-8.0%), prostaglandin E2 (-24.1%), neutrophil/lymphocyte ratio (-2.0%), platelet/lymphocyte ratio (-4.5%), and the systemic inflammatory index (-2.2%)."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Combined training decreases inflammatory markers associated with intestinal permeability and improves the anabolic/catabolic balance and hematological markers in individuals with obesity."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43102371/",
+   "doi": "https://doi.org/10.20945/2359-4292-2026-0137",
+   "data": "2026-11-27T00:00:00+00:00",
+   "temas": [
+    "obesidade"
+   ],
+   "visto_em": "2026-11-28T10:46:39.916799+00:00"
+  },
+  {
+   "id": "pmid-43104273",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Radiologic Sarcopenia Associated With Reduced Bladder Contractility in Middle-Aged Women",
+   "revista": "Low Urin Tract Symptoms",
+   "autores": "Wroclawski ML, Santos HOD, Cavichione AF et al.",
+   "tipo_estudo": "",
+   "destaque": "Radiologic sarcopenia was associated with reduced bladder contractility in women aged 50-69 years. In older women, reduced contractility appeared to be primarily age-related.",
+   "resumo": [
+    {
+     "rotulo": "Objective",
+     "texto": "To evaluate the association between radiologic sarcopenia, assessed by psoas muscle index (PMI), and bladder contractility in women undergoing urodynamic evaluation."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "This retrospective study included women aged 18-99 years who underwent urodynamic testing between 2015 and 2021 and had cross-sectional imaging including the psoas muscles at L3 within 180 days of urodynamic assessment. PMI was calculated using bilateral psoas muscle areas normalized to height. Radiologic sarcopenia was defined as PMI < 385 mm2/m2. Bladder contractility was assessed using the bladder contractility index (BCI). Regression models evaluated the association between sarcopenia, age, and BCI."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Among 223 women, 52 (23.3%) had radiologic sarcopenia. In women aged 50-69 years, sarcopenia was associated with lower BCI values (adjusted mean difference, -35.7; p = 0.001). No significant association was observed in women aged ≤ 50 years, and in women aged ≥ 70 years, BCI was reduced regardless of sarcopenia status. The sarcopenia-age association remained significant after adjustment for clinical variables (p < 0.001)."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Radiologic sarcopenia was associated with reduced bladder contractility in women aged 50-69 years. In older women, reduced contractility appeared to be primarily age-related."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43104273/",
+   "doi": "https://doi.org/10.1111/luts.70112",
+   "data": "2026-11-27T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-28T10:46:39.916799+00:00"
+  },
+  {
+   "id": "pmid-43103674",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Healthy lifestyle attenuates sarcopenia risk associated with early-life developmental adversity: a life-course analysis",
+   "revista": "Exp Gerontol",
+   "autores": "Liu W, Li X, Sun Y et al.",
+   "tipo_estudo": "",
+   "destaque": "Early-life mal-development and an unfavorable adult lifestyle were independently associated with higher sarcopenia risk, with the highest risk observed among individuals exposed to both adversities. A favorable lifestyle was associated with lower risk regardless of developmental status, supporting a life-course approach to sarcopenia prevention and highlighting modifiable behavioural targets in adulthood.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Early-life developmental adversity and adult lifestyle factors are both associated with sarcopenia, but their separate and joint contributions across the life course remain uncertain. We examined the independent and combined associations of early-life developmental status and healthy lifestyle with incident sarcopenia in a large population-based cohort. Using data from 254,381 UK Biobank participants, early-life developmental status was derived using latent class analysis of birth weight, childhood body size and childhood height, and classified as good-, typical- or mal-development. A healthy lifestyle score based on body mass index, smoking, physical activity, diet and sleep was categorized as favorable, intermediate or unfavorable. Sarcopenia was defined according to the EWGSOP2 criteria. Logistic regression was used to examine independent associations, and additive and multiplicative interactions were assessed. Compared with good-development, individuals with mal-development exhibited a markedly elevated risk of confirmed sarcopenia (OR 4.32, 95% CI 3.72-5.01). A favorable lifestyle was associated with substantially reduced risk relative to an unfavorable lifestyle (OR 0.25, 95% CI 0.21-0.31), with a monotonic dose-response relationship observed across all developmental subgroups (all P for trend <0.001). In joint analyses, co-occurrence of mal-development and unfavorable lifestyle produced significant additive interaction (RERI = 9.39, 95% CI 4.60-14.18), indicating synergistic excess risk beyond simple summation. Early-life mal-development and an unfavorable adult lifestyle were independently associated with higher sarcopenia risk, with the highest risk observed among individuals exposed to both adversities. A favorable lifestyle was associated with lower risk regardless of developmental status, supporting a life-course approach to sarcopenia prevention and highlighting modifiable behavioural targets in adulthood."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43103674/",
+   "doi": "https://doi.org/10.1016/j.exger.2026.113394",
+   "data": "2026-11-27T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-28T10:46:39.916799+00:00"
+  },
+  {
+   "id": "pmid-43102625",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Beyond sarcopenia: reframing muscle vulnerability across the life course",
+   "revista": "Biogerontology",
+   "autores": "Malaguarnera L, Surdo S, Sortino V et al.",
+   "tipo_estudo": "Revisão",
+   "destaque": "Reframing muscle health across the lifespan supports age-contextualized nutritional strategies and highlights opportunities for prevention. This approach has important implications for future research, clinical practice, and nutrition policy aimed at preserving lifelong functional capacity.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Skeletal muscle vulnerability is increasingly recognized as a life-course process rather than a consequence of aging alone. This perspective proposes a developmental framework distinguishing impaired muscle accretion in early life from anabolic decline in older age, emphasizing their distinct biological mechanisms and nutritional determinants. Emerging evidence suggests that nutrition during critical developmental windows shapes lifelong muscle resilience through effects on metabolism, mitochondrial function, and the gut-muscle axis. Reframing muscle health across the lifespan supports age-contextualized nutritional strategies and highlights opportunities for prevention. This approach has important implications for future research, clinical practice, and nutrition policy aimed at preserving lifelong functional capacity."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43102625/",
+   "doi": "https://doi.org/10.1007/s10522-026-10555-5",
+   "data": "2026-11-27T00:00:00+00:00",
+   "temas": [
+    "sarcopenia"
+   ],
+   "visto_em": "2026-11-28T10:46:39.916799+00:00"
+  },
+  {
+   "id": "pmid-43101590",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Comparative Effectiveness of Tirzepatide Versus Oral Semaglutide in Patients With Diabetes and Heart Failure With Preserved Ejection Fraction",
+   "revista": "Rev Cardiovasc Med",
+   "autores": "Mortada I, Lee AW, Buckingham D et al.",
+   "tipo_estudo": "",
+   "destaque": "In this large, propensity-matched real-world cohort of patients with T2DM and HFpEF, tirzepatide was not associated with significantly different 12-month risks of mortality, HF exacerbation, acute MI, or TBI compared with oral semaglutide. These findings do not establish equivalence or noninferiority and warrant prospective validation.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Heart failure with preserved ejection fraction (HFpEF) among patients with type 2 diabetes mellitus (T2DM) remains associated with substantial mortality and hospitalization risk, and evidence to guide optimal metabolic therapy is limited. Thus, this study aimed to compare real-world outcomes of tirzepatide versus oral semaglutide in this population."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We conducted a retrospective study using the TriNetX Research Network from June 2022 to June 2025. Adults with T2DM and HFpEF initiating tirzepatide were propensity score-matched 1:1 with those initiating oral semaglutide based on demographics, comorbidities, medications, and laboratory values (n = 2431 per group). The primary outcome was all-cause mortality at 12 months. Secondary outcomes included heart failure (HF) exacerbation and acute myocardial infarction (MI). Furthermore, traumatic brain injury (TBI) was prespecified as a falsification endpoint. Cox proportional hazards models were used to estimate associations."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Tirzepatide was not associated with a significant difference in all-cause mortality compared with oral semaglutide (hazard ratio [HR] 0.96, 95% confidence interval [CI] 0.71-1.29). No significant differences were observed in HF exacerbation (HR 1.06, 95% CI 0.90-1.24), acute MI (HR 0.89, 95% CI 0.72-1.11), or TBI (HR 1.32, 95% CI 0.80-2.19)."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "In this large, propensity-matched real-world cohort of patients with T2DM and HFpEF, tirzepatide was not associated with significantly different 12-month risks of mortality, HF exacerbation, acute MI, or TBI compared with oral semaglutide. These findings do not establish equivalence or noninferiority and warrant prospective validation."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43101590/",
+   "doi": "https://doi.org/10.31083/RCM54661",
+   "data": "2026-11-27T00:00:00+00:00",
+   "temas": [
+    "tirzepatida"
+   ],
+   "visto_em": "2026-11-28T10:46:39.916799+00:00"
+  },
+  {
+   "id": "pmid-43102558",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Shotgun Proteomics as a Tool for Assessing Fish Welfare in Aquaculture",
+   "revista": "Methods Mol Biol",
+   "autores": "Rodrigues PM, Schrama D, Cerqueira M et al.",
+   "tipo_estudo": "",
+   "destaque": "The resulting data are processed through label-free quantification, statistical differential expression analysis, and biomarker discovery using recursive feature elimination coupled with ROC curve validation. By targeting both invasive and minimally invasive biological matrices, these protocols support the discovery of validated, species-specific molecular welfare indicators directly applicable to practical aquaculture welfare assessment.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "As the global aquaculture industry shifts its focus from rapid expansion toward operational consolidation and process optimization, international frameworks such as the FAO Blue Transformation Roadmap and the EU Green Deal have prioritized the establishment of robust, species-specific fish welfare indicators. Meeting this demand has relied largely on traditional physiological markers such as cortisol, glucose, and lactate, yet these often lack reliability in cases of chronic stress, underscoring the need for more accurate molecular tools. Proteomics has established itself as a powerful technology for identifying reproducible, species-specific welfare biomarkers in farmed fish through large-scale protein analysis in biological tissues and fluids. This chapter describes three validated protocols for comparative proteome analysis of blood plasma, liver, and skin mucus in gilthead seabream (Sparus aurata) and European seabass (Dicentrarchus labrax), two key Mediterranean aquaculture species. These protocols follow a Single-Pot, Solid-Phase-enhanced Sample Preparation (SP3) cleanup workflow, followed by nano-liquid chromatography separation and data-dependent acquisition tandem mass spectrometry. The resulting data are processed through label-free quantification, statistical differential expression analysis, and biomarker discovery using recursive feature elimination coupled with ROC curve validation. By targeting both invasive and minimally invasive biological matrices, these protocols support the discovery of validated, species-specific molecular welfare indicators directly applicable to practical aquaculture welfare assessment."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43102558/",
+   "doi": "https://doi.org/10.1007/978-1-0716-5755-3_17",
+   "data": "2026-11-27T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-28T10:46:39.916799+00:00"
+  },
+  {
+   "id": "pmid-43104291",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Single-Cell Sequencing and Transcriptomics Integrated With the CellPhenoX Algorithm Uncover the Molecular Mechanisms Underlying Alcohol-Induced Brain Dysfunction",
+   "revista": "FASEB J",
+   "autores": "Wang Y, Wang Z, Wang Y et al.",
+   "tipo_estudo": "",
+   "destaque": "The highest-ranked motif (NES: 6.05) was the BRACHYURY-binding motif, which was enriched in three of the five hub genes (Dlgap1, Eml5, and Nrxn3). This integrative study identifies Inhib_A as a key neuronal subpopulation in ABD and identifies five hub genes as potential biomarkers and therapeutic targets, among which GABRB3 may serve as an important intervention target, providing new insights into the molecular mechanisms and treatment of ABD.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Alcohol use disorder is recognized as an important risk factor for cognitive and brain dysfunction. However, the cellular and molecular mechanisms underlying alcohol-induced brain dysfunction (ABD) remain incompletely understood, particularly regarding specific neuronal subpopulations and their regulatory networks. This study aimed to investigate the association between drinking behaviors and cognitive function using NHANES data, and to elucidate the key cellular subpopulations, hub genes, and molecular mechanisms involved in ABD through integrative single-cell transcriptomic and bioinformatic analyses. We analyzed NHANES 2011-2014 follow-up data to assess the relationship between drinking behaviors and cognitive scores. Single-nucleus RNA sequencing data from mouse medial prefrontal cortex (mPFC) were subjected to quality control, cell annotation, and differential expression analysis. CellPhenoX scoring, CytoTRACE pseudotime analysis, and hdWGCNA were performed to identify key cellular subpopulations and module genes. Machine learning algorithms (LASSO, random forest, and support vector machine) were used to screen for hub genes, followed by immune infiltration analysis, GSEA/GSVA. Subsequently, the expression of these five hub genes was validated in the brain tissue of an ABD mouse model. Finally, transcription factor regulatory network analysis, drug prediction, molecular docking, and molecular dynamics simulations were performed to explore potential intervention and treatment strategies. NHANES analysis revealed significant associations between drinking patterns and cognitive scores (p < 0.001). Single-cell analysis identified Inhib_A as the most disease-relevant cellular subpopulation. Five hub genes-Nrxn3, Gabrb3, Cadps, Eml5, and Dlgap1, were identified and validated. These genes were enriched in signaling pathways such as PI3K/AKT/mTOR and AMPK. All five hub genes were significantly upregulated in the brain tissue of ABD mice (p < 0.05), consistent with the bioinformatic findings. Drug prediction identified 82 potential drugs targeting GABRB3, with CHEMBL1077391 showing a binding affinity (-5.8 kcal/mol) in molecular docking. The highest-ranked motif (NES: 6.05) was the BRACHYURY-binding motif, which was enriched in three of the five hub genes (Dlgap1, Eml5, and Nrxn3). This integrative study identifies Inhib_A as a key neuronal subpopulation in ABD and identifies five hub genes as potential biomarkers and therapeutic targets, among which GABRB3 may serve as an important intervention target, providing new insights into the molecular mechanisms and treatment of ABD."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43104291/",
+   "doi": "https://doi.org/10.1096/fj.202602540RRR",
+   "data": "2026-11-27T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-28T10:46:39.916799+00:00"
+  },
+  {
+   "id": "pmid-43103747",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Effects of Bimodal Divided Attention on Cortical Representations of Linguistic Context During Continuous Speech Perception in Noise",
+   "revista": "Eur J Neurosci",
+   "autores": "Xie Z",
+   "tipo_estudo": "",
+   "destaque": "These findings indicate that bimodal divided attention selectively disrupts cortical representations of sentence-level linguistic context, while largely preserving lower-level linguistic and acoustic processing. Such disruptions to higher-level linguistic processing may contribute to reduced speech comprehension during multitasking in noisy environments.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Speech perception often takes place in environments with competing sensory inputs, both within the auditory modality and across modalities, for example, following a conversation in a noisy cafe while simultaneously reading a menu. This study examined the extent to which dividing attention between auditory and visual modalities (bimodal divided attention) influences linguistic context processing across hierarchical levels during continuous speech perception in noise. Electroencephalographic (EEG) responses were recorded while participants listened to audiobook stories in multitalker babble as a secondary task, concurrently performing a demanding primary visual task that imposed either low or high cognitive load. Behaviorally, speech comprehension accuracy was significantly lower under high-load than low-load dual-task conditions. Multivariate temporal response function (mTRF) encoding models were used to predict EEG responses from information-theoretic measures (entropy and surprisal) indexing linguistic context at the sublexical, word-form, and sentence levels. Significant neutral tracking was observed at all three linguistic levels. Critically, neutral tracking of sentence-level linguistic representations was significantly reduced under high compared to low load, with effects emerging between 160 and 350 ms. In contrast, neutral tracking of sublexical- and word-form-level representations remained largely unaffected by dual-task load. mTRF analyses further revealed that neutral tracking of acoustic features was not significantly modulated by dual-task load. These findings indicate that bimodal divided attention selectively disrupts cortical representations of sentence-level linguistic context, while largely preserving lower-level linguistic and acoustic processing. Such disruptions to higher-level linguistic processing may contribute to reduced speech comprehension during multitasking in noisy environments."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43103747/",
+   "doi": "https://doi.org/10.1111/ejn.70764",
+   "data": "2026-11-27T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-28T10:46:39.916799+00:00"
+  },
+  {
+   "id": "pmid-43102900",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Pyrroloquinoline Quinone as Add-On Treatment for Negative and Cognitive Symptoms in Chronic Schizophrenia: Study Protocol for a Randomized Double-Blinded Placebo-Controlled Trial",
+   "revista": "Brain Behav",
+   "autores": "An X, Zhang J, Yang C",
+   "tipo_estudo": "",
+   "destaque": "Integrating clinical, imaging, and biomarker data may clarify mitochondrial contributions to treatment response and support a novel adjunctive strategy targeting cognitive and negative symptoms in chronic schizophrenia. NCT07393464 (ClinicalTrials.gov).",
+   "resumo": [
+    {
+     "rotulo": "Objectives",
+     "texto": "Mitochondrial dysfunction, oxidative stress, and inflammatory dysregulation contribute to schizophrenia pathophysiology. Pyrroloquinoline quinone (PQQ), a compound with redox activity, enhances the functioning of mitochondria and exhibits neuroprotective properties in preclinical studies, but its clinical potential in schizophrenia is unclear. This study will evaluate whether PQQ supplementation improves cognitive deficits and negative symptoms in chronic schizophrenia and will explore underlying mechanisms using imaging and biomarkers."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "In a randomized, double-blind, placebo-controlled trial, 70 patients aged 18-50 with chronic schizophrenia will receive PQQ (20 mg/day) or placebo as add-on therapy to stable antipsychotics for 12 weeks, followed by 8 weeks of follow-up. Outcomes include negative symptoms and cognition assessed by PANSS and MCCB at baseline, Week 12, and Week 20. Functional MRI will examine connectivity in the prefrontal-parietal network, hippocampal-prefrontal circuit, and thalamo-cortical system. Blood markers of oxidative stress and mitochondrial function will be measured. Statistical analysis will include linear mixed-effects models to account for repeated measures and baseline covariates."
+    },
+    {
+     "rotulo": "Discussion",
+     "texto": "This trial provides the first clinical evaluation of PQQ in chronic schizophrenia. Integrating clinical, imaging, and biomarker data may clarify mitochondrial contributions to treatment response and support a novel adjunctive strategy targeting cognitive and negative symptoms in chronic schizophrenia."
+    },
+    {
+     "rotulo": "Trial Registration",
+     "texto": "NCT07393464 (ClinicalTrials.gov)."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43102900/",
+   "doi": "https://doi.org/10.1002/brb3.71983",
+   "data": "2026-11-27T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-28T10:46:39.916799+00:00"
+  },
+  {
+   "id": "pmid-43102869",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Sleep Quality and the Association Between Basal Ganglia Enlarged Perivascular Spaces and Cognitive Function in Cerebral Small Vessel Disease: A Cross-Sectional Indirect Effect Analysis",
+   "revista": "Brain Behav",
+   "autores": "Gao K, Shao J, Wang W",
+   "tipo_estudo": "",
+   "destaque": "Greater regional EPVS burden and poorer subjective sleep were associated with lower cognitive performance in CSVD. Global sleep quality captured a substantial statistical component of the BG-EPVS-cognition association. These findings support incorporating sleep assessment alongside regional imaging and cognitive screening.",
+   "resumo": [
+    {
+     "rotulo": "Background",
+     "texto": "Sleep complaints, enlarged perivascular spaces (EPVS), and cognitive impairment commonly coexist in cerebral small vessel disease (CSVD). We examined their concurrent associations using two alternative statistical orderings."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "This cross-sectional study included 135 CSVD inpatients. Basal ganglia (BG) and centrum semiovale (CSO) EPVS were graded using the Potter scale. Sleep and cognition were assessed with the Pittsburgh Sleep Quality Index (PSQI) and education-adjusted Montreal Cognitive Assessment (MoCA). Adjusted regressions and 5000-resample bootstrap analyses evaluated the BG-EPVS-PSQI-MoCA model and an alternative PSQI-BG-EPVS-MoCA model. Covariates were age, sex, education, diabetes mellitus, depressive symptoms, and hypertension. Anxiety symptoms were additionally considered in extended sensitivity analyses. Exploratory analyses examined PSQI components and CSO-EPVS."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "BG-EPVS correlated with PSQI (Spearman ρ = 0.720) and MoCA (ρ = -0.584; both p < 0.001). Each one-grade increase in BG-EPVS corresponded to a 1.133-point lower adjusted MoCA score (95% CI, -1.669 to -0.597). The indirect estimate through PSQI was -0.6208 (95% bootstrap CI, -0.9768 to -0.2804). With PSQI as the exposure and BG-EPVS as the intermediate variable, the indirect estimate was -0.0609 (95% bootstrap CI, -0.1500 to 0.0060). Subjective sleep quality and latency were associated with MoCA after false discovery rate correction in basic, but not extended, component models."
+    },
+    {
+     "rotulo": "Conclusions",
+     "texto": "Greater regional EPVS burden and poorer subjective sleep were associated with lower cognitive performance in CSVD. Global sleep quality captured a substantial statistical component of the BG-EPVS-cognition association. These findings support incorporating sleep assessment alongside regional imaging and cognitive screening."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43102869/",
+   "doi": "https://doi.org/10.1002/brb3.71979",
+   "data": "2026-11-27T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-28T10:46:39.916799+00:00"
+  },
+  {
+   "id": "pmid-43101470",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Integrative Effects of Telomere Length, Epigenetic Age, and Mitochondrial DNA Abundance in Alzheimer Disease",
+   "revista": "Neurol Genet",
+   "autores": "Andrews SJ, Sharma RU, Mitchell BA et al.",
+   "tipo_estudo": "",
+   "destaque": "These findings suggest that increased mtDNAcn may act as a compensatory response to accelerated epigenetic aging and telomere attrition. Our results underscore the importance of evaluating the interplay among multiple biological aging markers when investigating AD pathogenesis.",
+   "resumo": [
+    {
+     "rotulo": "Background And Objectives",
+     "texto": "Biological age, reflecting cumulative molecular and cellular damage such as telomere attrition, epigenetic alterations, and mitochondrial dysfunction, may better capture age-related decline and Alzheimer disease (AD) risk than chronological age. Most studies have focused on one measure of biological age and not investigated joint or interactive contributions to AD pathogenesis."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We estimated blood-derived telomere length (TL) via quantitative PCR, epigenetic age (DNA methylation [DNAm] age) using the CausAge clock, and mitochondrial DNA copy number (mtDNAcn) from whole-genome sequencing in 640 participants from the Alzheimer's Disease Neuroimaging Initiative (ADNI; age: 74.95 ± 7.62 years, female: 44.2%, cognitively unimpaired: 33.8%, mild cognitive impairment: 51.6%, AD: 14.7%). Linear mixed-effects models examined the associations and interactions of these markers with cognitive decline for memory, executive function, language ability, visuospatial ability, and global cognition, while linear regression tested associations with cross-sectional AD biomarkers (CSF Aβ42, total-tau, phosphorylated tau (pTau181), and meta-ROI for cortical thickness and gray matter volume). Models were adjusted for baseline age, sex, Clinical Dementia Rating, APOE, blood cell composition, and outcome-specific covariates (education and intracranial volume)."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Individually, TL and DNAm age were not associated with cognition, CSF biomarkers, or neuroimaging outcomes, while higher mtDNAcn was associated with lower CSF tau and pTau181. Interaction models revealed that mtDNAcn modified the effects of both TL and DNAm age: at higher mtDNAcn, shorter TL predicted poorer global cognition (β = 0.033 ± 0.014, p = 0.022) and older DNAm age predicted poorer language performance (β = -0.059 ± 0.028, p = 0.038). A significant three-way interaction showed that the combination of higher mtDNAcn, longer TL, and older DNAm age was associated with lower gray matter volume."
+    },
+    {
+     "rotulo": "Discussion",
+     "texto": "These findings suggest that increased mtDNAcn may act as a compensatory response to accelerated epigenetic aging and telomere attrition. Our results underscore the importance of evaluating the interplay among multiple biological aging markers when investigating AD pathogenesis."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43101470/",
+   "doi": "https://doi.org/10.1212/NXG.0000000000200455",
+   "data": "2026-11-27T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-28T10:46:39.916799+00:00"
   },
   {
    "id": "pmid-43092995",
@@ -8638,7 +9206,7 @@
    "titulo": "Circulating brain-derived neurotrophic factor as a biomarker of sarcopenia: A systematic review of clinical evidence",
    "revista": "Exp Gerontol",
    "autores": "Wielińska J, Brzeszczyński F, Stawińska H et al.",
-   "tipo_estudo": "Revisão",
+   "tipo_estudo": "Revisão sistemática",
    "destaque": "Overall, BDNF appears to be a biologically plausible biomarker reflecting neuromuscular integrity, but is unlikely to function as a standalone diagnostic tool. It may have clinical utility as part of a multi-biomarker approach to sarcopenia assessment, particularly in settings where functional testing is limited.",
    "resumo": [
     {
@@ -9254,6 +9822,29 @@
     "obesidade"
    ],
    "visto_em": "2026-11-26T10:54:57.560938+00:00"
+  },
+  {
+   "id": "pmid-43044467",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "Economic hardship and disordered eating in emerging adult college students",
+   "revista": "Eat Behav",
+   "autores": "Bidopia T, Rafanello G, Hoyt LT et al.",
+   "tipo_estudo": "",
+   "destaque": "Results highlight the need to consider food insecurity, housing insecurity, and financial stress as potential risk factors for eating disorders in racially/ethnically and socioeconomically diverse emerging adult college students. Intervening to reduce economic stressors may be a key avenue for eating disorder prevention within this population.",
+   "resumo": [
+    {
+     "rotulo": "",
+     "texto": "Eating disorders are associated with deleterious health consequences and are prevalent among emerging adult college students. The association between some measures of economic hardship (e.g., household income, food insecurity) and eating disorder symptoms is generally well established, whereas others remain understudied (e.g., housing insecurity status, financial stress, and subjective socioeconomic position), especially among emerging adults. This study aimed to (1) cross-sectionally examine the relationship between distinct economic hardship measures (household income, food insecurity status, housing insecurity status, financial stress, and subjective socioeconomic position) and the likelihood of screening positive for a probable eating disorder and (2) determine whether gender, sexual orientation, race/ethnicity, and/or weight status moderated these relationships. Participants were emerging adult college students ages 18-24 (N = 1651) participating in the 3E Study, a longitudinal cohort of emerging adult college students attending public universities in California, who completed a baseline survey between September 2023 and January 2026. We conducted multivariable logistic regressions and found that experiencing food insecurity, housing insecurity, and financial stress were associated with increased odds of screening positive for a probable eating disorder; all other economic hardship measures were not significantly related to self-reported eating disorder pathology. Findings were not significantly moderated by gender, sexual orientation, race/ethnicity, or weight status. Results highlight the need to consider food insecurity, housing insecurity, and financial stress as potential risk factors for eating disorders in racially/ethnically and socioeconomically diverse emerging adult college students. Intervening to reduce economic stressors may be a key avenue for eating disorder prevention within this population."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43044467/",
+   "doi": "https://doi.org/10.1016/j.eatbeh.2026.102150",
+   "data": "2026-11-17T00:00:00+00:00",
+   "temas": [
+    "estresse"
+   ],
+   "visto_em": "2026-11-28T10:46:39.916799+00:00"
   },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261116014842-htm",
@@ -10606,6 +11197,41 @@
     "cognicao"
    ],
    "visto_em": "2026-11-16T11:13:33.551000+00:00"
+  },
+  {
+   "id": "pmid-43034003",
+   "fonte": "PubMed",
+   "tipo_fonte": "artigo",
+   "titulo": "The impaired white matter integrity and altered functional connectivity in Parkinson's disease",
+   "revista": "Magn Reson Imaging",
+   "autores": "Ding M, Hua B, Wang S et al.",
+   "tipo_estudo": "",
+   "destaque": "Our findings indicate that PD patients exhibit widespread WM microstructural damage and some of these damaged fibers show abnormal FC, which may account for motor deficits and cognitive decline observed in PD. The combined use of DTI and rs-fMRI provides novel perspectives on the neural mechanisms underlying PD.",
+   "resumo": [
+    {
+     "rotulo": "Purpose",
+     "texto": "Parkinson's disease (PD) is a neurodegenerative disorder characterized by structural abnormalities in the cerebral cortex and subcortical regions. Nevertheless, functional connectivity (FC) alterations within these affected white matter (WM) regions have not been fully clarified."
+    },
+    {
+     "rotulo": "Methods",
+     "texto": "We combine diffusion tensor imaging (DTI) and resting-state functional magnetic resonance imaging (rs-fMRI) to explore abnormalities in WM structure and FC in 20 PD patients and 22 age- and gender-matched healthy controls (HCs)."
+    },
+    {
+     "rotulo": "Results",
+     "texto": "Compared with the HCs, PD patients showed lower fractional anisotropy (FA) values in multiple widespread WM tracts, including the forceps minor, the bilateral inferior longitudinal fasciculus, the right inferior fronto-occipital fasciculus, corticospinal tract (CST) and superior longitudinal fasciculus (SLF), the left anterior thalamic radiation (ATR), uncinate fasciculus and cingulum. Seed-based FC analysis revealed that: for the CST seed, PD patients exhibited reduced FC with the bilateral postcentral gyrus and precentral gyrus, the right superior occipital gyrus and left inferior parietal lobule. For the SLF seed, PD patients exhibited reduced FC with the bilateral anterior cingulate cortex. For the ATR seed, hypoconnectivity was found in multiple cerebellar subregions, including the bilateral cerebellum VIII and cerebellum IX, the right cerebellum VI and cerebellar crus I, and the left middle temporal gyrus."
+    },
+    {
+     "rotulo": "Conclusion",
+     "texto": "Our findings indicate that PD patients exhibit widespread WM microstructural damage and some of these damaged fibers show abnormal FC, which may account for motor deficits and cognitive decline observed in PD. The combined use of DTI and rs-fMRI provides novel perspectives on the neural mechanisms underlying PD."
+    }
+   ],
+   "link": "https://pubmed.ncbi.nlm.nih.gov/43034003/",
+   "doi": "https://doi.org/10.1016/j.mri.2026.110844",
+   "data": "2026-11-15T00:00:00+00:00",
+   "temas": [
+    "cognicao"
+   ],
+   "visto_em": "2026-11-28T10:46:39.916799+00:00"
   },
   {
    "id": "rss-https-www-sciencedaily-com-releases-2026-11-261114202130-htm",
@@ -20564,45 +21190,6 @@
    "visto_em": "2026-11-09T13:49:58.995883+00:00"
   },
   {
-   "id": "pmid-42979833",
-   "fonte": "PubMed",
-   "tipo_fonte": "artigo",
-   "titulo": "Infant Crying and Neonatal Nurses' Performance and Well-Being: A Mixed-Methods Study",
-   "revista": "West J Nurs Res",
-   "autores": "Idilbi N, Green G, Masalha L et al.",
-   "tipo_estudo": "",
-   "destaque": "Nurses working in neonatal care may experience emotional and psychological strain due to continuous exposure to infant crying. Hospital administrators must consider environmental modifications to support the mental well-being of nursing staff, ultimately improving patient care and job satisfaction.",
-   "resumo": [
-    {
-     "rotulo": "Background",
-     "texto": "Nursing staff in neonatal units are routinely exposed to prolonged and intense infant crying, which when combined with other hospital noises, can contribute to both physical stress and psychological stress."
-    },
-    {
-     "rotulo": "Objective",
-     "texto": "We sought to examine the association between exposure to infant crying and the physiological and psychological well-being of neonatal nurses and work performance."
-    },
-    {
-     "rotulo": "Methods",
-     "texto": "A mixed-methods questionnaire was distributed to rotating-shift neonatal nurses at 7 medical centers in Israel. Ethics approval was obtained; participants gave written informed consent. Data were collected anonymously between July and August 2024."
-    },
-    {
-     "rotulo": "Results",
-     "texto": "A total of 210 female nurses responded to the survey. Hierarchical regression and mediation analyses, controlling for professional seniority, showed that perceived unit resources and preparedness were significantly associated with lower immediate emotional-functional response (β = -0.38, P < .001); this immediate response, in turn, fully mediated the association between unit resources and nurses' sustained post-shift impact (indirect effect = -0.36; 95% CI, -0.52 to -0.22), with no significant direct association between unit resources and post-shift impact once immediate response was accounted for. Qualitative analysis identified 4 themes: emotional distress and helplessness, mental and psychological strain, the need for evidence-based interventions and policies addressing environmental and structural barriers, and physical health consequences."
-    },
-    {
-     "rotulo": "Conclusion",
-     "texto": "Nurses working in neonatal care may experience emotional and psychological strain due to continuous exposure to infant crying. Hospital administrators must consider environmental modifications to support the mental well-being of nursing staff, ultimately improving patient care and job satisfaction."
-    }
-   ],
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42979833/",
-   "doi": "https://doi.org/10.1177/01939459261488626",
-   "data": "2026-11-04T00:00:00+00:00",
-   "temas": [
-    "estresse"
-   ],
-   "visto_em": "2026-11-12T10:55:00.400978+00:00"
-  },
-  {
    "id": "pmid-42981608",
    "fonte": "PubMed",
    "tipo_fonte": "artigo",
@@ -20667,45 +21254,6 @@
     "cognicao"
    ],
    "visto_em": "2026-11-15T10:38:28.671158+00:00"
-  },
-  {
-   "id": "pmid-42981754",
-   "fonte": "PubMed",
-   "tipo_fonte": "artigo",
-   "titulo": "Inhalation of Gardenia jasminoides flower essential oil attenuates stress-associated neurobehavioral abnormalities in mice",
-   "revista": "Phytomedicine",
-   "autores": "Bian X, Liu J, Zhao X et al.",
-   "tipo_estudo": "",
-   "destaque": "GEO inhalation attenuated chronic stress-associated neurobehavioral abnormalities in mice and was accompanied by changes in hippocampal neuroimmune and synaptic plasticity-related markers, together with broader systemic metabolic and microbial responses.",
-   "resumo": [
-    {
-     "rotulo": "Background",
-     "texto": "Gardenia jasminoides Ellis is a traditional medicinal and aromatic plant, but the neurobehavioral potential of its flower-derived essential oil remains insufficiently understood."
-    },
-    {
-     "rotulo": "Purpose",
-     "texto": "This study aimed to evaluate whether G. jasminoides flower essential oil (GEO) inhalation attenuates chronic stress-associated neurobehavioral abnormalities and to characterize the accompanying hippocampal, metabolic, and gut microbial responses."
-    },
-    {
-     "rotulo": "Methods",
-     "texto": "GEO was chemically profiled by headspace solid-phase microextraction coupled with gas chromatography-mass spectrometry and evaluated in a chronic unpredictable mild stress (CUMS) mouse model. Mice were exposed to GEO by inhalation during the final 2 weeks of the 6-week CUMS procedure. Behavioral performance was assessed using the open field test, elevated plus maze, tail suspension test, forced swim test, and sucrose preference test. Hippocampal morphology, inflammatory and oxidative stress-related indices, neurochemical markers, serum corticosterone, serum metabolomics, hippocampal transcriptomics, gut microbiota composition, and hippocampal neuroimmune/synaptic signaling markers were further analyzed."
-    },
-    {
-     "rotulo": "Results",
-     "texto": "Chemical profiling tentatively annotated 59 volatile constituents in GEO, with linalool and linalyl acetate identified as the predominant constituents. GEO inhalation attenuated CUMS-associated behavioral abnormalities, with significant changes observed most consistently in the GEO-20 group. GEO exposure was also associated with increased hippocampal dendritic spine density relative to the CUMS group, lower inflammatory and oxidative stress-related indices, higher hippocampal brain-derived neurotrophic factor, γ-aminobutyric acid, and 5-hydroxytryptamine levels, and lower serum corticosterone. Serum metabolomics identified GEO-20-associated changes in metabolic features and pathways involving nucleotide/purine metabolism, arachidonic acid-related lipid mediator pathways, bile acid-related metabolism, and neuroactive metabolic processes. Hippocampal transcriptomics identified GEO-20-associated changes in neuroimmune-, neuroactive ligand-receptor-, and γ-aminobutyric acid synapse-related transcriptional profiles. Gut microbiota analysis revealed GEO-20-associated changes in microbial richness, community composition, discriminatory taxa, and genus-level co-occurrence patterns. Targeted molecular assays showed lower hippocampal glial reactivity and inflammatory signaling-related markers after GEO exposure, whereas GEO-20 was associated with higher levels of mitochondrial regulatory and synaptic plasticity markers."
-    },
-    {
-     "rotulo": "Conclusion",
-     "texto": "GEO inhalation attenuated chronic stress-associated neurobehavioral abnormalities in mice and was accompanied by changes in hippocampal neuroimmune and synaptic plasticity-related markers, together with broader systemic metabolic and microbial responses."
-    }
-   ],
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42981754/",
-   "doi": "https://doi.org/10.1016/j.phymed.2026.158906",
-   "data": "2026-11-04T00:00:00+00:00",
-   "temas": [
-    "estresse"
-   ],
-   "visto_em": "2026-11-17T10:56:04.219996+00:00"
   },
   {
    "id": "pmid-42981748",
@@ -21411,149 +21959,6 @@
    "data": "2026-11-03T00:00:00+00:00",
    "temas": [
     "tirzepatida"
-   ],
-   "visto_em": "2026-11-05T21:02:06.788010+00:00"
-  },
-  {
-   "id": "pmid-42976143",
-   "fonte": "PubMed",
-   "tipo_fonte": "artigo",
-   "titulo": "Evaluating Fiscal Credibility Through the Lens of Durability: Value Decay in AI-Enabled Clinical Documentation",
-   "revista": "J Eval Clin Pract",
-   "autores": "Atiku S, Olakotan O",
-   "tipo_estudo": "",
-   "destaque": "AI documentation tools risk becoming \"zombie technologies\", operationally active but fiscally hollow, because institutional extraction mechanisms cannibalise their intended value. Achieving true durability requires contractually ring-fencing efficiency dividends for workforce recovery and explicitly pricing the shadow labour of maintenance and human-in-the-loop verification. Because fiscal and ethical judgements may conflict, we recommend that their oversight operate as separate and independent functions. These findings have direct implications for health systems reform, particularly procurement governance, productivity policy, and workforce sustainability strategies for digital health.",
-   "resumo": [
-    {
-     "rotulo": "Rationale, Aims, And Objectives",
-     "texto": "AI-enabled clinical documentation tools are deployed to mitigate workforce burnout, yet technical efficiency observed in short-term evaluations frequently fails to translate into sustained institutional value. This study evaluates the fiscal credibility of these tools through the lens of durability, investigating how their value is sustained, eroded, or transformed once routine implementation is established."
-    },
-    {
-     "rotulo": "Methodology",
-     "texto": "We employed a netnographic design to analyse professional discourse across seven healthcare subreddits. Using a custom harvesting protocol over a 24-month window (2024-2025), we screened 2645 text segments. A \"Double-Lock\" filtration system isolated 39 high-fidelity discursive incidents focusing on post-implementation sustainment. Data were analysed using Reflexive Thematic Analysis informed by an abductive logic."
-    },
-    {
-     "rotulo": "Results",
-     "texto": "Analysis reveals that durability failure is driven by three socio-organisational mechanisms of value decay rather than technical inadequacy. First, Incentive Conversion occurs when administrative actors capture efficiency gains to increase throughput via a Jevons Paradox effect, transforming workforce relief into labour intensification. Second, Maintenance Entropy creates a hidden maintenance debt through the gradual accumulation of unpriced articulation work. Third, Legitimacy Collapse occurs when the cognitive load of verification exceeds the clinician's bandwidth, leading to the rejection of the tool's epistemic authority."
-    },
-    {
-     "rotulo": "Conclusion",
-     "texto": "AI documentation tools risk becoming \"zombie technologies\", operationally active but fiscally hollow, because institutional extraction mechanisms cannibalise their intended value. Achieving true durability requires contractually ring-fencing efficiency dividends for workforce recovery and explicitly pricing the shadow labour of maintenance and human-in-the-loop verification. Because fiscal and ethical judgements may conflict, we recommend that their oversight operate as separate and independent functions. These findings have direct implications for health systems reform, particularly procurement governance, productivity policy, and workforce sustainability strategies for digital health."
-    }
-   ],
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42976143/",
-   "doi": "https://doi.org/10.1111/jep.70715",
-   "data": "2026-11-03T00:00:00+00:00",
-   "temas": [
-    "estresse"
-   ],
-   "visto_em": "2026-11-05T21:02:06.788010+00:00"
-  },
-  {
-   "id": "pmid-42975915",
-   "fonte": "PubMed",
-   "tipo_fonte": "artigo",
-   "titulo": "How social media-induced secondary traumatic stress affects depression: a moderated mediation model of self-compassion and problematic social media use in college students",
-   "revista": "Eur J Psychotraumatol",
-   "autores": "Zhu S, Zhou J, Liu X",
-   "tipo_estudo": "",
-   "destaque": "Moreover, the effect of self-compassion on depression was moderated by PSMU, with the effect being stronger for students with high PSMU (b = -0.32, p < .001) than those with low PSMU (b = -0.12, p < .001).Conclusions: STS-SM contributed to increased depressive symptoms by reducing individuals' levels of self-compassion, with the effect of self-compassion on depression moderated by PSMU. These findings underscore the importance of regulating traumatic content online and highlight self-compassion training as a promising intervention, particularly for those with PSMU.",
-   "resumo": [
-    {
-     "rotulo": "",
-     "texto": "Background: Social media use has grown rapidly among college students, who constitute one of the most active user groups. However, exposure to negative and traumatic content on social media may lead to secondary traumatic stress (STS-SM), which may be linked to depression. This study examines the psychological mechanisms underlying the relationship between STS-SM and depressive symptoms among Chinese college students.Methods: A total of 1080 Chinese college students (382 females and 698 males; mean age = 19.07 years, SD = 1.08) completed web-based questionnaires including Secondary Traumatic Stress Scale for Social Media, Beck Depression Inventory-II, Self-compassion scale, and Bergen Social Media Addiction Scale. Age, gender, educational level, marital status, ethnicity, and subjective socioeconomic status were treated as covariates. Mediation and moderation analyses were performed to examine the role of self-compassion and problematic social media use (PSMU) in the relation between STS-SM and depression using the PROCESS macro in SPSS.Results: STS-SM was found to be positively associated with depression (r = 0.48, p < .001), and this correlation was mediated by self-compassion (b = 0.09, 95% CI [0.07, 0.11]). Moreover, the effect of self-compassion on depression was moderated by PSMU, with the effect being stronger for students with high PSMU (b = -0.32, p < .001) than those with low PSMU (b = -0.12, p < .001).Conclusions: STS-SM contributed to increased depressive symptoms by reducing individuals' levels of self-compassion, with the effect of self-compassion on depression moderated by PSMU. These findings underscore the importance of regulating traumatic content online and highlight self-compassion training as a promising intervention, particularly for those with PSMU."
-    }
-   ],
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42975915/",
-   "doi": "https://doi.org/10.1080/20008066.2026.2749239",
-   "data": "2026-11-03T00:00:00+00:00",
-   "temas": [
-    "estresse"
-   ],
-   "visto_em": "2026-11-05T21:02:06.788010+00:00"
-  },
-  {
-   "id": "pmid-42975933",
-   "fonte": "PubMed",
-   "tipo_fonte": "artigo",
-   "titulo": "Epigenetic aging during the COVID-19 pandemic: A prospective longitudinal study with prepandemic baseline data in children, adolescents, and adults",
-   "revista": "Proc Natl Acad Sci U S A",
-   "autores": "Schowe AM, Ruks M, Disselkamp CKL et al.",
-   "tipo_estudo": "",
-   "destaque": "In adolescents, higher perceived pandemic burden was associated with a larger increase in pace of aging (DunedinPACE: b = 0.04, P = 0.01). Together, these findings suggest that prepandemic individual risk factors for poorer physical and mental health are accompanied by measurable increases in epigenetic aging during the COVID-19 pandemic, with adolescence representing a sensitive phase to its psychosocial burden.",
-   "resumo": [
-    {
-     "rotulo": "",
-     "texto": "Psychosocial stress is a risk factor for aging-related diseases. The COVID-19 pandemic placed a psychosocial burden on individuals, potentially increasing the risk for aging-related diseases for which epigenetic clocks are used as early biomarkers. Based on four epigenetic clocks (DunedinPACE, GrimAge2, Horvath, and PedBE), we investigated whether epigenetic aging changed during the pandemic and whether these changes were associated with objective and subjective pandemic-related stressors and preexisting individual risk factors for poorer physical and mental health. We used prospective longitudinal data (n = 1,028), including repeated salivary DNA collection from children (n = 359, MAGE = 9.5 y), adolescents (n = 385, MAGE = 15.5 y), and adults (n = 284, MAGE = 24.3 y). Saliva was collected before the first phase of containment measures in Germany in March 2020 and after the second phase in 2021. We observed significant increases in epigenetic age acceleration (PedBE: b = 0.17, P < 0.0001; GrimAge2: b = 0.08, P < 0.0001) and pace of aging (DunedinPACE: b = 0.13, P < 0.0001) across all age groups. Prepandemic physical health and parental socioeconomic status, but not objective pandemic stressors, were significantly associated with this change. In adolescents, higher perceived pandemic burden was associated with a larger increase in pace of aging (DunedinPACE: b = 0.04, P = 0.01). Together, these findings suggest that prepandemic individual risk factors for poorer physical and mental health are accompanied by measurable increases in epigenetic aging during the COVID-19 pandemic, with adolescence representing a sensitive phase to its psychosocial burden."
-    }
-   ],
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42975933/",
-   "doi": "https://doi.org/10.1073/pnas.2604211123",
-   "data": "2026-11-03T00:00:00+00:00",
-   "temas": [
-    "estresse"
-   ],
-   "visto_em": "2026-11-05T21:02:06.788010+00:00"
-  },
-  {
-   "id": "pmid-42976964",
-   "fonte": "PubMed",
-   "tipo_fonte": "artigo",
-   "titulo": "Sex-dependent behavioral effects of chronic unpredictable stress in mice reveal methodological challenges in the assessment of stress-related phenotypes in females",
-   "revista": "J Neurosci Methods",
-   "autores": "Sales AJ, Pedrazzi JFC, Silveira JR et al.",
-   "tipo_estudo": "",
-   "destaque": "These findings indicate that behavioral endpoints validated in male rodents may not show comparable sensitivity in females and highlight the importance of considering baseline behavioral characteristics, estrous cycle stage, and sucrose concentration when designing and interpreting chronic stress studies.",
-   "resumo": [
-    {
-     "rotulo": "Background",
-     "texto": "Chronic unpredictable stress (CUS) is widely used to model depression-like behaviors in rodents. However, its validation has been established in male animals, and its applicability to females remains poorly characterized."
-    },
-    {
-     "rotulo": "New Method",
-     "texto": "We evaluated the validity of a CUS protocol in male and female Balb/c mice using the sucrose preference test (SPT), forced swim test (FST), elevated plus maze (EPM), open field test (OFT), and integrated emotionality z-scores. Predictive validity was assessed using different imipramine treatment schedules. Additional experiments examined the influence of sucrose concentration and estrous cycle stage on basal sucrose preference in females."
-    },
-    {
-     "rotulo": "Results",
-     "texto": "In male mice, 21 days of CUS reduced sucrose preference and emotionality z-scores. Chronic imipramine treatment initiated during the last 14 days of stress exposure prevented these behavioral alterations and reduced immobility time in the FST, whereas no significant effects were detected in the EPM. In female mice, CUS did not induce changes in sucrose preference or emotionality z-scores, although imipramine reduced immobility in the FST."
-    },
-    {
-     "rotulo": "Comparison With Existing Methods",
-     "texto": "Although CUS protocols are widely validated in male rodents, the protocol showed limited sensitivity in females. Basal sucrose preference was influenced by estrous cycle stage and sucrose concentration, with reduced preference during periovulatory and greater preference during post-ovulatory stages only when sucrose was 2%."
-    },
-    {
-     "rotulo": "Conclusions",
-     "texto": "These findings indicate that behavioral endpoints validated in male rodents may not show comparable sensitivity in females and highlight the importance of considering baseline behavioral characteristics, estrous cycle stage, and sucrose concentration when designing and interpreting chronic stress studies."
-    }
-   ],
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42976964/",
-   "doi": "https://doi.org/10.1016/j.jneumeth.2026.110946",
-   "data": "2026-11-03T00:00:00+00:00",
-   "temas": [
-    "estresse"
-   ],
-   "visto_em": "2026-11-05T21:02:06.788010+00:00"
-  },
-  {
-   "id": "pmid-42976909",
-   "fonte": "PubMed",
-   "tipo_fonte": "artigo",
-   "titulo": "Baicalein Protects against Repeated Unpredictable Stress-Induced Depression-like Behavior in Mice",
-   "revista": "Pharmacopsychiatry",
-   "autores": "Tang D, Shi Y, Zhou W et al.",
-   "tipo_estudo": "",
-   "destaque": "These results suggest that baicalein may safeguard mice from depression- and anxiety-like behaviors precipitated by chronic stress, potentially through the augmentation of monoamine levels by inhibiting monoamine oxidase activity, and by stimulating the production of cyclic adenosine monophosphate and brain-derived neurotrophic factor in brain areas implicated in emotional disorders. Baicalein could prove to be a significant agent for the prevention or mitigation of the multifaceted symptoms associated with depression and anxiety.",
-   "resumo": [
-    {
-     "rotulo": "",
-     "texto": "Baicalein, an active flavonoid derived from the root of Scutellaria baicalensis, has been extensively utilized in the treatment of stress-related neuropsychiatric disorders, encompassing behaviors indicative of depression and anxiety. The precise neurochemical and molecular biological mechanisms underlying the effect of baicalein on depression-like behavior have yet to be elucidated. In the current study, mice were administered baicalein at dosages of 10, 20, or 40 mg/kg (intraperitoneally) 30 minutes before being subjected to daily exposure to unpredictable stress over a period of 14 days. The tail suspension test and the forced swimming test, along with the novelty suppressed feeding test and the sucrose preference test, were employed to assess the protective effects of baicalein against depression- and anxiety-like behaviors induced by chronic stress. The outcomes indicated that baicalein notably reduced the duration of immobility in both the forced swimming test and tail suspension test, elevated sucrose consumption, and diminished the latency to feed, thereby reflecting its antidepressant and anxiolytic properties. Additionally, baicalein elevated the concentrations of serotonin and dopamine and suppressed monoamine oxidase activity within the hippocampus and cortex of stressed mice. Following baicalein treatment, the levels of cyclic adenosine monophosphate and the messenger RNA expression of the brain-derived neurotrophic factor were also observed to increase in these brain regions. These results suggest that baicalein may safeguard mice from depression- and anxiety-like behaviors precipitated by chronic stress, potentially through the augmentation of monoamine levels by inhibiting monoamine oxidase activity, and by stimulating the production of cyclic adenosine monophosphate and brain-derived neurotrophic factor in brain areas implicated in emotional disorders. Baicalein could prove to be a significant agent for the prevention or mitigation of the multifaceted symptoms associated with depression and anxiety."
-    }
-   ],
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42976909/",
-   "doi": "https://doi.org/10.1055/a-2975-3128",
-   "data": "2026-11-03T00:00:00+00:00",
-   "temas": [
-    "estresse"
    ],
    "visto_em": "2026-11-05T21:02:06.788010+00:00"
   },
